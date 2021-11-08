@@ -1,0 +1,37 @@
+change everything partialed from everything post
+- it links images from website, not from webpage
+
+
+
+
+
+
+change independence exercises post
+- links to images
+
+
+
+check code highlighting options. Will I have to re-generate every post?
+- https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/
+
+
+
+host multiple pages
+- links to images
+
+
+latent dual change
+- links to images
+
+
+bivariate latent dual change
+- links to images
+
+
+thomas schelling's model
+- links to images
+
+
+
+
+remove preview images from computational notes
