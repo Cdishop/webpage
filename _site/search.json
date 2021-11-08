@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "computation.html",
+      "title": "",
+      "author": [],
+      "contents": "\n \n \n\nNotes to myself on computational modeling, programming, and statistics.\n\n \n\n\n\n\n\n",
+      "last_modified": "2021-11-07T20:45:05-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Research Fellow",
+      "author": [],
+      "contents": "\n\n          \n          \n          Christopher R. Dishop\n          \n          \n          Home\n          Computation\n          R Resources\n          CV\n          ☰\n          \n          \n      \n        \n          \n            \n          \n            Research Fellow\n          \n          \n            \n          \n          \n            I’m an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What promotes cooperation among a collective? The research groups that I’m lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world. I also work in the quantitative areas of dynamics and computational modeling.\n          \n          \n            \n                \n                  \n                    \n                \n              \n                            \n                \n                  \n                    \n                \n              \n                          \n        \n      \n    \n\n    \n      \n        \n          \n            \n          \n            Research Fellow\n          \n          \n            \n          \n          \n            I’m an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What promotes cooperation among a collective? The research groups that I’m lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world. I also work in the quantitative areas of dynamics and computational modeling.\n          \n        \n      \n      \n          \n              \n                                \n                    \n                    \n                \n                                \n                    \n                    \n                \n                              \n          \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-11-07T20:45:05-05:00"
+    },
+    {
+      "path": "rresources.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-11-07T20:45:06-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

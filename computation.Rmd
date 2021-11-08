@@ -1,0 +1,19 @@
+---
+title: ""
+  
+listing: posts
+---
+&nbsp;
+
+&nbsp;
+
+<center>
+
+## <font size="-0.02">Notes to myself on computational modeling, programming, and statistics.</font>
+
+
+</center>
+
+&nbsp;
+
+<iframe scrolling = "no" src = "https://richpauloo.github.io/htmlwidgets/waves/index.html" style="border: 0px white;" width="100%"></iframe>

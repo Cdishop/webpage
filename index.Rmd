@@ -1,0 +1,25 @@
+---
+title: "Research Fellow"
+image: "images/avatar.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+    - label: '`r fontawesome::fa("github")`'
+      url: "https://github.com/Cdishop"
+    - label: '`r fontawesome::fa("graduation-cap")`'
+      url: "https://scholar.google.com/citations?user=VSTAif8AAAAJ&hl=en&oi=ao"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+I'm an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What promotes cooperation among a collective? The research groups that I'm lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world. I also work in the quantitative areas of dynamics and computational modeling.
