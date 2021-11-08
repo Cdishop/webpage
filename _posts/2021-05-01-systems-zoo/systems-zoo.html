@@ -1,0 +1,2596 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+  <meta name="generator" content="distill" />
+
+  <style type="text/css">
+  /* Hide doc at startup (prevent jankiness while JS renders/transforms) */
+  body {
+    visibility: hidden;
+  }
+  </style>
+
+ <!--radix_placeholder_import_source-->
+ <!--/radix_placeholder_import_source-->
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css" data-origin="pandoc">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ad0000; } /* Alert */
+code span.an { color: #5e5e5e; } /* Annotation */
+code span.at { } /* Attribute */
+code span.bn { color: #ad0000; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007ba5; } /* ControlFlow */
+code span.ch { color: #20794d; } /* Char */
+code span.cn { color: #8f5902; } /* Constant */
+code span.co { color: #5e5e5e; } /* Comment */
+code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+code span.dt { color: #ad0000; } /* DataType */
+code span.dv { color: #ad0000; } /* DecVal */
+code span.er { color: #ad0000; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #ad0000; } /* Float */
+code span.fu { color: #4758ab; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #5e5e5e; } /* Information */
+code span.kw { color: #007ba5; } /* Keyword */
+code span.op { color: #5e5e5e; } /* Operator */
+code span.ot { color: #007ba5; } /* Other */
+code span.pp { color: #ad0000; } /* Preprocessor */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.ss { color: #20794d; } /* SpecialString */
+code span.st { color: #20794d; } /* String */
+code span.va { color: #111111; } /* Variable */
+code span.vs { color: #20794d; } /* VerbatimString */
+code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
+</style>
+
+
+  <!--radix_placeholder_meta_tags-->
+  <title>Systems Zoo</title>
+
+
+
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2021-05-01"/>
+  <meta property="article:created" itemprop="dateCreated" content="2021-05-01"/>
+
+  <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
+  <meta property="og:title" content="Systems Zoo"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:locale" content="en_US"/>
+
+  <!--  https://dev.twitter.com/cards/types/summary -->
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:title" content="Systems Zoo"/>
+
+  <!--/radix_placeholder_meta_tags-->
+  <!--radix_placeholder_rmarkdown_metadata-->
+
+  <script type="text/json" id="radix-rmarkdown-metadata">
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Systems Zoo"]},{"type":"character","attributes":{},"value":["2021-05-01"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  </script>
+  <!--/radix_placeholder_rmarkdown_metadata-->
+  
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["images/bathtub.png","images/cars.png","images/coffee.png","images/customers.png","images/furnace.png","images/house-delay.png","images/houses.png","images/interest.png","images/multiple-goals.png","images/sir.png","systems-zoo_files/figure-html5/unnamed-chunk-1-1.png","systems-zoo_files/figure-html5/unnamed-chunk-10-1.png","systems-zoo_files/figure-html5/unnamed-chunk-11-1.png","systems-zoo_files/figure-html5/unnamed-chunk-12-1.png","systems-zoo_files/figure-html5/unnamed-chunk-13-1.png","systems-zoo_files/figure-html5/unnamed-chunk-14-1.png","systems-zoo_files/figure-html5/unnamed-chunk-15-1.png","systems-zoo_files/figure-html5/unnamed-chunk-16-1.png","systems-zoo_files/figure-html5/unnamed-chunk-17-1.png","systems-zoo_files/figure-html5/unnamed-chunk-18-1.png","systems-zoo_files/figure-html5/unnamed-chunk-19-1.png","systems-zoo_files/figure-html5/unnamed-chunk-2-1.png","systems-zoo_files/figure-html5/unnamed-chunk-20-1.png","systems-zoo_files/figure-html5/unnamed-chunk-3-1.png","systems-zoo_files/figure-html5/unnamed-chunk-4-1.png","systems-zoo_files/figure-html5/unnamed-chunk-7-1.png","systems-zoo_files/figure-html5/unnamed-chunk-8-1.png","systems-zoo_files/figure-html5/unnamed-chunk-9-1.png"]}
+  </script>
+  <!--radix_placeholder_navigation_in_header-->
+  <!--/radix_placeholder_navigation_in_header-->
+  <!--radix_placeholder_distill-->
+
+  <style type="text/css">
+
+  body {
+    background-color: white;
+  }
+
+  .pandoc-table {
+    width: 100%;
+  }
+
+  .pandoc-table>caption {
+    margin-bottom: 10px;
+  }
+
+  .pandoc-table th:not([align]) {
+    text-align: left;
+  }
+
+  .pagedtable-footer {
+    font-size: 15px;
+  }
+
+  d-byline .byline {
+    grid-template-columns: 2fr 2fr;
+  }
+
+  d-byline .byline h3 {
+    margin-block-start: 1.5em;
+  }
+
+  d-byline .byline .authors-affiliations h3 {
+    margin-block-start: 0.5em;
+  }
+
+  .authors-affiliations .orcid-id {
+    width: 16px;
+    height:16px;
+    margin-left: 4px;
+    margin-right: 4px;
+    vertical-align: middle;
+    padding-bottom: 2px;
+  }
+
+  d-title .dt-tags {
+    margin-top: 1em;
+    grid-column: text;
+  }
+
+  .dt-tags .dt-tag {
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0em 0.4em;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    font-size: 70%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  d-article table.gt_table td,
+  d-article table.gt_table th {
+    border-bottom: none;
+  }
+
+  .html-widget {
+    margin-bottom: 2.0em;
+  }
+
+  .l-screen-inset {
+    padding-right: 16px;
+  }
+
+  .l-screen .caption {
+    margin-left: 10px;
+  }
+
+  .shaded {
+    background: rgb(247, 247, 247);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .html-widget {
+    margin-bottom: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .shaded-content {
+    background: white;
+  }
+
+  .text-output {
+    margin-top: 0;
+    line-height: 1.5em;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  d-article {
+    padding-top: 2.5rem;
+    padding-bottom: 30px;
+  }
+
+  d-appendix {
+    padding-top: 30px;
+  }
+
+  d-article>p>img {
+    width: 100%;
+  }
+
+  d-article h2 {
+    margin: 1rem 0 1.5rem 0;
+  }
+
+  d-article h3 {
+    margin-top: 1.5rem;
+  }
+
+  d-article iframe {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 2.0em;
+    width: 100%;
+  }
+
+  /* Tweak code blocks */
+
+  d-article div.sourceCode code,
+  d-article pre code {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  }
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: auto;
+  }
+
+  d-article div.sourceCode {
+    background-color: white;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 10px;
+    font-size: 12px;
+    border-left: 2px solid rgba(0,0,0,0.1);
+  }
+
+  d-article pre {
+    font-size: 12px;
+    color: black;
+    background: none;
+    margin-top: 0;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  d-article pre a {
+    border-bottom: none;
+  }
+
+  d-article pre a:hover {
+    border-bottom: none;
+    text-decoration: underline;
+  }
+
+  d-article details {
+    grid-column: text;
+    margin-bottom: 0.8em;
+  }
+
+  @media(min-width: 768px) {
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: visible !important;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 18px;
+    font-size: 14px;
+  }
+
+  d-article pre {
+    font-size: 14px;
+  }
+
+  }
+
+  figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  /* CSS for d-contents */
+
+  .d-contents {
+    grid-column: text;
+    color: rgba(0,0,0,0.8);
+    font-size: 0.9em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    padding-left: 0.25em;
+    justify-self: start;
+  }
+
+  @media(min-width: 1000px) {
+    .d-contents.d-contents-float {
+      height: 0;
+      grid-column-start: 1;
+      grid-column-end: 4;
+      justify-self: center;
+      padding-right: 3em;
+      padding-left: 2em;
+    }
+  }
+
+  .d-contents nav h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+
+  .d-contents li {
+    list-style-type: none
+  }
+
+  .d-contents nav > ul {
+    padding-left: 0;
+  }
+
+  .d-contents ul {
+    padding-left: 1em
+  }
+
+  .d-contents nav ul li {
+    margin-top: 0.6em;
+    margin-bottom: 0.2em;
+  }
+
+  .d-contents nav a {
+    font-size: 13px;
+    border-bottom: none;
+    text-decoration: none
+    color: rgba(0, 0, 0, 0.8);
+  }
+
+  .d-contents nav a:hover {
+    text-decoration: underline solid rgba(0, 0, 0, 0.6)
+  }
+
+  .d-contents nav > ul > li > a {
+    font-weight: 600;
+  }
+
+  .d-contents nav > ul > li > ul {
+    font-weight: inherit;
+  }
+
+  .d-contents nav > ul > li > ul > li {
+    margin-top: 0.2em;
+  }
+
+
+  .d-contents nav ul {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+  }
+
+  .d-article-with-toc h2:nth-child(2) {
+    margin-top: 0;
+  }
+
+
+  /* Figure */
+
+  .figure {
+    position: relative;
+    margin-bottom: 2.5em;
+    margin-top: 1.5em;
+  }
+
+  .figure img {
+    width: 100%;
+  }
+
+  .figure .caption {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+
+  .figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  .figure .caption a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  .figure .caption b,
+  .figure .caption strong, {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1.0);
+  }
+
+  /* Citations */
+
+  d-article .citation {
+    color: inherit;
+    cursor: inherit;
+  }
+
+  div.hanging-indent{
+    margin-left: 1em; text-indent: -1em;
+  }
+
+  /* Citation hover box */
+
+  .tippy-box[data-theme~=light-border] {
+    background-color: rgba(250, 250, 250, 0.95);
+  }
+
+  .tippy-content > p {
+    margin-bottom: 0;
+    padding: 2px;
+  }
+
+
+  /* Tweak 1000px media break to show more text */
+
+  @media(min-width: 1000px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 80px [middle-start] 50px [text-start kicker-end] 65px 65px 65px 65px 65px 65px 65px 65px [text-end gutter-start] 65px [middle-end] 65px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 16px;
+    }
+
+    .grid {
+      grid-column-gap: 16px;
+    }
+
+    d-article {
+      font-size: 1.06rem;
+      line-height: 1.7em;
+    }
+    figure .caption, .figure .caption, figure figcaption {
+      font-size: 13px;
+    }
+  }
+
+  @media(min-width: 1180px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 60px [middle-start] 60px [text-start kicker-end] 60px 60px 60px 60px 60px 60px 60px 60px [text-end gutter-start] 60px [middle-end] 60px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 32px;
+    }
+
+    .grid {
+      grid-column-gap: 32px;
+    }
+  }
+
+
+  /* Get the citation styles for the appendix (not auto-injected on render since
+     we do our own rendering of the citation appendix) */
+
+  d-appendix .citation-appendix,
+  .d-appendix .citation-appendix {
+    font-size: 11px;
+    line-height: 15px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    padding-left: 18px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background: rgba(0, 0, 0, 0.02);
+    padding: 10px 18px;
+    border-radius: 3px;
+    color: rgba(150, 150, 150, 1);
+    overflow: hidden;
+    margin-top: -12px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  /* Include appendix styles here so they can be overridden */
+
+  d-appendix {
+    contain: layout style;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-top: 60px;
+    margin-bottom: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    color: rgba(0,0,0,0.5);
+    padding-top: 60px;
+    padding-bottom: 48px;
+  }
+
+  d-appendix h3 {
+    grid-column: page-start / text-start;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.65);
+  }
+
+  d-appendix h3 + * {
+    margin-top: 1em;
+  }
+
+  d-appendix ol {
+    padding: 0 0 0 15px;
+  }
+
+  @media (min-width: 768px) {
+    d-appendix ol {
+      padding: 0 0 0 30px;
+      margin-left: -30px;
+    }
+  }
+
+  d-appendix li {
+    margin-bottom: 1em;
+  }
+
+  d-appendix a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  d-appendix > * {
+    grid-column: text;
+  }
+
+  d-appendix > d-footnote-list,
+  d-appendix > d-citation-list,
+  d-appendix > distill-appendix {
+    grid-column: screen;
+  }
+
+  /* Include footnote styles here so they can be overridden */
+
+  d-footnote-list {
+    contain: layout style;
+  }
+
+  d-footnote-list > * {
+    grid-column: text;
+  }
+
+  d-footnote-list a.footnote-backlink {
+    color: rgba(0,0,0,0.3);
+    padding-left: 0.5em;
+  }
+
+
+
+  /* Anchor.js */
+
+  .anchorjs-link {
+    /*transition: all .25s linear; */
+    text-decoration: none;
+    border-bottom: none;
+  }
+  *:hover > .anchorjs-link {
+    margin-left: -1.125em !important;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  /* Social footer */
+
+  .social_footer {
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.67);
+  }
+
+  .disqus-comments {
+    margin-right: 30px;
+  }
+
+  .disqus-comment-count {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+
+  #disqus_thread {
+    margin-top: 30px;
+  }
+
+  .article-sharing a {
+    border-bottom: none;
+    margin-right: 8px;
+  }
+
+  .article-sharing a:hover {
+    border-bottom: none;
+  }
+
+  .sidebar-section.subscribe {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .subscribe p {
+    margin-bottom: 0.5em;
+  }
+
+
+  .article-footer .subscribe {
+    font-size: 15px;
+    margin-top: 45px;
+  }
+
+
+  .sidebar-section.custom {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .custom p {
+    margin-bottom: 0.5em;
+  }
+
+  /* Styles for listing layout (hide title) */
+  .layout-listing d-title, .layout-listing .d-title {
+    display: none;
+  }
+
+  /* Styles for posts lists (not auto-injected) */
+
+
+  .posts-with-sidebar {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .posts-list .description h2,
+  .posts-list .description p {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  .posts-list .description h2 {
+    font-weight: 700;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .posts-list h2.post-tag {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 12px;
+  }
+  .posts-list {
+    margin-top: 60px;
+    margin-bottom: 24px;
+  }
+
+  .posts-list .post-preview {
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 24px 0;
+  }
+
+  .post-preview-last {
+    border-bottom: none !important;
+  }
+
+  .posts-list .posts-list-caption {
+    grid-column: screen;
+    font-weight: 400;
+  }
+
+  .posts-list .post-preview h2 {
+    margin: 0 0 6px 0;
+    line-height: 1.2em;
+    font-style: normal;
+    font-size: 24px;
+  }
+
+  .posts-list .post-preview p {
+    margin: 0 0 12px 0;
+    line-height: 1.4em;
+    font-size: 16px;
+  }
+
+  .posts-list .post-preview .thumbnail {
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    position: relative;
+    max-width: 500px;
+  }
+  .posts-list .post-preview img {
+    width: 100%;
+    display: block;
+  }
+
+  .posts-list .metadata {
+    font-size: 12px;
+    line-height: 1.4em;
+    margin-bottom: 18px;
+  }
+
+  .posts-list .metadata > * {
+    display: inline-block;
+  }
+
+  .posts-list .metadata .publishedDate {
+    margin-right: 2em;
+  }
+
+  .posts-list .metadata .dt-authors {
+    display: block;
+    margin-top: 0.3em;
+    margin-right: 2em;
+  }
+
+  .posts-list .dt-tags {
+    display: block;
+    line-height: 1em;
+  }
+
+  .posts-list .dt-tags .dt-tag {
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0.3em 0.4em;
+    margin-right: 0.2em;
+    margin-bottom: 0.4em;
+    font-size: 60%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .posts-list img {
+    opacity: 1;
+  }
+
+  .posts-list img[data-src] {
+    opacity: 0;
+  }
+
+  .posts-more {
+    clear: both;
+  }
+
+
+  .posts-sidebar {
+    font-size: 16px;
+  }
+
+  .posts-sidebar h3 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  .sidebar-section {
+    margin-bottom: 30px;
+  }
+
+  .categories ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .categories li {
+    color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 0;
+  }
+
+  .categories li>a {
+    border-bottom: none;
+  }
+
+  .categories li>a:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  }
+
+  .categories .active {
+    font-weight: 600;
+  }
+
+  .categories .category-count {
+    color: rgba(0, 0, 0, 0.4);
+  }
+
+
+  @media(min-width: 768px) {
+    .posts-list .post-preview h2 {
+      font-size: 26px;
+    }
+    .posts-list .post-preview .thumbnail {
+      float: right;
+      width: 30%;
+      margin-bottom: 0;
+    }
+    .posts-list .post-preview .description {
+      float: left;
+      width: 45%;
+    }
+    .posts-list .post-preview .metadata {
+      float: left;
+      width: 20%;
+      margin-top: 8px;
+    }
+    .posts-list .post-preview p {
+      margin: 0 0 12px 0;
+      line-height: 1.5em;
+      font-size: 16px;
+    }
+    .posts-with-sidebar .posts-list {
+      float: left;
+      width: 75%;
+    }
+    .posts-with-sidebar .posts-sidebar {
+      float: right;
+      width: 20%;
+      margin-top: 60px;
+      padding-top: 24px;
+      padding-bottom: 24px;
+    }
+  }
+
+
+  /* Improve display for browsers without grid (IE/Edge <= 15) */
+
+  .downlevel {
+    line-height: 1.6em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+  }
+
+  .downlevel .d-title {
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .downlevel .d-title h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin: 0 0 0.5rem;
+  }
+
+  .downlevel .d-title p {
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 1.55em;
+    margin-top: 0;
+  }
+
+  .downlevel .d-byline {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    font-size: 0.8rem;
+    line-height: 1.8em;
+  }
+
+  .downlevel .section-separator {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .downlevel .d-article {
+    font-size: 1.06rem;
+    line-height: 1.7em;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+
+
+  .downlevel .d-appendix {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: none;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.5);
+    padding-top: 40px;
+    padding-bottom: 48px;
+  }
+
+  .downlevel .footnotes ol {
+    padding-left: 13px;
+  }
+
+  .downlevel .base-grid,
+  .downlevel .distill-header,
+  .downlevel .d-title,
+  .downlevel .d-abstract,
+  .downlevel .d-article,
+  .downlevel .d-appendix,
+  .downlevel .distill-appendix,
+  .downlevel .d-byline,
+  .downlevel .d-footnote-list,
+  .downlevel .d-citation-list,
+  .downlevel .distill-footer,
+  .downlevel .appendix-bottom,
+  .downlevel .posts-container {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  @media(min-width: 768px) {
+    .downlevel .base-grid,
+    .downlevel .distill-header,
+    .downlevel .d-title,
+    .downlevel .d-abstract,
+    .downlevel .d-article,
+    .downlevel .d-appendix,
+    .downlevel .distill-appendix,
+    .downlevel .d-byline,
+    .downlevel .d-footnote-list,
+    .downlevel .d-citation-list,
+    .downlevel .distill-footer,
+    .downlevel .appendix-bottom,
+    .downlevel .posts-container {
+    padding-left: 150px;
+    padding-right: 150px;
+    max-width: 900px;
+  }
+  }
+
+  .downlevel pre code {
+    display: block;
+    border-left: 2px solid rgba(0, 0, 0, .1);
+    padding: 0 0 0 20px;
+    font-size: 14px;
+  }
+
+  .downlevel code, .downlevel pre {
+    color: black;
+    background: none;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  .downlevel .posts-list .post-preview {
+    color: inherit;
+  }
+
+
+
+  </style>
+
+  <script type="application/javascript">
+
+  function is_downlevel_browser() {
+    if (bowser.isUnsupportedBrowser({ msie: "12", msedge: "16"},
+                                   window.navigator.userAgent)) {
+      return true;
+    } else {
+      return window.load_distill_framework === undefined;
+    }
+  }
+
+  // show body when load is complete
+  function on_load_complete() {
+
+    // add anchors
+    if (window.anchors) {
+      window.anchors.options.placement = 'left';
+      window.anchors.add('d-article > h2, d-article > h3, d-article > h4, d-article > h5');
+    }
+
+
+    // set body to visible
+    document.body.style.visibility = 'visible';
+
+    // force redraw for leaflet widgets
+    if (window.HTMLWidgets) {
+      var maps = window.HTMLWidgets.findAll(".leaflet");
+      $.each(maps, function(i, el) {
+        var map = this.getMap();
+        map.invalidateSize();
+        map.eachLayer(function(layer) {
+          if (layer instanceof L.TileLayer)
+            layer.redraw();
+        });
+      });
+    }
+
+    // trigger 'shown' so htmlwidgets resize
+    $('d-article').trigger('shown');
+  }
+
+  function init_distill() {
+
+    init_common();
+
+    // create front matter
+    var front_matter = $('<d-front-matter></d-front-matter>');
+    $('#distill-front-matter').wrap(front_matter);
+
+    // create d-title
+    $('.d-title').changeElementType('d-title');
+
+    // create d-byline
+    var byline = $('<d-byline></d-byline>');
+    $('.d-byline').replaceWith(byline);
+
+    // create d-article
+    var article = $('<d-article></d-article>');
+    $('.d-article').wrap(article).children().unwrap();
+
+    // move posts container into article
+    $('.posts-container').appendTo($('d-article'));
+
+    // create d-appendix
+    $('.d-appendix').changeElementType('d-appendix');
+
+    // flag indicating that we have appendix items
+    var appendix = $('.appendix-bottom').children('h3').length > 0;
+
+    // replace footnotes with <d-footnote>
+    $('.footnote-ref').each(function(i, val) {
+      appendix = true;
+      var href = $(this).attr('href');
+      var id = href.replace('#', '');
+      var fn = $('#' + id);
+      var fn_p = $('#' + id + '>p');
+      fn_p.find('.footnote-back').remove();
+      var text = fn_p.html();
+      var dtfn = $('<d-footnote></d-footnote>');
+      dtfn.html(text);
+      $(this).replaceWith(dtfn);
+    });
+    // remove footnotes
+    $('.footnotes').remove();
+
+    // move refs into #references-listing
+    $('#references-listing').replaceWith($('#refs'));
+
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      var id = $(this).attr('id');
+      $('.d-contents a[href="#' + id + '"]').parent().remove();
+      appendix = true;
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('d-appendix'));
+    });
+
+    // show d-appendix if we have appendix content
+    $("d-appendix").css('display', appendix ? 'grid' : 'none');
+
+    // localize layout chunks to just output
+    $('.layout-chunk').each(function(i, val) {
+
+      // capture layout
+      var layout = $(this).attr('data-layout');
+
+      // apply layout to markdown level block elements
+      var elements = $(this).children().not('details, div.sourceCode, pre, script');
+      elements.each(function(i, el) {
+        var layout_div = $('<div class="' + layout + '"></div>');
+        if (layout_div.hasClass('shaded')) {
+          var shaded_content = $('<div class="shaded-content"></div>');
+          $(this).wrap(shaded_content);
+          $(this).parent().wrap(layout_div);
+        } else {
+          $(this).wrap(layout_div);
+        }
+      });
+
+
+      // unwrap the layout-chunk div
+      $(this).children().unwrap();
+    });
+
+    // remove code block used to force  highlighting css
+    $('.distill-force-highlighting-css').parent().remove();
+
+    // remove empty line numbers inserted by pandoc when using a
+    // custom syntax highlighting theme
+    $('code.sourceCode a:empty').remove();
+
+    // load distill framework
+    load_distill_framework();
+
+    // wait for window.distillRunlevel == 4 to do post processing
+    function distill_post_process() {
+
+      if (!window.distillRunlevel || window.distillRunlevel < 4)
+        return;
+
+      // hide author/affiliations entirely if we have no authors
+      var front_matter = JSON.parse($("#distill-front-matter").html());
+      var have_authors = front_matter.authors && front_matter.authors.length > 0;
+      if (!have_authors)
+        $('d-byline').addClass('hidden');
+
+      // article with toc class
+      $('.d-contents').parent().addClass('d-article-with-toc');
+
+      // strip links that point to #
+      $('.authors-affiliations').find('a[href="#"]').removeAttr('href');
+
+      // add orcid ids
+      $('.authors-affiliations').find('.author').each(function(i, el) {
+        var orcid_id = front_matter.authors[i].orcidID;
+        if (orcid_id) {
+          var a = $('<a></a>');
+          a.attr('href', 'https://orcid.org/' + orcid_id);
+          var img = $('<img></img>');
+          img.addClass('orcid-id');
+          img.attr('alt', 'ORCID ID');
+          img.attr('src','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==');
+          a.append(img);
+          $(this).append(a);
+        }
+      });
+
+      // hide elements of author/affiliations grid that have no value
+      function hide_byline_column(caption) {
+        $('d-byline').find('h3:contains("' + caption + '")').parent().css('visibility', 'hidden');
+      }
+
+      // affiliations
+      var have_affiliations = false;
+      for (var i = 0; i<front_matter.authors.length; ++i) {
+        var author = front_matter.authors[i];
+        if (author.affiliation !== "&nbsp;") {
+          have_affiliations = true;
+          break;
+        }
+      }
+      if (!have_affiliations)
+        $('d-byline').find('h3:contains("Affiliations")').css('visibility', 'hidden');
+
+      // published date
+      if (!front_matter.publishedDate)
+        hide_byline_column("Published");
+
+      // document object identifier
+      var doi = $('d-byline').find('h3:contains("DOI")');
+      var doi_p = doi.next().empty();
+      if (!front_matter.doi) {
+        // if we have a citation and valid citationText then link to that
+        if ($('#citation').length > 0 && front_matter.citationText) {
+          doi.html('Citation');
+          $('<a href="#citation"></a>')
+            .text(front_matter.citationText)
+            .appendTo(doi_p);
+        } else {
+          hide_byline_column("DOI");
+        }
+      } else {
+        $('<a></a>')
+           .attr('href', "https://doi.org/" + front_matter.doi)
+           .html(front_matter.doi)
+           .appendTo(doi_p);
+      }
+
+       // change plural form of authors/affiliations
+      if (front_matter.authors.length === 1) {
+        var grid = $('.authors-affiliations');
+        grid.children('h3:contains("Authors")').text('Author');
+        grid.children('h3:contains("Affiliations")').text('Affiliation');
+      }
+
+      // remove d-appendix and d-footnote-list local styles
+      $('d-appendix > style:first-child').remove();
+      $('d-footnote-list > style:first-child').remove();
+
+      // move appendix-bottom entries to the bottom
+      $('.appendix-bottom').appendTo('d-appendix').children().unwrap();
+      $('.appendix-bottom').remove();
+
+      // hoverable references
+      $('span.citation[data-cites]').each(function() {
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
+        window.tippy(this, {
+          allowHTML: true,
+          content: refHtml,
+          maxWidth: 500,
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start'
+        });
+      });
+
+      // clear polling timer
+      clearInterval(tid);
+
+      // show body now that everything is ready
+      on_load_complete();
+    }
+
+    var tid = setInterval(distill_post_process, 50);
+    distill_post_process();
+
+  }
+
+  function init_downlevel() {
+
+    init_common();
+
+     // insert hr after d-title
+    $('.d-title').after($('<hr class="section-separator"/>'));
+
+    // check if we have authors
+    var front_matter = JSON.parse($("#distill-front-matter").html());
+    var have_authors = front_matter.authors && front_matter.authors.length > 0;
+
+    // manage byline/border
+    if (!have_authors)
+      $('.d-byline').remove();
+    $('.d-byline').after($('<hr class="section-separator"/>'));
+    $('.d-byline a').remove();
+
+    // remove toc
+    $('.d-contents').remove();
+
+    // move appendix elements
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('.d-appendix'));
+    });
+
+
+    // inject headers into references and footnotes
+    var refs_header = $('<h3></h3>');
+    refs_header.text('References');
+    $('#refs').prepend(refs_header);
+
+    var footnotes_header = $('<h3></h3');
+    footnotes_header.text('Footnotes');
+    $('.footnotes').children('hr').first().replaceWith(footnotes_header);
+
+    // move appendix-bottom entries to the bottom
+    $('.appendix-bottom').appendTo('.d-appendix').children().unwrap();
+    $('.appendix-bottom').remove();
+
+    // remove appendix if it's empty
+    if ($('.d-appendix').children().length === 0)
+      $('.d-appendix').remove();
+
+    // prepend separator above appendix
+    $('.d-appendix').before($('<hr class="section-separator" style="clear: both"/>'));
+
+    // trim code
+    $('pre>code').each(function(i, val) {
+      $(this).html($.trim($(this).html()));
+    });
+
+    // move posts-container right before article
+    $('.posts-container').insertBefore($('.d-article'));
+
+    $('body').addClass('downlevel');
+
+    on_load_complete();
+  }
+
+
+  function init_common() {
+
+    // jquery plugin to change element types
+    (function($) {
+      $.fn.changeElementType = function(newType) {
+        var attrs = {};
+
+        $.each(this[0].attributes, function(idx, attr) {
+          attrs[attr.nodeName] = attr.nodeValue;
+        });
+
+        this.replaceWith(function() {
+          return $("<" + newType + "/>", attrs).append($(this).contents());
+        });
+      };
+    })(jQuery);
+
+    // prevent underline for linked images
+    $('a > img').parent().css({'border-bottom' : 'none'});
+
+    // mark non-body figures created by knitr chunks as 100% width
+    $('.layout-chunk').each(function(i, val) {
+      var figures = $(this).find('img, .html-widget');
+      if ($(this).attr('data-layout') !== "l-body") {
+        figures.css('width', '100%');
+      } else {
+        figures.css('max-width', '100%');
+        figures.filter("[width]").each(function(i, val) {
+          var fig = $(this);
+          fig.css('width', fig.attr('width') + 'px');
+        });
+
+      }
+    });
+
+    // auto-append index.html to post-preview links in file: protocol
+    // and in rstudio ide preview
+    $('.post-preview').each(function(i, val) {
+      if (window.location.protocol === "file:")
+        $(this).attr('href', $(this).attr('href') + "index.html");
+    });
+
+    // get rid of index.html references in header
+    if (window.location.protocol !== "file:") {
+      $('.distill-site-header a[href]').each(function(i,val) {
+        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+      });
+    }
+
+    // add class to pandoc style tables
+    $('tr.header').parent('thead').parent('table').addClass('pandoc-table');
+    $('.kable-table').children('table').addClass('pandoc-table');
+
+    // add figcaption style to table captions
+    $('caption').parent('table').addClass("figcaption");
+
+    // initialize posts list
+    if (window.init_posts_list)
+      window.init_posts_list();
+
+    // implmement disqus comment link
+    $('.disqus-comment-count').click(function() {
+      window.headroom_prevent_pin = true;
+      $('#disqus_thread').toggleClass('hidden');
+      if (!$('#disqus_thread').hasClass('hidden')) {
+        var offset = $(this).offset();
+        $(window).resize();
+        $('html, body').animate({
+          scrollTop: offset.top - 35
+        });
+      }
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    if (is_downlevel_browser())
+      init_downlevel();
+    else
+      window.addEventListener('WebComponentsReady', init_distill);
+  });
+
+  </script>
+
+  <!--/radix_placeholder_distill-->
+  <script src="systems-zoo_files/header-attrs-2.11/header-attrs.js"></script>
+  <script src="systems-zoo_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="systems-zoo_files/popper-2.6.0/popper.min.js"></script>
+  <link href="systems-zoo_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="systems-zoo_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="systems-zoo_files/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="systems-zoo_files/anchor-4.2.2/anchor.min.js"></script>
+  <script src="systems-zoo_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="systems-zoo_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="systems-zoo_files/distill-2.2.21/template.v2.js"></script>
+  <!--radix_placeholder_site_in_header-->
+  <!--/radix_placeholder_site_in_header-->
+
+
+</head>
+
+<body>
+
+<!--radix_placeholder_front_matter-->
+
+<script id="distill-front-matter" type="text/json">
+{"title":"Systems Zoo","authors":[],"publishedDate":"2021-05-01T00:00:00.000-04:00"}
+</script>
+
+<!--/radix_placeholder_front_matter-->
+<!--radix_placeholder_navigation_before_body-->
+<!--/radix_placeholder_navigation_before_body-->
+<!--radix_placeholder_site_before_body-->
+<!--/radix_placeholder_site_before_body-->
+
+<div class="d-title">
+<h1>Systems Zoo</h1>
+<!--radix_placeholder_categories-->
+<!--/radix_placeholder_categories-->
+
+</div>
+
+
+<div class="d-article">
+<p>Some practice simulating stock and flow models. The first example set uses discrete time. The second uses continuous time differential equations. I include some text from Donella Meadows’ book, “Thinking in Systems” to explain some of the examples.</p>
+<h1 id="example-1-bath-tub">Example 1: Bath Tub</h1>
+<p><img src="images/bathtub.png" style="width:80.0%" /></p>
+<p>“Imagine a bathtub filled with water, with its drain plugged up and its faucets turned off—an unchanging, undynamic, boring system. Now mentally pull the plug. The water runs out, of course. The level of water in the tub goes down until the tub is empty.” (p. 19).</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://github.com/hrbrmstr/hrbrthemes'>hrbrthemes</a></span><span class='op'>)</span>
+
+<span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## water in tub</span>
+<span class='va'>startwater</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endwater</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## water in tub</span>
+<span class='va'>startwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+<span class='va'>endwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## outflow (gallons exiting the tub per minute)</span>
+<span class='va'>outflow</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+<span class='co'>## inflow (gallons entering the tub per minute)</span>
+<span class='va'>inflow</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endwater</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>endwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>inflow</span> <span class='op'>-</span> <span class='va'>outflow</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dftub1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"gallons"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endwater</span><span class='op'>)</span>,
+  <span class='st'>"minutes"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dftub1</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>minutes</span>, y <span class='op'>=</span> <span class='va'>gallons</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggtheme.html'>theme_classic</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-1-1.png" width="624" /></p>
+</div>
+<p>“Now imagine starting again with a full tub, and again open the drain, but this time, when the tub is about half empty, turn on the inflow faucet so the rate of water flowing in is just equal to that flowing out. What happens? The amount of water in the tub stays constant at whatever level it had reached when the inflow became equal to the outflow. It is in a state of dynamic equilibrium – its level does not change, although water is continuously flowing through it.” (p. 21).</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## water in tub</span>
+<span class='va'>startwater</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endwater</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## water in tub</span>
+<span class='va'>startwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+<span class='va'>endwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startwater</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## none - flows change midway through the process</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endwater</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  
+  <span class='co'>## open the drain</span>
+  <span class='kw'>if</span><span class='op'>(</span><span class='va'>i</span> <span class='op'>&lt;</span> <span class='fl'>5</span><span class='op'>)</span><span class='op'>{</span>
+    <span class='va'>inflow</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+    <span class='va'>outflow</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+  <span class='co'>## then, turn on the faucet so water flows into the tub</span>
+  <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
+    <span class='va'>inflow</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+    <span class='va'>outflow</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+  <span class='op'>}</span>
+  
+  <span class='va'>endwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startwater</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>inflow</span> <span class='op'>-</span> <span class='va'>outflow</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dftub2</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"gallons"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endwater</span><span class='op'>)</span>,
+  <span class='st'>"minutes"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dftub2</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>minutes</span>, y <span class='op'>=</span> <span class='va'>gallons</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggtheme.html'>theme_classic</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/lims.html'>ylim</a></span><span class='op'>(</span><span class='fl'>0</span>, <span class='fl'>10</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-2-1.png" width="624" /></p>
+</div>
+<h1 id="example-2-coffee-temperature">Example 2: Coffee Temperature</h1>
+<p><img src="images/coffee.png" style="width:80.0%" /></p>
+<p>“A hot cup of coffee will gradually cool down to room temperature. Its rate of cooling depends on the difference between the temperature of the coffee and the temperature of the room. The greater the difference, the faster the coffee will cool. The loop works the other way too – if you make iced coffee on a hot day, it will warm up until it has the same temperature as the room. The function of this system is to bring the discrepancy between coffee’s temperature and room’s temperature to zero, no matter what the direction of the discrepancy. Whatever the initial value of the system stock (coffee temperature in this case), whether it is above or below the ‘goal’ (room temperature), the feedback loop brings it toward the goal. The change is faster at first, and then slower, as the discrepancy between the stock and the goal decreases.” (p. 29).</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>4</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## coffee</span>
+<span class='va'>startcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'>## iced coffee</span>
+<span class='va'>startic</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endic</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## temperature of coffee</span>
+<span class='va'>startcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>96</span>
+<span class='va'>endcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'>## temperature of iced coffee</span>
+<span class='va'>startic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>34</span>
+<span class='va'>endic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## room temperature</span>
+<span class='va'>room_temp</span> <span class='op'>&lt;-</span> <span class='fl'>71</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endcoffee</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endic</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  
+  <span class='co'>## system for hot coffee</span>
+  <span class='va'>difference_coffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/MathFun.html'>abs</a></span><span class='op'>(</span><span class='va'>room_temp</span> <span class='op'>-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>)</span>
+  <span class='va'>cooling</span> <span class='op'>&lt;-</span> <span class='va'>difference_coffee</span>
+  <span class='va'>endcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>cooling</span>
+  
+  <span class='co'>## system for iced coffee</span>
+  <span class='va'>difference_ic</span> <span class='op'>&lt;-</span> <span class='va'>room_temp</span> <span class='op'>-</span> <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>heating</span> <span class='op'>&lt;-</span> <span class='va'>difference_ic</span>
+  <span class='va'>endic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>heating</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dfcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"var"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>'Hot Coffee'</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>'Iced Coffee'</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>,
+  <span class='st'>"temperature"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endcoffee</span>,
+                    <span class='va'>endic</span><span class='op'>)</span>,
+  <span class='st'>"minutes"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+                <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfcoffee</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>minutes</span>, y <span class='op'>=</span> <span class='va'>temperature</span>, linetype <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_abline.html'>geom_hline</a></span><span class='op'>(</span>yintercept <span class='op'>=</span> <span class='va'>room_temp</span>, linetype <span class='op'>=</span> <span class='st'>"dashed"</span>, color <span class='op'>=</span> <span class='st'>'red'</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_text.html'>geom_text</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='fl'>1.3</span>, y <span class='op'>=</span> <span class='va'>room_temp</span> <span class='op'>+</span> <span class='fl'>1.8</span>, label <span class='op'>=</span> <span class='st'>"Room Temperature"</span><span class='op'>)</span>, color <span class='op'>=</span> <span class='st'>"darkred"</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/theme.html'>theme</a></span><span class='op'>(</span>legend.title <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/element.html'>element_blank</a></span><span class='op'>(</span><span class='op'>)</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-3-1.png" width="624" /></p>
+</div>
+<p>The sampling window isn’t small enough to capture the gradual decay/growth of temperature. I can artificially slow the process down by making the effects weaker.</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>20</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## coffee</span>
+<span class='va'>startcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'>## iced coffee</span>
+<span class='va'>startic</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endic</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## temperature of coffee</span>
+<span class='va'>startcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>96</span>
+<span class='va'>endcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'>## temperature of iced coffee</span>
+<span class='va'>startic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>34</span>
+<span class='va'>endic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startic</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## room temperature</span>
+<span class='va'>room_temp</span> <span class='op'>&lt;-</span> <span class='fl'>71</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endcoffee</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endic</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  
+  <span class='co'>## system for hot coffee</span>
+  <span class='va'>difference_coffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/MathFun.html'>abs</a></span><span class='op'>(</span><span class='va'>room_temp</span> <span class='op'>-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>)</span>
+  <span class='co'>#### HERE IS THE CHANGE</span>
+  <span class='va'>cooling</span> <span class='op'>&lt;-</span> <span class='fl'>0.2</span><span class='op'>*</span><span class='va'>difference_coffee</span>
+  <span class='va'>endcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcoffee</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>cooling</span>
+  
+  <span class='co'>## system for iced coffee</span>
+  <span class='va'>difference_ic</span> <span class='op'>&lt;-</span> <span class='va'>room_temp</span> <span class='op'>-</span> <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='co'>#### HERE IS THE CHANGE</span>
+  <span class='va'>heating</span> <span class='op'>&lt;-</span> <span class='fl'>0.2</span><span class='op'>*</span><span class='va'>difference_ic</span>
+  <span class='va'>endic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startic</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>heating</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dfcoffee</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"var"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>'Hot Coffee'</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>'Iced Coffee'</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>,
+  <span class='st'>"temperature"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endcoffee</span>,
+                    <span class='va'>endic</span><span class='op'>)</span>,
+  <span class='st'>"minutes"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+                <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfcoffee</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>minutes</span>, y <span class='op'>=</span> <span class='va'>temperature</span>, linetype <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_abline.html'>geom_hline</a></span><span class='op'>(</span>yintercept <span class='op'>=</span> <span class='va'>room_temp</span>, linetype <span class='op'>=</span> <span class='st'>"dashed"</span>, color <span class='op'>=</span> <span class='st'>'red'</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_text.html'>geom_text</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='fl'>5</span>, y <span class='op'>=</span> <span class='va'>room_temp</span> <span class='op'>+</span> <span class='fl'>1.8</span>, label <span class='op'>=</span> <span class='st'>"Room Temperature"</span><span class='op'>)</span>, color <span class='op'>=</span> <span class='st'>"darkred"</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/theme.html'>theme</a></span><span class='op'>(</span>legend.title <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/element.html'>element_blank</a></span><span class='op'>(</span><span class='op'>)</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-4-1.png" width="624" /></p>
+</div>
+<h1 id="example-3-investing">Example 3: Investing</h1>
+<p><img src="images/interest.png" style="width:80.0%" /></p>
+<p>“The more money you have in the bank, the more interest you earn, which is added to the money already in the bank, where it earns even more interest. Consider how this reinforcing loop multiplies money, starting with $100 in the bank, and assuming no deposits and no withdrawals over a period of ten years.” (p. 32).</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## money in bank</span>
+<span class='va'>startmoney</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endmoney</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## money in bank</span>
+<span class='va'>startmoney</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>100</span>
+<span class='va'>endmoney</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startmoney</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## interest rate</span>
+<span class='va'>interest_rate</span> <span class='op'>&lt;-</span> <span class='fl'>0.05</span>
+<span class='co'>## money from income (zero)</span>
+<span class='va'>money_from_income</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startmoney</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endmoney</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>money_from_interest</span> <span class='op'>&lt;-</span> <span class='va'>startmoney</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>*</span> <span class='va'>interest_rate</span>
+  <span class='va'>money_added</span> <span class='op'>&lt;-</span> <span class='va'>money_from_income</span> <span class='op'>+</span> <span class='va'>money_from_interest</span>
+  <span class='va'>endmoney</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startmoney</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>money_added</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dfmoney</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"money"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endmoney</span><span class='op'>)</span>,
+  <span class='st'>"years"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+  <span class='st'>"interest_rate"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='va'>interest_rate</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+</code></pre>
+</div>
+</div>
+<p>Repeat for different interest rates.</p>
+<div class="layout-chunk" data-layout="l-body">
+
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://dplyr.tidyverse.org'>dplyr</a></span><span class='op'>)</span>
+<span class='va'>dfint2</span> <span class='op'>&lt;-</span> <span class='fu'>run_interest</span><span class='op'>(</span><span class='fl'>1.0</span><span class='op'>)</span>
+<span class='va'>dfint3</span> <span class='op'>&lt;-</span> <span class='fu'>run_interest</span><span class='op'>(</span><span class='fl'>1.5</span><span class='op'>)</span>
+<span class='va'>dfmoney</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/pkg/dplyr/man/bind.html'>bind_rows</a></span><span class='op'>(</span><span class='va'>dfmoney</span>, <span class='va'>dfint2</span><span class='op'>)</span>
+<span class='va'>dfmoney</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/pkg/dplyr/man/bind.html'>bind_rows</a></span><span class='op'>(</span><span class='va'>dfmoney</span>, <span class='va'>dfint3</span><span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfmoney</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>years</span>, y <span class='op'>=</span> <span class='va'>money</span>, linetype <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/factor.html'>factor</a></span><span class='op'>(</span><span class='va'>interest_rate</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggtheme.html'>theme_classic</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/labs.html'>labs</a></span><span class='op'>(</span>linetype <span class='op'>=</span> <span class='st'>"Interest Rate"</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-7-1.png" width="624" /></p>
+</div>
+<h1 id="example-4-room-temperature">Example 4: Room Temperature</h1>
+<p><img src="images/furnace.png" style="width:80.0%" /></p>
+<p>“What happens if there are two such loops, trying to drag a single stock toward two different goals? One example of such a system is the thermostat mechanism that regulates the heating of your room (or cooling, if it is connected to an air conditioner instead of a furnace). Whenever the room temperature falls below the thermostat setting, the thermostat detects a discrepancy and sends a signal that turns on the heat fl ow from the furnace, warming the room. When the room temperature rises again, the thermostat turns off the heat fl ow. This is a straightforward, stock-maintaining, balancing feedback loop. However, this is not the only loop in the system. Heat also leaks to the outside. The outflow of heat is governed by the second balancing feedback loop. It is always trying to make the room temperature equal to the outside, just like a coffee cup cooling.</p>
+<p>At first, both the room and the outside temperatures are cool. The inflow of heat from the furnace exceeds the leak to the outside, and the room warms up. For an hour or two, the outside is mild enough that the furnace replaces most of the heat that’s lost to the outside,and the room temperature stays near the desired temperature. But as the outside temperature falls and the heat leak increases, the furnace cannot replace the heat fast enough. Because the furnace is generating less heat than is leaking out, the room temperature falls. Finally, the outside temperature rises again, the heat leak slows, and the furnace, still operating at full tilt, finally can pull ahead and start to warm the room again. Just as in the rules for the bathtub, whenever the furnace is putting in more heat than is leaking out, the room temperature rises. Whenever the inflow rate falls behind the outflow rate, the temperature falls.” (p. 41)</p>
+<p>First, use a cosine function to create data mimicking the idea that “temperature outside drops throughout the night and then increases in the morning.”</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='va'>points</span> <span class='op'>&lt;-</span> <span class='fl'>1</span><span class='op'>:</span><span class='fl'>51</span>
+<span class='va'>outside</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/Trig.html'>cos</a></span><span class='op'>(</span><span class='fl'>0.11</span> <span class='op'>*</span> <span class='va'>points</span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/r/graphics/plot.default.html'>plot</a></span><span class='op'>(</span><span class='va'>outside</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-8-1.png" width="624" /></p>
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>51</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## room temperature</span>
+<span class='va'>startroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## room temperature</span>
+<span class='va'>startroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>0.4</span>
+<span class='va'>endroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## thermostat setting</span>
+<span class='va'>thermostat</span> <span class='op'>&lt;-</span> <span class='fl'>2</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endroom</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>difference_outroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/MathFun.html'>abs</a></span><span class='op'>(</span><span class='va'>outside</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>)</span>
+  <span class='va'>heatloss</span> <span class='op'>&lt;-</span> <span class='va'>difference_outroom</span>
+  
+  <span class='va'>difference_thermoroom</span> <span class='op'>&lt;-</span> <span class='va'>thermostat</span> <span class='op'>-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>heatin</span> <span class='op'>&lt;-</span> <span class='va'>difference_thermoroom</span>
+  
+  <span class='va'>endroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>heatin</span> <span class='op'>-</span> <span class='va'>heatloss</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dffurnace</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"temperature"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endroom</span>,
+                    <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='va'>thermostat</span>, <span class='va'>time</span><span class='op'>)</span>,
+                    <span class='va'>outside</span><span class='op'>)</span>,
+  <span class='st'>"time"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span>,
+             <span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span>,
+             <span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+  <span class='st'>"var"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Room Temperature"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Thermostat"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Outside Temperature"</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dffurnace</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>temperature</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggtheme.html'>theme_classic</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/theme.html'>theme</a></span><span class='op'>(</span>axis.text.y <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/element.html'>element_blank</a></span><span class='op'>(</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/labs.html'>labs</a></span><span class='op'>(</span>color <span class='op'>=</span> <span class='st'>""</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-9-1.png" width="624" /></p>
+</div>
+<p>Once again, I can smooth the process by weakening the effects.</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>51</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## room temperature</span>
+<span class='va'>startroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## room temperature</span>
+<span class='va'>startroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>0.4</span>
+<span class='va'>endroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## thermostat setting</span>
+<span class='va'>thermostat</span> <span class='op'>&lt;-</span> <span class='fl'>2</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endroom</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>difference_outroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/MathFun.html'>abs</a></span><span class='op'>(</span><span class='va'>outside</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>)</span>
+  <span class='va'>heatloss</span> <span class='op'>&lt;-</span> <span class='fl'>0.5</span><span class='op'>*</span><span class='va'>difference_outroom</span>
+  
+  <span class='va'>difference_thermoroom</span> <span class='op'>&lt;-</span> <span class='va'>thermostat</span> <span class='op'>-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>heatin</span> <span class='op'>&lt;-</span> <span class='fl'>0.5</span><span class='op'>*</span><span class='va'>difference_thermoroom</span>
+  
+  <span class='va'>endroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startroom</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>heatin</span> <span class='op'>-</span> <span class='va'>heatloss</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dffurnace</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"temperature"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endroom</span>,
+                    <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='va'>thermostat</span>, <span class='va'>time</span><span class='op'>)</span>,
+                    <span class='va'>outside</span><span class='op'>)</span>,
+  <span class='st'>"time"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span>,
+             <span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span>,
+             <span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+  <span class='st'>"var"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Room Temperature"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Thermostat"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Outside Temperature"</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dffurnace</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>temperature</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggtheme.html'>theme_classic</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/theme.html'>theme</a></span><span class='op'>(</span>axis.text.y <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/element.html'>element_blank</a></span><span class='op'>(</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/labs.html'>labs</a></span><span class='op'>(</span>color <span class='op'>=</span> <span class='st'>""</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-10-1.png" width="624" /></p>
+</div>
+<h1 id="example-5-car-inventory-with-delays">Example 5: Car Inventory With Delays</h1>
+<p>My stock and flow diagram is different from Fig 31 in “Thinking in Systems” because I like to include an additional “things in process / things in queue” stock when modeling delays.</p>
+<p><img src="images/cars.png" style="width:80.0%" /></p>
+<p>“This system is a version of the thermostat system—one balancing loop of sales draining the inventory stock and a competing balancing loop maintaining the inventory by resupplying what is lost in sales. Although this system still consists of just two balancing loops, like the simplified thermostat system, it doesn’t behave like the thermostat system. Look at what happens, for example, when the business experiences the same permanent 10-percent jump in sales from an increase in customer demand. Oscillations! A single step up in sales causes inventory to drop. The car dealer watches long enough to be sure the higher sales rate is going to last. Then she begins to order more cars to both cover the new rate of sales and bring the inventory up. But it takes time for the orders to come in. During that time inventory drops further, so orders have to go up a little more, to bring inventory back up to ten days’ coverage. Eventually, the larger volume of orders starts arriving, and inventory recovers—and more than recovers, because during the time of uncertainty about the actual trend, the owner has ordered too much. She now sees her mistake, and cuts back, but there are still high past orders coming in, so she orders even less. In fact, almost inevitably, since she still can’t be sure of what is going to happen next, she orders too little. Inventory gets too low again. And so forth, through a series of oscillations around the new desired inventory level.” (p. 54).</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>25</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## cars in inventory</span>
+<span class='va'>startcars</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endcars</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='co'>## cars in queue</span>
+<span class='va'>startque</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endque</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## cars in inventory</span>
+<span class='va'>startcars</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>78</span>
+<span class='va'>endcars</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcars</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+<span class='co'>## cars in queue</span>
+<span class='va'>startque</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>endque</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startque</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## desired inventory of cars in lot</span>
+<span class='va'>desired_inventory</span> <span class='op'>&lt;-</span> <span class='fl'>100</span>
+<span class='co'>## time to ship (3 days)</span>
+<span class='va'>time_to_ship</span> <span class='op'>&lt;-</span> <span class='fl'>3</span>
+<span class='co'>## time to receive order (half a day)</span>
+<span class='va'>time_to_receive</span> <span class='op'>&lt;-</span> <span class='fl'>0.5</span>
+<span class='co'>## sales each day</span>
+<span class='va'>sales</span> <span class='op'>&lt;-</span> <span class='fl'>18</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startcars</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endcars</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>startque</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endque</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>need_for_cars</span> <span class='op'>&lt;-</span> <span class='va'>desired_inventory</span> <span class='op'>-</span> <span class='va'>startcars</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>building</span> <span class='op'>&lt;-</span> <span class='va'>need_for_cars</span> <span class='op'>/</span> <span class='va'>time_to_receive</span>
+  <span class='va'>arrivals</span> <span class='op'>&lt;-</span> <span class='va'>startque</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>/</span> <span class='va'>time_to_ship</span>
+  
+  <span class='va'>endque</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startque</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>building</span> <span class='op'>-</span> <span class='va'>arrivals</span>
+  <span class='va'>endcars</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcars</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>arrivals</span> <span class='op'>-</span> <span class='va'>sales</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dfcars</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"cars"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endcars</span><span class='op'>)</span>,
+  <span class='st'>"days"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://github.com/hrbrmstr/hrbrthemes'>hrbrthemes</a></span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfcars</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>days</span>, y <span class='op'>=</span> <span class='va'>cars</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/hrbrthemes/man/theme_ipsum.html'>theme_ipsum</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-11-1.png" width="624" /></p>
+</div>
+<h1 id="example-6-house-inventory">Example 6: House Inventory</h1>
+<p><a href="https://www.youtube.com/watch?v=xN4EGAOksFc">Find lecture online</a>.</p>
+<p><img src="images/houses.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>=</span> <span class='fl'>50</span>
+
+<span class='co'># stocks</span>
+<span class='va'>starthouses</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>starthouses</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>1000</span>
+<span class='va'>endhouses</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endhouses</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>1000</span>
+
+<span class='co'># constants</span>
+<span class='va'>goal_houses</span> <span class='op'>=</span> <span class='fl'>10000</span>
+<span class='co'>## if there is a gap of 8000 houses (goal of 10000 but currently 2000)</span>
+<span class='co'>## then they will resolve that gap in 9 periods</span>
+<span class='va'>timetoresolve</span> <span class='op'>=</span> <span class='fl'>9</span>
+
+
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>endhouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>-</span><span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='va'>need_for_houses</span> <span class='op'>=</span> <span class='va'>goal_houses</span> <span class='op'>-</span> <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  
+  <span class='va'>building</span> <span class='op'>=</span> <span class='va'>need_for_houses</span> <span class='op'>/</span> <span class='va'>timetoresolve</span>
+  
+  <span class='va'>endhouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>building</span> 
+  
+<span class='op'>}</span>
+<span class='va'>dfhouses</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"time"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+  <span class='st'>"houses"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endhouses</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfhouses</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>houses</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-12-1.png" width="624" /></p>
+</div>
+<h1 id="example-7-house-inventory-with-muliple-delays">Example 7: House Inventory With Muliple Delays</h1>
+<p><a href="https://www.youtube.com/watch?v=JSm6-uPSbKc">Find lecture online</a>.</p>
+<p><img src="images/house-delay.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>=</span> <span class='fl'>100</span>
+
+<span class='co'># stocks</span>
+<span class='co'>## houses in process (works in progress)</span>
+<span class='va'>startwip</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>startwip</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>0</span>
+<span class='va'>endwip</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endwip</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>0</span>
+
+<span class='co'>## completed houses</span>
+<span class='va'>starthouses</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>starthouses</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>1000</span>
+<span class='va'>endhouses</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endhouses</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>=</span> <span class='fl'>1000</span>
+
+<span class='co'># constants</span>
+<span class='va'>goal_houses</span> <span class='op'>=</span> <span class='fl'>10000</span>
+<span class='va'>timetostartbuild</span> <span class='op'>=</span> <span class='fl'>3</span>
+<span class='va'>timetocomplete</span> <span class='op'>=</span> <span class='fl'>12</span>
+
+
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='va'>startwip</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>endwip</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>endhouses</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='va'>needforhouses</span> <span class='op'>=</span> <span class='va'>goal_houses</span> <span class='op'>-</span> <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>building</span> <span class='op'>=</span> <span class='va'>needforhouses</span> <span class='op'>/</span> <span class='va'>timetostartbuild</span>
+  <span class='va'>finishing</span> <span class='op'>=</span> <span class='va'>startwip</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>/</span> <span class='va'>timetocomplete</span>
+  <span class='va'>endwip</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>startwip</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>building</span> <span class='op'>-</span> <span class='va'>finishing</span>
+  
+  
+  <span class='va'>endhouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>=</span> <span class='va'>starthouses</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>finishing</span>
+  
+<span class='op'>}</span>
+
+
+<span class='va'>df</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"houses"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endhouses</span><span class='op'>)</span>,
+  <span class='st'>"time"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>df</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>houses</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/hrbrthemes/man/theme_ipsum.html'>theme_ipsum</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-13-1.png" width="624" /></p>
+</div>
+<h1 id="example-8-customers-in-store">Example 8: Customers In Store</h1>
+<p>Similar example to money in the bank, but now both the inflow and outflow (not just the inflow) will be proportional to the level of the stock.</p>
+<p><img src="images/customers.png" style="width:80.0%" /></p>
+<p>Growth Fraction:</p>
+<ul>
+<li>7%, then 3%, then 1%</li>
+</ul>
+<p>Decline Fraction:</p>
+<ul>
+<li>3% throughout</li>
+</ul>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>30</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## customers</span>
+<span class='va'>startcustomers</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endcustomers</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## customers</span>
+<span class='va'>startcustomers</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>5</span>
+<span class='va'>endcustomers</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcustomers</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># constants</span>
+<span class='co'>## decline fraction</span>
+<span class='va'>decline</span> <span class='op'>&lt;-</span> <span class='fl'>0.03</span>
+
+
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>startcustomers</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endcustomers</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='kw'>if</span><span class='op'>(</span><span class='va'>i</span> <span class='op'>&lt;</span> <span class='fl'>11</span><span class='op'>)</span><span class='op'>{</span>
+    <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.07</span>
+  <span class='op'>}</span><span class='kw'>else</span> <span class='kw'>if</span><span class='op'>(</span><span class='va'>i</span> <span class='op'>&gt;</span> <span class='fl'>10</span> <span class='op'>&amp;&amp;</span> <span class='va'>i</span> <span class='op'>&lt;</span> <span class='fl'>21</span><span class='op'>)</span><span class='op'>{</span>
+    <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.03</span>
+  <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
+    <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.01</span>
+  <span class='op'>}</span>
+  
+  <span class='va'>losses</span> <span class='op'>&lt;-</span> <span class='va'>startcustomers</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>*</span><span class='va'>decline</span>
+  <span class='va'>recruits</span> <span class='op'>&lt;-</span> <span class='va'>startcustomers</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>*</span><span class='va'>growth</span>
+  
+  <span class='va'>endcustomers</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startcustomers</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>recruits</span> <span class='op'>-</span> <span class='va'>losses</span>
+  
+  
+<span class='op'>}</span>
+
+<span class='va'>dfcustomers</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"customers"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>endcustomers</span><span class='op'>)</span>,
+  <span class='st'>"minutes"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfcustomers</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>minutes</span>, y <span class='op'>=</span> <span class='va'>customers</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/hrbrthemes/man/theme_ipsum.html'>theme_ipsum</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-14-1.png" width="624" /></p>
+</div>
+<h1 id="example-9-sir-disease-model">Example 9: SIR Disease Model</h1>
+<p><img src="images/sir.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+<span class='va'>time</span> <span class='op'>&lt;-</span> <span class='fl'>100</span>
+
+<span class='co'># stock storehouses - start and end for each stock</span>
+<span class='co'>## susceptible</span>
+<span class='va'>starts</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>ends</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='co'>## infected</span>
+<span class='va'>starti</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endi</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='co'>## recovered</span>
+<span class='va'>startr</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+<span class='va'>endr</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/numeric.html'>numeric</a></span><span class='op'>(</span><span class='va'>time</span><span class='op'>)</span>
+
+<span class='co'># initial conditions in each stock</span>
+<span class='co'>## susceptible</span>
+<span class='va'>starts</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>99</span>
+<span class='va'>ends</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>starts</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+<span class='co'>## infected</span>
+<span class='va'>starti</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+<span class='va'>endi</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>starti</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span>
+<span class='co'>## recovered</span>
+<span class='va'>startr</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>endr</span><span class='op'>[</span><span class='fl'>1</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+
+<span class='co'># constants</span>
+<span class='co'>## infection rate, or fraction infected from contact</span>
+<span class='va'>infectionrate</span> <span class='op'>&lt;-</span> <span class='fl'>0.8</span>
+<span class='co'>## contact rate, or fraction of people (infected and susceptible) who touch</span>
+<span class='va'>contactrate</span> <span class='op'>&lt;-</span> <span class='fl'>0.5</span>
+<span class='co'>## recovery rate</span>
+<span class='va'>recoveryrate</span> <span class='op'>&lt;-</span> <span class='fl'>0.3</span>
+<span class='co'>## delay</span>
+<span class='va'>delay</span> <span class='op'>&lt;-</span> <span class='fl'>2</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='co'># start stocks at period i are ending stocks at period i-1</span>
+  <span class='va'>starts</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>ends</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>starti</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endi</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  <span class='va'>startr</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>endr</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+  
+  <span class='co'># model system</span>
+  <span class='va'>totalpopulation</span> <span class='op'>&lt;-</span> <span class='va'>starts</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>starti</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>fractionofpopulationinfected</span> <span class='op'>&lt;-</span> <span class='va'>totalpopulation</span> <span class='op'>/</span> <span class='va'>starti</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span>
+  <span class='va'>contacts</span> <span class='op'>&lt;-</span> <span class='op'>(</span><span class='va'>fractionofpopulationinfected</span> <span class='op'>+</span> <span class='va'>starts</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>)</span><span class='op'>*</span><span class='va'>contactrate</span>
+  <span class='va'>fractioninfected</span> <span class='op'>&lt;-</span> <span class='va'>contacts</span><span class='op'>*</span><span class='va'>infectionrate</span>
+  <span class='va'>catch_disease</span> <span class='op'>&lt;-</span> <span class='fl'>0.2</span><span class='op'>*</span><span class='va'>fractioninfected</span>
+  <span class='va'>recovering</span> <span class='op'>&lt;-</span> <span class='fl'>0.2</span><span class='op'>*</span><span class='op'>(</span><span class='va'>starti</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span><span class='op'>*</span><span class='va'>recoveryrate</span> <span class='op'>/</span> <span class='va'>delay</span><span class='op'>)</span>
+  
+  <span class='va'>ends</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>starts</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>catch_disease</span>
+  <span class='va'>endi</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>starti</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>-</span> <span class='va'>recovering</span> <span class='op'>+</span> <span class='va'>catch_disease</span>
+  <span class='va'>endr</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>startr</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>+</span> <span class='va'>recovering</span>
+  
+<span class='op'>}</span>
+
+<span class='va'>dfsir</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span>
+  <span class='st'>"people"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>ends</span>,
+               <span class='va'>endi</span>,
+               <span class='va'>endr</span><span class='op'>)</span>,
+  <span class='st'>"time"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>,
+  <span class='st'>"var"</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Suseptible"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Infected"</span>, <span class='va'>time</span><span class='op'>)</span>,
+            <span class='fu'><a href='https://rdrr.io/r/base/rep.html'>rep</a></span><span class='op'>(</span><span class='st'>"Recovered"</span>, <span class='va'>time</span><span class='op'>)</span><span class='op'>)</span>
+<span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>dfsir</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>people</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/labs.html'>labs</a></span><span class='op'>(</span>color <span class='op'>=</span> <span class='st'>""</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-15-1.png" width="624" /></p>
+</div>
+<h1 id="examples-using-continuous-time-modeling">Examples Using Continuous Time Modeling</h1>
+<p>Room Temperature</p>
+<p><img src="images/furnace.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://desolve.r-forge.r-project.org/'>deSolve</a></span><span class='op'>)</span>
+
+<span class='va'>start</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>finish</span> <span class='op'>&lt;-</span> <span class='fl'>51</span>
+<span class='va'>step</span> <span class='op'>&lt;-</span> <span class='fl'>0.25</span>
+<span class='va'>simtime</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/seq.html'>seq</a></span><span class='op'>(</span><span class='va'>start</span>, <span class='va'>finish</span>, by <span class='op'>=</span> <span class='va'>step</span><span class='op'>)</span>
+
+<span class='va'>stocks</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>room <span class='op'>=</span> <span class='fl'>0.4</span><span class='op'>)</span>
+
+<span class='va'>auxs</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>thermostat <span class='op'>=</span> <span class='fl'>2</span><span class='op'>)</span>
+
+<span class='va'>model</span> <span class='op'>&lt;-</span> <span class='kw'>function</span><span class='op'>(</span><span class='va'>time</span>, <span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='fu'><a href='https://rdrr.io/r/base/with.html'>with</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>as.list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>)</span>, <span class='op'>{</span>
+    
+    <span class='va'>outside</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/Trig.html'>cos</a></span><span class='op'>(</span><span class='fl'>0.11</span><span class='op'>*</span><span class='va'>time</span><span class='op'>)</span>
+    <span class='va'>difference_outroom</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/MathFun.html'>abs</a></span><span class='op'>(</span><span class='va'>outside</span> <span class='op'>-</span> <span class='va'>room</span><span class='op'>)</span>
+    <span class='va'>heatloss</span> <span class='op'>&lt;-</span> <span class='va'>difference_outroom</span>
+    
+    <span class='va'>difference_thermoroom</span> <span class='op'>&lt;-</span> <span class='va'>thermostat</span> <span class='op'>-</span> <span class='va'>room</span>
+    <span class='va'>heatin</span> <span class='op'>&lt;-</span> <span class='va'>difference_thermoroom</span>
+    
+    <span class='va'>droom</span> <span class='op'>&lt;-</span> <span class='va'>heatin</span> <span class='op'>-</span> <span class='va'>heatloss</span>
+    
+    <span class='kw'><a href='https://rdrr.io/r/base/function.html'>return</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>droom</span><span class='op'>)</span>,
+           out <span class='op'>=</span> <span class='va'>outside</span>,
+           thermostat <span class='op'>=</span> <span class='va'>thermostat</span><span class='op'>)</span><span class='op'>)</span>
+    
+    
+  <span class='op'>}</span><span class='op'>)</span>
+  
+  
+<span class='op'>}</span>
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/deSolve/man/ode.html'>ode</a></span><span class='op'>(</span>y <span class='op'>=</span> <span class='va'>stocks</span>, times <span class='op'>=</span> <span class='va'>simtime</span>, 
+                    func <span class='op'>=</span> <span class='va'>model</span>,
+                    parms <span class='op'>=</span> <span class='va'>auxs</span>,
+                    method <span class='op'>=</span> <span class='st'>"euler"</span><span class='op'>)</span><span class='op'>)</span>
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://tidyverse.tidyverse.org'>tidyverse</a></span><span class='op'>)</span>
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='va'>o</span> <span class='op'><a href='https://rdrr.io/pkg/magrittr/man/pipe.html'>%&gt;%</a></span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/tidyr/man/pivot_longer.html'>pivot_longer</a></span><span class='op'>(</span>cols <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>room</span>, <span class='va'>out</span>, <span class='va'>thermostat</span><span class='op'>)</span>,
+               names_to <span class='op'>=</span> <span class='st'>"var"</span>,
+               values_to <span class='op'>=</span> <span class='st'>"temperature"</span><span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>o</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>temperature</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-16-1.png" width="624" /></p>
+</div>
+<p>Car Inventory</p>
+<p><img src="images/cars.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://desolve.r-forge.r-project.org/'>deSolve</a></span><span class='op'>)</span>
+
+<span class='va'>start</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>finish</span> <span class='op'>&lt;-</span> <span class='fl'>3</span>
+<span class='va'>step</span> <span class='op'>&lt;-</span> <span class='fl'>0.25</span>
+<span class='va'>simtime</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/seq.html'>seq</a></span><span class='op'>(</span><span class='va'>start</span>, <span class='va'>finish</span>, by <span class='op'>=</span> <span class='va'>step</span><span class='op'>)</span>
+
+<span class='va'>stocks</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>
+  cars <span class='op'>=</span> <span class='fl'>78</span>,
+  que <span class='op'>=</span> <span class='fl'>0</span><span class='op'>)</span>
+
+<span class='va'>auxs</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>
+  desired_inventory <span class='op'>=</span> <span class='fl'>100</span>,
+  time_to_ship <span class='op'>=</span> <span class='fl'>1</span>,
+  time_to_recieve <span class='op'>=</span> <span class='fl'>0.1</span>,
+  <span class='va'>sales</span> <span class='op'>&lt;-</span> <span class='fl'>18</span>
+<span class='op'>)</span>
+
+<span class='va'>model</span> <span class='op'>&lt;-</span> <span class='kw'>function</span><span class='op'>(</span><span class='va'>time</span>, <span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='fu'><a href='https://rdrr.io/r/base/with.html'>with</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>as.list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>)</span>, <span class='op'>{</span>
+    
+    <span class='va'>need_for_cars</span> <span class='op'>&lt;-</span> <span class='va'>desired_inventory</span> <span class='op'>-</span> <span class='va'>cars</span>
+    <span class='va'>building</span> <span class='op'>&lt;-</span> <span class='va'>need_for_cars</span> <span class='op'>/</span> <span class='va'>time_to_recieve</span>
+    <span class='va'>arrivals</span> <span class='op'>&lt;-</span> <span class='va'>que</span> <span class='op'>/</span> <span class='va'>time_to_ship</span>
+    
+    <span class='va'>dcars</span> <span class='op'>&lt;-</span> <span class='va'>building</span> <span class='op'>-</span> <span class='va'>arrivals</span>
+    <span class='va'>dque</span> <span class='op'>&lt;-</span> <span class='va'>arrivals</span> <span class='op'>-</span> <span class='va'>sales</span>
+    
+    <span class='kw'><a href='https://rdrr.io/r/base/function.html'>return</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>dcars</span>, <span class='va'>dque</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
+    
+    
+    
+    
+    
+  <span class='op'>}</span><span class='op'>)</span>
+  
+  
+<span class='op'>}</span>
+
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/deSolve/man/ode.html'>ode</a></span><span class='op'>(</span>y <span class='op'>=</span> <span class='va'>stocks</span>, times <span class='op'>=</span> <span class='va'>simtime</span>, 
+                    func <span class='op'>=</span> <span class='va'>model</span>, parms <span class='op'>=</span> <span class='va'>auxs</span>, method <span class='op'>=</span> <span class='st'>"euler"</span><span class='op'>)</span><span class='op'>)</span>
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>o</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>cars</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_path.html'>geom_line</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-17-1.png" width="624" /></p>
+</div>
+<p>Customers in Store</p>
+<p><img src="images/customers.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://desolve.r-forge.r-project.org/'>deSolve</a></span><span class='op'>)</span>
+
+<span class='va'>start</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>finish</span> <span class='op'>&lt;-</span> <span class='fl'>10</span>
+<span class='va'>step</span> <span class='op'>&lt;-</span> <span class='fl'>0.25</span>
+<span class='va'>simtime</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/seq.html'>seq</a></span><span class='op'>(</span><span class='va'>start</span>, <span class='va'>finish</span>, by <span class='op'>=</span> <span class='va'>step</span><span class='op'>)</span>
+
+<span class='va'>stocks</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>customers <span class='op'>=</span> <span class='fl'>5</span><span class='op'>)</span>
+
+<span class='va'>auxs</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>decline <span class='op'>=</span> <span class='fl'>0.03</span><span class='op'>)</span>
+
+<span class='va'>model</span> <span class='op'>&lt;-</span> <span class='kw'>function</span><span class='op'>(</span><span class='va'>time</span>, <span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='fu'><a href='https://rdrr.io/r/base/with.html'>with</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>as.list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>)</span>, <span class='op'>{</span>
+    
+    <span class='kw'>if</span><span class='op'>(</span><span class='va'>time</span> <span class='op'>&lt;</span> <span class='fl'>3</span><span class='op'>)</span><span class='op'>{</span>
+      <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.07</span>
+    <span class='op'>}</span><span class='kw'>else</span> <span class='kw'>if</span> <span class='op'>(</span><span class='va'>time</span> <span class='op'>&gt;</span> <span class='fl'>2</span> <span class='op'>&amp;&amp;</span> <span class='va'>time</span> <span class='op'>&lt;</span> <span class='fl'>6</span><span class='op'>)</span> <span class='op'>{</span>
+      <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.03</span>
+    <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
+      <span class='va'>growth</span> <span class='op'>&lt;-</span> <span class='fl'>0.01</span>
+    <span class='op'>}</span>
+    
+    <span class='va'>losses</span> <span class='op'>&lt;-</span> <span class='va'>customers</span><span class='op'>*</span><span class='va'>decline</span>
+    <span class='va'>recruits</span> <span class='op'>&lt;-</span> <span class='va'>customers</span><span class='op'>*</span><span class='va'>growth</span>
+    
+    <span class='va'>dcustomers</span> <span class='op'>&lt;-</span> <span class='va'>recruits</span> <span class='op'>-</span> <span class='va'>losses</span>
+    
+    <span class='kw'><a href='https://rdrr.io/r/base/function.html'>return</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>dcustomers</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
+    
+    
+  <span class='op'>}</span><span class='op'>)</span>
+  
+  
+<span class='op'>}</span>
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/deSolve/man/ode.html'>ode</a></span><span class='op'>(</span>y <span class='op'>=</span> <span class='va'>stocks</span>, times <span class='op'>=</span> <span class='va'>simtime</span>, 
+                    func <span class='op'>=</span> <span class='va'>model</span>, parms <span class='op'>=</span> <span class='va'>auxs</span>, method <span class='op'>=</span> <span class='st'>"euler"</span><span class='op'>)</span><span class='op'>)</span>
+
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>o</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>customers</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-18-1.png" width="624" /></p>
+</div>
+<p>Disease Contagion SIR Model</p>
+<p><img src="images/sir.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://desolve.r-forge.r-project.org/'>deSolve</a></span><span class='op'>)</span>
+
+<span class='va'>start</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>finish</span> <span class='op'>&lt;-</span> <span class='fl'>25</span>
+<span class='va'>step</span> <span class='op'>&lt;-</span> <span class='fl'>0.1</span>
+<span class='va'>simtime</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/seq.html'>seq</a></span><span class='op'>(</span><span class='va'>start</span>, <span class='va'>finish</span>, by <span class='op'>=</span> <span class='va'>step</span><span class='op'>)</span>
+
+<span class='va'>stocks</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>susceptible <span class='op'>=</span> <span class='fl'>99</span>,
+            infected <span class='op'>=</span> <span class='fl'>1</span>,
+            recovered <span class='op'>=</span> <span class='fl'>0</span><span class='op'>)</span>
+
+<span class='va'>auxs</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>contactrate <span class='op'>=</span> <span class='fl'>0.5</span>,
+          infectionrate <span class='op'>=</span> <span class='fl'>0.8</span>,
+          recoveryrate <span class='op'>=</span> <span class='fl'>0.3</span>,
+          delay <span class='op'>=</span> <span class='fl'>2</span><span class='op'>)</span>
+
+<span class='va'>model</span> <span class='op'>&lt;-</span> <span class='kw'>function</span><span class='op'>(</span><span class='va'>time</span>, <span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='fu'><a href='https://rdrr.io/r/base/with.html'>with</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>as.list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>)</span>, <span class='op'>{</span>
+    
+    <span class='va'>totalpopulation</span> <span class='op'>&lt;-</span> <span class='va'>susceptible</span> <span class='op'>+</span> <span class='va'>infected</span>
+    <span class='va'>fractionofpopulationinfected</span> <span class='op'>&lt;-</span> <span class='va'>totalpopulation</span> <span class='op'>/</span> <span class='va'>infected</span>
+    <span class='va'>contacts</span> <span class='op'>&lt;-</span> <span class='op'>(</span><span class='va'>fractionofpopulationinfected</span> <span class='op'>+</span> <span class='va'>susceptible</span><span class='op'>)</span><span class='op'>*</span><span class='va'>contactrate</span>
+    <span class='va'>fractioninfected</span> <span class='op'>&lt;-</span> <span class='va'>contacts</span><span class='op'>*</span><span class='va'>infectionrate</span>
+    <span class='va'>catchdisease</span> <span class='op'>&lt;-</span> <span class='va'>fractioninfected</span>
+    <span class='va'>recovering</span> <span class='op'>&lt;-</span> <span class='va'>infected</span><span class='op'>*</span><span class='va'>recoveryrate</span> <span class='op'>/</span> <span class='va'>delay</span>
+    
+    <span class='va'>dsusceptible</span> <span class='op'>&lt;-</span> <span class='op'>-</span><span class='va'>catchdisease</span>
+    <span class='va'>dinfected</span> <span class='op'>&lt;-</span> <span class='va'>catchdisease</span> <span class='op'>-</span> <span class='va'>recovering</span>
+    <span class='va'>drecovered</span> <span class='op'>&lt;-</span> <span class='va'>recovering</span>
+    
+    <span class='kw'><a href='https://rdrr.io/r/base/function.html'>return</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>dsusceptible</span>, 
+                  <span class='va'>dinfected</span>,
+                  <span class='va'>drecovered</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
+    
+    
+  <span class='op'>}</span><span class='op'>)</span>
+  
+  
+  
+<span class='op'>}</span>
+
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/deSolve/man/ode.html'>ode</a></span><span class='op'>(</span>y <span class='op'>=</span> <span class='va'>stocks</span>, times <span class='op'>=</span> <span class='va'>simtime</span>,
+                    func <span class='op'>=</span> <span class='va'>model</span>,
+                    parms <span class='op'>=</span> <span class='va'>auxs</span>,
+                    method <span class='op'>=</span> <span class='st'>"euler"</span><span class='op'>)</span><span class='op'>)</span>
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://tidyverse.tidyverse.org'>tidyverse</a></span><span class='op'>)</span>
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='va'>o</span> <span class='op'><a href='https://rdrr.io/pkg/magrittr/man/pipe.html'>%&gt;%</a></span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/tidyr/man/pivot_longer.html'>pivot_longer</a></span><span class='op'>(</span>cols <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>susceptible</span>, 
+                        <span class='va'>infected</span>,
+                        <span class='va'>recovered</span><span class='op'>)</span>,
+               names_to <span class='op'>=</span> <span class='st'>"var"</span>,
+               values_to <span class='op'>=</span> <span class='st'>"val"</span><span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>o</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>val</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-19-1.png" width="624" /></p>
+</div>
+<p>Multiple Goal Self-Regulation</p>
+<p><img src="images/multiple-goals.png" style="width:80.0%" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://desolve.r-forge.r-project.org/'>deSolve</a></span><span class='op'>)</span>
+
+<span class='va'>start</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+<span class='va'>finish</span> <span class='op'>&lt;-</span> <span class='fl'>5</span>
+<span class='va'>step</span> <span class='op'>&lt;-</span> <span class='fl'>1</span>
+<span class='va'>simtime</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/seq.html'>seq</a></span><span class='op'>(</span><span class='va'>start</span>, <span class='va'>finish</span>, by <span class='op'>=</span> <span class='va'>step</span><span class='op'>)</span>
+
+<span class='va'>stocks</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>
+  g1_performance <span class='op'>=</span> <span class='fl'>23</span>,
+  g2_performance <span class='op'>=</span> <span class='fl'>1</span>
+<span class='op'>)</span>
+
+<span class='va'>auxs</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span>
+  g1_desire <span class='op'>=</span> <span class='fl'>25</span>,
+  g2_desire <span class='op'>=</span> <span class='fl'>25</span>
+<span class='op'>)</span>
+
+<span class='va'>model</span> <span class='op'>&lt;-</span> <span class='kw'>function</span><span class='op'>(</span><span class='va'>time</span>, <span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>{</span>
+  
+  <span class='fu'><a href='https://rdrr.io/r/base/with.html'>with</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>as.list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>stocks</span>, <span class='va'>auxs</span><span class='op'>)</span><span class='op'>)</span>, <span class='op'>{</span>
+    
+    <span class='va'>differenceg1</span> <span class='op'>&lt;-</span> <span class='va'>g1_desire</span> <span class='op'>-</span> <span class='va'>g1_performance</span>
+    <span class='va'>differenceg2</span> <span class='op'>&lt;-</span> <span class='va'>g2_desire</span> <span class='op'>-</span> <span class='va'>g2_performance</span>
+    
+    <span class='va'>behavioral_choice</span> <span class='op'>=</span> <span class='cn'>NULL</span>
+    <span class='kw'>if</span><span class='op'>(</span><span class='va'>differenceg1</span> <span class='op'>&gt;</span> <span class='va'>differenceg2</span><span class='op'>)</span><span class='op'>{</span>
+      <span class='va'>behavioral_choice</span> <span class='op'>&lt;-</span> <span class='st'>"g1"</span>
+    <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
+      <span class='va'>behavioral_choice</span> <span class='op'>&lt;-</span> <span class='st'>"g2"</span>
+    <span class='op'>}</span>
+    
+    <span class='va'>inputg1</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+    <span class='va'>inputg2</span> <span class='op'>&lt;-</span> <span class='fl'>0</span>
+    <span class='kw'>if</span><span class='op'>(</span><span class='va'>behavioral_choice</span> <span class='op'>==</span> <span class='st'>"g1"</span><span class='op'>)</span><span class='op'>{</span>
+      <span class='va'>inputg1</span> <span class='op'>&lt;-</span> <span class='va'>differenceg1</span> <span class='op'>*</span> <span class='fl'>0.5</span> <span class='op'>+</span> <span class='fu'><a href='https://rdrr.io/r/stats/Normal.html'>rnorm</a></span><span class='op'>(</span><span class='fl'>1</span>, <span class='fl'>0</span>, <span class='fl'>0.1</span><span class='op'>)</span>
+    <span class='op'>}</span><span class='kw'>else</span><span class='op'>{</span>
+      <span class='va'>inputg2</span> <span class='op'>&lt;-</span> <span class='va'>differenceg2</span> <span class='op'>*</span> <span class='fl'>0.5</span> <span class='op'>+</span> <span class='fu'><a href='https://rdrr.io/r/stats/Normal.html'>rnorm</a></span><span class='op'>(</span><span class='fl'>1</span>, <span class='fl'>0</span>, <span class='fl'>0.1</span><span class='op'>)</span>
+    <span class='op'>}</span>
+    
+    <span class='va'>dg1_performance</span> <span class='op'>=</span> <span class='va'>inputg1</span>
+    <span class='va'>dg2_performance</span> <span class='op'>=</span> <span class='va'>inputg2</span>
+    
+    <span class='kw'><a href='https://rdrr.io/r/base/function.html'>return</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>dg1_performance</span>, <span class='va'>dg2_performance</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
+    
+    
+  <span class='op'>}</span><span class='op'>)</span>
+  
+  
+  
+<span class='op'>}</span>
+
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/pkg/deSolve/man/ode.html'>ode</a></span><span class='op'>(</span>y <span class='op'>=</span> <span class='va'>stocks</span>, times <span class='op'>=</span> <span class='va'>simtime</span>,
+                    func <span class='op'>=</span> <span class='va'>model</span>, 
+                    parms <span class='op'>=</span> <span class='va'>auxs</span>,
+                    method <span class='op'>=</span> <span class='st'>"euler"</span><span class='op'>)</span><span class='op'>)</span>
+
+
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://tidyverse.tidyverse.org'>tidyverse</a></span><span class='op'>)</span>
+<span class='va'>o</span> <span class='op'>&lt;-</span> <span class='va'>o</span> <span class='op'><a href='https://rdrr.io/pkg/magrittr/man/pipe.html'>%&gt;%</a></span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/tidyr/man/pivot_longer.html'>pivot_longer</a></span><span class='op'>(</span>cols <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='va'>g1_performance</span>, <span class='va'>g2_performance</span><span class='op'>)</span>,
+               names_to <span class='op'>=</span> <span class='st'>"var"</span>,
+               values_to <span class='op'>=</span> <span class='st'>"performance"</span><span class='op'>)</span>
+
+<span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>o</span>, <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='va'>time</span>, y <span class='op'>=</span> <span class='va'>performance</span>, color <span class='op'>=</span> <span class='va'>var</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> 
+  <span class='fu'><a href='https://rdrr.io/pkg/ggplot2/man/geom_point.html'>geom_point</a></span><span class='op'>(</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="systems-zoo_files/figure-html5/unnamed-chunk-20-1.png" width="624" /></p>
+</div>
+<h1 id="summary-steps">Summary Steps</h1>
+<ol type="1">
+<li><p><a href="https://app.diagrams.net/">Build Image</a></p></li>
+<li><p>Save image with a file size of 500%</p></li>
+<li><p>When rendering Rmarkdown, use <code>![](images/file.png){width=80%}</code></p></li>
+<li><p>Write simulation code</p></li>
+</ol>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='co'># time</span>
+
+<span class='co'># stocks</span>
+<span class='va'>start</span>
+<span class='va'>end</span>
+
+<span class='co'># constants</span>
+
+<span class='co'># iterate</span>
+<span class='kw'>for</span><span class='op'>(</span><span class='va'>i</span> <span class='kw'>in</span> <span class='fl'>2</span><span class='op'>:</span><span class='va'>time</span><span class='op'>)</span>
+  
+  <span class='co'>## begin loop with stock connections</span>
+  <span class='va'>start</span><span class='op'>[</span><span class='va'>i</span><span class='op'>]</span> <span class='op'>&lt;-</span> <span class='va'>end</span><span class='op'>[</span><span class='va'>i</span> <span class='op'>-</span> <span class='fl'>1</span><span class='op'>]</span>
+
+<span class='co'># model system notes</span>
+<span class='co'>## rates are multiplied</span>
+<span class='co'>## delays are divisors</span>
+
+<span class='co'># always plot the end stock</span>
+</code></pre>
+</div>
+</div>
+<h2 id="drawing-stock-and-flow-diagrams">Drawing Stock and Flow Diagrams</h2>
+<ul>
+<li><p>Odd number of negative relationships in the loop = balancing</p></li>
+<li><p>If an effect is proportional to the stock’s level, then draw an arrow from the stock to that effect</p></li>
+<li><p>When modeling delays, sometimes it is easier to include an “in queue” stock rather than a node effect</p></li>
+</ul>
+<p>Bo<span class="math inline">\(^2\)</span>m =)</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<!--radix_placeholder_article_footer-->
+<!--/radix_placeholder_article_footer-->
+</div>
+
+<div class="d-appendix">
+</div>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+<!--radix_placeholder_site_after_body-->
+<!--/radix_placeholder_site_after_body-->
+<!--radix_placeholder_appendices-->
+<div class="appendix-bottom"></div>
+<!--/radix_placeholder_appendices-->
+<!--radix_placeholder_navigation_after_body-->
+<!--/radix_placeholder_navigation_after_body-->
+
+</body>
+
+</html>
