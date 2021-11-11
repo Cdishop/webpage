@@ -76,7 +76,8 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
-/* Change the appearance of in-line code chunks */
-code {
-  color: #F6FFEE;
+/* Scroll horizontally when code is too wide (e.g URLs) */
+
+d-article div.sourceCode pre {
+  overflow-x: auto !important;
 }
