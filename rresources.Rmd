@@ -176,6 +176,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Text Mining](https://juliasilge.shinyapps.io/learntidytext/#section-introduction)
 
+[Tidy Workflow via MplusAutomation](https://garberadamc.github.io/project-site/)
+
 ### Progressing Through Stats with R
 
 [Basics of R and R Markdown](https://ismayc.github.io/rbasics-book/index.html)
@@ -257,6 +259,8 @@ knitr::opts_chunk$set(echo = FALSE)
 [Exporting .tex to word with pandoc](https://jabranham.com/blog/2016/11/using-pandoc-export-to-word/)
 
 [Word Count on PDF From Terminal](https://apple.stackexchange.com/questions/252362/how-do-i-count-words-in-a-pdf-file-on-os-x)
+
+[Julia Data Science](https://juliadatascience.io/)
 
 ### So helpful they deserve their own category
 
