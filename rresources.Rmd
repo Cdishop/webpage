@@ -28,7 +28,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Emily C. Zabor](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
 
-[Jenny Bryan](https://jennybryan.org)  
+[Jenny Bryan](https://jennybryan.org)
+
+[Matt Howard](https://mattchoward.com/statistics-help-2/)
 
 [Kristoffer Magnusson](https://rpsychologist.com)
 
@@ -119,6 +121,8 @@ knitr::opts_chunk$set(echo = FALSE)
 [R club](https://blogs.uoregon.edu/rclub/)
 
 [Various Linear Model Tests in R](https://www.zoology.ubc.ca/~schluter/R/fit-model/)
+
+[lmer for Longitudinal Models](https://rpsychologist.com/r-guide-longitudinal-lme-lmer?fbclid=IwAR3gnlvo-X0Yx-DYRomowhXgI_fNzLyNL1M7EPkjc7_uccq3OngxW9e7tCg)
 
 [ANOVA and MANOVA](https://www.statmethods.net/stats/anova.html)
 
