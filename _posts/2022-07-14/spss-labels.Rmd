@@ -1,0 +1,26 @@
+---
+title: "Save SPSS Labels"
+date: 2022-07-14
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+```{r, message = F, warning = F, eval = F}
+
+library(foreign)
+df <- read.spss('data.sav', to.data.frame=T)
+dflabels <- as.data.frame(attr(df, "variable.labels"))
+
+
+```
+
+
+
+Bo$^2$m =)

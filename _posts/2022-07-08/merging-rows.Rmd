@@ -1,0 +1,45 @@
+---
+title: "Merging Row Issue"
+date: 2022-06-10
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Repeated values cause unexpected data lengthening when merging.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+library(tidyverse)
+library(dplyr)
+library(kableExtra)
+
+```
+
+```{r, message = F, warning = F}
+df1 <- data.frame(col1 = LETTERS[1:4],
+                  col2 = 1:4)
+
+df1 %>% kable() %>% kable_styling()
+
+```
+
+
+```{r, message = F, warning = F}
+df2 <- data.frame(col1 = rep(LETTERS[1:2], 2),
+                  col3 = 4:1)
+
+df2 %>% kable() %>% kable_styling()
+```
+
+I might expect four rows after merging, but instead I get six. 
+
+```{r, message = F, warning = F}
+df <- left_join(df1, df2) 
+
+df %>% kable() %>% kable_styling()
+
+```
+
+
+Bo$^2$m =)

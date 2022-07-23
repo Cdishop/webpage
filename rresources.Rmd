@@ -102,6 +102,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Brendan Cullen Courses](https://bcullen.rbind.io/courses/)
 
+[D Yurovsky CMU Course](https://github.com/dyurovsky/85309)
+
 [NICAR 2018](https://paldhous.github.io/NICAR/2018/r-analysis.html)
 
 [Adventures in R](https://www.adventures-in-r.com/#logistics)
@@ -113,6 +115,8 @@ knitr::opts_chunk$set(echo = FALSE)
 [US Census Data with R](https://walker-data.com/census-r/index.html)
 
 [Statistical Inference via Data Science](https://moderndive.com/index.html)
+
+[bmb Stats](https://mladenjovanovic.github.io/bmbstats-book/)
 
 ### Random
 
