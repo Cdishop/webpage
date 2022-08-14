@@ -1,0 +1,39 @@
+---
+title: "Create DF"
+date: 2022-08-10
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F, cache = T)
+```
+
+A few exercises in creating data frames. 
+
+# 1
+
+```{r}
+df <- data.frame(
+  'a' = c(seq(1:5)),
+  'b' = c(seq(11:15))
+)
+```
+
+
+# 2
+
+```{r}
+
+col1 <- c(seq(1:5))
+col2 <- c(seq(11:15))
+df2 <- data.frame(
+  'a' = c(col1),
+  'b' = c(col2)
+)
+```
+
+
+Bo$^2$m =)
