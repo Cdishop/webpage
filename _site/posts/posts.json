@@ -1,5 +1,41 @@
 [
   {
+    "path": "posts/2022-08-30/",
+    "title": "Time Series - Create first differences by group",
+    "description": {},
+    "author": [],
+    "date": "2022-08-30",
+    "categories": [],
+    "contents": "\n\n\nlibrary(tidyverse)\nlibrary(kableExtra)\n\ndf <- data.frame(\n 'time' = c(1, 2, 3, 1, 2, 3, 1, 2, 3),\n 'id' = c(1, 1, 1, 2, 2, 2, 3, 3, 3),\n 'score' = c(rnorm(9, 10, 2))\n)\n\ndf <- df %>% \n  group_by(id) %>% mutate(lagscore = lag(score)) %>% \n  mutate(diffscore = score - lagscore)\n\ndf %>% kable() %>% kable_styling()\n\n\n\ntime\n\n\nid\n\n\nscore\n\n\nlagscore\n\n\ndiffscore\n\n\n1\n\n\n1\n\n\n8.381000\n\n\nNA\n\n\nNA\n\n\n2\n\n\n1\n\n\n9.016563\n\n\n8.381000\n\n\n0.6355627\n\n\n3\n\n\n1\n\n\n10.187045\n\n\n9.016563\n\n\n1.1704821\n\n\n1\n\n\n2\n\n\n8.388847\n\n\nNA\n\n\nNA\n\n\n2\n\n\n2\n\n\n12.958878\n\n\n8.388847\n\n\n4.5700310\n\n\n3\n\n\n2\n\n\n13.313880\n\n\n12.958878\n\n\n0.3550016\n\n\n1\n\n\n3\n\n\n13.206961\n\n\nNA\n\n\nNA\n\n\n2\n\n\n3\n\n\n10.130180\n\n\n13.206961\n\n\n-3.0767809\n\n\n3\n\n\n3\n\n\n8.783671\n\n\n10.130180\n\n\n-1.3465091\n\n\nBo\\(^2\\)m =)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-08-30T19:09:25-04:00",
+    "input_file": "difference-by-group.knit.md"
+  },
+  {
+    "path": "posts/2022-08-29/",
+    "title": "Common Kable Commands",
+    "description": {},
+    "author": [],
+    "date": "2022-08-29",
+    "categories": [],
+    "contents": "\n\n\nlibrary(kableExtra)\ndf %>% select(condition.agent.name, sscore, seffort, sstrategy, sskill, team_active, team_idle, team_fdelay, team) %>% \n  mutate_if(is.numeric, format, digits = 3) %>% \n  # change column names\n  kable(col.names = c( \n    'Agent', \n    'Score',\n    'Effort',\n    'Strategy',\n    'Skill Use',\n    'Concurrent Activity',\n    'Concurrent Idle',\n    'Functional Delay',\n    'Team'\n  )) %>% kable_styling() %>% \n  # row characteristics based on values\n  row_spec(which(df$sscore > 800), background = 'tan') %>% \n  # column characteristics\n  column_spec(2, width = \"30em\", background = \"yellow\") %>% \n  # row characteristics\n  row_spec(3:5, bold = T, color = \"white\", background = \"#D7261E\")\n\n\n\nBo\\(^2\\)m =)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-08-30T19:09:44-04:00",
+    "input_file": "common-kable.knit.md"
+  },
+  {
+    "path": "posts/2022-08-20/",
+    "title": "Correlation Plots",
+    "description": {},
+    "author": [],
+    "date": "2022-08-20",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n# http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram\n\n# option 1\n\nlibrary(corrr)\ndf %>% dplyr::select(-team) %>% corrr::correlate() %>% \n  corrr::rearrange(method = \"MDS\", absolute = F) %>% \n  corrr::shave() %>% \n  corrr::rplot(shape = 19, colors = c(\"red\", \"green\")) + \n  theme(axis.text.x = element_text(angle = 69, hjust = 1))\n\n\n\n\n\n\n# option 2 - x on non-significant effects\n\nlibrary(rstatix)\nmydata <- df %>% \n  dplyr::select(-team)\n\ncor.mat <- mydata %>% cor_mat()\ncor.mat %>% \n  cor_reorder() %>% \n  pull_lower_triangle() %>% \n  cor_plot(label = T)\n\n\n\n\n\n\n# option 3 - blank on non significant effects\n\nlibrary(corrplot)\nres <- df %>% dplyr::select(-team) %>% cor()\ncorrplot(res, type = \"upper\", order = \"hclust\", \n         tl.col = \"black\", tl.srt = 45)\n\n\n\n\nBo\\(^2\\)m =)\n\n\n\n",
+    "preview": "posts/2022-08-20/corr-plots_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2022-08-30T19:26:36-04:00",
+    "input_file": "corr-plots.knit.md"
+  },
+  {
     "path": "posts/2022-07-14/",
     "title": "Save SPSS Labels",
     "description": {},

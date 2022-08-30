@@ -1,0 +1,36 @@
+---
+title: "Time Series - Create first differences by group"
+date: 2022-08-30
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+```{r, message = F}
+
+library(tidyverse)
+library(kableExtra)
+
+df <- data.frame(
+ 'time' = c(1, 2, 3, 1, 2, 3, 1, 2, 3),
+ 'id' = c(1, 1, 1, 2, 2, 2, 3, 3, 3),
+ 'score' = c(rnorm(9, 10, 2))
+)
+
+df <- df %>% 
+  group_by(id) %>% mutate(lagscore = lag(score)) %>% 
+  mutate(diffscore = score - lagscore)
+
+df %>% kable() %>% kable_styling()
+
+```
+
+
+
+Bo$^2$m =)

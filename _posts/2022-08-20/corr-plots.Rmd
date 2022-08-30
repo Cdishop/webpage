@@ -1,0 +1,77 @@
+---
+title: "Correlation Plots"
+date: 2022-08-20
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+```{r, message = F, waring = F, echo = F}
+library(tidyverse)
+people <- 500
+df <- data.frame(
+  'cohesion' = rnorm(people, 0, 2),
+  'team' = c(rep('a', 250),
+             rep('b', 250))
+)
+df <- df %>% mutate(performance = 0.4*cohesion + rnorm(people, 0, 2),
+                    satisfaction = -0.8*cohesion + rnorm(people, 0, 2),
+                    effort = 0*cohesion + rnorm(people, 0, 2))
+
+
+```
+
+
+
+```{r, message = F}
+# http://www.sthda.com/english/wiki/visualize-correlation-matrix-using-correlogram
+
+# option 1
+
+library(corrr)
+df %>% dplyr::select(-team) %>% corrr::correlate() %>% 
+  corrr::rearrange(method = "MDS", absolute = F) %>% 
+  corrr::shave() %>% 
+  corrr::rplot(shape = 19, colors = c("red", "green")) + 
+  theme(axis.text.x = element_text(angle = 69, hjust = 1))
+
+```
+
+```{r, message = F}
+# option 2 - x on non-significant effects
+
+library(rstatix)
+mydata <- df %>% 
+  dplyr::select(-team)
+
+cor.mat <- mydata %>% cor_mat()
+cor.mat %>% 
+  cor_reorder() %>% 
+  pull_lower_triangle() %>% 
+  cor_plot(label = T)
+
+```
+
+
+
+```{r, message = F}
+# option 3 - blank on non significant effects
+
+library(corrplot)
+res <- df %>% dplyr::select(-team) %>% cor()
+corrplot(res, type = "upper", order = "hclust", 
+         tl.col = "black", tl.srt = 45)
+
+```
+
+
+
+
+
+Bo$^2$m =)

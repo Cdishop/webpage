@@ -1,0 +1,46 @@
+---
+title: "Common Kable Commands"
+date: 2022-08-29
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+```{r, message = F, eval = F}
+
+library(kableExtra)
+df %>% select(condition.agent.name, sscore, seffort, sstrategy, sskill, team_active, team_idle, team_fdelay, team) %>% 
+  mutate_if(is.numeric, format, digits = 3) %>% 
+  # change column names
+  kable(col.names = c( 
+    'Agent', 
+    'Score',
+    'Effort',
+    'Strategy',
+    'Skill Use',
+    'Concurrent Activity',
+    'Concurrent Idle',
+    'Functional Delay',
+    'Team'
+  )) %>% kable_styling() %>% 
+  # row characteristics based on values
+  row_spec(which(df$sscore > 800), background = 'tan') %>% 
+  # column characteristics
+  column_spec(2, width = "30em", background = "yellow") %>% 
+  # row characteristics
+  row_spec(3:5, bold = T, color = "white", background = "#D7261E")
+  
+
+
+
+```
+
+
+
+Bo$^2$m =)
