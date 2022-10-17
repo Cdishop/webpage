@@ -1,0 +1,22 @@
+---
+title: "Code Size in Rmarkdown"
+date: 2022-09-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+Use latex commands before and after code chunks to reduce syntax text size. 
+
+Here is an example...
+
+![](small-code.png)
+
+
+Bo$^2$m =)
