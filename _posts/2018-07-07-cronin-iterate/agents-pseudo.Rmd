@@ -1,0 +1,468 @@
+---
+title: "Conflict Agents"
+date: 2018-07-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+```
+
+```{r, message = F, warning = F}
+
+agenta <- data.frame(
+  'na' = c(80),
+  'info' = c(50),
+  'tolerance' = c(100),
+  'solution' = c(60)
+)
+
+agentb <- data.frame(
+  'na' = c(50),
+  'info' = c(20),
+  'tolerance' = c(50),
+  'solution' = c(100)
+)
+
+agentc <- data.frame(
+  'na' = c(10),
+  'info' = c(3),
+  'tolerance' = c(77),
+  'solution' = c(80)
+)
+i <- 1
+iterations <- 50
+
+actions <- data.frame(
+  'expressed' = numeric(iterations),
+  'otherreact1' = numeric(iterations),
+  'otherreact2' = numeric(iterations)
+)
+
+for(period in 1:iterations){
+  
+i <- i + 1
+
+# start counter/time
+
+
+# determine probability that a will express conflict
+
+# with more NA and less tolerance, an agent is more likely to express conflict
+aprob <- agenta[i-1, 'na'] / agenta[1, 'tolerance']
+if(aprob >= 1){aprob = 1}
+agenta_express <- rbinom(1, 1, prob = aprob)
+
+
+
+# does agent a express conflict? 1 = yes
+if(agenta_express == 1){
+  actions[i, 'expressed'] <- 'agent a expressed'
+  
+  # agent a expresses something, which contains both na and info
+  # na is pulled from a uniform distribution between 1 and 10, same for info
+  expressed_na <- runif(1, min = 1, max = 10)
+  expressed_info <- runif(1, min = 1, max = 10)
+  
+  # agent a will not react to his own expression, so fill in his next rows
+  # agent a na and info is the same as it was last time
+  agenta[i, 'na'] <- agenta[i-1, 'na']
+  agenta[i, 'info'] <- agenta[i-1, 'info']
+  
+  
+  
+  #
+  # agent b
+  
+  #
+  # is this expression conflict? 2/3rds tendency toward yes
+  b_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # does b perceive to be implicated? 2/3rds tendency toward yes
+  b_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # b can make one of three perceptions
+  # 1: b does not see the expression as conflict
+  # 2: b sees the expression as conflict but does not believe to be involved
+  # 3: b sees it as conflict and believes to be involved
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  # if 2 (b sees it as conflict but not involved), then update na and info but only by a small amount
+  # if 3 (b sees it as conflict and is involved), then update na and info
+  
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  if(b_is_this_conflict == 'no'){
+    # decreases by an amount drawn from a uniform distribution between 1 and 5
+    agentb[i, 'na'] <- agentb[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    # info stays the same
+    agentb[i, 'info'] <- agentb[i-1, 'info']
+    
+    actions[i, 'otherreact1'] <- 'agent b did not see it as conflict'
+  }
+  
+  
+  
+  # if 2 (b sees it as conflict but is not involved), then b's na and info update but by a small amount
+  if(b_is_this_conflict == 'yes' && b_implicated == 'no'){
+    # b's na is a function of prior na and expressed na (multiplied by 0.5 to make it smaller)
+    agentb[i, 'na'] <- expressed_na*0.5 + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info (multipled by 0.5 to make it smaller)
+    agentb[i, 'info'] <- expressed_info*0.5 + agentb[i - 1, 'info']
+    
+    actions[i, 'otherreact1'] <- 'agent b saw it as conflict but not involved'
+    
+  }
+  
+  # if 3 (b sees it as conflict and is involved), then b's na and info update
+  if(b_is_this_conflict == 'yes' && b_implicated == 'yes'){
+    # b's na is a function of prior na and expressed na
+    agentb[i, 'na'] <- expressed_na + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info
+    agentb[i, 'info'] <- expressed_info + agentb[i - 1, 'info']
+    
+    actions[i, 'otherreact1'] <- 'agent b saw it as conflict & involved'
+  }
+  
+  
+  
+  
+  
+  
+  #
+  # agent c
+  
+  c_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  c_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  if(c_is_this_conflict == 'no'){
+    agentc[i, 'na'] <- agentc[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    agentc[i, 'info'] <- agentc[i-1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c did not see it as conflict'
+  }
+
+    if(c_is_this_conflict == 'yes' && c_implicated == 'no'){
+    agentc[i, 'na'] <- expressed_na*0.5 + agentc[i - 1, 'na']
+    agentc[i, 'info'] <- expressed_info*0.5 + agentc[i - 1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c saw it as conflict but not involved'
+    
+  }
+  
+  if(c_is_this_conflict == 'yes' && c_implicated == 'yes'){
+    agentc[i, 'na'] <- expressed_na + agentc[i - 1, 'na']
+    agentc[i, 'info'] <- expressed_info + agentc[i - 1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c saw it as conflict & involved'
+  }
+  
+  
+  
+  
+}else{
+  agenta[i, 'na'] <- agenta[i-1, 'na']
+  agenta[i, 'info'] <- agenta[i-1, 'info']
+  
+  agentb[i, 'na'] <- agentb[i-1, 'na']
+  agentb[i, 'info'] <- agentb[i-1, 'info']
+  
+  agentc[i, 'na'] <- agentc[i-1, 'na']
+  agentc[i, 'info'] <- agentc[i-1, 'info']
+  
+  actions[i, 'expressed'] <- 'agent a did not express'
+  actions[i, 'otherreact1'] <- 0
+  actions[i, 'otherreact2'] <- 0
+  
+}
+
+
+i <- i + 1
+
+
+bprob <- agentb[i-1, 'na'] / agentb[1, 'tolerance']
+if(bprob >= 1){bprob = 1}
+agentb_express <- rbinom(1, 1, prob = bprob)
+
+if(agentb_express == 1){
+  
+
+  expressed_na <- runif(1, min = 1, max = 10)
+  expressed_info <- runif(1, min = 1, max = 10)
+ 
+  agentb[i, 'na'] <- agentb[i-1, 'na']
+  agentb[i, 'info'] <- agentb[i-1, 'info']
+  
+  actions[i, 'expressed'] <- 'agent b expressed'
+  
+
+  a_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  a_implicated <- sample(c('yes', 'yes', 'no'), 1)
+
+  if(a_is_this_conflict == 'no'){
+    agenta[i, 'na'] <- agenta[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    agenta[i, 'info'] <- agenta[i-1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a did not see it as conflict'
+    
+  }
+  
+  if(a_is_this_conflict == 'yes' && a_implicated == 'no'){
+    agenta[i, 'na'] <- expressed_na*0.5 + agenta[i - 1, 'na']
+    agenta[i, 'info'] <- expressed_info*0.5 + agenta[i - 1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a saw it as conflict but not involved'
+    
+    
+  }
+  
+  if(a_is_this_conflict == 'yes' && a_implicated == 'yes'){
+    agenta[i, 'na'] <- expressed_na + agenta[i - 1, 'na']
+    agenta[i, 'info'] <- expressed_info + agenta[i - 1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a saw it as conflict & involved'
+    
+  }
+  
+  
+  
+  
+
+  c_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  c_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  if(c_is_this_conflict == 'no'){
+    agentc[i, 'na'] <- agentc[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    agentc[i, 'info'] <- agentc[i-1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c did not see it as conflict'
+    
+  }
+  
+  if(c_is_this_conflict == 'yes' && c_implicated == 'no'){
+    agentc[i, 'na'] <- expressed_na*0.5 + agentc[i - 1, 'na']
+    agentc[i, 'info'] <- expressed_info*0.5 + agentc[i - 1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c saw it as conflict but not involved'
+    
+    
+  }
+  
+  if(c_is_this_conflict == 'yes' && c_implicated == 'yes'){
+    agentc[i, 'na'] <- expressed_na + agentc[i - 1, 'na']
+    agentc[i, 'info'] <- expressed_info + agentc[i - 1, 'info']
+    actions[i, 'otherreact2'] <- 'agent c saw it as conflict & involved'
+    
+  }
+  
+  
+}else{
+  agenta[i, 'na'] <- agenta[i-1, 'na']
+  agenta[i, 'info'] <- agenta[i-1, 'info']
+  
+  agentb[i, 'na'] <- agentb[i-1, 'na']
+  agentb[i, 'info'] <- agentb[i-1, 'info']
+  
+  agentc[i, 'na'] <- agentc[i-1, 'na']
+  agentc[i, 'info'] <- agentc[i-1, 'info']
+  
+  actions[i, 'expressed'] <- 'agent b did not express'
+  actions[i, 'otherreact1'] <- 0
+  actions[i, 'otherreact2'] <- 0
+  
+  
+}
+
+
+
+
+
+
+i <- i + 1
+
+
+
+cprob <- agentc[i-1, 'na'] / agentc[1, 'tolerance']
+if(cprob >= 1){cprob = 1}
+agentc_express <- rbinom(1, 1, prob = cprob)
+
+if(agentc_express == 1){
+  
+  
+  expressed_na <- runif(1, min = 1, max = 10)
+  expressed_info <- runif(1, min = 1, max = 10)
+  
+  agentc[i, 'na'] <- agentc[i-1, 'na']
+  agentc[i, 'info'] <- agentc[i-1, 'info']
+  
+  actions[i, 'expressed'] <- 'agent c expressed'
+  
+  
+  a_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  a_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  
+  if(a_is_this_conflict == 'no'){
+    agenta[i, 'na'] <- agenta[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    agenta[i, 'info'] <- agenta[i-1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a did not see it as conflict'
+    
+  }
+  
+  if(a_is_this_conflict == 'yes' && a_implicated == 'no'){
+    agenta[i, 'na'] <- expressed_na*0.5 + agenta[i - 1, 'na']
+    agenta[i, 'info'] <- expressed_info*0.5 + agenta[i - 1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a saw it as conflict but not involved'
+    
+  }
+  
+  if(a_is_this_conflict == 'yes' && a_implicated == 'yes'){
+    agenta[i, 'na'] <- expressed_na + agenta[i - 1, 'na']
+    agenta[i, 'info'] <- expressed_info + agenta[i - 1, 'info']
+    actions[i, 'otherreact1'] <- 'agent a saw it as conflict & involved'
+  }
+  
+  
+  
+  
+  #
+  # agent b
+  
+  #
+  # is this expression conflict? 2/3rds tendency toward yes
+  b_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # does b perceive to be implicated? 2/3rds tendency toward yes
+  b_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # b can make one of three perceptions
+  # 1: b does not see the expression as conflict
+  # 2: b sees the expression as conflict but does not believe to be involved
+  # 3: b sees it as conflict and believes to be involved
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  # if 2 (b sees it as conflict but not involved), then update na and info but only by a small amount
+  # if 3 (b sees it as conflict and is involved), then update na and info
+  
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  if(b_is_this_conflict == 'no'){
+    # decreases by an amount drawn from a uniform distribution between 1 and 5
+    agentb[i, 'na'] <- agentb[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    # info stays the same
+    agentb[i, 'info'] <- agentb[i-1, 'info']
+    
+    actions[i, 'otherreact2'] <- 'agent b did not see it as conflict'
+  }
+  
+  
+  
+  # if 2 (b sees it as conflict but is not involved), then b's na and info update but by a small amount
+  if(b_is_this_conflict == 'yes' && b_implicated == 'no'){
+    # b's na is a function of prior na and expressed na (multiplied by 0.5 to make it smaller)
+    agentb[i, 'na'] <- expressed_na*0.5 + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info (multipled by 0.5 to make it smaller)
+    agentb[i, 'info'] <- expressed_info*0.5 + agentb[i - 1, 'info']
+    
+    actions[i, 'otherreact2'] <- 'agent b saw it as conflict but not involved'
+    
+  }
+  
+  # if 3 (b sees it as conflict and is involved), then b's na and info update
+  if(b_is_this_conflict == 'yes' && b_implicated == 'yes'){
+    # b's na is a function of prior na and expressed na
+    agentb[i, 'na'] <- expressed_na + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info
+    agentb[i, 'info'] <- expressed_info + agentb[i - 1, 'info']
+    
+    actions[i, 'otherreact2'] <- 'agent b saw it as conflict & involved'
+  }
+  
+  
+  
+  
+}else{
+  
+  
+  agenta[i, 'na'] <- agenta[i-1, 'na']
+  agenta[i, 'info'] <- agenta[i-1, 'info']
+  
+  agentb[i, 'na'] <- agentb[i-1, 'na']
+  agentb[i, 'info'] <- agentb[i-1, 'info']
+  
+  agentc[i, 'na'] <- agentc[i-1, 'na']
+  agentc[i, 'info'] <- agentc[i-1, 'info']
+  
+  actions[i, 'expressed'] <- 'agent c did not express'
+  actions[i, 'otherreact1'] <- 0
+  actions[i, 'otherreact2'] <- 0
+}
+
+
+
+
+
+if(agenta[i, 'info'] >= agenta[1, 'solution']){
+  agenta[i, 'na'] <- agenta[i, 'na'] - 10
+}
+
+if(agentb[i, 'info'] >= agentb[1, 'solution']){
+  agentb[i, 'na'] <- agentb[i, 'na'] - 10
+}
+
+if(agentc[i, 'info'] >= agentc[1, 'solution']){
+  agentc[i, 'na'] <- agentc[i, 'na'] - 10
+}
+
+
+
+# if anyone's na is below zero, exit
+
+if(agenta[i, 'na'] < 0){
+  break
+}
+
+if(agentb[i, 'na'] < 0){
+  break
+}
+
+if(agentc[i, 'na'] < 0){
+  break
+}
+
+
+
+
+
+}
+
+
+
+
+library(tidyverse)
+agenta <- agenta %>% mutate(agent = 'a',
+                            time = 1:nrow(agenta))
+agentb <- agentb %>% mutate(agent = 'b',
+                            time = 1:nrow(agentb))
+agentc <- agentc %>% mutate(agent = 'c',
+                            time = 1:nrow(agentc))
+
+df <- bind_rows(agenta, agentb, agentc)
+
+ldf <- df %>% pivot_longer(
+  cols = c(na, info),
+  names_to = 'variable',
+  values_to = 'value'
+)
+
+ggplot(ldf, aes(x = time, y = value, color = variable)) + 
+  geom_point() + 
+  geom_line() + 
+  facet_wrap(~agent)
+
+```
+
+
+
+
+
+
+```{r}
+library(kableExtra)
+actions %>% kable() %>% kable_styling()
+```

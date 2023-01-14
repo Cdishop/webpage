@@ -1,0 +1,251 @@
+---
+title: "Conflict Agents Pseudocode"
+date: 2018-07-06
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F, eval = F)
+```
+
+
+```
+## Initial Conditions
+
+Agents have several characteristics
+-	na: level of negative affect
+-	info: level of learning
+-	tolerance: individual difference in conflict expression tendency
+-	solution: individual difference in “decrease na because info went up”
+
+Create agents
+
+## Process – Round Robin Conflict Expressions
+
+agent[i] does or does not express conflict
+
+if agent[i] expresses conflict
+	
+	agent[-i] reacts in one of three ways:
+		does not see the expression as conflict
+		sees the expression as conflict but is not involved
+		sees the expression as conflict and is involved
+
+			update agent[-i] characteristics based on reaction
+	
+continue for all agents[-i]
+
+else (if agent[i] does not express conflict), then continue to next agent
+
+update na for all agents based on info and solution
+
+repeat
+
+```
+
+
+
+
+
+
+```
+## Initial Conditions
+
+Agents have several characteristics
+-	na: level of negative affect
+-	info: level of learning
+-	tolerance: individual difference in conflict expression tendency
+-	solution: individual difference in “decrease na because info went up”
+
+Create agents
+
+```
+
+```{r}
+agenta <- data.frame(
+  'na' = c(0),
+  'info' = c(0),
+  'tolerance' = c(100),
+  'solution' = c(60)
+)
+
+agentb <- data.frame(
+  'na' = c(0),
+  'info' = c(0),
+  'tolerance' = c(50),
+  'solution' = c(100)
+)
+
+agentc <- data.frame(
+  'na' = c(0),
+  'info' = c(0),
+  'tolerance' = c(77),
+  'solution' = c(80)
+)
+```
+
+```
+## Process – Round Robin Conflict Expressions
+
+agent[i] does or does not express conflict
+
+```
+
+```{r}
+# start counter/time
+i <- 2
+
+# determine probability that a will express conflict
+
+# with more NA and less tolerance, an agent is more likely to express conflict
+aprob <- agenta[i-1, 'na'] / agenta[1, 'tolerance']
+agenta_express <- rbinom(1, 1, prob = aprob)
+```
+
+
+```
+if agent[i] expresses conflict
+	
+	agent[-i] reacts in one of three ways:
+		does not see the expression as conflict
+		sees the expression as conflict but is not involved
+		sees the expression as conflict and is involved
+		
+```
+
+```{r}
+
+# does agent a express conflict? 1 = yes
+if(agenta_express == 1){
+  
+  # agent a expresses something, which contains both na and info
+  # na is pulled from a uniform distribution between 1 and 10, same for info
+  expressed_na <- runif(1, min = 1, max = 10)
+  expressed_info <- runif(1, min = 1, max = 10)
+  
+  # agent a will not react to his own expression, so fill in his next rows
+  # agent a na and info is the same as it was last time
+  agenta[i, 'na'] <- agenta[i-1, 'na']
+  agenta[i, 'info'] <- agenta[i-1, 'info']
+  
+  
+  
+  #
+  # agent b
+  
+  #
+  # is this expression conflict? 2/3rds tendency toward yes
+  b_is_this_conflict <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # does b perceive to be implicated? 2/3rds tendency toward yes
+  b_implicated <- sample(c('yes', 'yes', 'no'), 1)
+  
+  #
+  # b can make one of three perceptions
+  # 1: b does not see the expression as conflict
+  # 2: b sees the expression as conflict but does not believe to be involved
+  # 3: b sees it as conflict and believes to be involved
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  # if 2 (b sees it as conflict but not involved), then update na and info but only by a small amount
+  # if 3 (b sees it as conflict and is involved), then update na and info
+  
+  
+  # if 1 (b does not see it as conflict), then b's na goes down
+  if(b_is_this_conflict == 'no'){
+    # decreases by an amount drawn from a uniform distribution between 1 and 5
+    agentb[i, 'na'] <- agentb[i - 1, 'na'] - runif(1, min = 1, max = 5)
+    # info stays the same
+    agentb[i, 'info'] <- agentb[i-1, 'info']
+  }
+  
+  
+  
+  # if 2 (b sees it as conflict but is not involved), then b's na and info update but by a small amount
+  if(b_is_this_conflict == 'yes' && b_implicated == 'no'){
+    # b's na is a function of prior na and expressed na (multiplied by 0.5 to make it smaller)
+    agentb[i, 'na'] <- expressed_na*0.5 + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info (multipled by 0.5 to make it smaller)
+    agentb[i, 'info'] <- expressed_info*0.5 + agentb[i - 1, 'info']
+    
+  }
+  
+  # if 3 (b sees it as conflict and is involved), then b's na and info update
+  if(b_is_this_conflict == 'yes' && b_implicated == 'yes'){
+    # b's na is a function of prior na and expressed na
+    agentb[i, 'na'] <- expressed_na + agentb[i - 1, 'na']
+    # b's info is a function of prior info and expressed info
+    agentb[i, 'info'] <- expressed_info + agentb[i - 1, 'info']
+  }
+  
+
+  
+  
+  
+  
+  #
+  # do the same for c...
+  
+  
+    
+}
+
+
+
+```
+
+
+```
+continue to next agent
+```
+
+```{r}
+i <- i + 1
+
+# determine probability that b will express conflict
+
+# with more NA and less tolerance, an agent is more likely to express conflict
+bprob <- agentb[i-1, 'na'] / agentb[1, 'tolerance']
+agentb_express <- rbinom(1, 1, prob = bprob)
+
+
+
+if(agentb_express == 1){
+  
+  # evaluate and update for all agents not b
+  
+}
+```
+
+
+```
+update na for all agents based on info and solution
+```
+
+```{r}
+
+#
+# after full round. assess whether info has reached solution level. 
+
+# if so, decrease na. When info accumulates to a given agent's solution level, it takes away some negative affect
+
+if(agenta[i, 'info'] >= agenta[1, 'solution']){
+  agenta[i, 'na'] <- agenta[i, 'na'] - 10
+}
+
+if(agentb[i, 'info'] >= agentb[1, 'solution']){
+  agentb[i, 'na'] <- agentb[i, 'na'] - 10
+}
+
+if(agentc[i, 'info'] >= agentc[1, 'solution']){
+  agentc[i, 'na'] <- agentc[i, 'na'] - 10
+}
+
+```
+
+```
+repeat
+```
