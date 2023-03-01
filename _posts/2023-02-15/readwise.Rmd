@@ -16,3 +16,48 @@ My version of the [Readwise app](https://cdishop.shinyapps.io/readwise/).
 
 
 Bo$^2$m =)
+
+
+
+ps, extra code for extracting tags rather than random windows...
+
+```{r, echo = T, eval = F}
+
+library(readr)
+library(stringr)
+text <- read_file('notes.txt')
+matches <- str_extract_all(text, "#\\S+")
+print(matches)
+sample(matches[[1]], 4)
+
+
+
+
+# Set the number of lines to output
+X <- 30
+
+# Read in the text file as a character vector
+lines <- readLines("notes.txt")
+
+# Create an empty list to store the extracted lines
+extracted_lines <- list()
+
+# Iterate over each line in the file
+for (i in 1:length(lines)) {
+  
+  # REPLACE TAG HERE
+  # Check if the line contains a match
+  if (grepl("#explanation", lines[i])) {
+    # Extract the preceding lines
+    start_index <- max(1, i - X)
+    extracted_lines[[length(extracted_lines) + 1]] <- lines[start_index:(i - 1)]
+  }
+}
+
+# Output the extracted lines
+for (i in 1:length(extracted_lines)) {
+  cat(paste(extracted_lines[[i]], collapse = "\n"), "\n\n")
+}
+
+```
+

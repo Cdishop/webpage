@@ -6,9 +6,9 @@
     "author": [],
     "date": "2023-02-15",
     "categories": [],
-    "contents": "\nMy version of the Readwise app.\nBo\\(^2\\)m =)\n\n\n\n",
+    "contents": "\nMy version of the Readwise app.\nBo\\(^2\\)m =)\nps, extra code for extracting tags rather than random windows…\n\n\nlibrary(readr)\nlibrary(stringr)\ntext <- read_file('notes.txt')\nmatches <- str_extract_all(text, \"#\\\\S+\")\nprint(matches)\nsample(matches[[1]], 4)\n\n\n\n\n# Set the number of lines to output\nX <- 30\n\n# Read in the text file as a character vector\nlines <- readLines(\"notes.txt\")\n\n# Create an empty list to store the extracted lines\nextracted_lines <- list()\n\n# Iterate over each line in the file\nfor (i in 1:length(lines)) {\n  \n  # REPLACE TAG HERE\n  # Check if the line contains a match\n  if (grepl(\"#explanation\", lines[i])) {\n    # Extract the preceding lines\n    start_index <- max(1, i - X)\n    extracted_lines[[length(extracted_lines) + 1]] <- lines[start_index:(i - 1)]\n  }\n}\n\n# Output the extracted lines\nfor (i in 1:length(extracted_lines)) {\n  cat(paste(extracted_lines[[i]], collapse = \"\\n\"), \"\\n\\n\")\n}\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-01T16:47:37-05:00",
+    "last_modified": "2023-03-01T16:52:09-05:00",
     "input_file": {}
   },
   {
