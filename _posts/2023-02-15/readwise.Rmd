@@ -1,0 +1,18 @@
+---
+title: "Readwise Mimic"
+date: 2023-02-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+My version of the [Readwise app](https://cdishop.shinyapps.io/readwise/).
+
+
+Bo$^2$m =)
