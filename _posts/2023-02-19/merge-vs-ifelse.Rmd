@@ -1,0 +1,102 @@
+---
+title: "Left join versus if-else"
+date: 2023-02-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+When the "to-be-merged" column(s) do not currently exist in the main dataframe, use left join. When the "to-be-merged" info already has a column in the main dataframe, use if-else or case-when.
+
+```{r, message = F, warning = F}
+library(kableExtra)
+library(tidyverse)
+
+df1 <- data.frame(
+  'id' = c(1, 2, 3, 1, 2, 3, 1, 2, 3),
+  'match' = c('a', 'b', 'c', 'a', 'b', 'c', 'a', 'b', 'c')
+)
+
+
+df2 <- data.frame(
+  'match' = c('a', 'b'),
+  'intracker' = c('yes', 'yes')
+)
+
+df1 <- df1 %>% left_join(df2)
+
+
+df1 %>% kable() %>% kable_styling()
+
+```
+
+
+```{r}
+
+df3 <- data.frame(
+  'match' = c('c'),
+  'intracker' = c('no')
+)
+
+df3 %>% kable() %>% kable_styling()
+
+```
+
+
+Left join won't work
+
+```{r}
+
+df1 <- left_join(df1, df3)
+
+df1 %>% kable() %>% kable_styling()
+```
+
+Mutate case-when works...
+
+```{r}
+
+df1 <- data.frame(
+  'id' = c(1, 2, 3, 1, 2, 3, 1, 2, 3),
+  'match' = c('a', 'b', 'c', 'a', 'b', 'c', 'a', 'b', 'c')
+)
+
+
+df2 <- data.frame(
+  'match' = c('a', 'b'),
+  'intracker' = c('yes', 'yes')
+)
+
+df1 <- df1 %>% left_join(df2)
+
+
+df1 <- df1 %>% mutate(intracker = case_when(
+  match == 'c' ~ df3$intracker,
+  TRUE ~ intracker
+ 
+))
+
+
+# or,
+# df1 <- df1 %>% mutate(intracker = ifelse(match == 'c', df3$intracker, df1$intracker))
+
+
+#
+# the trick is whether the column already exists
+
+
+df1 %>% kable() %>% kable_styling()
+
+
+```
+
+
+
+Bo$^2$m =)
+

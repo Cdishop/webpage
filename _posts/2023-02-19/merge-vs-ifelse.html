@@ -88,376 +88,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Christopher R. Dishop: List of R Resources</title>
+  <title>Left join versus if-else</title>
 
 
 
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2023-02-19"/>
+  <meta property="article:created" itemprop="dateCreated" content="2023-02-19"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Christopher R. Dishop: List of R Resources"/>
+  <meta property="og:title" content="Left join versus if-else"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="Christopher R. Dishop"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Christopher R. Dishop: List of R Resources"/>
+  <meta property="twitter:title" content="Left join versus if-else"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["List of R Resources"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Left join versus if-else"]},{"type":"character","attributes":{},"value":["2023-02-19"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
-  <!--radix_placeholder_navigation_in_header-->
-  <meta name="distill:offset" content=""/>
-
-  <script type="application/javascript">
-
-    window.headroom_prevent_pin = false;
-
-    window.document.addEventListener("DOMContentLoaded", function (event) {
-
-      // initialize headroom for banner
-      var header = $('header').get(0);
-      var headerHeight = header.offsetHeight;
-      var headroom = new Headroom(header, {
-        tolerance: 5,
-        onPin : function() {
-          if (window.headroom_prevent_pin) {
-            window.headroom_prevent_pin = false;
-            headroom.unpin();
-          }
-        }
-      });
-      headroom.init();
-      if(window.location.hash)
-        headroom.unpin();
-      $(header).addClass('headroom--transition');
-
-      // offset scroll location for banner on hash change
-      // (see: https://github.com/WickyNilliams/headroom.js/issues/38)
-      window.addEventListener("hashchange", function(event) {
-        window.scrollTo(0, window.pageYOffset - (headerHeight + 25));
-      });
-
-      // responsive menu
-      $('.distill-site-header').each(function(i, val) {
-        var topnav = $(this);
-        var toggle = topnav.find('.nav-toggle');
-        toggle.on('click', function() {
-          topnav.toggleClass('responsive');
-        });
-      });
-
-      // nav dropdowns
-      $('.nav-dropbtn').click(function(e) {
-        $(this).next('.nav-dropdown-content').toggleClass('nav-dropdown-active');
-        $(this).parent().siblings('.nav-dropdown')
-           .children('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $("body").click(function(e){
-        $('.nav-dropdown-content').removeClass('nav-dropdown-active');
-      });
-      $(".nav-dropdown").click(function(e){
-        e.stopPropagation();
-      });
-    });
+  
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["merge-vs-ifelse_files/anchor-4.2.2/anchor.min.js","merge-vs-ifelse_files/bowser-1.9.3/bowser.min.js","merge-vs-ifelse_files/distill-2.2.21/template.v2.js","merge-vs-ifelse_files/header-attrs-2.20/header-attrs.js","merge-vs-ifelse_files/jquery-3.6.0/jquery-3.6.0.js","merge-vs-ifelse_files/jquery-3.6.0/jquery-3.6.0.min.js","merge-vs-ifelse_files/jquery-3.6.0/jquery-3.6.0.min.map","merge-vs-ifelse_files/kePrint-0.0.1/kePrint.js","merge-vs-ifelse_files/lightable-0.0.1/lightable.css","merge-vs-ifelse_files/popper-2.6.0/popper.min.js","merge-vs-ifelse_files/tippy-6.2.7/tippy-bundle.umd.min.js","merge-vs-ifelse_files/tippy-6.2.7/tippy-light-border.css","merge-vs-ifelse_files/tippy-6.2.7/tippy.css","merge-vs-ifelse_files/tippy-6.2.7/tippy.umd.min.js","merge-vs-ifelse_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
-
-  <style type="text/css">
-
-  /* Theme (user-documented overrideables for nav appearance) */
-
-  .distill-site-nav {
-    color: rgba(255, 255, 255, 0.8);
-    background-color: #0F2E3D;
-    font-size: 15px;
-    font-weight: 300;
-  }
-
-  .distill-site-nav a {
-    color: inherit;
-    text-decoration: none;
-  }
-
-  .distill-site-nav a:hover {
-    color: white;
-  }
-
-  @media print {
-    .distill-site-nav {
-      display: none;
-    }
-  }
-
-  .distill-site-header {
-
-  }
-
-  .distill-site-footer {
-
-  }
-
-
-  /* Site Header */
-
-  .distill-site-header {
-    width: 100%;
-    box-sizing: border-box;
-    z-index: 3;
-  }
-
-  .distill-site-header .nav-left {
-    display: inline-block;
-    margin-left: 8px;
-  }
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header .nav-left {
-      margin-left: 0;
-    }
-  }
-
-
-  .distill-site-header .nav-right {
-    float: right;
-    margin-right: 8px;
-  }
-
-  .distill-site-header a,
-  .distill-site-header .title {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 10px 14px 10px;
-  }
-
-  .distill-site-header .title {
-    font-size: 18px;
-    min-width: 150px;
-  }
-
-  .distill-site-header .logo {
-    padding: 0;
-  }
-
-  .distill-site-header .logo img {
-    display: none;
-    max-height: 20px;
-    width: auto;
-    margin-bottom: -4px;
-  }
-
-  .distill-site-header .nav-image img {
-    max-height: 18px;
-    width: auto;
-    display: inline-block;
-    margin-bottom: -3px;
-  }
-
-
-
-  @media screen and (min-width: 1000px) {
-    .distill-site-header .logo img {
-      display: inline-block;
-    }
-    .distill-site-header .nav-left {
-      margin-left: 20px;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 20px;
-    }
-    .distill-site-header .title {
-      padding-left: 12px;
-    }
-  }
-
-
-  .distill-site-header .nav-toggle {
-    display: none;
-  }
-
-  .nav-dropdown {
-    display: inline-block;
-    position: relative;
-  }
-
-  .nav-dropdown .nav-dropbtn {
-    border: none;
-    outline: none;
-    color: rgba(255, 255, 255, 0.8);
-    padding: 16px 10px;
-    background-color: transparent;
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    margin: 0;
-    margin-top: 1px;
-    z-index: 2;
-  }
-
-  .nav-dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;
-    min-width: 200px;
-    border: 1px solid rgba(0,0,0,0.15);
-    border-radius: 4px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
-    z-index: 1;
-    margin-top: 2px;
-    white-space: nowrap;
-    padding-top: 4px;
-    padding-bottom: 4px;
-  }
-
-  .nav-dropdown-content hr {
-    margin-top: 4px;
-    margin-bottom: 4px;
-    border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  }
-
-  .nav-dropdown-active {
-    display: block;
-  }
-
-  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
-    color: black;
-    padding: 6px 24px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-
-  .nav-dropdown-content .nav-dropdown-header {
-    display: block;
-    padding: 5px 24px;
-    padding-bottom: 0;
-    text-transform: uppercase;
-    font-size: 14px;
-    color: #999999;
-    white-space: nowrap;
-  }
-
-  .nav-dropdown:hover .nav-dropbtn {
-    color: white;
-  }
-
-  .nav-dropdown-content a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
-  .nav-right .nav-dropdown-content {
-    margin-left: -45%;
-    right: 0;
-  }
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header a, .distill-site-header .nav-dropdown  {display: none;}
-    .distill-site-header a.nav-toggle {
-      float: right;
-      display: block;
-    }
-    .distill-site-header .title {
-      margin-left: 0;
-    }
-    .distill-site-header .nav-right {
-      margin-right: 0;
-    }
-    .distill-site-header {
-      overflow: hidden;
-    }
-    .nav-right .nav-dropdown-content {
-      margin-left: 0;
-    }
-  }
-
-
-  @media screen and (max-width: 768px) {
-    .distill-site-header.responsive {position: relative; min-height: 500px; }
-    .distill-site-header.responsive a.nav-toggle {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .distill-site-header.responsive a,
-    .distill-site-header.responsive .nav-dropdown {
-      display: block;
-      text-align: left;
-    }
-    .distill-site-header.responsive .nav-left,
-    .distill-site-header.responsive .nav-right {
-      width: 100%;
-    }
-    .distill-site-header.responsive .nav-dropdown {float: none;}
-    .distill-site-header.responsive .nav-dropdown-content {position: relative;}
-    .distill-site-header.responsive .nav-dropdown .nav-dropbtn {
-      display: block;
-      width: 100%;
-      text-align: left;
-    }
-  }
-
-  /* Site Footer */
-
-  .distill-site-footer {
-    width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    z-index: 3;
-    margin-top: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    text-align: center;
-  }
-
-  /* Headroom */
-
-  d-title {
-    padding-top: 6rem;
-  }
-
-  @media print {
-    d-title {
-      padding-top: 4rem;
-    }
-  }
-
-  .headroom {
-    z-index: 1000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-
-  .headroom--transition {
-    transition: all .4s ease-in-out;
-  }
-
-  .headroom--unpinned {
-    top: -100px;
-  }
-
-  .headroom--pinned {
-    top: 0;
-  }
-
-  /* adjust viewport for navbar height */
-  /* helps vertically center bootstrap (non-distill) content */
-  .min-vh-100 {
-    min-height: calc(100vh - 100px) !important;
-  }
-
-  </style>
-
-  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
-  <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
+  <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
   <!--radix_placeholder_distill-->
 
@@ -1811,331 +1470,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </script>
 
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --header-color:    rgba(0, 0, 0, 0.8);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
-    --mono-font:       monospace;
-    --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-  </style>
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-
-  html {
-    /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
-    --title-color:     #000000;
-    --header-color:    rgba(0, 0, 0, 0.8);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    sans-serif;
-    --mono-font:       monospace;
-    --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
-  }
-
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #0F2E3D;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-
-  /* Scroll horizontally when code is too wide (e.g URLs) */
-
-  d-article div.sourceCode pre {
-    overflow-x: auto !important;
-  }</style>
-  <style type="text/css">
-  /* base style */
-
-  /* FONT FAMILIES */
-
-  :root {
-    --heading-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-    --mono-default: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-    --body-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-  }
-
-  body,
-  .posts-list .post-preview p,
-  .posts-list .description p {
-    font-family: var(--body-font), var(--body-default);
-  }
-
-  h1, h2, h3, h4, h5, h6,
-  .posts-list .post-preview h2,
-  .posts-list .description h2 {
-    font-family: var(--heading-font), var(--heading-default);
-  }
-
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-family: var(--mono-font), var(--mono-default);
-  }
-
-
-  /*-- TITLE --*/
-  d-title h1,
-  .posts-list > h1 {
-    color: var(--title-color, black);
-  }
-
-  d-title h1 {
-    font-size: var(--title-size, 50px);
-  }
-
-  /*-- HEADERS --*/
-  d-article h1,
-  d-article h2,
-  d-article h3,
-  d-article h4,
-  d-article h5,
-  d-article h6 {
-    color: var(--header-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- BODY --*/
-  d-article > p,  /* only text inside of <p> tags */
-  d-article > ul, /* lists */
-  d-article > ol {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-    font-size: var(--body-size, 1.06rem);
-  }
-
-
-  /*-- CODE --*/
-  d-article div.sourceCode code,
-  d-article pre code {
-    font-size: var(--code-size, 14px);
-  }
-
-  /*-- ASIDE --*/
-  d-article aside {
-    font-size: var(--aside-size, 12px);
-    color: var(--aside-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- FIGURE CAPTIONS --*/
-  figure .caption,
-  figure figcaption,
-  .figure .caption {
-    font-size: var(--fig-cap-size, 13px);
-    color: var(--fig-cap-color, rgba(0, 0, 0, 0.6));
-  }
-
-  /*-- METADATA --*/
-  d-byline h3 {
-    font-size: var(--heading-size, 0.6rem);
-    color: var(--heading-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-byline {
-    font-size: var(--body-size, 0.8rem);
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  d-byline a,
-  d-article d-byline a {
-    color: var(--body-color, rgba(0, 0, 0, 0.8));
-  }
-
-  /*-- TABLE OF CONTENTS --*/
-  .d-contents nav h3 {
-    font-size: var(--heading-size, 18px);
-  }
-
-  .d-contents nav a {
-    font-size: var(--contents-size, 13px);
-  }
-
-  /*-- APPENDIX --*/
-  d-appendix h3 {
-    font-size: var(--heading-size, 15px);
-    color: var(--heading-color, rgba(0, 0, 0, 0.65));
-  }
-
-  d-appendix {
-    font-size: var(--text-size, 0.8em);
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  d-appendix d-footnote-list a.footnote-backlink {
-    color: var(--text-color, rgba(0, 0, 0, 0.5));
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  .distill-site-header .title {
-    font-size: var(--title-size, 18px);
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .distill-site-header a,
-  .nav-dropdown .nav-dropbtn {
-    font-family: var(--navbar-font), var(--heading-default);
-  }
-
-  .nav-dropdown .nav-dropbtn {
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    font-size: var(--text-size, 15px);
-  }
-
-  .distill-site-header a:hover,
-  .nav-dropdown:hover .nav-dropbtn {
-    color: var(--hover-color, white);
-  }
-
-  .distill-site-header {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer {
-    font-size: var(--text-size, 15px);
-    color: var(--text-color, rgba(255, 255, 255, 0.8));
-    background-color: var(--bkgd-color, #0F2E3D);
-  }
-
-  .distill-site-footer a:hover {
-    color: var(--hover-color, white);
-  }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
-  <script src="site_libs/popper-2.6.0/popper.min.js"></script>
-  <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
-  <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
-  <script src="site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
-  <script src="site_libs/anchor-4.2.2/anchor.min.js"></script>
-  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
-  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
-  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <script src="merge-vs-ifelse_files/header-attrs-2.20/header-attrs.js"></script>
+  <script src="merge-vs-ifelse_files/kePrint-0.0.1/kePrint.js"></script>
+  <link href="merge-vs-ifelse_files/lightable-0.0.1/lightable.css" rel="stylesheet" />
+  <script src="merge-vs-ifelse_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="merge-vs-ifelse_files/popper-2.6.0/popper.min.js"></script>
+  <link href="merge-vs-ifelse_files/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="merge-vs-ifelse_files/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="merge-vs-ifelse_files/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="merge-vs-ifelse_files/anchor-4.2.2/anchor.min.js"></script>
+  <script src="merge-vs-ifelse_files/bowser-1.9.3/bowser.min.js"></script>
+  <script src="merge-vs-ifelse_files/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="merge-vs-ifelse_files/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
@@ -2147,31 +1494,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"List of R Resources","authors":[]}
+{"title":"Left join versus if-else","authors":[],"publishedDate":"2023-02-19T00:00:00.000-05:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
 <!--radix_placeholder_navigation_before_body-->
-<header class="header header--fixed" role="banner">
-<nav class="distill-site-nav distill-site-header">
-<div class="nav-left">
-<a href="index.html" class="title">Christopher R. Dishop</a>
-</div>
-<div class="nav-right">
-<a href="index.html">Home</a>
-<a href="computation.html">Computation</a>
-<a href="rresources.html">R Resources</a>
-<a href="CV.pdf">CV</a>
-<a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
-</div>
-</nav>
-</header>
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>List of R Resources</h1>
+<h1>Left join versus if-else</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2179,147 +1512,453 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="websites-with-many-r-resources">Websites with many R resources</h3>
-<p><a href="https://bookdown.org">All R books written with Bookdown</a></p>
-<p><a href="https://www.rstudio.com/resources/cheatsheets/">All R cheatsheets</a></p>
-<p><a href="https://www.psychologicalscience.org/observer/learning-to-work-with-r">APS list of R resources</a></p>
-<p><a href="http://www.flutterbys.com.au/stats/index.html">Show Us Your R</a></p>
-<p><a href="https://data.library.virginia.edu/statlab/data-science-resources/">UVA Data Science Resources</a></p>
-<p><a href="https://github.com/ujjwalkarn/DataScienceR">R For Data Science Tutorials</a></p>
-<p><a href="http://www.econometricsbysimulation.com/p/r.html">Econometrics By Simulation</a></p>
-<h3 id="people-with-helpful-websites">People with Helpful Websites</h3>
-<p><a href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor</a></p>
-<p><a href="https://jennybryan.org">Jenny Bryan</a></p>
-<p><a href="https://mattchoward.com/statistics-help-2/">Matt Howard</a></p>
-<p><a href="https://rpsychologist.com">Kristoffer Magnusson</a></p>
-<p><a href="http://sachaepskamp.com">Sacha Epskamp</a></p>
-<p><a href="https://debruine.github.io/">Lisa DeBruine</a></p>
-<p><a href="https://cdriver.netlify.app/">Charles Driver</a></p>
-<p><a href="https://data-se.netlify.com">FOM academic</a></p>
-<p><a href="https://suzan.rbind.io">Suzan Baert</a></p>
-<p><a href="http://hadley.nz/index.html">Hadley Wickham</a></p>
-<p><a href="http://varianceexplained.org">David Robinson</a></p>
-<p><a href="https://b-rodrigues.github.io/fput/">B Rodriguez</a></p>
-<p><a href="https://alliechoate.netlify.app/about/">Allie Choate</a></p>
-<p><a href="https://bookdown.org/ndphillips/YaRrr/">Nathaniel D. Phillips</a></p>
-<p><a href="https://sejdemyr.github.io">Simon Ejdemyr</a></p>
-<p><a href="https://www.r-graph-gallery.com/all-graphs/">The R Graph Gallery</a></p>
-<p><a href="https://christianburkhart.de">Christian Burkhart</a></p>
-<p><a href="https://malco.io">Malcolm Barrett</a></p>
-<p><a href="https://jflournoy.github.io">John Flournoy</a></p>
-<p><a href="https://www.riinu.me/2020/02/r-filtering-with-na-values/?fbclid=IwAR0blmIQPiuyb_yifl5k_xe28-7UMNZPohfcuudW5tebK0X3cxsDWABxFpY">Riinu Filtering NA</a></p>
-<p><a href="http://uc-r.github.io/introduction">UC R Guide</a></p>
-<p><a href="https://crumplab.github.io/Courses.html">Crump Lab</a></p>
-<p><a href="https://djnavarro.net/">Danielle Navarro</a></p>
-<p><a href="http://datascience.tntlab.org/">Richard N. Landers</a></p>
-<p><a href="https://www.gastonsanchez.com/">Gaston Sanchez</a></p>
-<p><a href="https://quantscience.rbind.io/#posts">Mark Lai</a></p>
-<p><a href="http://joshualoftus.com/page/teaching/">Joshua Loftus</a></p>
-<p><a href="https://francish.netlify.app/#posts">Francis L. Huang</a></p>
-<p><a href="https://m-clark.github.io/documents.html">Michael Clark</a></p>
-<h3 id="courses">Courses</h3>
-<p><a href="http://had.co.nz/stat480.1.html">Applied Statistical Computing Course</a></p>
-<p><a href="https://biol607.github.io/index.html">BioStates by Jarrett Byrnes</a></p>
-<p><a href="https://www.datacamp.com/community/open-courses/beginning-bayes-in-r">Introduction to Bayes in DataCamp (free course)</a></p>
-<p><a href="https://www.datacamp.com/community/open-courses/statistical-inference-and-data-analysis">Data Analysis and Statistical Inference on Data Camp</a></p>
-<p><a href="https://github.com/jrgant/prob-stats">Probability and Statistics with Simulations</a></p>
-<p><a href="https://quantdev.ssri.psu.edu/resources">Penn State Quant Developmental Systems</a></p>
-<p><a href="https://uopsych-r-bootcamp-2020.netlify.app/">UO Psych R Bootcamp</a></p>
-<p><a href="https://bcullen.rbind.io/courses/">Brendan Cullen Courses</a></p>
-<p><a href="https://github.com/dyurovsky/85309">D Yurovsky CMU Course</a></p>
-<p><a href="https://paldhous.github.io/NICAR/2018/r-analysis.html">NICAR 2018</a></p>
-<p><a href="https://www.adventures-in-r.com/#logistics">Adventures in R</a></p>
-<p><a href="https://tinystats.github.io/teacups-giraffes-and-statistics/00_narrative.html">Teacup Giraffes R</a></p>
-<p><a href="https://rladiessydney.org/courses/ryouwithme/">RYouWithMe</a></p>
-<p><a href="https://walker-data.com/census-r/index.html">US Census Data with R</a></p>
-<p><a href="https://moderndive.com/index.html">Statistical Inference via Data Science</a></p>
-<p><a href="https://mladenjovanovic.github.io/bmbstats-book/">bmb Stats</a></p>
-<h3 id="random">Random</h3>
-<p><a href="https://www.datadreaming.org/post/r-markdown-theme-gallery/">R Markdown Themes</a></p>
-<p><a href="https://blogs.uoregon.edu/rclub/">R club</a></p>
-<p><a href="https://www.zoology.ubc.ca/~schluter/R/fit-model/">Various Linear Model Tests in R</a></p>
-<p><a href="https://rpsychologist.com/r-guide-longitudinal-lme-lmer?fbclid=IwAR3gnlvo-X0Yx-DYRomowhXgI_fNzLyNL1M7EPkjc7_uccq3OngxW9e7tCg">lmer for Longitudinal Models</a></p>
-<p><a href="https://www.statmethods.net/stats/anova.html">ANOVA and MANOVA</a></p>
-<p><a href="https://tclavelle.github.io/blog/r_and_apis/">Using R to extract data from web APIs</a></p>
-<p><a href="http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ColeBeck/datestimes.pdf">Handling date-times in R</a></p>
-<p><a href="https://www.brodrigues.co/blog/2017-02-17-lesser_known_tricks/">Lesser Known Dplyr tricks</a></p>
-<p><a href="http://www.stat.cmu.edu/~cshalizi/rmarkdown/">Rmarkdown</a></p>
-<p><a href="https://rfortherestofus.com/2019/12/how-to-clean-messy-data-in-r/">Packages for extremely messy data</a></p>
-<p><a href="https://github.com/jessiesunpsych/power-simulations">Power Simulations</a></p>
-<p><a href="https://stackoverflow.com/questions/47494975/passing-column-name-as-parameter-to-a-function-using-dplyr">Functions with columns as parameters 1</a></p>
-<p><a href="https://www.brodrigues.co/blog/2016-07-18-data-frame-columns-as-arguments-to-dplyr-functions/">Functions with columns as parameters 2</a></p>
-<p><a href="https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/">Using purrr::map</a></p>
-<p><a href="http://haozhu233.github.io/kableExtra/awesome_table_in_html.html">Kable Extra</a></p>
-<p><a href="https://github.com/Rdatatable/data.table/wiki/Getting-started">Data.Table</a></p>
-<p><a href="http://rpsychologist.com/r-guide-longitudinal-lme-lmer">Growth models with lme and lmer</a></p>
-<p><a href="https://threadreaderapp.com/thread/1073313224446009345.html">Cross-lagged Panel Models</a></p>
-<p><a href="https://debruine.github.io/faux/index.html">Simulate Experiments</a></p>
-<p><a href="https://rpubs.com/YaRrr/MLTutorial">Maximum Likelihood</a></p>
-<p><a href="https://github.com/jrgant/citr">citr</a></p>
-<p><a href="https://emoriebeck.github.io/R-tutorials/purrr/">Purrr tutorial</a></p>
-<p><a href="https://osf.io/2emja/">Psych Networks Winter School Resources</a></p>
-<p><a href="https://www.datadreaming.org/post/r-markdown-theme-gallery/">Rmarkdown Themes 1</a></p>
-<p><a href="https://github.com/hrbrmstr/markdowntemplates">Rmarkdown Themes 2</a></p>
-<p><a href="https://prettydoc.statr.me/themes.html">Rmarkdown Themes 3</a></p>
-<p><a href="http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html">Top 50 ggplot2 Visualizations</a></p>
-<p><a href="https://ivelasq.rbind.io/blog/things-i-google/">Ref Guide on Common GGplot2 Issues</a></p>
-<p><a href="https://quantdev.ssri.psu.edu/tutorials/introductory-odes">Dynamic Systems and Differential Equations</a></p>
-<p><a href="https://quantdev.ssri.psu.edu/tutorials/introduction-irt-modeling">IRT</a></p>
-<p><a href="https://aosmith16.github.io/spring-r-topics/materials.html">Git and GitHub</a></p>
-<p><a href="https://juliasilge.shinyapps.io/learntidytext/#section-introduction">Text Mining</a></p>
-<p><a href="https://garberadamc.github.io/project-site/">Tidy Workflow via MplusAutomation</a></p>
-<h3 id="progressing-through-stats-with-r">Progressing Through Stats with R</h3>
-<p><a href="https://ismayc.github.io/rbasics-book/index.html">Basics of R and R Markdown</a></p>
-<p><a href="https://happygitwithr.com">Basics of Git and Github with R</a></p>
-<p><a href="https://psyteachr.github.io/msc-data-skills/">Beginner Concepts for Reproducible Science</a></p>
-<p><a href="https://bookdown.org/yih_huynh/Guide-to-R-Book/">R for Graduate Students</a></p>
-<p><a href="https://tysonbarrett.com/Rstats/index.html">R for Researchers</a></p>
-<p><a href="https://cengel.github.io/R-data-wrangling/">Data Wrangling with R</a></p>
-<p><a href="https://bookdown.org/ansellbr/WEHI_tidyR_course_book/#before-we-begin">Tidyverse</a></p>
-<p><a href="https://learningstatisticswithr.com/">Learning Statistics with R</a></p>
-<p><a href="https://datacarpentry.org/R-ecology-lesson/index.html">Data Analysis and Visualization in R for Ecologists</a></p>
-<p><a href="https://aupsychology.github.io/statsbook/">Statistics: The Story of Numbers</a></p>
-<p><a href="https://www.linkedin.com/learning/r-essential-training-part-2-modeling-data/conducting-an-item-analysis">Descriptive Statistics in R</a></p>
-<p><a href="http://peopleanalytics-regression-book.org/index.html">Handbook of Regression Modeling in People Analytics</a></p>
-<p><a href="https://r4ds.had.co.nz">R for Data Science</a></p>
-<p><a href="https://homerhanumat.github.io/r-notes/index.html">Beginning Computer Science with R</a></p>
-<p><a href="https://leanpub.com/LittleInferenceBook/read">Statistical Inference</a></p>
-<p><a href="https://bookdown.org/ejvanholm/Textbook/">Intro to Quant Methods</a></p>
-<p><a href="https://rafalab.github.io/dsbook/">Introduction to Data Science</a></p>
-<p><a href="https://uoftcoders.github.io/rcourse/lec10-multivariate-stats.html">Multivariate Stats</a></p>
-<p><a href="https://www.introds.org/">Introduction to Data Science at Edinburgh</a></p>
-<p><a href="https://biol607.github.io/schedule.html">Introduction to Computational Data for Biology</a></p>
-<p><a href="https://datascienceineducation.com/c11.html">Data Science in Education Using R</a></p>
-<p><a href="https://user2020.lucymcgowan.com/#1">Causal Modeling in R</a></p>
-<p><a href="https://github.com/rmcelreath/stat_rethinking_2020#calendar--topical-outline">McElreath’s Bayesian Course</a></p>
-<p><a href="https://leanpub.com/regmods/read">Regression</a></p>
-<p><a href="https://bookdown.org/ccolonescu/RPoE4/">Econometrics</a></p>
-<p><a href="https://otexts.org/fpp2/">Time series and forecasting</a></p>
-<p><a href="https://nwfsc-timeseries.github.io/atsa-labs/">Applied time series</a></p>
-<p><a href="https://www.economodel.com/time-series-analysis">Advanced time series</a></p>
-<p><a href="https://serialmentor.com/dataviz/">Data Visualization</a></p>
-<p><a href="https://paldhous.github.io/ucb/2018/dataviz/index.html">Animated Data Visualization</a></p>
-<p><a href="https://bookdown.org/content/4857/">Statistical ReThinking with Tidyverse</a></p>
-<p><a href="https://www.tidytextmining.com/nasa.html">Text Analysis</a></p>
-<h3 id="commands-and-help-for-non-r-programming">Commands and help for non-R programming</h3>
-<p><a href="https://www.markomedia.com.au/compress-pdf-on-os-x-in-terminal/">Compress pdf in terminal</a></p>
-<p><a href="https://stackoverflow.com/questions/33636467/unable-to-click-always-allow-on-git-credential-osxkeychain-popup">Mac denying pushing/pulling due to git keychain</a></p>
-<p><a href="https://help.github.com/articles/caching-your-github-password-in-git/">Saving username and password through keychain with Git</a></p>
-<p><a href="http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/">Using word with Git</a></p>
-<p><a href="https://tex.stackexchange.com/questions/16010/number-every-line-of-pages">Line numbering in LaTex</a></p>
-<p><a href="https://jabranham.com/blog/2016/11/using-pandoc-export-to-word/">Exporting .tex to word with pandoc</a></p>
-<p><a href="https://apple.stackexchange.com/questions/252362/how-do-i-count-words-in-a-pdf-file-on-os-x">Word Count on PDF From Terminal</a></p>
-<p><a href="https://juliadatascience.io/">Julia Data Science</a></p>
-<h3 id="so-helpful-they-deserve-their-own-category">So helpful they deserve their own category</h3>
-<p><a href="https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html">Math notation with Rmarkdown</a></p>
-<p><a href="https://www.verbosus.com/bibtex-style-examples.html">BibTex Examples</a></p>
-<p><a href="http://moser-isi.ethz.ch/docs/typeset_equations.pdf">Latex equations basics</a></p>
-<p><a href="https://docs.ropensci.org/pdftools/reference/pdf_ocr.html">pdf Text Extraction</a></p>
-<p><a href="https://tex.stackexchange.com/questions/132704/how-to-build-knitr-document-from-the-command-line">Compile Rmarkdown and tex files from terminal</a></p>
-<p><a href="https://tex.stackexchange.com/questions/171711/how-to-include-latex-package-in-r-markdown">Include LaTeX packages in YAML header</a></p>
-<p><a href="https://holtzy.github.io/Pimp-my-rmd/#references">Pimp Your Rmarkdown</a></p>
-<p><a href="https://www.rdocumentation.org/packages/rebus/versions/0.1-3">Rebus Package</a></p>
-<p><a href="https://haozhu233.github.io/kableExtra/best_practice_for_newline_in_latex_table.pdf">Newline breaks in Rmarkdown tables</a></p>
+<p>When the “to-be-merged” column(s) do not currently exist in the main dataframe, use left join. When the “to-be-merged” info already has a column in the main dataframe, use if-else or case-when.</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='http://haozhu233.github.io/kableExtra/'>kableExtra</a></span><span class='op'>)</span></span>
+<span><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://tidyverse.tidyverse.org'>tidyverse</a></span><span class='op'>)</span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span></span>
+<span>  <span class='st'>'id'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span>, <span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span>, <span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span><span class='op'>)</span>,</span>
+<span>  <span class='st'>'match'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span>, <span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span>, <span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span><span class='op'>)</span></span>
+<span><span class='op'>)</span></span>
+<span></span>
+<span></span>
+<span><span class='va'>df2</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span></span>
+<span>  <span class='st'>'match'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'a'</span>, <span class='st'>'b'</span><span class='op'>)</span>,</span>
+<span>  <span class='st'>'intracker'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'yes'</span>, <span class='st'>'yes'</span><span class='op'>)</span></span>
+<span><span class='op'>)</span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://dplyr.tidyverse.org/reference/mutate-joins.html'>left_join</a></span><span class='op'>(</span><span class='va'>df2</span><span class='op'>)</span></span>
+<span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/knitr/man/kable.html'>kable</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/kableExtra/man/kable_styling.html'>kable_styling</a></span><span class='op'>(</span><span class='op'>)</span></span></code></pre>
+</div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+id
+</th>
+<th style="text-align:left;">
+match
+</th>
+<th style="text-align:left;">
+intracker
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span><span class='va'>df3</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span></span>
+<span>  <span class='st'>'match'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'c'</span><span class='op'>)</span>,</span>
+<span>  <span class='st'>'intracker'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'no'</span><span class='op'>)</span></span>
+<span><span class='op'>)</span></span>
+<span></span>
+<span><span class='va'>df3</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/knitr/man/kable.html'>kable</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/kableExtra/man/kable_styling.html'>kable_styling</a></span><span class='op'>(</span><span class='op'>)</span></span></code></pre>
+</div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+match
+</th>
+<th style="text-align:left;">
+intracker
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+no
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Left join won’t work</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://dplyr.tidyverse.org/reference/mutate-joins.html'>left_join</a></span><span class='op'>(</span><span class='va'>df1</span>, <span class='va'>df3</span><span class='op'>)</span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/knitr/man/kable.html'>kable</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/kableExtra/man/kable_styling.html'>kable_styling</a></span><span class='op'>(</span><span class='op'>)</span></span></code></pre>
+</div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+id
+</th>
+<th style="text-align:left;">
+match
+</th>
+<th style="text-align:left;">
+intracker
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Mutate case-when works…</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span></span>
+<span>  <span class='st'>'id'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span>, <span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span>, <span class='fl'>1</span>, <span class='fl'>2</span>, <span class='fl'>3</span><span class='op'>)</span>,</span>
+<span>  <span class='st'>'match'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span>, <span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span>, <span class='st'>'a'</span>, <span class='st'>'b'</span>, <span class='st'>'c'</span><span class='op'>)</span></span>
+<span><span class='op'>)</span></span>
+<span></span>
+<span></span>
+<span><span class='va'>df2</span> <span class='op'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span><span class='op'>(</span></span>
+<span>  <span class='st'>'match'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'a'</span>, <span class='st'>'b'</span><span class='op'>)</span>,</span>
+<span>  <span class='st'>'intracker'</span> <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span><span class='op'>(</span><span class='st'>'yes'</span>, <span class='st'>'yes'</span><span class='op'>)</span></span>
+<span><span class='op'>)</span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://dplyr.tidyverse.org/reference/mutate-joins.html'>left_join</a></span><span class='op'>(</span><span class='va'>df2</span><span class='op'>)</span></span>
+<span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'>&lt;-</span> <span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://dplyr.tidyverse.org/reference/mutate.html'>mutate</a></span><span class='op'>(</span>intracker <span class='op'>=</span> <span class='fu'><a href='https://dplyr.tidyverse.org/reference/case_when.html'>case_when</a></span><span class='op'>(</span></span>
+<span>  <span class='va'>match</span> <span class='op'>==</span> <span class='st'>'c'</span> <span class='op'>~</span> <span class='va'>df3</span><span class='op'>$</span><span class='va'>intracker</span>,</span>
+<span>  <span class='cn'>TRUE</span> <span class='op'>~</span> <span class='va'>intracker</span></span>
+<span> </span>
+<span><span class='op'>)</span><span class='op'>)</span></span>
+<span></span>
+<span></span>
+<span><span class='co'># or,</span></span>
+<span><span class='co'># df1 &lt;- df1 %&gt;% mutate(intracker = ifelse(match == 'c', df3$intracker, df1$intracker))</span></span>
+<span></span>
+<span></span>
+<span><span class='co'>#</span></span>
+<span><span class='co'># the trick is whether the column already exists</span></span>
+<span></span>
+<span></span>
+<span><span class='va'>df1</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/knitr/man/kable.html'>kable</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'><a href='https://magrittr.tidyverse.org/reference/pipe.html'>%&gt;%</a></span> <span class='fu'><a href='https://rdrr.io/pkg/kableExtra/man/kable_styling.html'>kable_styling</a></span><span class='op'>(</span><span class='op'>)</span></span></code></pre>
+</div>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+id
+</th>
+<th style="text-align:left;">
+match
+</th>
+<th style="text-align:left;">
+intracker
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+no
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+no
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+a
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+b
+</td>
+<td style="text-align:left;">
+yes
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+c
+</td>
+<td style="text-align:left;">
+no
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Bo<span class="math inline">\(^2\)</span>m =)</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
@@ -2328,6 +1967,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->

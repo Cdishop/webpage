@@ -1,0 +1,23 @@
+---
+title: "True date skeleton for longitudinal data"
+date: 2023-03-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+If you have to merge two repeated measures data sets, each with missing data, use a "true timeline" data set as the core data to merge into.
+
+Excel => First date => (function above cell + 1) => Format cells => as xx/yy/zz => as character in R. 
+
+
+
+
+Bo$^2$m =)
+
