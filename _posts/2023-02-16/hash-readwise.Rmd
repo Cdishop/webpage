@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 
 [Similar to the readwise app but with hashtag protocol.](https://cdishop.shinyapps.io/hashreadwise/?_ga=2.213152340.17781415.1678759403-1384780292.1678759403)
 
-
+[Here is one with limited rendered text output.](https://cdishop.shinyapps.io/mini-hashreadwise/?_ga=2.15546742.17781415.1678759403-1384780292.1678759403)
 
 Bo$^2$m =)
 
