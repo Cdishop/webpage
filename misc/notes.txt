@@ -1212,6 +1212,9 @@ My images
 
 # say hello to someone on the street
 
+
+a) outfit, great combo
+
 [dark coat with white shoes]
 Hello ma'am, love that outfit. Dark on top. Light white shoes on the bottom. Great combo.
 
@@ -1223,6 +1226,18 @@ Is that right? A lot of people walking up to you with that outfit?
 Oh my, a girl who is pretty but also modest, it is almost like you were made for me. 
 Oh my, are you both pretty and modest...
 Although I'm not sure. Part of me thinks you are kind an innocent, and part of me thinks you're the devil. 
+
+
+b) push pull / tease (never think you don't deserve to speak)
+
+You're a good looking girl, but those are some strange nostrils.
+You're a good looking girl, except for those nostrils. Those are a little funny looking. 
+Lifeless
+Devil
+Innocent yet trouble
+Fiesty
+Shady
+Dork
 
 
 
@@ -1252,6 +1267,10 @@ Two years ago I was attacked by a dog and was so frightened I lost my t-shirt...
 
 Lifeless eyes
 Half of me thinks you are kind and peaceful, and half of me thinks you spent a lot of time doing... let's say devious things. 
+
+-] Warned...one of whom was a dog
+
+Listen, I was warned by two people about this...one of whom was a dog.
 
 
 # Humor
