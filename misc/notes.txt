@@ -10941,6 +10941,390 @@ keywords
 
 
 
+# schmidt principles of org behavior intelligence
+
+Intelligence is
+- the ability to learn
+- the ability to consider and manipulate abstract concepts
+- best predictor of job performance we know of
+
+What is the mediator?
+- job knowledge. Intelligence -> know what to do and how to do it -> perform
+
+
+#intelligence
+#ob
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+
+# barrick principles of org behavior conscientiousness and emotional stability
+
+Other than intelligence, best personality predictors of job performance include
+- emotional stability (calm, steady, secure)
+- conscientiousness (dependable, efficient, meticulous)
+
+
+#personality
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# judge principles of org behavior job satisfaction
+
+Job satisfaction - "pleasant state resulting from appraisal of job" (Locke, 1976, p. 1304)
+
+Predicts
+- job performance
+- withdrawal
+- life satisfaction
+
+Best predictor of job satisfaction is JCM 
+- identity: see work from beginning to end
+- significance: one's work is important
+- skill variety
+- autonomy
+- feedback
+
+
+They call JCM "mentally challenging"
+
+Job satisfaction matters. Employees who are satisfied with their jobs tend to perform better, withdraw less, and lead happier and healthier lives. Organizations whose employees are satisfied with their jobs are more likely to be productive and profit­ able. The single most effective way organizations can achieve a satisfied workforce is to provide their employees with mentally challenging work.
+
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Eberly, Lee, & Mitchell, principles of OB turnover
+
+a) First approach to understanding turnover
+
+low job attitudes (satisfaction) lead people to consider thoughts, feelings, and expected positive outcomes of quitting
+
+evaluate alternatives
+
+when someone finds a better job, they quit
+
+evidence: large correlations between dissatisfaction and org commitment, turnover intentions, search intentions, and actual quitting
+
+b) Second approach to understanding turnover (unfolding model)
+
+
+Path 1: shock triggers pre-existing action plan, leave without deliberation (job satisfaction irrelevant)
+
+In path 1, a shock triggers a person to use a pre-existing action plan (or what social psychologists call a script). Minimal mental deliberations occur. A person leaves without considering his or her current attachment to the organization (e.g. organizational commitment) and without considering his or her current job alternatives. Unlike traditional ideas and path 4, job satisfaction is essentially irrelevant. In path 1, a satisfied person can appear to leave abruptly but is in fact following a pre-planned course of action. For example, an interviewee reported the following: “It was very simple; I am going to graduate school . . . It had noth­ ing to do with my job. It had everything to do with my personal situation . . . Very quickly, as soon as I got the letter that I was accepted into graduate school, the decision was made” (Lee, Mitchell, Wise, and Fireman, 1996, p. 17). Note that path 1 involves a shock (e.g. the acceptance letter), script (e.g. return to graduate school), no job search, and no evaluation of alternatives.
+
+
+Path 2: shock triggers violation of one's attachment to org, leave without deliberation (job satisfaction irrelevant)
+
+In path 2, a shock prompts a person to reconsider his or her basic attachment to the organization because of violations to one’s basic values, personal or professional goals, and/or plans for goal attainment (“images”). I was working and minding my own business. Then, a new person was hired and she was pretty vocal. One day she was complaining about her pay. While that made me mad, what was worse is that I had been at the bank for over a year and she was making a dol­ lar an hour more than me while doing the same job. I quit the next day. Note that path 2 involves a shock (e.g. learning about the pay of a fellow employee), no script, violations (e.g. images of personal and professional goal attainment), no job search, and no evaluation of alternatives.
+
+Path 3: shock and then evaluations of alternatives
+
+or the last ten years, Mr. Lew supervised a group of twelve engineers. When asked why he left his former company to become a real estate developer, Mr. Lew said that . . . it was the departure from the firm of another work group member. That departure left Mr. Lew as the work group’s oldest and clearly most out-of-date engineer. [He realized that] he had minimal advancement prospects and that “it was time to move on.” As such, he evaluated his interests, aspirations, and available opportunities. Although he had no particular connection to his new profession, real estate development appeared, on balance, his best choice. He quit the defense company upon finding an acceptable job in real estate. (Lee and Maurer, 1997, p. 249). Note that path 3 involves a shock (e.g. co-worker’s quitting), no script, violations (e.g. images of professional goal attainment), job search (e.g. finding real-estate work), and evaluation of alternatives (e.g. in comparison to his interests, aspirations, and available alternatives).
+
+
+[christopher note]
+I disagree that paths 1 and 2 do not involve job dissatisfaction. They do involve dissatisfaction, it is just a snapshot of extreme dissatisfaction rather than a prolonged, moderated amount.
+
+Path 4: same as approach 1: people are dissatisfied over time, consider alternatives, then leave
+
+
+c) Third approach: focus on what makes employees stay rather than what makes them leave
+
+Job Embeddedness Model. People stay as a function of three things
+
+Sacrifice (losses employee will experience if they quit, like benefits)
+
+Fit: congruence of individual values with org culture
+
+Links: friends at the workplace
+
+On the job and off the job sacrifice, fit, and links matter a lot. 
+
+
+
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# good contrast of type of writing I like
+
+Compare "reclaiming conversation" with edwin locke's chapter on emotions in principles of OB handbook. The first is a bunch of data, a bunch of evidence, and someone trying to make sense of all that data and evidence. The second, Locke, is pontification with no evidence. Odd when the handbook is called evidence-based. 
+
+
+
+
+
+
+
+
+
+
+# Latham goal setting principles of OB handbook
+
+You need to address these questions for motivation:
+
+1. Demands
+(a) Do people have specific high goals?
+(b) Are the tasks “drudgery” or growth facilitating?
+(c) Do people have the confidence so that they can attain the goals set (self-efficacy)?
+
+2. Moderators
+(a) Have people been trained adequately? Do they have the ability to perform the
+tasks required of them?
+(b) Are they committed to goal attainment?
+(c) Do they receive feedback on goal progress?
+(d) Do they have the resources to attain the goal or are there situational constraints?
+
+3. Rewards
+(a) Are they rewarded for their accomplishments?
+(i) Intrinsically?
+(ii) Extrinsically?
+(b) Are they satisfied with their rewards?
+
+4. Attitudes
+(a) Are they committed to their organization’s effectiveness? (b) Are they willing to accept future challenges?
+
+
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+# durham pay for performance principles of ob handbook
+
+Our principle is pay for performance. This principle involves providing monetary rewards through carefully designed compensation systems that base pay on measured performance within the control of participants. It also includes incorporating appropriate concerns for procedural and distributive justice. In most situations, properly designed pay-for-performance systems will lead to better performance results.
+
+Well - designed pay - for- perfor mance systems make major contributions to perfor mance through two main mechanisms. First, they positively influence the motivation to perform. Second, they impact the attraction and retention patterns of organizations (i.e., who joins and who remains), thereby affecting the caliber of individuals available to perform.
+
+A number of different pay delivery plans qualify as pay-for-performance systems, although they vary widely with respect to how closely they tie pay to performance. Pay-for­ performance systems can deliver monetary rewards at the individual, small group, and/or division or organizational level. Evidence suggests that pay for performance at each of these levels can positively impact performance.
+
+
+
+come back to this.
+
+
+
+#principles-of-ob-handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+# possible debates for a class
+
+student debates: what is the best pay system? (see durham chapter in ob principles handbook on pay systems)
+student debates: what predictors should you use in your selection system? (general mental ability, or personality?)
+
+
+#ob-student-debates
+#debates
+#class-debates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# steven pinker on top down vs bottom up rationality in intellectuals
+
+
+
+Intellectuals tend to like top down verbal theories that can be verbally articulated rather than bottom up distributed wisdom of crowds form of rationality, which you sometimes see in the success of markets. Markets -- the whole idea is that no one is in charge. The government does not tell you how many shoes to make. Companies know because they get signals from how many people are trying to buy shoes. Intellectuals tend to hate that because it is so ugly. You are not getting to deduce it from first principles. The rules of a language is another example. Language is not something that ever gets stipulated by a panel of rule givers. What diction editors do is they pay attention to the way millions of people use language and they try to codify it. It's amazing what we end up with. We end up with the English language with all its beauty, precision, poetry. Not from a theory, but because millions of people tried to communicate. So these bottom up aggregation of millions of interactions that results in greater order or greater design or greater intelligence tends to be the kind of thing that does not sit well with the intellectual mind. 
+
+
+https://www.youtube.com/shorts/la8P6zk8iD4
+
+#anti-woke
+#pinker
+#bottom-up
+#top-down
+#wisdom-of-crowds
+#phil-of-science
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+# rory, conrow, bowen making money as a youth
+
+https://www.youtube.com/shorts/xbgKvCYlXXQ
+
+https://www.youtube.com/shorts/spgf6UmhAe0
+
+https://www.youtube.com/shorts/4KOam_84FSI
+
+
+#nephews
+#dishop-boys
+#teach-boys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# feminization of organizations
+
+criticising someone in the language of care and concern
+
+Patriarchal or not, societies rely on male-dominated teams to be effective. Feminisation means undermining such teams and replacing them with cliques that enable forms of aggression that target individual connections to others. These include such techniques as weaponised compassion (X doesn’t care enough) or ostentatious propriety (X is not conforming to the right norms).
+
+
+Imagine having a 6 years longer life expectancy due to less work related stress, making up only 7% of workplace fatalities, 4% deaths due to war, 24% of suicides and homicides, 20% of the homeless, having people assume you are the victim when you initiated DV in the majority of cases, having laws that cannot identify you as a perpetrator of rape, having a 40% higher adoption rate... and thinking men are privileged
+
+
+#anti-woke
+#philosophy
+#quote
+#feminization-of-orgs
+
+
+
+
+
+
+
+
+
+
+
+
+
+# tim dillon quote
+
+Stop looking for mystical experiences and go to work.
+
+#tim-dillon
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# in defense of surveys
+
+in defense of surveys (stated preferences are never revealed preferences. butter vs margerine, grey study)
+- you could make the same argument for "lab behavior is never real worl behavior." Take economics games with undergraduate students. They don't map onto what you find with experienced workers
+- random bias is fine
+- error in a given direction hurts the mean score but it does not hurt parameter estimation of a linear model
+- psychometrics: artifact partitioning, use multiple people, different rating sources, different surveys, relationships to other things
+
+So, a psychometrician would say, "in the butter example, the problem is not that you are asking people for their preferences, it is that you are using a poor device to measure preferences."
+
+#in-defense-of-surveys
+#psychometrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
