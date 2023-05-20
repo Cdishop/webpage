@@ -27,6 +27,7 @@ crucial keywords
 #mimic-business
 #tools
 #fundamentals
+#literature-summary
 
 
 
@@ -5494,6 +5495,1000 @@ What are some factors that often generate consensus?
 #emergence
 #networks
 #collective-action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+#
+# may 2023 thinking and article reading
+
+
+
+
+
+Another route to reading
+authors
+- diefendorf
+- gabriel
+- nikos
+- brent scott
+- remy
+- rosen
+- lanaj
+
+
+
+
+if just a daily ESM study, you need self and other reports
+If just a one-perspective/rater study, you need an ESM plus a vignette manipulation
+Or, if just daily ESM, you need morning to capture "last night X happend" and evening to capture "today at work, Y happened"
+
+
+
+best papers to consider and re-read in this set
+
+deifendorf EE
+kundo 
+bush workplace intrusions / to what do I owe this visit?
+elizabeth campbell above the law for blm manipulations of students
+
+
+
+
+
+# transparency statements
+
+[diefendorft. from larger study. nothing available. not pre-registered]
+
+Approval for this study, titled “Experiences of Call Center Em- ployees,” was granted by the University of Akron Institutional Review Board (IRB no. 20180512). This study is the first publication from a larger data collection effort in the United States, and we adhered to the Journal of Applied Psychology methodological check- list in writing this article. All data collection occurred prior to the COVID-19 pandemic and there was no preregistration. Although the data are not available, code for all analyses will be made available by the authors upon request. Data were analyzed using SPSS Version 27 (IBM Corporation) and Mplus Version 8.8 (Muthén & Muthén, 1998–2017).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Lee, Diefendorff et al. "emotional exhaustion across the workday"
+
+
+INTRO / HOOK
+
+Emotional exhaustion is important.
+The observation that EE is tied to the dynamic balance of resource expenditure and resource replenishment has led researchers to adopt a within-person perspective.
+Most of the existing research has ignored the possibility of systematic (i.e., directional) changes in EE over time. Responding to calls to incorporate time in theorizing and research (Mitchell & James, 2001; Monge, 1990), we argue that the workday is a meaningful span of time over which systematic changes in EE are likely to occur. Many psychological constructs may not only fluctuate up and down but also exhibit predictable change patterns over the workday. 
+
+One objective of the current investigation is to provide the first empirical test of workday EE growth curves, which are defined by their intercepts (i.e., EE at the start of the day) and slopes (i.e., systematic changes in EE over the day). Based on recovery research suggesting that individuals replenish their resources during personal time when away from work (Sonnentag & Fritz, 2007), we expected that individuals would typically start the workday at relatively low levels of EE. However, based on COR theory and the idea that the effort exerted to meet emotional demands accumulates over time to produce EE (Bakker & Demerouti, 2007; Kammeyer-Mueller et al., 2016), we expected to observe systematic increases in EE throughout the workday.
+
+Beyond establishing the existence of workday EE growth curves, we theorized that these growth curves would exhibit between- and within-person variability; specifically, that people will differ in how emotionally exhausted they typically start their workday (i.e., workday intercept) and how their EE typically changes over the workday (i.e., workday slope). 
+
+[christopher; "no one has looked at X yet" argument]
+So, EE is important
+Beginning to assess within person effects
+No one has examined growth curves. 
+
+
+JUSTIFY DAY LEVEL LENS
+
+Dunford et al. (2012) used growth curve modeling to examine how EE developed over 2 years and found a small negative slope,
+
+Although these studies observed systematic changes in EE over months or years for specific groups of employees (e.g., organiza- tional newcomers) or the broader context (e.g., an economic boom), more work is needed to understand whether and in what ways EE might systematically change over shorter and more commonly experienced timeframes. We argue that the typical work shift or workday is a psychologically salient and meaningful span of time in the lives of nearly all employees (Benedetti et al., 2015). The workday is often clearly marked by the time of day, distinct physical location (Ashforth et al., 2000), and clear role transition periods occurring during the commute (Nolan et al., in press). These features mean that the workday is likely a very well-defined unit of time in the minds of most employees, especially as it contrasts with time at home and the activities and roles one enacts in that domain. Because of these features—and the fact that the workday is embedded in a 24-hr cycle of work and home—we theorized that EE should exhibit a predictable change pattern during the workday, starting off relatively low and steadily increasing over the day.
+
+THEORY OF EE CHANGE ACROSS THE WORKDAY
+
+Work day requires effort, and then individuals replenish their resources at home. This cycle of using resources during work (Hobfoll, 1989) and replenishing resources after work is thought to produce a 24-hr pattern in which employee energy is relatively high at the start of the workday but exhibits decline over the course of the day (Hülsheger, 2016).
+
+Reflecting low levels of emotional energy, EE should exhibit a pattern in which it is relatively low at the beginning of the workday (because of sleep and recovery activities at home) and systematically increases over the workday (as effort is expended).
+
+OVERLAP WITH HULSHEGER
+
+H finds that fatigue also grows over the course of the day. 
+
+
+METHOD
+
+100ish people completing up to 16 workday surveys, 3 measures per day.
+Not everyone completed 16 (you don't need full data for growth curves).
+It looks like the average number of waves was 8.
+Call center or service employees
+
+Surveys
+- 30 minutes before shift
+- during lunch break
+- 30 minutes before shift ended
+- Emotional Exhaustion, three items, three times per day
+Right now (strongly disagree, strongly agree)
+I feel emotionally drained
+I feel used up
+I feel burned out
+- Prior Evening Detachment, several items, once per day
+Think about last night and rate agreement (strongly disagree, strongly agree)
+I forgot about work
+I didn't think about work at all
+I distanced myself from work
+I got a break from the demands of work
+- Within day socializing, several items, measured twice per day
+1 not at all, 6 to a very large extent
+Consider time since start of shift to now (or since mid shift to end of shift)
+I socialized with others
+I spent time with/talking to friends
+- Within day customer mistreatment, completed once at mid-shift
+10 items (0 = never, 4 = all the time)
+Items from Wang et al., 2011, like "demanded special treatment"
+
+Ran a simple growth model (intercept and slope) on EE. 
+Regress EE intercept and slope on the above day-level predictors. 
+
+Then, run another growth model to get between person intercept and slope
+regress between person intercept on between / person level ivs, (same for slope)
+
+BP / person level predictors
+Perceived supervisor support
+Autonomoous motivation
+Controlled motivation
+
+
+They stacked their data in a weird way.
+Captured measures 3 times a day, but rather than look at all of those measures over time, they stacked measures to start of shift, mid day, and end of shift (regardless of day). 
+
+
+
+
+CHRISTOPHER SUMMARY
+
+[christopher summary]
+EE is important. EE within person view becoming popular. We look at EE growth over a day.
+EE should start (because of home replenishment) low and increase during work (because of resource demands). 
+Contribution: tests theoretically implied but empirically untested idea that EE increaes over the day
+
+
+
+
+#jap
+#ob-reading
+#ob
+#mimic
+#mimic-timeframe
+#mimic-timeframing
+
+
+
+
+
+
+
+
+
+
+
+# lee, koopman, rosen, gabriel "when, why, and for whom is receiving help actually helpful?"
+
+A huge finding from their study that they completely downplay because it is not politically correct: men don't care if you give them nonempowering help (i just did it for you). Women feel far less competent if you give them nonempowering help (i'll just do it for you) compared to empowering help (i'll teach you how to do it). 
+
+
+
+How many times are people going to write the "when is help useful vs not useful" for giver and receiver? Ugh.
+
+INTRO / HOOK
+
+An important assumption of the helping literature is that when help is provided, it facilitates work (Organ, 1997). Indeed, under this assumption, helping others is widely encouraged (Koopman, Rosen, et al., 2020; Lee et al., 2019; Li et al., 2018). However, the sparse literature focused on help recipients provides reason to believe that this experience may be detrimental to recipients’ perceived competence (i.e., Bolino et al., 2004; Deelstra et al., 2003; Thompson & Bolino, 2018). This disconnect was the focus of our current research, and our aim was to build consensus between the two contrasting arguments. Our thesis was that rather than debating whether receiving help is beneficial, a more fruitful activity is to instead examine when receiving help is beneficial versus is not beneficial (i.e., whether help is perceived as empowering vs. none- mpowering), and for whom.
+
+
+
+Receiving empowering help (helped me by showing me how to do it)
+Receiving nonempowering help (helped me by doing the work him/herself)
+
+The second makes you feel less competent and forces you to withdraw.
+
+
+
+
+STUDY 1 ESM
+
+110 participants. 
+Midday survey (help received and perceived competence)
+End of day survey (work goal progress, withdrawal)
+How many days? They do not say
+
+Midday survey
+- empowering help received
+Coworker helped me with a difficult assignment by teaching me how to do it
+- nonempowering help received
+Coworker helped me with a difficult assignment by doing the work him/herself
+- competence
+Since arriving at work, I have felt competent in my job
+
+End of work
+- work goal progress
+- withdrawal
+
+
+Receiving empowering help is associated with percepveid competence, which then predicted work goal progress.
+
+
+STUDY 2 RECALL A TIME
+
+Prolific
+Randomly assign to "recall empowering help" or "recall nonempowering help"
+
+All participants were asked to recall a situation within the past 3 weeks where “a coworker helped you with your heavy workload, with a difficult assignment, or some other work- related problem.” Participants were then randomly told either “: : : and you were an interactive participant in this episode. That is, your coworker helped you by showing/teaching you how to deal with the issue/problem you were having” (empowering help received) or “: : : and you were a passive participant in this episode. That is, your coworker helped you by doing the work her/himself” (nonempowering help received). Participants then wrote about this interaction. We directed participants in their writing to discuss the interaction in detail (i.e., what they needed help with, who the person was that helped, where the interaction took place), as remembering specific details facilitates recall.
+
+DVs
+Survey mesaures
+Competence (immediately following the interaction you wrote about, "I felt competent")
+Manipulation checks of empowering and nonempowering help
+
+
+STUDY 3 Vignette
+
+Prolific
+
+
+Participants were asked to imagine themselves as an analyst at Wooli Corporation, a fictional company that sells wholesale products to retailers. Participants read the same background vignette (available at OSF) which described a situation in which they had to create a report for their supervisor using software they were not familiar with. After reading this background information, participants were randomly assigned to a scenario in which they interacted with a colleague and received either (a) empowering or (b) nonempowering help. Participants interacted with a coworker (Pat) who was familiar with the software in both conditions. In the empowering help condition, Pat worked with the participant, answered questions, and offered helpful tips and suggestions. In the nonempowering help condition, Pat did the work while the participant passively observed. Participants then answered items about their perceived competence and manipulation checks.
+
+
+
+
+
+
+
+#mimic-study
+#jap
+#ob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# wee "jolted: how task-based jolts disrupt status"
+
+When employees have higher initial status, a task-based jolt is appraised as more self-threatening, which reduces their concern for others and undermines their generosity, ultimately leading them to lose status. Whereas, when employees have lower initial status, a task-based jolt is appraised as an opportunity, which bolsters their group-based self-esteem and increases their generos- ity, ultimately leading them to gain status.
+
+
+Vignette study
+
+Imagine you are a community college instructor
+
+Participants were asked to imagine that they were employed as an instructor for a community college in May 201811 and were given background information about their purported job. This information included the following: (a) they were part of a five-member teaching group at the college; (b) they and their group focused on in-person teaching; (c) although teaching effectiveness and performance were assessed individually, members of the teaching group inter- acted frequently with each other, coordinating and sharing resources in order to be more successful in their content delivery and teaching effectiveness; and (d) members of the teaching group benefited from sharing teaching resources and information on class management. Next, depending on the randomly assigned condition, participants read about their status in the group and about a strategic decision made by the head of the college (task-based jolt manipulation).
+
+You are high or low status
+
+In the higher status condition, participants received the following information:
+You are one of the higher status members of your teaching group. You generally have higher teaching ratings than other members of your teaching group and you have won awards for your teaching effective- ness. Therefore, you receive more respect, admiration, and regard than other members of the group.
+In the lower status condition participants received the following information:
+You are one of the lower status members of your teaching group. You generally have lower teaching ratings than other members of your teaching group and you have not won awards for your teaching effectiveness. Therefore, you receive less respect, admiration, and regard than other members of the group.
+
+Switch to online teaching as a task jolt
+
+After reading the status manipulation, participants read an announcement from the head of the college, supposedly sent 2 weeks before the start of the semester, which outlined the college’s organizational response to new competitors in the local market and economic factors for the college. In the jolt condition, the head announced the decision to move most classes online for the coming school semester:
+The Head of the college sees the continuation of in-person classes to be unsustainable and views a quick transition to online teaching as a critical change ::: when you compare the new requirements for online teaching to your previous in-person teaching experience, you realize that you will need to make significant adjustments to the way you teach.
+In the no-jolt condition, the head announced the decision to continue in-person classes for the coming school semester:
+The Head of the college sees the continuation of in-person classes to be sustainable and views a quick transition to online teaching as an unnecessary change : : : when you compare the current requirements for in-person teaching to your previous in-person teaching experience, you realize that you will NOT need to make significant adjustments to the way you teach.
+
+DV measures
+- self threatening of jolt
+- view jolt as opportunity
+- self vs other concern
+- generosity intentions
+
+Yolk
+
+Get a new group of participants. Read about Bob Smith (whether high or low status, whether switch to online or not). Read about Bob's answers to generosity intentions and individual learning. 
+
+Then, answer this question (status conferral)
+I have high regard for Bob
+I look up to Bob
+Bob is an asset to the group
+
+
+
+[christopher summary]
+
+High status and jolt to task = I feel threatened
+I rate myself as less likely to be generous and less likely to learn
+
+Others see my scores. They respect me less. 
+
+
+Theory stuff
+- status hierarchies tend to be stable
+- one way they become unstable: when a task jolt occurs, a disruption of normal operating procedures
+- high status people feel threatened by this
+- low status people feel it represents an opportunity (for them to finally gain some status)
+
+
+
+
+#ob
+#jap
+#vignette
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Bartels & Wellman, "is it just me or am I the people's choice?"
+
+
+THEORY / HOOK
+
+Leadership is important.
+Recently, people have focused on informal leadership.
+Leader identity construction theory: people claim and grant for leadership identity
+What we don't know: different forms of incongruence between my self identification as a leader and my teammates agreement in identifying me as a leader. 
+
+Identity incongruence = stress appraisal
+Identity congruence = challenge appraisal
+
+Identity incongruence = I see myself as a leader but others do not
+- I'm a nurse who gives advice about how to do stuff, and my coworkers like me doing so
+- congruence perceptions = viewed as my investment is worth it because it will be rewarded in the environment
+
+Individuals experiencing identity congruence are likely to infer, based on the supportive granting behavior they observe, that other members of the team validate and encourage them to pursue their individually held leader or follower identities. With leader identity congruence, in- dividuals are likely to perceive that their personal goals of motivating and directing others and building leadership skills are facilitated by the supportive responses and behavioral grants of leadership they receive at the dyadic and team levels.
+
+On the other hand, identity incongruence is stressful. 
+
+Individuals who experience incongruence between their personally held identities as a leader or follower and how others identify them are likely to infer, due to others’ reluctance to grant them their preferred identity, that this identity is threatened.
+
+I claim by offering opinions or sitting at the head of the table, but others ignore me or exclude me or roll their eyes at me. 
+
+
+
+METHOD
+
+Qualtrics participants
+
+Read business scenario (working as part of a team developing annual survey)
+
+You are an employee at the Westgate Group—a marketing firm that offers various consulting and marketing services to its clients. You have been working with the firm for about two years and have generally enjoyed the work that you do. The company is organized so that everyone works in teams. There are no formal, internal leaders of the team; only a management team that oversees all of the marketing teams. You work at the company headquarters that features an open office floor place where people work in a shared space which is a good thing because there are a lot of interactions among your team members and you feel that all of the team members know each other well.
+
+Once a year, management asks your team to complete a survey focused on personal development. One part of this survey will ask you to think about yourself as a leader and ask all of your team members about you as well. The great part about your company is that you do not have to be identified as a leader to be promoted; there are other ways to be promoted as well. This information is just used as a personal develop- ment tool. As you ponder the upcoming survey, you think about two things: 1) what you will write about yourself and 2) what other members of the team will write about you.
+
+Manipulate self identification
+
+High Self-Identification. As you think about your personal development, you are very confident that your role and identity on the team are generated by your ability to really energize other team members to achieve their best and inspire the team to go beyond their own self-interests and focus on the good of the team. You also believe that your identity on the team is related to leadership and you are confident in your ability to prioritize getting others on the team to identify with the team’s central mission.
+Low Self-Identification. As you think about your personal development, you are very confident that you energize yourself to achieve your best and inspire yourself to work on your part for the good of the team. Energizing and inspiring others are not a part of your identity on the team but you do an excellent job of completing your part of the team’s projects. You are also very confident that your identity on the team is not at all related to leadership; instead, you prioritize making sure that you understand the team’s central mission and let others work
+through their own process to understand the team’s central mission.
+
+Manipulate other identification. (participants received one of the four)
+
+High Dyadic Other-Identification. As you think about how Taylor (another team member) will fill out the form about you, you are very confident that Taylor will focus on your ability to really energize other team members to achieve their best and inspire the team to go beyond their own self-interests and focus on the good of the team. You are also really confident that Taylor will highlight that your identity on the team is related to leadership and that you prioritize getting the others on the team to identify with the team’s central mission.
+
+Low Dyadic Other-Identification. As you think about how Taylor (another team member) will fill out the form about you, you are very confident that Taylor will talk about how you energize yourself to achieve your best and inspire yourself to work on your part for the good of the team. Taylor will definitely recognize that energizing and inspiring other team members are not at all a part of your identity of the team but that you do an excellent job of completing your part of the team’s projects. Taylor likely also believes that your identity on the team is not at all related to leadership; instead, Taylor is very confident that you prioritize making sure that you understand the team’s central mission and let others work through their own process to understand the team’s central mission.
+
+High Team Other-Identification. As you think about how the rest of the team will fill out the form about you, you are very confident that the entire team is likely to focus on your ability to really energize other team members to achieve their best and inspire the team to go beyond their own self-interests and focus on the good of the team. You are also really confident that the entire team will highlight that your identity on the team is related to leadership and that you prioritize getting the others on the team to identify with the team’s central mission.
+
+Low Team Other-Identification. As you think about how the entire team will fill out the form about you, you are very confident that the entire team will talk about how you energize yourself to achieve your best and inspire yourself to work on your part for the good of the team. The entire team will definitely recognize that energizing and inspiring other team members are not at all a part of your identity of the team but that you do an excellent job of completing your part of the team’s projects. The team also believes that your identity on the team is not at all related to leadership; instead, the entire team is very confident that you prioritize making sure that you understand the team’s central mission and let others work through their own process to understand the team’s central mission.
+
+DVs
+Self assess surveys
+Hindrance appraisal
+Challenge appraisal
+
+
+
+#vignette
+#ob
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# kundro "performance pressure amplifies the effect of evening detachment on next morning shame"
+
+
+
+Getting away from work in the evening has been linked to less fatigue, less emotional exhaustion, and more engagement at work the next day.
+
+But there is a trade-off: in high performance, results-oriented work environments, high evening detachment will cause employees to feel shameful.
+
+detachment + high performance pressure work -> next morning shame -> workday cheating behavior
+
+Theory
+- social self-preseveration: individuals experience shame after socially inappropriate behaviors. At high performance places, detachment is inappropriate
+
+
+EXCELLENT ESM METHOD MIMIC. 
+
+
+Between person measures.
+Evening survey
+Morning survey
+Afternoon survey
+All captured by one individual
+
+
+
+STUDY 1
+
+ESM, two weeks. Justified nicely. Described nicely.
+
+Surveys
+
+- Performance Pressure, baseline, three items
+In my workplace
+pressures for performance are high
+if I dont' produce at high levels, my job will be at risk
+I feel a tremendous pressure to produce results
+
+- Psych detatchment, daily evening
+This evening, I
+detached from work
+didn't think about work
+distanced myself from work
+
+- shame, daily morning
+Thinking about last night, I feel ashamed about
+the amount of time I spent not working
+the degree to which I detached from work
+the extent to which I distanced myself from work
+
+- workday cheating, daily afternoon survey
+At work today
+made it look like I was working even when I wasn't
+created the impression that I was workign harder than I really was
+misrepresented my work activities to make it seem like I was being productive
+
+
+
+
+Study 1 demonstrated that, on average, the more an employee exceeded their baseline level of detachment in a given evening, the more shame they experienced at work the next morning. In turn, the experience of morning shame was associated with increased cheat- ing or “covering-up” behaviors throughout the workday. However, the relationship between evening detachment and morning shame— and thus the capacity for evening detachment to result in workday cheating behavior—was contingent upon performance pressure.
+
+
+STUDY 2 Vignette
+
+Mturk
+
+They manipulate performance pressure and detachment by using a vignette. 
+Then ask questions about shame and cheating behavior. 
+- 'HOW MUCH SHAME DO YOU IMAGINE THAT YOU WOULD FEEL'
+- 'HOW MUCH CHEATING DO YOU IMAGINE THAT YOU WOULD ENGAGE IN?'
+
+ASK KUNDRO for these vignettes
+
+
+
+
+
+
+
+
+#ob
+#jap
+#mimic-study
+#mimic-measures
+#mimic-esm
+
+
+
+
+
+
+
+
+
+# li et al., "My boss is younger, less educated, and shorter tenured"
+
+
+In modern workplaces, sometimes supervisors are younger than their subordinate workers. How does this status incongruence relate to workplace consequences?
+
+When the supervisor is competent, subordinates do not care whether he is older/younger (status incongruence).
+When the supervisor is incompetent, then subordinates feel psychological threat and anxiety that the system they are in is flawed. 
+
+When the less competent supervisor possesses status markers (e.g., education, age, and tenure), subordinates can use these status markers to justify the supervisor’s position in the hierarchy and, as a result, perceive their promotion system as more fair (or at least less unfair) than when the supervisor does not have these markers.
+However, when a supervisor is both less competent and status- incongruent, subordinates may find it very difficult to justify the system. Although subordinates would still want to avoid the threat of acknowledging an unfair system, supervisors’ status markers as a potential basis for system justification are not present.
+
+
+#ob
+#jap
+#woke
+
+
+
+
+
+
+
+# tai et al "biting the hand that feeds"
+
+Receiving help from a high status, high competent other makes the receiver anxious (status threat).
+The receiver then feels envy.
+The receiver then undermines the original helper. 
+
+
+#ob
+#woke
+#jap
+
+
+
+
+
+
+
+
+
+# Liu & carter
+
+To meet the ever-changing work demands in today’s organizations, new employees are often placed into existing work teams. Although research on organizational socialization has advanced our understanding of how newcomers adjust after joining a team, it remains largely unclear how team veterans navigate the same period of adjustment. Drawing upon affective events theory, we conceptualize newcomer entry into a team as a salient affective event that can trigger multiplex affective reactions among team veterans and ultimately shape team functioning (i.e., team processes and team performance). We propose that when a newcomer differs more from veterans in relational characteristics, such as trait likeability, veterans will have stronger negative affective reactions (i.e., stronger negative affect and weaker positive affect), whereas when the newcomer differs more from veterans in task-related characteristics, such as educational background, veterans will have stronger positive affective reactions (i.e., weaker negative affect and stronger positive affect) after newcomer entry. In addition, we propose that team performance prior to newcomer entry attenuates the strength of the relationships between newcomer–veteran dissimilarities and veteran affective reactions. 
+
+How do incoming newcomers affect the vets of the team?
+
+When a newcomer is less similar to veterans in relational attributes (i.e., attributes related to one’s interpersonal tendencies such as trait likeability), veterans will experience stronger negative affective reactions.
+
+The entry of a relationally dissimilar newcomer carries a high degree of negative novelty because the introduction of a socially unfamiliar member into the current team can pose threats to team veterans, inducing their concerns about potential interper- sonal flux and relationship conflicts with the newcomer 
+
+In contrast, when a newcomer is less similar to the veterans in functional attributes (i.e., attributes that are relevant for accomplishing work tasks such as educational background), veterans are likely to have stronger positive affective reactions 
+
+The entry of a functionally dissimilar newcomer is likely to inject a high level of positive novelty into the team because their different expertise domains may stimulate information elabo- ration among team veterans, such as increased communication, learning, and information sharing from diverse perspectives.
+
+
+#ob
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# lanaj, gabriel, jennings 2023 "the importance of leader recovery for leader identity and behavior"
+
+
+A leader's day is depleting. 
+
+Every minute [of a leader’s daily life] is spent grappling with strategic issues, focusing on cost reduction, devising creative approaches to new markets, beating new competitors ... They rush from meeting to meeting, check their e-mail constantly, extinguish fire after fire, and make countless phone calls ...
+
+Unfortunately, the taxing nature of leading may hinder leaders’ ability to fully connect to their leader role, especially if they are unable to recover during off-work hours.
+
+We propose that one way leaders can bolster their leader identity is by starting their workday feeling refreshed and restored. 
+
+
+On days when leaders are replenished due to psychological detachment prior to work, they may have the desire and fortitude to immerse themselves in their leader role by identifying more strongly as a leader (e.g., Ibarra, 2015). In contrast, on days when leaders are cognitively depleted due to affect-focused rumination, they may identify less with their leader role because depletion prompts desires to avoid resource- intensive responsibilities (e.g., Sjåstad & Baumeister, 2018).
+
+
+ESM Study
+100 leaders
+10 work days
+
+Leader daily surveys
+- psych detachment from prior night ("last night I could detach from work")
+- affect focused rumination ("Last night I felt irritated when thinking about work-related issues")
+- depletion ("I feel drained right now")
+- leader identity ("Right now, I see myself as a leader")
+
+Follower daily surveys
+- transofmrational behaviors (communicated importance of shared goals; displayed enthusiasm)
+- enacted power (got his/her subordinates to do what he/she wanted)
+
+
+
+#ob
+#jap
+#esm
+
+
+
+
+
+
+
+
+
+
+
+# bush, baer, welsh, outlaw "to what do I owe this visit?"
+
+Literature assumes that workplace intrusions (unexpected work encounters that disrupt your work) are negative (deplete resources, role overload, promote strain). 
+
+However, the negative effects of task switching or task interruptions might be countered by benefits from renewed work engagement. 
+
+Non-role intrusions (coworker asking how your weekend was) disrupt work engagement.
+Task intrusions (colleague updating you about task stuff) enhance work engagement
+
+work engagement then predicts citizenship (task focused).
+
+
+Although in-role intrusions may disrupt employees’ attention, the content of these work-related intrusions should align closely enough with typical work experiences that a large mental reconfiguration is not required. Consequently, the demands created from in-role intrusions should be more likely to incite role-directed action.
+
+The authors argue that these in-task or task instrusions or in-role intrusions create useful cognitive demands that cause people to increase their attention to immediate tasks. 
+
+
+
+EXPERIMENT
+
+Prolific participants
+
+Online experiment with random assignment to condition (non-role intrusions, in-role intrusions, or control). During the recruitment process, workers were told that they would be helping to validate transcription software designed for use in future research, and thus would be asked to review and provide corrections for several transcriptions. Complete 4 of these transcriptions.
+
+To manipulate intrusions, participants were told that they would be paired with another individual who would be completing the same transcriptions at the same time, as that would provide the research team with additional confidence in the proposed corrections. 
+
+This was actually an electronic confederate.
+
+In-role intrusion condition
+- three intrusions from E confederate ("what types of errors are you finding?")
+
+Non-role intrusion condition
+- three intrusions from E confederate ("what did you have for dinner last night?")
+
+Participants could respond and send message back to the E confed. 
+
+Control
+- no instrusion messages sent
+
+DVs
+- self report engagement
+- self report collaboration
+
+
+
+ESM
+
+70 employee coworker dyads
+
+M through F surveys, once a day, for three weeks.
+
+12noon first survey
+- rate intrusions so far today
+
+4pm second survey
+- daily work engagement
+- daily collaboration
+
+4pm coworker survey, asked about focal employee
+- focal employee task and person focused citizenship behavior
+
+
+
+
+
+
+#ob
+#mimic-study
+#mimic-esm
+
+
+
+
+
+
+
+
+
+
+
+
+# briker, walter, & cole, "hurry up! the role of supervisor's time urgency"
+
+Time-urgency is thought of a useful trait for leaders -- it promotes energy, proactivity, effective action, and synchronizing efforts with others.
+
+However, we argue that leader time urgency can have a downside for subordinates. Leaders who are time urgent may favor quick, short sided decisions, thus increasing work stress and time pressure for subordinates. 
+
+
+
+Because time-urgent individuals experience a chronic sense of hurriedness, they eschew slow and deliberate thinking, instead basing their decisions on fast, intuitive insights (Ben-Zur & Wardi, 1994). It follows that supervisors with relatively pronounced time urgency should be more reluctant to process deviant information, and they may exhibit a rather rigid thinking style that focuses on initial ideas and solutions as opposed to careful consideration of alternatives (Streufert et al., 1981). Given their chronic perception of excessive temporal demands, these supervisors are more likely to feel that they have little time to consider subordinates’ opinions, explain man- agerial decisions in detail, or act in a fair and respectful manner (Sherf, Venkataramani, & Gajendran, 2019). Based on this logic, it seems reasonable to assume that highly time-urgent supervisors will perceive subordinates’ inputs as time-consuming distractions without much value and, thus, will disregard subordinates’ perspectives, ideas, and needs. Rather than accepting (or even soliciting) subordinates’ contributions, we therefore argue that these supervisors are more likely to dictate task assignments and push subordinates toward uniformity and compliance, setting aggressive targets and deadlines and closely monitoring subordinates’ progress.
+Supervisors with relatively low time urgency, by contrast, are less likely to exhibit autocratic leadership behaviors.
+
+
+Building on this foundation, we suggest that a supervisor’s autocratic leadership behavior—as triggered, for exam- ple, by his or her time urgency and high status perceptions—will create experiences of work stress (i.e., job require- ments subjectively exceeding one’s capabilities; McGrath, 1976) among subordinates. Autocratic supervisors are likely to impose intense work demands on subordinates by acting in a dominant and forceful manner, pushing sub- ordinates toward efficient task accomplishment, and forcefully maintaining high-performance expectations (De Cre- mer, 2006; Harms, Credé, Tynan, Leon, & Jeung, 2017). At the same time, autocratic leadership constrains subordi- nates’ access to important job-related resources, limiting subordinates’ opportunities for participation and involve- ment and, thus, diminishing their feelings of autonomy (De Hoogh & Den Hartog, 2009; Van Vugt et al., 2004). As noted before, the literature on job demands and resources suggests that such a combination of high demands and limited resources can be particularly damaging to individuals (e.g., Häusser et al., 2010; Schaufeli & Bakker, 2004).
+
+
+
+STUDY
+- supervisor time urgency (self report)
+- supervisor autocratic leadership style (subordinate report)
+- subordinate work stress (self report)
+- subordinate time pressure (self report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# bush, welsh, baer, & waldman, "discouraging unethicality versus encouraging ethicality"
+
+We know that ethical leadership is better than unethical leadership.
+
+Should ethical leaders focus on "promoting the good, ethical behaviors" or "preventing/punishing immoral" behavior?
+
+Overlay prevent/promotion theory with ethical leadership theory.
+
+
+
+We contend that prevention-focused ethical leadership has a negative impact on daily levels of follower felt trust. To illustrate, consider a supervisor who, on a particular day, has warned an employee about the consequences of unethicality or closely monitored the employee to prevent an ethical lapse. The follower is likely to wonder what prompted the leader to engage in that behavior. Accordingly, followers on the receiving end of prevention-focused behaviors on a particular day may contemplate what prompted the increase in this behavior. Tthese followers are likely to infer that the leader is uncertain of their commitment to ethical principles and their ability to operate without oversight.
+
+
+
+We propose that as leaders engage in promotion-focused ethical leadership on a given day, followers will interpret these promotion-focused ethical leadership behaviors in a manner that enhances daily levels of felt trust. For instance, a leader may pull aside a fol- lower to provide praise for choosing to behave ethically while completing her daily tasks. In this instance, the follower is likely to perceive that the leader has positive expectations around her willingness and motivation to make ethical choices. This daily behavior should also signal to the follower that the leader has a “state” level of confidence in the follower’s willingness and motivation to act ethically.
+
+
+
+ESM
+
+112 MBA students
+Daily surveys for 12 work days
+
+NOT LEADER SAMPLES. JUST SUBORDINATE EMPLOYEES MEASURED (LIKE MY BLM STUDY). 
+
+Mid day follower survey
+- asssess leader's prevention focused leadership
+- assess leader's promotion focused leadership
+
+End of day follower survey
+- felt trust toward supervisor
+
+End of day coworker survey
+- rate OCBs and CWBs of focal employee
+
+
+
+#ob
+#esm
+
+
+
+
+
+
+
+
+
+
+
+
+Why does misconduct often propel someone into leadership roles rather than derail their career?
+
+Rich observed: “you can get away with whatever you want as long as you’re successful. And once you’re not so successful anymore, then all that rule-breaking and brashness doesn’t look so attractive and appealing anymore” (Barbaro, 2019).
+
+We expect that unethical behavior has an indirect effect on employee promotability that is contingent upon their own level of performance and their supervisors’ propensity to focus on the bottom line.
+
+Supervisors may be particularly motivated toward certain outcomes when a high-performing employee is behaving unethically as compared to a low performer.
+
+Second, we expect bottom-line mentality (i.e., a singular focus on achieving results; Greenbaum et al., 2012) is a key supervisor attribute that governs the extent to which they face competing motives when making promotion recommendations. Supervisors higher in bottom- line mentality (BLM) do not have to cognitively contend with competing motives: the value of performance eclipses other factors, including their own judgments of employee conduct.
+
+Theory: motivated moral reasoning
+
+In their theory of motivated moral reasoning, Ditto et al. (2009) contend that during moral reasoning individuals maintain an “illusion of objectivity” while simultaneously behaving like “a hired gun attorney” whose cognitions are biased in ways that accord with their preferred outcomes (Ditto et al., 2009, p. 310). For example, when evaluating others’ behaviors, individuals tend to make more favor- able attributions for the behavior of people that they like (Reeder et al., 2005).
+
+Rather than holding transgressors equally responsible, evaluators are often motivated to incorporate different standards of accountability based upon what is consistent with their preferences (Ditto et al., 1998). Thus, an identical set of behaviors could lead to vastly different moral judgment of—and accountability action for—employee misconduct.
+
+
+
+Consistent with this view, it is easier to rationalize the severity of questionable acts from high performers by engaging in motivated moral reasoning processes. 
+
+
+
+FIELD STUDY, SURVEY
+
+Supervisor ratings
+- punative judgement of focal employee
+- promotability of focal employee
+
+Coworker ratings of focal employee
+- performance
+- unethical behavior
+
+
+
+EXPERIMENT
+
+Mturk
+
+After the presurvey, all participants were asked to fulfill to the role of team supervisor. Their responsibilities included review and evaluation of their team members’ work on the study tasks. Participants were put in teams where they were shown three team members who were identified by their initials and a unique color.
+
+The task involved solving a series of anagrams containing scrambled letters that can be unscrambled to form one or more words (e.g., “rhtae” unscrambles into “earth” or “heart”).
+
+Supervisors were instructed to review all information from the practice round of the task. Information varied each member’s performance. In the practice round, the low-performing member solved 2 of 20 anagrams on the practice round and rated low in contribution to the team debrief (M = 1.75 of 7). The average performing member solved 6 of 20 anagrams on the practice round and was peer-rated moderate in contribution to the team debrief (M = 4.25 of 7). The high-performing member solved 13 of 20 anagrams on the practice round and was peer-rated high in contri- bution to the team debrief (M = 6.75 of 7).
+
+Next, team supervisors reviewed the task round, which counted. This entails scoring the anagram solutions of each member and reviewing their self-reported performance. Here, we manipulated the performance level of the transgressing employee (i.e., which employee overreported; see Appendix 2 for detail). After, supervisors were asked to report their judgment of the conduct of all members (i.e., punitive judgment). Following survey questions, supervisors were provided with instructions for making their final evaluations of each member. Here, we introduced the bottom-line mentality manip- ulation. Finally, supervisors were asked to what extent they endorsed each member being invited to serve in a supervisory capacity in future paid research opportunities (i.e., rate the promotability of each member).
+
+Bottom-Line Mentality. Immediately prior to promotability evaluations of each team member, we varied bottom-line mentality in accordance with Greenbaum et al.’s (2012) definition. Specially, we encouraged supervisors to either focus on bottom-line perfor- mance in their evaluations or to not just focus on bottom-line performance (see Appendix 2 on OSF).
+
+
+[christopher summary of experiment]
+
+You are in charge of three people performing anagrams.
+
+One is good, one is average, one is bad.
+Manipulate which one is the cheater.
+Manipulate participant (supervisor) bottom line mentality by priming. 
+
+Participant (supervisor) rates employee conduct and promotability.
+
+https://osf.io/5hxma?view_only=342cfdee8f67417594320c90d582b567
+
+
+
+#ob
+#jap
+#study-mimic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# heydarifard "losing sleep over speaking up at work"
+
+Most studies have examined the effects of trait personality or organizational events on employee subsequent sleep.
+
+Less work has examined insomnia antecednets that are behavior, or under the control of the employee.
+
+The purpose of this study is to examine the effect of voice as a prosocial yet risky workplace behavior on employee sleep.
+
+
+
+Promotive voice = energy and positive affect
+
+Thus, engaging in promotive voice that proposes solutions intended to benefit the work unit or organization is likely to be an affectively positive experience for voicers. Also, through the expression of promotive voice, voicers focus on the pursuit of ideal future states and devising avenues for achieving those future ideals (Liang et al., 2012). This cognitive focus on an ideal future is shown to be associated with the activation of positive emotions, such as excite- ment and enthusiasm (Kark & Van Dijk, 2007; Karniol & Ross, 1996). 
+
+Prohibitive voice = negative affect
+
+these relate to detachment and insomnia. 
+
+
+
+
+Prohibitive voice focuses on chal- lenging existing organizational practices and powerholders’ decisions without necessarily proposing solutions to address the concerns and problems identified (Liang et al., 2012), which is why it is not uncommon for voice recipients to interpret prohibitive voice as a threat to their professional expertise and an attempt to undermine their power and status (Ashford et al., 2009; Liang et al., 2012). Thus, prohibitive voice may evoke immediate negative reactions from voice recipients, such as defensiveness, expression of negative emotions, and engagement in uncivil or deviant behaviors against voicers (Ashford et al., 2009; Detert & Edmondson, 2011). Due to its content that can be perceived as antagonistic and likely adverse reactions from the recipients, prohibitive voice may put voicers at a risk of immediate negative consequences, such as face loss (losing respect and credi- bility; Detert & Edmondson, 2011; Liang et al., 2012), interpersonal harmony damage (initiating conflict and damaging relationships; Liang et al., 2012; Ward et al., 2016), and being perceived by others as a faultfinder, complainer, or troublemaker (Ashford et al., 2009; Milliken et al., 2003).
+These adverse repercussions associated with prohibitive voice are likely to provoke negative emotions in voicers.
+
+
+
+ESM
+
+160 MBAs
+
+10 consecutive surveys
+1 morning and 1 evening
+
+Morning survey
+- depletion in prior night
+- detachment in prior night
+- insomnia in prior night
+
+evening survey
+- workday promotive and prohibitve voice
+- workday positive and negative affect
+
+
+#ob
+#jap
+#esm
+
+
+
+
+
+
+#article-compile
+#ob-reading
+#literature-summary
+#literature-reading
+#ob-notes
+
+
+
+
+
+
+
 
 
 
