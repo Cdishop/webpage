@@ -10700,6 +10700,935 @@ People are admired and hired into Universities increasingly based on mastering a
 
 
 
+
+
+
+
+
+
+# how people I've met think about research
+
+
+How Nikos talks:
+- here are the assumptions in the literature
+
+How Anita talks:
+- here is what businesses are doing
+
+How I like to talk:
+- here are false beliefs I see people holding about human nature
+- here are common problems I see in work life
+
+
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# I'll take a wild ride over a safe but longer one
+
+
+Men die earlier than women and no one seems to care.
+
+Men certainly don't seem to care, otherwise they would adopt female traits like taking better care of themselves by avoiding risky behavior (such as gun ownership or reckless driving) and going to the doctor more regularly.
+
+Never understood the whining about this.
+
+Yea I drink, I ride motorbikes, I do drugs, I box, I travel to dangerous places and do stupid shit while I'm there, and when I look at my bucket list at least half of the activities on there are things I want to do primarily for the rush and a decent portion of them if they go wrong could kill me (or at least seriously injure me).
+
+I hate going to the doctor and rarely go, my diet has plenty of the bad stuff I'm "not supposed to eat" but is delicious although I am getting better here, and I like to stick my nose where it doesn't belong because I can.
+
+No shit some of this might hurt my mortality rate. But what are the alternatives exactly, sit inside eating salad? No thanks. I'll take a wild ride over a long(er) one.
+
+
+
+#philosophy
+#quote
+#marginal-revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# persistence / inertia in dynamic systems
+
+This is best understood by reading the paper based on which this post was based, let me try explain here as well:
+
+Overall, this just means that economy is following the boom-bust cycle because of the way agents interact and in even in absence of shocks pushing us up and down.
+
+Strong propagation means that some shocks affect the economy for very long time.
+
+Endogenous propagation means that this effect is due to the nature of interaction between economic agents, as opposed because of the nature of the shocks themselves.
+
+Endogenous cyclical behavior means that economy goes up and down on its own, not just because of shocks. Limit cycles is reference to the historical mathematical term that is used to describe this. See picture in the actual post.
+
+
+
+Macroeconomic cycles are much more self-reinforcing and correspondingly resistant to shocks and hence longer-lasting than what is commonly thought…
+
+The key idea is that economic developments feature strong endogenous propagation mechanisms which yield endogenous cyclical behavior ala limit cycles.
+
+And:
+
+What is at heart of this behavior? There are three factors that the authors point towards. First is strategic complementarity between economic agents’ behavior, such as the fact that firms want to invest when other firms are investing. Second, you need inertia in individual behavior, so that rapid changes in behavior are costly. And finally, you need dependence on some stock variable such as aggregate amount of capital or durable goods. All of these requirements seem very realistic assumption about the real world.
+
+What are the implications of such model? Among other things this means that in certain periods of time the economy is very robust to negative shocks, because these shocks do not have the power to overturn the forces (resulting from the strategic complementarity between agents) that are pushing economic activity higher. They might push us slightly lower for some period of time, but they don’t turn things completely around. And once their effect fades the economy continues in its previous trajectory. In a sense, this view suggests that economic cycles are more like a titanic.
+
+It also means that there is certain dichotomy in terms of shocks. Shocks ranging in size from “small” to “large-but-not-gigantic” proportions do not change the underlying trajectory of the economy, unless we are already close to turning point in the limit cycle. Meanwhile, truly gigantic shocks, like the global financial crisis, are not just deviation from the medium-term trend defined by the limit cycle, but a change in the medium-term trend.
+
+And in conclusion:
+
+To summarize, the limit cycle view suggests that a powerful enough shock, such as the rebound when economies re-opened after the pandemic recession, can put us on a upward spiral, and that such spiral features such a strong self-reinforcing mechanisms that even large negative shocks cannot derail us. This in contrast to standard DSGE models that feature only relatively weak propagation of shocks, and, crucially, do not feature any medium-term cyclical behavior.
+
+
+#marginal-revolution
+#dynamics
+#inertia
+#economics
+#tyler-cowen
+#systems-dynamics
+#beer-game
+#christopher-theory-of-fluctuations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cognitive endurance
+
+Schooling may build human capital not only by teaching academic skills, but by expanding the capacity for cognition itself. We focus specifically on cognitive endurance: the ability to sustain effortful mental activity over a continuous stretch of time. As motivation, we document that globally and in the US, the poor exhibit cognitive fatigue more quickly than the rich across field settings; they also attend schools that offer fewer opportunities to practice thinking for continuous stretches. Using a field experiment with 1,600 Indian primary school students, we randomly increase the amount of time students spend in sustained cognitive activity during the school day—using either math problems (mimicking good schooling) or non-academic games (providing a pure test of our mechanism). Each approach markedly improves cognitive endurance: students show 22% less decline in performance over time when engaged in intellectual activities—listening comprehension, academic problems, or IQ tests. They also exhibit increased attentiveness in the classroom and score higher on psychological measures of sustained attention. Moreover, each treatment improves students’ school performance by 0.09 standard deviations. This indicates that the experience of effortful thinking itself—even when devoid of any subject content—increases the ability to accumulate traditional human capital. Finally, we complement these results with quasi-experimental variation indicating that an additional year of schooling improves cognitive endurance, but only in higher-quality schools. Our findings suggest that schooling disparities may further disadvantage poor children by hampering the development of a core mental capacity.
+
+Here is the full paper by Christina Brown, Supreet Kaur, Geeta Kingdon, and Heather Schofield, via the excellent Kevin Lewis.
+
+I should note that I view this as one of the areas where I feel I have trained myself best.  I recall last year having serious airport travel problems, and a trip that should have taken two hours ended up being almost twelve hours, with uncertainty along the way and two different last-minute improvised airport stops and no lounges.  But I still was able to read, concentrate, and work for the entire period without feeling any major drain.  As for this paper, it is yet another way that schooling teaches the median student something, even though he/she cannot regurgitate any particular lesson on demand.
+
+
+Tyler, I suspect you "like" these kinds of activities. (Of course, I could be wrong.) I can spend all day on something I like. But it can be dashed difficult to concentrate on something I don't like, even if I'm being paid to do so.
+
+People with drive can achieve great things, but often what's actually happening is people who achieve great things are interested in things that turn out to be great.
+
+Now, getting people to "like" stuff that's deemed useful, that's interesting. Can we get students to like calculus at the expense of, say, liking baseball?
+
+
+Teaching oneself to like things that are profitable to like is a critical skill.
+
+The mistake today's schooling system does is to encourage students to pursue what they like.
+
+
+"Any task is as meaningful or soul-sucking as you will make it be."
+
++10. If you want to succeed, take on the task that no one wants to do and make it yours.
+
+
+
+
+#marginal-revolution
+#tyler-cowen
+#job-satisfaction
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# OB theory is not theory
+
+christopher thinking
+
+strategic core role theory is a good example of "theory is not really theory" in our field; rather, our theory is definitions and taxonomies.
+
+A real theory starts with a phenomenon, and then explains why that phenomenon manifests. It gives an explanation of some pattern or regularity or fact. 
+
+#christopher-thinking
+#ob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Direct Instruction is the best means of education
+
+Direct Instruction was pioneered by Siegfried Engelmann in the 1960s and is a scientific approach to teaching. First, a skill such as reading or subtraction is broken down into simple components, then a method to teach that component is developed and tested in lab and field. The method must be explicitly codified and when used must be free of vagueness so students are reliably led to the correct interpretation. Materials, methods and scripts are then produced for teachers to follow very closely. Students are ability not age-grouped and no student advances before mastery. The lessons are fast-paced and feedback and assessment are quick. You can get an idea of how it works in the classroom in this Thales Academy promotional video. Here is a math lesson on counting. It looks odd but it works.
+
+Even though Direct Instruction has been shown to work in hundreds of tests it is not widely used. It’s almost as if education is not about educating.
+
+Some people object that DI is like mass-production. This is a feature not a bug. Mass-production is one of the few ways yet discovered to produce quality on a mass scale. Any method will probably work if a heroic teacher puts in enough blood, sweat and tears but those methods don’t scale. DI scales when used by mortals which is why it consistently beats other methods in large scale tests.
+
+Many teachers don’t like DI when first exposed to it because it requires teacher training and discipline. Teachers are not free to make up their own lesson plans. But why should they be? Lesson plans should be developed by teams of cognitive psychologists, educational researchers and other experts who test them using randomized controlled trials; not made up by amateurs who are subject to small-sample and confirmation bias. Contrary to the critics, however, DI does leave room for teachers to be creative. Actors also follow a script but some are much better than others. Instructors who use DI enjoy being effective.
+
+Quoting the authors of the meta-analysis:
+
+Many current curriculum recommendations, such as those included within the Common Core, promote student-led and inquiry-based approaches with substantial ambiguity in instructional practices. The strong pattern of results presented in this article, appearing across all subject matters, student populations, settings, and age levels, should, at the least, imply a need for serious examination and reconsideration of these recommendations (see also Engelmann, 2014a; Morgan, Farkas, & Maczuga, 2015; Zhang, 2016). It is clear that students make sense of and interpret the information that they are given—but their learning is enhanced only when the information presented is explicit, logically organized, and clearly sequenced. To do anything less shirks the responsibility of effective instruction.
+
+
+
+A slew of research shows that direct instruction produces superior results compared to other instructional methods. A new study in the Journal of Labor Economics by Eric Taylor provides more information on how and why. Using a randomized controlled trial, Taylor compares a weak form of direct instruction with student led classrooms in which:
+
+the students are expected to reason through and articulate math concepts with each other,while teachers “facilitate conversations” and “help students express their thoughts” with a “focus on [students’] understanding, rather than on students answering problems correctly”
+
+He finds that direct instruction results in greater student learning. More importantly, however, he also has data on how well teachers understand math and how to teach math and what he finds is that this knowledge is basically only productive when teachers use direct instruction. In other words, teacher skill only produces results when teachers are assigned a task that uses that skill. Student-led classrooms waste teacher skill and so are less productive.
+
+
+
+[christopher summary]
+This is essentially job analysis but for school/learning the content of a course.
+Break it down. Logical. Step by step. Don't progress until mastery. 
+
+
+
+Moreover, it matters what is scalable...
+
+Heroes are not Replicable
+by  Alex Tabarrok September 27, 2007 at 8:20 am in Data Source Economics Education Film
+You know the plot.  Young, idealistic teacher goes to inner-city high school.  Said idealistic teacher is shocked by students who don’t know the basics and who are too preoccupied with the burdens of violence, poverty and indifference to want to learn.  But the hero perseveres and at great personal sacrifice wins over the students using innovative teaching methods and heart.  The kids go on to win the state spelling/chess/mathematics championship.  c.f. Stand and Deliver, Freedom Writers, Dangerous Minds etc.
+
+We are supposed to be uplifted by these stories but they depress me.  If it takes a hero to save an inner city school then there is no hope.  Heroes are not replicable.
+
+What we need to save inner-city schools, and poor schools everywhere, is a method that works when the teachers aren’t heroes.  Even better if the method works when teachers are ordinary people, poorly paid and ill-motivated – i.e. the system we have today. 
+
+In Super Crunchers, Ian Ayres argues that just such a method exists.  Overall, Super Crunchers is a light but entertaining account of how large amounts of data and cheap computing power are improving forecasting and decision making in social science, government and business.  I enjoyed the book.  Chapter 7, however, was a real highlight.
+
+Ayres argues that large experimental studies have shown that the teaching method which works best is Direct Instruction (here and here are two non-academic discussions which summarizes much of the same academic evidence discussed in Ayres).  In Direct Instruction the teacher follows a script, a carefully designed and evaluated script.  As Ayres notes this is key:
+
+DI is scalable.  Its success isn’t contingent on the personality of some uber-teacher….You don’t need to be a genius to be an effective DI teacher.  DI can be implemented in dozens upon dozens of classrooms with just ordinary teachers.  You just need to be able to follow the script.
+
+Contrary to what you might think, the data also show that DI does not impede creativity or self-esteem.  The education establishment, however, hates DI because it is a threat to the power and prestige of teaching, they prefer the model of teacher as hero.  As Ayres says "The education establishment is wedded to its pet theories regardless of what the evidence says."  As a result they have fought it tooth and nail so that "Direct Instruction, the oldest and most validated program, has captured only a little more than 1 percent of the grade-school market." 
+
+
+
+And this about the parents of rich children screwing things up:
+
+Things might have stumbled along in much the same way, except that education departments around the country had begun to earn the ire of a particularly determined group: the parents of dyslexic children. People with dyslexia take much longer to sort out the connection between sound and symbol. The immersion method of teaching was simply not going to work for them. Pressure from these parents, plus some crusading journalism, a steady stream of research, impressive results from several school districts, and heightened concern about pandemic learning loss, have finally turned the tide back toward a stronger emphasis on phonics.
+
+Dyslexia is not linked to intelligence; it has been described as an island of weakness surrounded by a sea of strength. It has no cure but can be overcome. So when some wealthy, well-educated parents found their otherwise typical children were not learning to read, they had questions for the school. These were met in many cases with the advice to read to them more. The parents then did what educated, wealthy people do when they feel slighted: they looked at the research, paid for expensive testing, called their representatives, and contacted their friends in the press.
+
+
+
+[christopher thinking]
+This "rich parents screwing things up" is an analogy for life. 
+We often know the answer, but a group of dogmatics are screwing things up.
+
+
+#marginal-revolution
+#tyler-cowen
+#learning
+#instructional-methods
+#instruction
+#academia
+#teaching
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# lessons from the profit/management book
+
+The correct metaphor for competition isn’t a boxing match that knocks out the inefficient firm. The correct metaphor is a slow tide. Inefficient firms must scramble for a bit of high ground but as the tide ebbs and flows they can occasionally catch a breath when their head bobs above the profit line. An inefficient firm can survive for years before it inevitably sinks.
+
+The second lesson from The Profit is that management matters and it matters in systematic and fairly easy to replicate ways. If mis-measurement explained productivity differences, Lemonis would not be able to successfully turn firms around. But he can and does. How?
+
+One of the first things Lemonis does in almost every episode is get the numbers right so he can calculate which products are selling and which have the highest price-to-cost margin. Concentrate production on high-margin, big sellers. Drop the rest. Simple; but many firms don’t know their numbers.
+
+Can it be so simple? To be sure, Lemonis is a smart guy but very little of what he does takes genius. We know this because we now have robust evidence from India and Mexico that better management increases profits and productivity and that such increases can be sustained over the long run. In the studies from India and Mexico, randomly selected firms were given access to a “management intervention” and their productivity and profits improved and stayed higher for years after the intervention ended.
+
+
+#marginal-revolution
+#tyler-cowen
+#management-matters
+#ob
+#economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# raise others' aspirations. give them advice.
+
+
+The high-return activity of raising others’ aspirations
+by  Tyler Cowen October 21, 2018 at 12:16 am in Education
+Yesterday I had lunch with a former Ph.D student of mine, who is now highly successful and tenured at a very good school.  I was reminded that, over twenty years ago, I was Graduate Director of Admissions.  One of my favorite strategies was to take strong candidates who applied for Masters and also offer them Ph.D admissions, suggesting they might to do the latter.  My lunch partner was a beneficiary of this de facto policy.
+
+At least two of our very best students went down this route.  Ex ante, neither realized that it was common simply to apply straight to a Ph.D program, skipping over the Masters.  I believe this is now better known, but the point is this.
+
+At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
+
+This is in fact one of the most valuable things you can do with your time and with your life.
+
+
+
+
+And yet, the damage to them could also be enormous given one can't predict how a PhD will turn out - if it didn't work well, the person would've wasted 4-6 years of her/his life. Academia gives a great life to a few hundreds of people and destroys thousands of lives.
+
+#quote
+#philosophy
+#marginal-revolution
+#tyler-cowen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# gender pay gap is not a function of discrimination
+
+Using data on over one million Uber drivers and millions of trips, Cody Cook, Rebecca Diamond, Jonathan Hall, John A. List, and Paul Oyer show that female Uber drivers earn 7% less than male drivers. What makes this paper new, however, is that UBER’s extensive data lets the authors understand in great detail why the pay gap exists. It’s not discrimination:
+
+Uber uses a gender-blind algorithm and drivers earn according to a transparent formula based on the time and distance of trips. There are no negotiated pay rates or convex returns to long hours worked, factors that have been shown to open a gender earnings gap in other settings. Our research also finds that both average rider ratings of drivers and cancellation rates are roughly equivalent between genders and we find no evidence that outright discrimination, either by the app or by riders, is driving the gender earnings gap.
+
+The authors find that three factors explain the gap; driving speed, experience, and choices about where to drive.
+
+First, driving speed alone can explain nearly half of the gender pay gap. Second, over a third of the gap
+can be explained by returns to experience, a factor which is often almost impossible to evaluate
+in other contexts that lack high frequency data on pay, labor supply, and output. The remaining
+∼20% of the gender pay gap can be explained by choices over where to drive.
+
+Male Uber drivers, like other males, drive a bit faster than female drivers, about 2.2% faster after controlling for experience and location. Since Uber pays by time as well as by distance the returns to speed are not very high and the difference in speed is small but overall this results in an increase in pay for males of about 50 cents an hour.
+
+Drivers learn by doing and more men than women have driven for Uber for years:
+
+A driver with more than 2,500 lifetime trips completed earns 14% more per hour than a driver who
+has completed fewer than 100 trips in her time on the platform, in part because she learn where
+to drive, when to drive, and how to strategically cancel and accept trips. Male drivers accumulate
+more experience than women by driving more each week and being less likely to stop driving with
+Uber.
+
+Overall, female and male Uber drivers behave remarkably similarly but small differences aggregated over large samples produce a small but systematic gender gap in wages of about 7%. The gap, however, is an artifact, a social construct that has no implications for “social justice,” drivers are treated equally.
+
+The author’s conclude:
+
+Overall, our results suggest that, even in the gender-blind, transactional, flexible environment
+of the gig economy, gender-based preferences (especially the value of time not spent at paid work
+and, for drivers, preferences for driving speed) can open gender earnings gaps. The preference
+differences that contribute to pay differences in professional markets for lawyers and MBA’s also
+lead to earnings gaps for drivers on Uber, suggesting they are pervasive across the skill distribution
+and whether in the traditional or gig workplace.
+
+
+
+
+
+#gender-pay-gap
+#economics
+#tyler-cowen
+#marginal-revolution
+#pay-gap
+#anti-woke
+#economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# loss aversion and credentialism kills innovation
+
+Collective Action Kills Innovation
+by  Alex Tabarrok January 4, 2018 at 7:25 am in Current Affairs Economics Law Medicine
+Oregon has just passed a law that gives gas stations in rural counties the option of allowing self-pumping (in some rural counties this is allowed only between 6 p.m. and 6 a.m.!) As you have probably heard, this incomplete lifting of an absurd restriction has some Oregonians upset and afraid.
+
+“I don’t even know HOW to pump gas and I am 62, native Oregonian . . . I say NO THANKS! I don’t like to smell like gasoline!” one woman wrote.
+
+“No! Disabled, seniors, people with young children in the car need help. Not to mention getting out of your car with transients around and not feeling safe. This is a very bad idea. Grrr,” another woman wrote.
+
+“I’ve lived in this state all my life and I REFUSE to pump my own gas . . . This [is] a service only qualified people should perform. I will literally park at the pump and wait until someone pumps my gas.”
+
+Most of the rest of the America–where people pump their own gas everyday without a second thought–is having a good laugh at Oregon’s expense. But I am not here to laugh because in every state but one where you can pump your own gas you can’t open a barbershop without a license. A license to cut hair! Ridiculous. I hope people in Alabama are laughing at the rest of America. Or how about a license to be a manicurist? Go ahead Connecticut, laugh at the other states while you get your nails done. Buy contact lens without a prescription? You have the right to smirk British Columbia!
+
+All of the Oregonian complaints about non-professionals pumping gas–“only qualified people should perform this service”, “it’s dangerous” and “what about the jobs”–are familiar from every other state, only applied to different services.
+
+Once we got familiar with self-pumping it didn’t seem like a problem, but it’s surprising we ever got self-pumping as it would have been easy to scare people into voting no. After all, the case for trained gas pumpers is far stronger than for licensed barbers. Perhaps we were less risk averse and complacent in the past. I don’t think we could build the Hoover Dam today either.
+
+It’s easier to scare than to inform and we fear losses more than we desire gains so collective decision-making defaults toward stasis.
+
+We have innovations like Uber and Airbnb and many others only because entrepreneurs didn’t have to ask for permission. Had we put these ideas to the vote they would have been defeated. Allow almost anyone with a car to drive customers around town? Stranger danger! Let any house be turned into a hotel? Not in my neighborhood! Once the innovations were brought into existence, the masses saw the benefits but they would not have seen those benefits if the idea had been put to a vote. Demonstration is more powerful than imagination.
+
+More and more, however, the sphere of individual action shrinks and that of collective action grows. Thus, I do not laugh at the Oregonians and their fear of gas pumping freedom. We are all Oregonians in one form or another.
+
+
+
+#creativity
+#innovation
+#tyler-cowen
+#marginal-revolution
+#economics
+#ob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# regulation only increases the divide between small and large firms (in favor of large firms)
+
+Attack monopoly power with deregulation
+by  Tyler Cowen May 19, 2023 at 12:43 am in Law
+One recent study shows just how important regulation is in contributing to monopoly. Since 1970, increased regulation can explain 31% to 37% of the subsequent increase in market power.
+
+Upon reflection, it is obvious that larger firms are better able to deal with regulatory burdens. They have more employees, bigger legal departments and are better suited to deal with governments. Startups are generally leaner and more nimble, but these aren’t necessarily advantages in dealing with Washington or state and local agencies. As regulatory costs rise, the comparative advantage shifts to the larger firms — exacerbating market power problems…
+
+According to researcher Shikhar Singla, regulation costs an average of $9,093 per employee for a typical small firm, compared to $5,246 for a large firm. It is no surprise that, according to the data, smaller firms invest relatively less in more highly regulated areas.
+
+Based on a study of regulatory comments, Singla also found that large firms oppose regulation in general, but push for regulation when such rules and laws damage the interests of smaller firms. Singla also finds that regulatory costs have increased significantly since the late 1990s.
+
+
+Regulators prefer large entities. They make their jobs easier.
+
+
+christopher note
+- large teams are dominating science not because they are better innovators, but because science is now more regulated, which favors large teams
+
+
+
+#marginal-revolution
+#innovation
+#regulation
+#tyler-cowen
+#economics
+#ob
+#credentialism
+
+
+
+
+
+
+
+
+
+
+
+# chat GPT for negotiations
+
+
+https://twitter.com/Francis_YAO_/status/1659135078222663681
+
+
+https://arxiv.org/pdf/2305.10142.pdf
+
+
+https://github.com/FranxYao/GPT-Bargaining
+
+
+#chatgpt
+#negotiations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# elites now look like normal people rather than elites
+
+
+
+One of the great disappointments of contemporary life is that in times of hopelessly vast income inequality, society’s arch-capitalists—and many very rich people in general—are boring. The zenith of their boringness? How they dress. Look, for example, at Meta CEO Mark Zuckerburg. Extremely rich guy. If you saw him on the street, walking around in a Patagonia vest and a quarter-zip pullover paired with chinos, you’d easily mistake him for one of your dad’s friends.
+
+Of course, this is only true on the surface. In reality, the ultra-rich have not given up on signaling their wealth; they just do so in more subtle ways.
+
+https://www.drorpoleg.com/the-quiet-luxury-of-language/
+
+
+#rob-henderson
+#status
+#luxury-beliefs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# lee, herzog "explaining real life events"
+
+Study where they code newspaper articles for their attribution style. Compare US to Hong Kong.
+
+#mimic-study
+#attributions
+#cool-method
+#pg-blm
+#pg-attributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# berstein asq 2012 "the transparency paradox"
+
+You need privacy for people to engage in productive deviance and experimentation.
+
+Sort of like goodhart's law.
+
+Drawing from theory and research on learning and control, I introduce the notion of a transparency paradox, whereby maintaining observability of workers may counterintuitively reduce their perfor- mance by inducing those being observed to conceal their activities through codes and other costly means; conversely, creating zones of privacy may, under certain conditions, increase performance. Empirical evidence from the field shows that even a modest increase in group-level privacy sustainably and significantly improves line performance, while qualitative evidence suggests that privacy is important in supporting productive deviance, localized experimentation, distraction avoidance, and continuous improvement.
+
+#ob
+#goodharts-law
+#best-paper
+#jap
+#amj
+#asq
+#grouped-ideas
+#ob-notes
+#pg-goodhart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# put your idea into math
+
+
+tyler cowen - I want to see your idea or your model in an equation
+
+Tyler Cowen
+stop writing verbal theory
+show me your mathematical model
+
+https://www.youtube.com/watch?v=FBMgSXY2STk
+
+29:50
+I demand a mathematical model
+
+start at 26:14 (I want these people to write mathematical models)
+
+
+
+Models of the mind book:
+
+The scientist must see through the messy details of the real world and find the bare-bones structure that underlies it.
+
+Mathematical formulation of a model forces it to be self-consistent, and, althought self-consistency is not necessarily truth, self-inconsistency is certainly falsehood.
+
+
+
+#grouped-ideas
+#computational-modeling
+#represent-your-idea-in-math
+#philosophy
+#phil-of-science
+#mathematical-modeling
+#dynamics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# popularizers are the ones who bring life to a scientific discovery
+
+from "models of the mind" book
+
+Popularisers of science persist in the public mind as memorial stones of human progress long after the waves of oblivion have surged over the originators of the soundest research.
+
+
+#phil-of-science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# strong link task and weak link tasks, adn steiner
+
+
+Strong link versions weak link problems is equivalent to steiner additive vs composition tasks, etc.
+
+https://www.experimental-history.com/p/science-is-a-strong-link-problem
+
+Weak-link problems are problems where the overall quality depends on how good the worst stuff is. You fix weak-link problems by making the weakest links stronger, or by eliminating them entirely.
+Food safety, for example, is a weak-link problem. You don’t want to eat anything that will kill you.
+A car engine is a weak-link problem: it doesn’t matter how great your spark plugs are if your transmission is busted. Nuclear proliferation is a weak-link problem: it would be great if, say, France locked up their nukes even tighter, but the real danger is some rogue nation blowing up the world. Putting on too-tight pants is a weak-link problem: they’re gonna split at the seams.
+
+Some problems are strong-link problems: overall quality depends on how good the best stuff is, and the bad stuff barely matters. Like music, for instance. You listen to the stuff you like the most and ignore the rest. When your favorite band releases a new album, you go “yippee!” When a band you’ve never heard of and wouldn’t like anyway releases a new album, you go…nothing at all, you don’t even know it’s happened. 
+
+Winning the Olympics is a strong-link problem: all that matters is how good your country’s best athletes are. Friendships are a strong-link problem: you wouldn’t trade your ride-or-dies for better acquaintances. Venture capital is a strong-link problem: it’s fine to invest in a bunch of startups that go bust as long as one of them goes to a billion.
+
+I think there are two reasons why scientists act like science is a weak-link problem.
+
+The first reason is fear. Competition for academic jobs, grants, and space in prestigious journals is more cutthroat than ever. When a single member of a grant panel, hiring committee, or editorial board can tank your career, you better stick to low-risk ideas. That’s fine when we’re trying to keep beetles out of asparagus, but it’s not fine when we’re trying to discover fundamental truths about the world.
+
+Here’s our reward for a generation of weak-link thinking.
+
+The US government spends ~10x more on science today than it did in 1956, adjusted for inflation. We’ve got loads more scientists, and they publish way more papers. And yet science is less disruptive than ever, scientific productivity has been falling for decades, and scientists rate the discoveries of decades ago as worthier than the discoveries of today. (Reminder, if you want to blame this on ideas getting harder to find, I will fight you.)
+
+We should have seen this coming, because the folks doing the strongest-link research have been warning us about it for a long time. One of my favorite genres is “Nobel Prize winner explains how it would be impossible to do their Nobel Prize-winning work today.” For instance, here’s Peter Higgs (Nobel Prize in Physics, 2013):
+
+Today I wouldn’t get an academic job. It’s as simple as that. I don’t think I would be regarded as productive enough.
+
+Sydney Brenner (Nobel Prize in Physiology or Medicine, 2002) on Frederick Sanger (Nobel Prize in Chemistry, 1958 & 1980):
+
+A Fred Sanger would not survive today's world of science. With continuous reporting and appraisals, some committee would note that he published little of import between insulin in 1952 and his first paper on RNA sequencing in 1967 with another long gap until DNA sequencing in 1977. He would be labeled as unproductive, and his modest personal support would be denied. We no longer have a culture that allows individuals to embark on long-term—and what would be considered today extremely risky—projects.
+
+
+
+#grouped-ideas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
