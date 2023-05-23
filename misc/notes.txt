@@ -9534,6 +9534,67 @@ If staying with parents, no more than 3 days. Don't stay in same place as them. 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# growth vs fixed mindsets have no effect
+
+Alex Burgoyne Meta Analysis: they have no effect
+
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jG8HQQgAAAAJ&sortby=pubdate&citation_for_view=jG8HQQgAAAAJ:_Qo2XoVZTnwC
+
+According to mindset theory, students who believe their personal characteristics can change—that is, those who hold a growth mindset—will achieve more than students who believe their characteristics are fixed. Proponents of the theory have developed interventions to influence students’ mindsets, claiming that these interventions lead to large gains in academic achievement. Despite their popularity, the evidence for growth mindset intervention benefits has not been systematically evaluated considering both the quantity and quality of the evidence. Here, we provide such a review by (a) evaluating empirical studies’ adherence to a set of best practices essential for drawing causal conclusions and (b) conducting three meta-analyses. When examining all studies (63 studies, N= 97,672), we found major shortcomings in study design, analysis, and reporting, and suggestions of researcher and publication bias: Authors with a financial incentive to report positive findings published significantly larger effects than authors without this incentive. Across all studies, we observed a small overall effect: 𝑑̅= 0.05, 95% CI=[0.02, 0.09], which was non-significant after correcting for potential publication bias. No theoretically-meaningful moderators were significant. When examining only studies demonstrating the intervention influenced students’ mindsets as intended (13 studies, N= 18,355), the effect was non-significant: 𝑑̅= 0.04, 95% CI=[-0.01, 0.10]. When examining the highest-quality evidence (6 studies, N= 13,571), the effect was non-significant: 𝑑̅= 0.02, 95% CI=[-0.06, 0.10]. 
+
+We conclude that apparent effects of growth mindset interventions on academic achievement are likely attributable to inadequate study design, reporting flaws, and bias.
+
+#great-study
+#growth-mindsets
+#growth-mindset
+#ob
+#social-psych
+#interventions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # are you garbage questions
 
 Are you currently using a non-tupperware container as tupperware in your fridge?
