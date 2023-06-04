@@ -29,6 +29,7 @@ crucial keywords
 #fundamentals
 #literature-summary
 #christopher-theory
+#ob-insight
 
 
 
@@ -4216,6 +4217,32 @@ Not as effective in high complexty occupations.
 #performance
 #conscientiousness
 #individual-differences
+
+
+
+
+
+
+
+# people do not discuss norms for handling tasks explicitly
+
+People jump right to "let's go" rather than "how should we proceed?"
+
+Hackman and Morris (1975) suggested that in-process tacit coordination is a prevalent phenomenon given that the task-oriented groups that they observed rarely discussed strategies for how to go about performing the task unless explicitly instructed to do so. They noted that “while most tasks do not constrain a group from overtly discussing and reformulating its performance strategies, there appears to be a pervasive norm in groups not to address such matters explicitly” (p. 67). 
+
+#ob-notes
+#ob
+#hackman
+#christopher-thinking
+#ob-insight
+
+
+
+
+
+
+
+
 
 
 
