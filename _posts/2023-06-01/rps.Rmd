@@ -1,0 +1,136 @@
+---
+title: "Rock Paper Scissors"
+date: 2023-06-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+Replicating [Marco Smolla's fun agent based model](https://marcosmolla.wordpress.com/2015/07/16/an-introduction-to-agent-based-modelling-in-r/). 
+
+```{r, eval = F}
+
+df <- data.frame(
+  'id' = 1:2,
+  'strategy' = NA,
+  'num_wins' = 0
+)
+
+
+# give each player a strategy
+strats <- sample(x=1:3, size = nrow(df))
+# impute the strategies into the data frame
+df$strategy <- strats
+
+
+# make above a function
+chooseS <- function(ind){
+  strats <- sample(x=1:3, size=nrow(ind)) # 1:Paper, 2:Scissors, 3:Rock
+  ind$strategy <- strats
+  return(ind)
+}
+
+chooseS(df)
+chooseS(df)
+
+
+# if the strategies are identical, then nothing happens
+if(df$strategy[1] == df$strategy[2]){} else{
+  # one chooses rock (3) and the other chooses paper (1)
+  if(any(df$strategy == 3) && any(df$strategy == 1)){
+    # find the person who selected paper
+    player <- df[df$strategy == 1, 'id']
+    # and give him a win
+    df[player, 'num_wins'] <- df[player, 'num_wins']+1
+   
+  }else{
+    # for the other two cases (Rock with scissors, or scissors with paper)
+    # the highest number wins
+   
+    # identify which player one (the player with the highest number)
+    player <- which(df[, "strategy"] == max(df[, "strategy"]))
+    # and give him a win
+    df[player, 'num_wins'] <- df[player, 'num_wins']+1
+  }
+ 
+}
+
+
+# make above into a function
+playS <- function(ind){
+  if(ind$strategy[1]==ind$strategy[2]) {} else{
+    #in the case that one chose Rock and the other paper:
+    if(any(ind$strategy == 3) && any(ind$strategy == 1)){
+      tmp <- ind[ind$strategy==1, "id"]
+      ind[tmp,"num_wins"] <- ind[tmp,"num_wins"]+1
+    }else{
+      #for the two other cases, the better weapon wins:
+      tmp <- which(ind[,"strategy"]==max(ind[,"strategy"]))
+      ind[tmp,"num_wins"] <- ind[tmp,"num_wins"]+1
+    }
+  }
+  return(ind)
+}
+
+
+# now place everything into a loop
+for(i in 1:100){
+  df <- chooseS(df)
+  df <- playS(df)
+}
+
+
+
+# in the current version, player 1 and player 2 always randomly select a strategy at each period
+
+
+# run and save data over time
+setup <- function(){
+  return(data.frame(id=1:2, strategy=NA, num_wins=0))
+}
+
+rounds <- 1000
+indDF <- setup()
+dat <- matrix(NA, rounds, 2)
+for(i in 1:rounds){
+  indDF <- chooseS(indDF)
+  indDF <- playS(indDF)
+  dat[i,] <- indDF$num_wins
+}
+
+
+# what if one player always sticks with the same strategy but the other player randomly selects?
+
+chooseS2<- function(ind){
+  strat1 <- sample(x=1:3, size=1)
+  ind$strategy[1] <- strat1
+  strat2 <- 2
+  ind$strategy[2] <- strat2
+  return(ind)
+}
+
+
+rounds <- 1000
+indDF <- setup()
+dat <- matrix(NA, rounds, 2)
+for(i in 1:rounds){
+  indDF <- chooseS2(indDF)
+  indDF <- playS(indDF)
+  dat[i,] <- indDF$num_wins
+}
+
+#
+# apparently no, it does not matter.
+
+```
+
+
+
+Bo$^2$m =)
+
