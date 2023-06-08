@@ -1,0 +1,19 @@
+---
+title: "Read Something Wonderful"
+date: 2023-06-06
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+[Read something wondeful blog](https://readsomethingwonderful.com/p/142/the-high-return-activity-of-raising-others-aspirations). 
+
+
+Bo$^2$m =)
+
