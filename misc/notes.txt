@@ -7972,6 +7972,9 @@ deviant
 defiant
 provocative
 daring
+bad
+mean
+barely above average
 
 innocent
 professional
