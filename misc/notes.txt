@@ -1132,6 +1132,905 @@ A significant change in employees' organizational commitment occurred over the t
 
 
 
+ended
+2022 - dec 22 vol 65 (6)
+
+
+
+
+
+
+# temporal boredom relates to feelings of time passing slowly, which relates to low performance
+
+
+fast or slow: how temporal work design (zhao, deng, chen, parker, zhang)
+
+Two work design things that can make employees feel like time is going faster (which most people feel is more pleasant than when time moves slowly): no uncertain wait times before embarking on next task (temporal predictability) and segmenting work tasks.
+
+By temporal predictability, they really mean "bored today because I had to stand around waiting for stuff to do"
+
+[hook]
+workdays can pass quickly for some but slow for others
+workers’ experienced passage of time is a critical work experience that is not well understood in the management literature. In this paper, we seek to understand the following questions: Is it possible to alter employees’ experienced passage of time via work design, and, if possible, are there any performance benefits of doing so?
+
+[theory]
+attentional gate model (Zakay & Block, 1995) 
+use work design to increase perceptions of "time moved quickly today" (a pleasant experience)When people “watch a pot until it boils,” time seems to pass slowly because attention is devoted to the passage of time. On the other hand, when people immerse themselves in nontemporal aspects of the environment, time seems to pass quickly because they have no cognitive capacity to process the passage of time (Brown, 2008; Zakay, 1989).
+
+[contributions]
+1. contribute to the work design literature by identifying two novel temporal work design characteristics. 
+2. we investigate a universal yet understudied work experience—time passing
+quickly or slowly at work.
+3. informs an emerging research program in management research: the time literature. To the best of our knowledge, the time literature within the management field has not yet systematically studied how employees experience work time differently and how such variations influence work outcomes (Shipp & Cole, 2015). 
+
+[christopher note]
+When people say contributions, what they really mean is "this study is relevant or related to X literature." That's not a contribution. It is not a critical test. It is not a gauntlet. 
+
+[study1a]
+Mturkers: you are invited to check other Mturker's typos
+To manipulate temporal predictability, participants in the experimental condition were presented with a clear schedule of task time and break time. In contrast, those in the control condition did not know how long it would take for each task and each break, and they kept waiting until they were instructed to move on.
+
+The four modified items for
+temporal predictability were: (1) “In my typical work time, I spend a substantial portion of my day waiting for unpredictable events or tasks [R]”; (2) “I often find myself waiting for the next piece of work, which could happen at any time [R]”; (3) “In my job, I am often on ‘stand by’, waiting for a task to occur at some unknown time [R]”; and (4) “My workday involves lots of waiting for something to happen at some non-specified time [R].”
+
+The four modified items for task segmentation were (1) “My daily work activities can be broken down to be performed in different blocks of time”; (2) “In my job, I carry out my work in small chunks of time”; (3) In my job, a workday is separated into smaller segments by clear ‘markers’”; (4) “My job provides opportunities to separate a long task into smaller chunks with a different activity in between.” 
+
+Participants in the "I'm bored because I have to wait around" or "no task segmentation" conditions experienced time as moving slower and performed worse on a "check this equation for errors" task.
+
+
+#ob-notes
+#amj
+#items
+#survey-items
+#questionnaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# when leaders are perfectionists, then subordinates feel simultaneously engaged but exhausted
+
+
+leader perfectionism -- friend or foe (xu, liu, ji, dong, wu)
+
+Leader perfectionism -> employee engagement -> creativity
+Leader perfectionism -> employee exhaustion -> less creativity (if employee has low LOC)
+
+
+hook
+some studies find that leader perfectionism harms employee creativity, other studies find that it boosts employee creativity.
+We identify both positive and negative mechanisms of LP on employee creativity.
+
+theory
+Self-regulation starts from a perceived discrepancy between the current and desired state. LP creates a discrepancy, which triggers the need for employees' self-reg to fulfill perfectionistic requirements. Doing so drives engagement but consumes personal resources. 
+Internals (people who believe they have control over events) can insulate themselves from depleting tasks.
+
+contributions
+Reconciles conflicting past findings
+Most leader perfectionism research has focused on leader outcomes. We show leader-subordinate outcome.
+Add to LOC lit by showing how LOC is a moderator.  
+
+[christopher note]
+Once again, they conflate "relevant for this lit" with "contribution." Reconciling conflicting findings is a contribution. "This study is located within this literature" is not a contribution.
+
+
+#academese
+#ob-notes
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# talk to your friends about your initial ideas before talking to network outsiders
+
+inside-out, outside-in, or all-in-one? (wal, criscuolo, & salter)
+
+Drawing on colleagues to gain feedback and support in the elaboration of one’s ideas can be a difficult process. Due to the ill-defined, ill- structured, and uncertain nature of early-stage ideas, individuals face a dual risk in that they may see their high-potential ideas dismissed for the wrong reasons if they expose them to the wrong people at the wrong time.
+
+So, start with your inner-circle friends, because they will discuss (and not hound you for) ill-defined, ill-structured, or uncertain ideas. 
+
+
+hook
+People pursuing novel ideas need (harsh) feedback from others.
+We know that networks are important, but no one has explored the "sequencing" people might use to gain helpful critiques but also mitigate the risks of having the wrong people be overly dismissive.
+We introduce the concept of “inside-out” network sequencing as the practice by which individuals elaborating novel ideas mobilize feedback and support from their inner-circle ties before their outer-circle ones. 
+
+contributions
+1. in addition to network structure and position, the sequencing effects of networks also matter.
+2. our research brings into focus the strategic nature of networking in relation to the pursuit of novel ideas in established organizations. we demonstrate that individuals elaborating creative ideas can outperform colleagues not only through the strategic pursuit of beneficial positions, but also by making savvy choices of who to involve when.
+3. our study demonstrates that network mechanisms such as feedback depend on timing and embeddedness, and may backfire if mobilized at the wrong time.
+
+theory
+Early-stage ideas tend to be ill-defined and ill-structured.
+The notion of the “lone genius” who builds an innovation from basic idea through to proof of concept and validation without direct or indirect input from others is inconsistent with the observation that most innovations materialize through social interaction.
+The ideas need input from others to advance and develop, but mobilization at the wrong time can undermine the creative process.
+Individuals benefit from exposing their ideas to their inner-circle ties early becuase
+- such members are nicer to you (have patience)
+- such members have greater knowledge overlap with you
+Then, get feedback from outsiders once the ideas are developed. 
+
+
+Building on research on social circles (Dunbar, 1998; Kadushin, 1968), social cohesion around relationships (Reagans and McEvily 2003; Tortoriello & Krackhardt, 2010; Tortoriello, Reagans, & McEvily, 2012), and innovation in mature organizations (Battilana & Casciaro, 2013; Criscuolo et al., 2014; Dougherty, 1992), we contend that the nature of the feedback and support an individual receives from any given colleague – and hence the best timing of first exposure of an idea to them – depends on the extent to which that colleague is embedded in the individual’s inner or outer circle of network contacts.
+
+Inside-out network sequencing allows individuals to leverage the benefits of early feedback from inner-circle ties who are more likely to commit to spending time digesting ill-defined, ill-structured, and uncertain ideas, and to whose feedback the idea creator is receptive. At the same time, it allows individuals to shield early-stage ideas from outer-circle ties until they can better withstand the cold scrutiny of relative outsiders. Outer-circle ties are less likely to have the commitment and contextual knowledge to appreciate ideas at their earliest stages of elaboration, but their outsider perspective makes them ideally suited to offer complementary expertise and to externally validate ideas once they are more developed.
+
+
+
+#great-paper
+#amj
+#ob-notes
+#advice-generation
+#idea-generation
+#help-seeking
+#advice
+#advice-seeking
+#networks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# concrete people tend to focus on short term goals
+
+
+painting a clear picture while seeing the big picture (carton, knowleton)
+
+
+Should leaders speak with abstract visions or with concrete visions to motivate organizational change?
+
+These authors say it depends on the firm's hierarchy (strength of hierarchy, whether flat or hierarchical). 
+
+Couldn't understand the logic, but the notion of abstract vs concreteness makes sense.
+
+Whereas an abstractly defined vision (“an environmentally friendly city”) is emotionally neu- tral and has many interpretations, a concrete vision (“a city full of hybrid cars”) is emotionally resonant and provides a clear sense of direction, improving the ability for employees to coordinate their efforts (Carton, Murphy, & Clark, 2014). In addition to inspiring others, leaders who generate concrete visions are also likely to be personally motivated to pursue change, because they can easily visualize success and then determine which action steps are needed to make progress (Stam et al., 2014).
+
+Given these benefits, it would stand to reason that leaders are better positioned to spearhead positive change efforts if they are predisposed to think in terms of picture-like detail (a “concrete orientation” [Emmons, 1992]).1 Yet, a conundrum arises when considering a finding from research on cognition: people with a concrete orientation tend to think and speak about short-term goals rather than long-term goals, and focus on small operational details rather than overarching strategy (DeShon & Gillespie, 2005; Wiesenfeld, Reyt, Brockner, & Trope, 2017).
+
+
+
+#ob-notes
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# unprompted help makes the recipient feel threatened (sort of like my dissertation but no OBJECTIVE requests)
+
+Typical OB-style argument. The literature on X has predominantly seen it as positive. It can also be negative.
+
+Also, they copied my exact "help after a request is different from un-prompted help" idea.
+
+Does the recipient help feel threatened when the initial person offers help? If the other person is high status and helps without a prompt, then yes the receiver feels threatened.
+If the receiver first asked for help, then all good.
+
+hook
+Org studies have mostly shown that positive reciprocity results after someone offers help at work.
+However, other literatures on social support and advice suggest that individuals feel inferior or threatened when offered help. 
+It is critical to reconsile these perspectives.
+We contend that the answer is because past research has not differentiated two concepts
+- reactive helping (assistance provided in response to a request)
+- anticipatory helping (providing help without being asked)
+
+How to frame stuff as an assumption
+Driven largely by a narrative that maintains that “the majority of helping is done reactively” at work (Bolino & Grant, 2016: 622; see also Bamberger, 2009; Fisher, Pillemer, & Amabile, 2018: 1526), scholars have often explicitly or implicitly assumed that workplace helping is reactive, or have failed to distinguish it from anticipatory helping in their the- ory and empirics. This assumption is problematic, as emerging evidence has suggested that anticipatory helping may be far more common at work than cur- rently depicted (e.g., Grant, Parker, & Collins, 2009; Lee et al., 2019). Moreover, as we detail below, it is highly unlikely that anticipatory helping leads to the same positive social exchange outcomes as reactive helping due to its perceived threatening nature.
+
+Theory
+Integrate social exchange and self-affirmation theory.
+Helping without a prompt is threateneing to receiver because it makes the recipient feel like they are receiving negative feedback about their competence. 
+We posit that this increased self-threat from anticipatory helping in turn triggers defensive reactions found in exchange encounters: namely, reducing recipients’ willingness to accept help and undermining recipients’ ratings of the helper’s per- formance (i.e., extent to which an employee meets the expectations and requirements of their role or job [Griffin, Neal, & Parker, 2007]) and relational evalua- tions (i.e., degree of likeability, friendliness, or pleas- antness [Gibson, Harari, & Marr, 2018; Leach, Ellemers, & Barreto, 2007]).
+Self-affirmation theory: people are motivated to maintain a positive self view. When people experience events that challenge their "sense of themselves as good, virtuous, and successful, they experience self-threat. When threatened, people take defensive actions such as avoiding, denying, or dismissing. 
+
+Contributions
+1. Contribute to helping literature by demonstrating the importance of distinguishing between reactive and anticipatory helping at work
+2. Contribute to social exchange theory lit. A main tenant of social exchange theory is that positively valenced actions will be met with positive responses. By integrating self-affirmation theory with social exchange theory, we explain why a positive behavior may be met by a negative behavior.
+
+
+Study1, vignette experiment (prolific)
+Imagine high status (low status) coworker
+Imagine him helping you (prompted vs unprompted)
+DV questionnaire: self threat, willingness to accept help, liking of helper
+
+Study2, field questionnaire
+Prompted vs unprompted helping
+Status of others
+Self-threat
+
+Study3, recall (prolific)
+Reactive helping: “We would like you to describe an instance when you were working on a task and asked a coworker to help you and they provided you help—that is, they helped you on your task in response to your request.”
+Anticipatory helping: “We would like you to describe an instance when you were working on a task and a coworker offered to help or helped you even though you had not asked for their help—that is, they helped you on your task although you did not request it.”
+Questionnaires (self threat, whether participants accepted help from the coworker they recalled)
+
+
+
+[christopher thinking]
+Is there some fundamental assumption I can find that would be countered by random walks with help requests?
+Theory OB says this happens and this happens. If so, requests for help should looks like Y. I find that they actually look like random walks with trend. 
+
+"when helping hurts helpers" (harari, parke, marr)
+
+
+#ob-notes
+#helping
+#my-dissertation-but-no-objective-requests
+#amj
+#marketing-genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+# People view their jobs favorably during economic recessions
+
+Indeed, even when the quality of jobs is objectively worse, people sometimes evaluate jobs subjectively better depending on how they think about their jobs and the context in which they are assessed. We propose that challenging economic times will promote positive ways of thinking about and evaluating jobs. Specifi- cally, we argue that during economic downturns peo- ple will be less attuned to other possible jobs and more likely to view their own jobs favorably.
+
+When unemployment is high and job options are limited, people are more likely to focus on the positive features of their jobs rather than dwelling on their shortcomings 
+
+hook
+Recessions are a huge factor of the American economy and workforce.
+Little is known about how recessions influence the way people evaluate their jobs (PROBABLY NOT TRUE. ANY ECONOMICS STUDIES?)
+We propose that...
+
+contributions
+1. Most job sat studies focus on conditions of workplace. We show that conditions outside of immediate job also matter.
+2. Most prior theories say that negative events lead to negative employee outcomes. We show how a negative event actually cultivates job sat.
+
+
+"does job satisfaction rise and fall with the economy?" (bianchi, martin, li)
+
+#ob-notes
+#recessions
+#economy
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Telling people "stop doing that" (prohibitive voice) makes me anxioius, whereas telling people "here is a new way of doing things" (proactive voice) leads to pride
+
+
+Proactivitly offering suggestions to develop new work protocols = promotive voice, which leads to feelings of pride.
+Advising other people about undesirable behaviors = prohibitive voice, which leads to anxiety.
+
+Anxiety => interpersonal avoidance between voicer and receiver
+Less anxiety => interpersonal interaction between voicer and receiver
+
+
+"the social aftershocks of voice" welsh, outlaw, netwon, baer
+
+
+#ob-notes
+#amj
+#marketing-genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# call "customer mistreatment" something entirely different (negative contact with beneficiary) so you can pretend to study a whole new phenomenon
+
+
+The literature assumes that workers feel satisfied when they know their work is valued by others (beneficiaries). But, we know little about negative contact with beneficiaries. 
+
+Rude contact from beneficiaries leads employees to feel that their actions are worthless (low self worth). 
+
+Employees have to rationalize the rude contact from their beneficiaries. They do this by thinking to themselves, "I incur high personal costs for the good of patients/families/customers."
+
+Low self worth relates to poor job satisfaction.
+Self sacrifice and rationalization is related to job sat.
+
+contributions
+1. examine negative contact with beneficiaries (most people examine only positive [christopher not true -- think customer mistreatment literature)
+2. contribute to meaningful work literature, which usually focuses on self worth only and not rationalization
+
+theory
+The principles of relational job design that have informed past research on positive beneficiary contact largely stem from the overarching framework of social information processing theory. This perspective holds that “finding meaning in behavior and in a job environment is an information processing activity,” and that the social context is a primary driver of what and how information gets processed (Salancik & Pfeffer, 1978: 225). Extant research on beneficiary contact has primarily focused on the first tenet of social information processing theory, which deals with information saliency. The information saliency aspect of social information processing holds that cues from one’s social environment influence the perceptions one forms about their work. This is particularly true when the information is related to the value or worth of one’s job. When beneficiaries are a major part of the work itself, beneficiaries represent a salient source of information about the value of one’s work. 
+So, the environment gives you signals that you use to form impressions of work. People can use those signals directly (info processing) or reinterpret them to their own means (rationalization). 
+
+"it's not always sunny in relationally rich jobs" (nielsen & colbert)
+
+
+#ob-notes
+#academese
+#terrible-but-great-intro
+#mimic-but-terrible-intro
+#marketing-genius
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cool writing on strategy view of performance feedback theory and attribution theory
+
+(a) performance feedback and learning (argote, cyert &  March)
+
+Performance feedback theory suggests that learning from performance feedback is a four- step process: (1) performance evaluation, (2) attribution, (3) search, and (4) risk-taking and change (Cyert & March, 1963; Greve, 2003b; Posen et al., 2018; c.f., Jordan & Audia, 2012).
+
+In the first step, managers evaluate performance. Due to the bounded rationality and the complexity of performance assessment (Cyert & March, 1963; Obloj & Sengul, 2020; Zollo, 2009), they simplify performance evaluation by dichotomizing past performance into success and failure by comparing it with the aspiration level (Cyert & March, 1963). Performance that falls short of the aspiration level is considered a failure, while performance that exceeds it is considered a success. In the second step, managers seek to identify factors deemed to have contributed to the success or failure. Based on the outcome of this attribution, they build or update the causal model specifying the causes of the success or failure, which they then use to make future decisions in the following steps. The strategies and actions associated with success will be reinforced, while those associated with failure will be scrutinized.
+
+In the third step, different types of organizational search are triggered depending on whether a firm experienced success or failure. When a firm experiences failure, managers engage in a problemistic search to find alternatives to strategies and actions thought to have caused the failure, and they become more willing to take greater risks—opening a path to the fourth step of organizational change. Success may also lead to organizational change through an accumulation of a firm’s slack resources, which may promote slack search (c.f., Xu, Zhou, & Du, 2019).
+
+
+(b) attribution theory
+
+Diffusion of responsibility -- people do not feel responsible for bad performance if control = low. 
+
+When individuals believe they have little control over outcomes, they feel less responsible for the outcomes and are more likely to attribute negative outcomes to external causes (Weiner, 1979; 1986). When a task is performed by several individuals, each individual's control over the outcome of the task decreases and responsibility can be diffused across several individuals; hence, each individual will feel less responsible for the outcome (Beyer et al., 2017; Forsyth, Zyzniewski, & Giammanco, 2002; Mynatt & Sherman, 1975). This heuristic is activated when a task fails, as individuals may attempt to diffuse their responsibility for the failure to others. The larger the number of individuals involved in a task, the more broadly the responsibility can be diffused, and the less likely that each individual will feel accountable for the failure of the task, setting the stage for external attribution (Forsyth et al., 2002). Thus, the diffusion of responsibility amplifies individuals' tendency to attribute failure to others.
+
+Managers may be predisposed to attribute success to themselves and their firm regardless of the number of partners in an alliance. As the number of partners in an alliance increases, however, their perceived control over outcomes decreases, and it becomes more difficult for them to claim a larger share of the credit for a successful alliance because the success is a culmination of joint efforts of all the partners and each partner may vie for more credit and recognition for the success (Ariño & Doz, 2000). Supporting these arguments, prior studies in attribution theory have found that, as the number of partners for a joint project increases, individuals are more likely to make a self-serving attribution for failure, but not for success (Beyer et al., 2017; Mynatt & Sherman, 1975), and they are more likely to fairly acknowledge others' contributions to the success of the project (e.g., Forsyth et al., 2002).
+
+Perceived capability of others -- if someone is highly capable, you reduce tendency to attribute failure to him/her
+
+The perceived capability of self and others is an important factor for attribution in performance assessment in both attribution (Weiner, 1979; 1986) and management research (Rhee, 2009). In particular, the perceived capability of others in a joint task significantly influences how individuals assess and attribute the outcomes of the task (Silvia & Duval, 2001; Strube & Berry, 1985). Building on and extending these arguments, we posit that highly capable alliance partners will reduce managers' tendency to attribute a failed alliance to their partners. When evaluating the outcomes of a complex event such as an alliance, it is difficult for a firm's managers to methodically measure each partner firm's actual contributions (Zollo,2009) Thus, their perceptions of the partner firms' capabilities will be instrumental in estimating the contribution of each partner (Simcoe & Waguespack, 2011). Managers' perception of other firms' capabilities for a task is often determined by the amount of experience they have with the same or similar tasks (Eggers & Kaplan, 2013). Organizational learning research has recognized experience as a primary source of acquiring and enhancing capabilities, suggesting that a firm's level of experience is positively related to its performance (Argote, 2013). Studies on alliances have similarly reported that a firm's alliance experience is positively related to its alliance capability (see Wang & Rajagopalan, 2015 for a review).
+
+Ambiguity of Performance Information
+
+Managers may exploit greater information ambiguity to portray poor performance in a positive light. 
+
+The consistency of performance over time contains crucial information for evaluating and attributing current performance and has been recognized as an important factor in attribution (Meyer, 1980; Weiner, 1979; 1986). Consistent prior performance allows firms to clearly identify a common pattern and make accurate causal attributions of their performance. By contrast, inconsistent prior performance complicates the process of identifying a common pattern and drawing unambiguous lessons, increasing the difficulty of making accurate causal attributions (Arrfelt, Wiseman, & Hult, 2013). We posit that the ambiguity arising from inconsistent prior alliance performance will, not only obscure managers'
+" ability to learn from performance feedback, but will also amplify their tendency to make self-serving attributions. Low variability1 in alliance performance allows managers to forecast their future alliance performance more accurately, which in turn helps them make more informed decisions on which governance mode to choose next time. It also limits their tendency to make self-serving attributions when they experience alliance performance that falls short of their aspiration. Low variability in alliance performance reduces ambiguity and noise in performance feedback and provides a consistent pattern of action - outcome relationships that allow managers to more clearly identify the cause of the failure (Dahl & Ransom, 1999; Felon, 1981; Willard & Gramzow, 2008). This causal clarity leaves little room for managers to attribute the failure to their alliance partners or other contingent factors because they cannot "use divergent criteria and draw on disparate types of behavioral evidence" (Dunning et al., 1989: 1082). By contrast, highly variable alliance performance complicates managers' tasks in establishing causal relationships between their actions and the outcomes of past alliances. Highly variable alliance performance indicates that a firm has experienced a wide range of alliance performance levels (both success and failure) and sends mixed signals about its ability to make successful alliances (Kim et al., 2015). Even if its recent alliance performance was unsatisfactory, the fact that it has also experienced successful alliances implies that it is possible to make a successful alliance in the future. In light of the possibility of achieving alliance performance that positively deviates from recent alliance failure, managers may frame the recent failure as an outcome that does not reflect their true capabilities and attribute it to external factors (Gilovich et al., 2002; Tversky & Kahneman, 1974). This framing and attribution will not discourage them from making future alliances. Supporting these arguments, attribution research has found that individuals are more likely to make a self-serving attribution for failure when the information pertaining to the failure is ambiguous and contradictory (e.g., Dahl & Ransom, 1999; Dunning et al., 1989; Felon, 1981). Jordan and Audia (2012) pushed this argument further to assert that managers may exploit greater information ambiguity to portray poor firm performance in a positive light-e.g., by manipulating comparison groups and emphasizing the organizational goals that were better met.
+
+The mixed signals from highly variable prior alliance performance may also make managers attribute successful alliances to themselves. Seen from a negative perspective, highly variable prior alliance performance signifies that they have been unable to reliably make successful alliances. Seen from a positive perspective, however, it can be considered evidence that they can make successful alliances in the right conditions. In light of the strong performance in the recent alliance, managers recollect previous successes and draw parallels between recent and past successes. In attributing recent success, they can give more weight to the actions they took in the focal alliance as well as in successful past alliances (e.g., close monitoring and specific contractual agreement) to conclude that such actions led to the success. When individuals have both positive and negative experiences, they tend to rely on positive memories when explaining a recent positive event much more than on negative recollections (e.g., Mayer, McCormick, & Strong, 1995). Thus, when previous alliance performances have been more variable, managers are more likely to make the internal attribution of a successful alliance. In line with these arguments, evidence from attribution research has consistently shown that ambiguous performance- assessment situations facilitate individuals' tendency to make a positive assessment of their achievements (Dahl & Ransom, 1999; Dunning et al., 1989; Felon, 1981; Willard & Gramzow, 2008). 
+
+"the role of attribution in learning from performance feedback" (lee, lee, kim)
+
+#ob-notes
+#performance
+#feedback
+#strategy
+#attribution-theory
+#amj
+#org-learning
+#organizational-learning
+#performance-ambiguity
+
+
+
+
+
+
+
+
+
+
+# CEO's screw themselves when they give incoherent reasons for firm failure to their shareholders
+
+Following disclosure of financial misconduct, a transgressing firm faces the difficult task of convinc- ing shareholders that it remains worthy of their capi- tal. Fortunately, firms have a few well-documented crisis management tactics they can use to manage shareholders’ evaluations of their trustworthiness; the most-studied and frequently deployed among them being executive dismissal (Gangloff, Connelly, & Shook, 2016; Gomulya & Boeker, 2014) and crisis communication (Bundy, Pfarrer, Short, & Coombs, 2017; Coombs & Holladay, 2004; Elsbach, 2003 Hersel, Helmuth, Zorn, Shropshire, & Ridge, 2019). While most research has examined these tactics inde- pendently to draw conclusions about the utility of each, consider MEMC, Inc.’s crisis management strat- egy after the Securities and Exchange Commission (SEC) identified a misstatement in its financial reports. Initially, MEMC communicated to its shareholders:
+The Company believes that the joint venture’s ac- counting for their functional currency was appropri- ate, and the Company is in the process of working with the SEC staff to resolve this issue.
+Then, despite these efforts to minimize any appear- ance of wrongdoing, MEMC unexpectedly announced its chief executive would immediately step down just three weeks later. How do shareholders reconcile inconsistency and illogicality like this within a firm’s crisis management strategy? Existing crisis manage- ment research acknowledges post-transgression com- munication and executive dismissal as central tactics firms can use to rebuild shareholder trust. We posit that firms can send costly mixed messages to share- holders when they fail to utilize these tactics in a coherent manner.
+
+"mixed messsages: crisis communication" (hersel, gangloff, shropshire)
+
+#ob-notes
+#financial-misconduct
+#strategy
+#executive-strategy
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# people have different amounts and types of things that they find exhausting at work
+
+The authors call this a "configural approach" to the job-demands job-resources model. 
+
+Previously, research examined this theory using a variable centered approach (lots of demands on average is bad). 
+
+They show that different amounts of different demands and resources are highly variable across people. 
+
+GREAT EXPLANATION of JDJR model
+demands -> exhaustion
+resources -> low exhaustion
+resources attenuate the effects of demands
+
+hook / theory / contribution
+We know from JDJR: demands produce exhaustion (because they impose psych costs); resources reduce exhaustion (because they motivate employees). We also know that some resources act as moderators on the effects of demands. But results vary. This disconnect between theory and empirical evi- dence about how job demands and resources combine reflects a lack of scholarly consensus around these phenomena, despite increasing recognition that job characteristics have synergistic, not isolated, effects on employee outcomes (Parker, Morgeson, & Johns, 2017). The present research thus aims to build consensus (Hollenbeck, 2008) on how configural effects of job demands and resources may be theorized and tested.
+
+
+FINDINGS
+
+what is sufficient to produce exhaustion?
+- low social support
+- high workload and high emotional demands
+- high workload and low autonomy
+
+what is sufficient for engagement?
+- high autonomy + social support + feedback
+
+Results suggest three configurations—low social support, high workload and emotional demands, and high workload and low autonomy—are sufficient for the presence of exhaustion, while no configurations are consistently sufficient for its absence. Further, only one configuration—high autonomy, social support, and feedback—is sufficient for engagement, and another—low social support and feedback (and autonomy in Study 2)—for its absence.
+
+CHRISTOPHER NOTE
+So, it is easier to screw it up (exhaustion) than it is to get it right (engagement). Engagement requires a bunch of stuff. Exhaustion only requires one. 
+
+
+full intro
+
+Research on employee stress and well-being has increased significantly over the past 20 years (Bliese, Edwards, & Sonnentag, 2017). In particular, the job demands–resources (JDR) model (Demerouti, Bakker, Nachreiner, & Schaufeli, 2001) has been extensively used to explore the antecedents and mechanisms producing two key outcomes: exhaustion and en- gagement. Conceptually, job demands should show positive associations with exhaustion and negative associations with engagement because job demands require sustained effort and impose physiological or psychological costs. Similarly, job resources should be negatively and positively associated with exhaus- tion and engagement, respectively, because they motivate employees and reduce physiological and psychological costs. Correspondingly, a rich stream of theoretical and empirical research based on the JDR model has provided support for these effects of demands and resources on exhaustion and engage- ment (Bakker & Demerouti, 2007; Crawford, LePine, & Rich, 2010; Van Yperen & Janssen, 2002), and other outcomes related to strain and well-being (e.g., mortality [Gonzalez-Mule & Cockburn, 2017], blood pressure [Ilies, Dimotakis, & De Pater, 2010], patient satisfaction [Reilly, Nyberg, Maltarich, & Weller, 2014]).
+
+Because of the large variety of demands and re- sources experienced by employees, the JDR model has extended beyond examining the main effects of individual demands and resources (additive models) to examine how they combine (multiplicative mod- els). Most notably, the buffering hypothesis suggests that resources buffer the effects of demands on ex- haustion. Associations between demands and ex- haustion should be attenuated in the presence of high levels of resources, and different resources may buffer against different demands (Bakker & Demer- outi, 2017). Although this is a key premise of the model, evidence for such multiplicative buffering effects is inconsistent. Autonomy or control and social support have been found to moderate relation- ships between various demands and exhaustion in some studies (Bakker, Demerouti, & Euwema, 2005; Fox, Dwyer, & Ganster, 1993; Kirmeyer & Dougherty, 1988) but not others (Ganster, Fusilier, & Mayes, 1986; Parker & Sprigg, 1999). Recent meta-analytic reviews have found limited to no buffering effects for a variety of resources on demands (Gonzalez- Mule, Kim, & Ryu, 2020; H€ausser, Mojzisch, Niesel, & Schulz-Hardt, 2010). Autonomy or control and support showed almost no buffering effects, which calls into question whether other resources have buffering effects on demands.
+
+This disconnect between theory and empirical evi- dence about how job demands and resources combine reflects a lack of scholarly consensus around these phenomena, despite increasing recognition that job characteristics have synergistic, not isolated, effects on employee outcomes (Parker, Morgeson, & Johns, 2017). The present research thus aims to build consen- sus (Hollenbeck, 2008) on how configural effects of job demands and resources may be theorized and tested. We depart from traditional variable-centered approaches to the JDR model, which determine the average effects of single demands or resources (Gabriel, Daniels, Diefendorff, & Greguras, 2015). Instead, we adopt a person-centered approach (Gabriel, Camp- bell, Djurdjevic, Johnson, & Rosen, 2018), which involves the “clustering of people as opposed to variables” (Woo, Jebb, Tay, & Parrigon, 2018: 816). Our configural logic explains why extant multiplica- tive models yield inconsistent findings.
+
+
+"toward a configural theory of job demands" (ong, johnson)
+
+
+#ob-notes
+#amj
+#marketing-genius
+#intro-mimic
+#mimic-intro
+#job-demands
+#job-resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# lay theories (growth vs fixed) implications for whether people engage with dissimilar others
+
+People with fixed mindsets about professional relationships ("professional relationships are like pieces of a puzzle: people either click or they don't") are more likely to avoid dissimilar others (regardless of deep vs surface level characteristics?). 
+
+Results
+People with growth theories were more likely than people with fixed theories to report ties to dispositionally dissimilar others.
+
+
+Growth Theory
+Lay theories (also known as implicit theories or mindsets), or beliefs people hold about the mallea- bility of an entity or attribute, have profound conse- quences for how they engage in proactive efforts and respond to difficult situations or relations (Carr et al., 2012; Dweck, 2000; Knee, 1998). For example, stu- dents who believe that intelligence is innate and fixed (fixed theory) are more likely to disengage from schoolwork than those who see intelligence as malleable (growth theory) (Mueller & Dweck, 1998). The reason is simple: effort makes little sense if intel- ligence is fixed and cannot be nurtured. In fact, working hard—and possibly struggling or even failing—may be viewed as a telling sign that one lacks intelligence: people who are naturally smart should not need to study hard. In contrast, students who believe that intelligence can be cultivated are more likely to persist rather than give up in the face of setbacks or challenges (e.g., exams). Hence, hold- ing a fixed theory compels people to avoid difficult situations (because effort—having to try hard— signals a lack of innate ability), whereas holding a growth theory makes people more willing to engage in effortful learning and growth (Dweck & Leggett, 1988; Grant & Dweck, 2003; Neel & Shapiro, 2012). Similar effects have been found across a range of domains, including romance (Knee, 1998), negotia- tion (Kray & Haselhuhn, 2007), and leadership (Heslin & Keating, 2017). In addition, lay theories are simple beliefs that are relatively easy to measure as well as manipulate (Paunesku, Walton, Romero, Smith, Yeager, & Dweck, 2015).
+
+
+For people with a fixed theory, relationships are defined and constrained by a sense of natural compatibility. In this view, people are fixed in their match potential, much like jigsaw puzzle pieces. People can come together, but relationships cannot be forged and molded at will through individual effort. Instead, relationships should form, spontaneously and organically, between people who are natu- rally compatible, and only superficial relations can form between those who are not. People with a fixed theory therefore believe that deliberate efforts to build and maintain ties are futile—a sign that the relationship is perhaps not meant to be (Kuwabara et al., 2018). Instead of cultivating relationships over time, their focus is on finding the right match quickly and rejecting those who are not.
+
+In the growth view, on the other hand, relationships are like muscles that can grow and stretch with care. People can learn to work with each other and become compatible over time—even if they do not click right away—by setting aside their differences, attending to their mutual needs, and committing to each other. In this view, compatibility is a product of proactive effort to accommodate each other. Natural compatibility may be helpful, but it is less consequential than whether people are willing to invest time and effort in building and maintaining relationships.
+
+
+CHRISTOPHER NOTE
+Growth theory for certain things in relationships is fine.
+But fixed theory for a few core values is key (freedom of speech and dependable and lighthearted. must have those. fixed theory on those. anything else is growth). 
+There was also a big mismatch between theory and method: theory was all about "growth mindset people will put in work over time to develop relationships," but their methods were just single moment correlations or manipulations. 
+
+
+Writing on diversity and surface vs deep level tensions
+A core theme across research on workplace di- versity, including similarity-attraction (Byrne, 1961; Montoya & Horton, 2013), relational demography (Riordan, 2000), team diversity (Williams & O’Reilly, 1998), homophily in networks (McPherson, Smith- Lovin, & Cook, 2001), and cultural fit (Kristof-Brown, Zimmerman, & Johnson, 2005), is that interpersonal similarity—whether in demographic or surface-level attributes that are relatively stable and readily re- cognizable (e.g., race, gender, and age), or deep-level attributes in dispositional characteristics, (e.g., values, attitudes, and psychological traits)—promotes mutual trust, identification, and satisfaction, while dissimilar- ity breeds dislike, distrust, and conflict. It is perhaps a truism that communicating and collaborating with people who look different or think differently, com- pared to people with similar attributes, is generally more challenging, fraught with misperceptions and misunderstanding. At the same time, today’s work- place is increasingly heterogeneous, not only in demo- graphics but also in culture and politics, creating a vexing challenge for managers and employees in terms of how to sustain social integration without curtailing diversity, and vice versa.
+
+
+THE LAY THEORY OF INSTRUMENTAL RELATIONS SCALE
+1 5 Strongly disagree, 6 5 Strongly agree. High scores indicate stronger fixed theories.
+1. Professional relationships are like pieces of a puzzle: people either click or they don’t, no matter how little or hard they work at it.
+2. The basis of any productive relationship is chemistry, like how naturally and effortlessly you get along with a person.
+3. How well you click or get along with a coworker is not something you can control or change easily.
+4. A relationship between coworkers without chemistry is likely to not work.
+5. A productive relationship is probably not meant to be if it does not develop naturally and effortlessly.
+
+
+
+"lay theories of instrumental relations" (kuwabara, cao, cho, ingram)
+
+
+#amj
+#ob-notes
+#lay-theories
+#fixed-growth
+#marketing-genius
+#growth-theory
+#items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# knowledge diversity in teams is good and bad
+
+If I have a super knowledge diverse team, I can realize its benefits rather than its processes losses using hierarchy/centralized meta knowledge approach. This effect is even more amplified when members believe the status hiearchy is flexible/members have the ability to move up the hierachy.
+
+In other words, diverse teams need a coordinator to avoid process loss. This format, by definition, requires hiearchy, which will trigger perceptions of status (which could be bad). You want members to believe that the status hiearchy is possible for them to navigate.
+
+If members believe that a status hierarchy is impossible to navigate, impossible to move up, then low status members will not contribute. 
+
+BUT, other research (woolley; hays & galisnky) says that people need stable hierarchies ("I know my leader will be the same for the rest of the session") to know who to coordinate with. 
+
+Writing on benefits and drawbacks of knowledge diversity in teams
+Knowledge diversity can stimulate information sharing as team members with specialized knowledge offer their perspective and solicit the perspective of others (Kearney, Gebert, & Voelpel, 2009). In diverse teams, members can more readily recognize that others have different perspectives from their own, which can prompt information sharing to broaden the team’s collective understanding of problems (van Knippenberg & Schippers, 2007). With this in mind, many organizations believe in the performance value of knowledge-diverse teams and, as a result, assemble teams in ways that increase knowledge diversity (Aime, Humphrey, DeRue, & Paul, 2014; Guillaume et al., 2017; van Knippenberg & Schippers, 2007).
+As noted earlier, however, knowledge diversity may also reduce team information sharing. Several classic group decision-making experiments have found that commonly held information (i.e., homogenous knowl- edge possessed by many team members) is generally shared more often in teams than diverse information that is uniquely held by just one member (Gigone & Hastie, 1993; Stasser, Taylor, & Hanna, 1989; Stasser & Titus, 1985, 1987). Teams can view unique informa- tion as a threat to achieving consensus, since reconcil- ing multiple distinct points of view can be more difficult for teams than focusing the team conversation instead on overlapping information on which mem- bers already agree (Postmes, Spears, & Cihangir, 2001; Stamkou, van Kleef, & Homan, 2019). 
+
+Status Hierarchies in teams can constrict or amplify the effects above
+Status differences undermine the relationship between knowledge diversity and information sharing because the team places greater emphasis on the perspectives and contributions of status-advantaged members than on those of status- disadvantaged members (Bunderson, 2003).
+However, status differences within a team (e.g., a designated leader or expert) can counteract the tendency for teams to withhold unique knowledge (Aime et al., 2014; Stasser, Stewart, & Wittenbaum, 1995; Stewart & Stasser, 1995; Wittenbaum, 1998). Those at the top of the status hierarchy can use their standing to elicit and then integrate diverse information (Stewart & Stasser, 1995). They thus have the capacity to direct members’ attention to unique pieces of information that might otherwise go overlooked (Wittenbaum, 2000). A status hierarchy can incentivize low- status members to make valuable contributions to the team in an attempt to “move up” (Becker & Huselid, 1992; Lazear & Rosen, 1981). 
+
+The exception is when the hierarchy is stable: For example, emergency room teams tend to have steep yet fluid hierarchies (Klein, Ziegert, Knight, & Xiao, 2006), whereas other types of teams, such as performing arts teams, often have flat yet stable hierarchies (Harrison & Rouse, 2014). Hierarchy stability limits the ability of knowledge-diverse teams to hold high-status mem- bers accountable for serving the group’s interests. Lower-status members of knowledge- diverse teams will have less incentive to share their unique perspectives when the hierarchy is more sta- ble. 
+
+
+"leveraging knowledge diversity in hierarchically differentiated teams" (gray, bunderson, ban der vegt)
+
+
+CHRISTOPHER NOTE
+Stable hierarchies promote cooperation because others can understand or anticipate the thoughts and actions of others (Woolley et al., 2023) [the leader on this team will be the same for the duration of this project], BUT, member beliefs about "I can gain status in this group" need to entail growth/instability because it allows low status members the courage to speak up. 
+
+In other words, unstable membership roles (rotating leaders / coordinators / roles) makes people confused / cooperative behaviors hard / coordinating behaviors difficult. But, you want "instability beliefs" in how people perceive the status hierarchy. You want people to believe two things, "the command structure will be stable for the upcoming task" AND "generally, I will be able to move up in this field."
+- stable hierarchy is important for roles (not for status)
+- stability is important for duration of project
+- unstable is important for global views of gaining status in the field
+- short term vs long term
+- roles on this team vs status in the field
+- this team vs the field generally
++ status in this team vs status in the field
++ status (I have influence) vs role (I am the leader)
++ stable vs unstable 
++ duration of this project vs the field itself
+
+
+
+your leader will be the same throughout the rest of the session
+
+
+
+#amj
+#ob-notes
+#hierarchy
+#knowledge-diversity
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Mentors believe that knowledge flows in one direction, from mentor to mentee
+
+Although most individuals agree that mentoring is an important activity, many potential mentors are unengaged because they see it as a costly obligation (Ragins & Scandura, 1999). We proposed and found that, when mentors adopt a downward learning direc- tion, or the belief that individuals below them in posi- tional power are valuable sources of their learning, they become more effective mentors, both objectively and subjectively. A downward learning direction transformed mentoring from a costly obligation into a learning opportunity.
+
+hook
+Mentoring is important. Many employees feel they don't get mentored enough. 
+Growing research on barries mentees face when seeking mentor help.
+We suggest another reason: that mentors who have the capacity to help do not always do so. 
+Introduce a new construct: learning direction.
+
+theory
+connect research on learning orientation, mentoring, and social hierarchy
+
+contributions
+1. Contribute to mentorship literature by highlighting a new barrier (beliefs about knowledge cascades)
+2. extend theory by introducing learning direction as a new construct (belief about which individuals in a hierarchy hold valuable knowledge)
+3. we demonstrate that one's learning direction is malleable and open to intervention. Beliefs about learning direction can be realigned. 
+
+“learning direction,” defined as the beliefs people have about which individuals within a hierarchy are valuable sources of knowledge and learning.
+
+A downward learning di- rection represents the belief that individuals lower in positional power are valuable sources of knowledge. In contrast, a lateral learning direction is the belief that individuals with equivalent positional power are valu- able sources of knowledge, and an upward learning direction is the belief that individuals higher in posi- tional power are valuable sources of knowledge.
+
+
+We propose that downward learning-directed in- dividuals will approach mentorship with a different mindset: rather than seeing mentorship as a burden- some obligation on their time, they will be more likely to approach interactions with potential men- tees as a worthwhile activity full of learning oppor- tunities. By being open to learning from individuals lower in positional power, mentors will be more likely to view these interactions as a two-way street worth their time and full engagement. 
+
+We propose that seeing mentoring as an opportu- nity for learning will lead mentors to be more fully engaged, perceiving these interactions as a catalyst for their own innovation and job performance (Ragins & Scandura, 1999), and ultimately more effective at enhancing their mentees’ learning outcomes and experience. 
+
+LEARNING DIRECTION SCALE
+Throughout our lives, we interact with a wide range of people, some of whom have more power than we do and others who have less power than we do. By power, we mean the ability to control the out- comes and resources of another person or being in a position to evaluate that person. As you think about your interactions with others, to what extent do you agree with the following statements:
+
+To what extent do you agree with the following statements (rated on a scale of 1 5 strongly disagree to 7 5 strongly agree):
+
+Downward learning
+1. I learn a lot by interacting with those who have LESS power than I do.
+2. I seek out interactions with those who have LESS power than I do so I can learn from them.
+3. I look for learning opportunities when talking to those who have LESS power than I do.
+
+Lateral learning
+1. I learn a lot by interacting with those who have the SAME amount of power as I do.
+2. I seek out interactions with those who have the SAME amount of power as I do to learn from them. 
+3. I look for learning opportunities when talking to those who have the SAME amount of power as
+I do.
+
+Upward learning
+1. I learn a lot by interacting with those who have MORE power than I do.
+2. I seek out interactions with those who have MORE power than I do so I can learn from them.
+3. I look for learning opportunities when talking to those who have MORE power than I do.
+
+
+
+"learning down to train up: mentors are more" (zhang, wang, galinsky)
+
+
+#ob-notes
+#amj
+#learning-direction
+#mentorship
+#mentoring
+#hierarchy
+#attributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
