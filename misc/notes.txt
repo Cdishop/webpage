@@ -18297,6 +18297,82 @@ Summary
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford "how this thing works" is now hidden in our products
+
+The disappearance of tools from our common education is the first step toward a wider ignorance of the world of artifacts we inhabit. And, in fact, an engineering culture has developed in recent years in which the object is to “hide the works,” rendering many of the devices we depend on every day unintelligible to direct inspection. Lift the hood on some cars now (especially German ones), and the engine appears a bit like the shimmering, featureless obelisk that so enthralled the proto-humans in the opening scene of the movie 2001: A Space Odyssey. Essentially, there is another hood under the hood. This creeping concealedness takes various forms. The fasteners holding small appliances together now often require esoteric screwdrivers not commonly available, apparently to prevent the curious or the angry from interrogating the innards. By way of contrast, older readers will recall that until recent decades, Sears catalogues included blown-up parts diagrams and conceptual schematics for all appliances and many other mechanical goods. It was simply taken for granted that such information would be demanded by the consumer.
+
+A decline in tool use would seem to betoken a shift in our relationship to our own stuff: more passive and more dependent. And indeed, there are fewer occasions for the kind of spiritedness that is called forth when we take things in hand for ourselves, whether to fix them or to make them. What ordinary people once made, they buy; and what they once fixed for themselves, they replace entirely or hire an expert to repair, whose expert fix often involves replacing an entire system because some minute component has failed.
+
+
+#crawford
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+# matthew crawford, "a man needs not boast; just point to what he created and say 'it works'"
+
+As the philosopher Alexandre Kojève writes,
+The man who works recognizes his own product in the World that has actually been transformed by his work: he recognizes himself in it, he sees in it his own human reality, in it he discovers and reveals
+to others the objective reality of his humanity, of the originally abstract and purely subjective idea he has of himself.4
+The satisfactions of manifesting oneself concretely in the world through manual competence have been known to make a man quiet and easy. They seem to relieve him of the felt need to offer chattering interpretations of himself to vindicate his worth. He can simply point: the building stands, the car now runs, the lights are on. Boasting is what a boy does, because he has no real effect in the world. But the tradesman must reckon with the infallible judgment of reality, where one’s failures or shortcomings cannot be interpreted away. His well-founded pride is far from the gratuitous “self- esteem” that educators would impart to students, as though by magic.
+
+Boasting is what a boy does, because he has no real effect in the world. 
+
+A tradesman feels no need to offer chattering interpretations of himself to vindicate his worth. He can simply point: the building stands, the car now runs, the lights are on. 
+
+
+#crawford
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # klein et al. "Common ground adn coordination in joint activity"
 
 Some devices for keeping people coordinated:
