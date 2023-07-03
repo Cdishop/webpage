@@ -8861,7 +8861,9 @@ outfit
 smile
 hair
 shoes
+eyes
 
+massive, cold, lifeless eyes (wonder what it's like to see the world through...)
 trouble maker
 playful
 rebel
