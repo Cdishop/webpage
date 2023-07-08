@@ -26590,6 +26590,339 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+# anita's research ideas
+
+Anita riffing compared to Nikos riffing:
+Anita: people in orgs struggle with X. How do we improve X?
+Nikos: the literature assumes X. X is wrong or incomplete because...
+
+
+we know that making decisions by having a big group talk live is awful.
+we need processes that facilitate engagement, satisfaction, proper decision making (in asynchronous settings like zoom). In remote, asynchronous contexts, how do you make this happen?
+
+
+integrating frameworks also means building mediation boxes and arrows.
+I had only ever imagined "integrating" to mean moderator. Integrating can also mean
+x -> y from theory 1
+y -> z from theory 2. Integrate to get x -> y -> z. 
+
+In OB and micro psych, we care a lot about jingle jangle fallacy. In macro, they do not care at all. Look at all the different scales for organizational learning climate. 
+
+
+
+#anita-research-ideas
+#anita-research-idea
+
+
+
+
+
+
+
+
+
+
+# wages are not keeping up with inflation, except for the super wage earners
+
+imgs/wages-with-inflation
+
+
+
+
+#economics
+#marginal-revolution
+#wages
+#pay
+#income
+#salary
+#inflation
+
+
+
+
+
+
+
+
+
+
+
+
+# cbt and mindfulness and victimology
+
+Mindful -> notice thoughts
+CBT -> re-orient distorted thinking
+
+
+Victim stance: imagining myself as the victim when I am held accountable for irrational actions or beliefs. 
+
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# conversation
+
+push pull (innocent and put together but devil)
+tease
+qualify (what makes you)
+astrology-like (so you're like super creative)
+
+
+#flirt-opener
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# looking for racism in everything
+
+imgs/weird-colonialism
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# colleges starting to realize their "be the change you want" is backfiring
+
+Now, they are using the phrase
+
+"Be the [mindfully grounded] change you want to see in the world"
+
+imgs/grounded-change
+
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+# high potential employee from HR blog is just positive psychology bs
+
+How about something like this, "to what extent does the employee think and write clearly?" If so, he/she is a high potential employee.
+
+Christopher's opinion:
+high potential employees have super good skills and are nice, level-headed people. But they need not have all of these crazy positive qualities.
+
+imgs/where-is-think-clearly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# twitter handles to follow
+
+
+Gov data look up
+https://www.researchdatagov.org/
+
+
+https://medium.com/data-science-at-microsoft/ten-podcasts-for-data-scientists-to-subscribe-to-e7ff0caf2d0
+
+
+https://www.inverse.com/science
+
+Scholar Follow List
+
+@KambhampatiPat
+https://www.thefp.com/p/how-dei-is-supplanting-truth-as-the?r=3pk3h&utm_medium=ios&utm_campaign=post
+
+@shannimcg
+
+@Musa_alGharbi
+
+@DG_Rand
+ 
+@victorerikray
+ 
+@cwarshaw
+ 
+@profjennabednar
+
+@hjghassell
+
+@ejfagan
+
+@cstewartiii
+
+@SamaraKlar
+ 
+@mjbsp
+ 
+@prowag
+
+@emilythorson
+
+@sobieraj
+ 
+@meredithconroy_
+ 
+@ElectProject
+ 
+@rachel__porter
+
+@kmmunger
+
+
+
+
+Follow Friday List
+@OlufemiOTaiwo
+
+@lastpositivist
+
+@DKThomp
+
+@zeynep
+
+@robkhenderson
+
+@semaforben
+
+@emollick
+
+@SamAdlerBell
+
+@RichardHanania
+
+@mattyglesias
+
+@shadihamid
+
+@MazMHussain
+
+
+Interesting Tweeters
+@AmnaUncensored
+
+@NairYasmin
+
+@NicoleBarbaro
+
+@MattThomasNYC
+
+@MattPolProf
+
+@samhaselby
+
+@GutkinLen
+
+@DavidRozado
+
+@tomstello_
+
+@blejksmith
+
+@_alice_evans
+
+@kenanmalik
+
+@njhochman
+
+@olivertraldi
+
+@MattGrossmann
+
+@RichardvReeves
+
+@Bernstein
+ 
+@rafiazakaria
+
+
+
+#twitter
+#follow-on-twitter
+#handles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Boyd & Mathew, “Arbitration supports reciprocity when the “
 
 Reciprocity is undermined by perceptions errors, or when one partner mistakenly thinks that his partner defected. If perception errors are minimal, then strategies like generous tit for tat are useful. 
