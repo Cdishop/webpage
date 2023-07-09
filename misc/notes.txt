@@ -2310,6 +2310,130 @@ Here is a concept. Here are the explanations of this concept. Here is what those
 
 
 
+
+
+# the underlying threat predictor is appraisal of sender's desire to see me as an autonomous actor
+
+
+unprompted help
+[timing]
+- took care of something before you arrived
+- as you were working on it
+- after you were done with it
+[involvement]
+- i am working on this thing and the person steps in
+- the person did something outside me that keeps pressure off of me
+[status of sender]
+- boss
+- coworker
+[tone]
+- friendly
+- disrespectful
+
+
+unprompted help dimensions from additional examples
+[useful/made things better/hit deadline]
+- extent to which help is actually useful. VS. I'm just going to have to cover and change what he/she did.
+"she didn't organize in the way that I would have, so I had to reconfigure things anyways."
+"My coworker LC was willing to help and made me reach my deadline because of it!"
+[taking my opportunity]
+"This was helpful but aggravating because as a new hire, I wanted to prove my worth"
+
+
+"My competence was being questioned..."
+"People will question my ability because of this..."
+
+
+
+involvement and usefulness and timing. unprompted vs reactive.
+
+what is the real underlying aspect?
+This person wants to remove obstacles I'm facing so I can act.
+This person wants to remove my ability to act. 
+
+
+Appraisal of sender's desire
+
+This person wants me to be an actor in the world
+This person does not want me to act
+
+->
+
+Self threat
+
+
+
+
+Across all of these dimensions we are capturing in the literature are an endless foray of more specific or less specific characteristics of the action
+-> timing
+-> prompted or unprompted
+-> tone
+
+What really moves the needle on the extent to which someone is threatened by help is their appraisal of the sender's desire to constrict or release my actions.
+Does the sender want to...
+- increase my actions on the world
+- restrict my actions on the world
+?
+If A, then I am not threatened
+If B, then I am threatened
+
+
+
+This is my mini theory.
+What is your mini theory?
+
+
+
+What would we be showing?
+Status doesn't matter
+Unprompted doesn't matter
+Make a scale
+
+
+
+Practical implication?
+- when considering help, don't think "prompted vs unprompted | timing | status"
+think, "am I helping this person become an actor on the world?"
+Notice that sometimes not helping might provide this answer. 
+
+
+
+
+#ocb
+#ocbs
+#helping
+#unprompted
+#christopher-theory
+#christopher-thinking
+#research-idea
+#next-study
+#next-opr
+#paper-idea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # hidden solutions. asking the right question leads you to the solution
 
 For example, consider a question about March Madness, the NCAA basketball playoffs in which sixty-four teams compete in a single-elimination tournament (i.e., after each game, the winner advances to the next round and the loser is eliminated) with the hope of being crowned champion. How many games must be played in total across the tournament? The way most people find the answer is by drawing the full bracket and then counting the number of games. But we can phrase the question differently. How many games are required to eliminate all losers? The answer is now obvious: if you have sixty-four teams playing, then sixty-three teams must lose. So, the way you ask a question will lead you through a particular thought process. Reframing the question did not change the solution, but it did change the speed at which we arrived at the solution. 
