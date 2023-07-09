@@ -21431,6 +21431,81 @@ keywords
 
 
 
+# others are going to use this
+
+The difference between
+
+"user/cdishop/desktop/labfolder/file.txt"
+
+and
+
+"../file.txt"
+
+
+The difference between
+
+This is a really interesting write-up about Burrtzorg, the home healthcare company in the Netherlands that is very decentralized and apparently very successful at retaining employees https://hbswk.hbs.edu/item/this-company-lets-employees-take-charge-buurtzorg
+
+and
+
+Some interesting studies/ideas on team status hierarchies and performance:
+
+Gray et al 2023 say UNSTABLE status hierarchies are needed for teams to perform well.
+
+HOWEVER / BUT
+
+Wolley et al. 2023 say STABLE status hierarchies are needed for teams to 
+perform well.
+
+Why the difference? Because one is referring to team roles/ranks/positions and the other is referring to beliefs about reputation. Gray et al. 2023: teams will perform well when members believe they can over time gain recognition by others on the team for contributing useful information (UNSTABLE status hierarchy: "I feel like I can over time gain status on this team by helping out"). Woolley et al: teams will perform well when positions are stable (STABLE status hierarchy: "I know my leader will be the same for the rest of this task, so I know how to coordinate").
+
+So, you want people to perceive stable roles so they don't get confused about what to do, but you also want them to perceive instabilitly (e.g., "i feel like I can move up and acquire status in this domain") of reputation so they have incentive to contribute.
+
+[link to documents]
+
+
+
+[christopher writing]
+
+Methods with others in mind
+
+Other people are going to use my code
+Other people are going to use my notes
+I'm pointing to these articles because I think they will be relevant to others
+The whole point of a team is the whole to be greater than the sum of the parts. Do something for me so we can save one another time. 
+
+
+
+#christopher-thinking
+#christopher-theory
+#big-ideas
+#best-ideas
+#great-paper
+#methods-with-others
+#anita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
