@@ -19117,6 +19117,95 @@ Intellectual teams (executive teams) value transition processes like planning an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# arnold kling don't fall for the intention heuristic. Christopher's version is simply stochastics. 
+
+What I call the intention heuristic takes two forms:
+
+Good intentions necessarily lead to good consequences.
+
+Bad consequences necessarily indicate that someone had bad intentions.
+
+True wisdom requires discarding the intention heuristic.
+
+
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# arnold kling and TC on science as a conversation
+
+I read Tyler as saying that there is important information lost about a theory when you do not examine the process that led up to it.
+
+In macroeconometrics, why did “vector autogression” become legitimate? Why did “calibration” become legitimate? Why did input-output analysis fall out of favor and get replaced by the production function? Why did multiple regression fall out of favor in macroeconomics but become standard for explaining differences in growth across countries?
+
+One phenomenon that interests me about economics is that ideas get taken out of the context in which they were developed. For example, there are many uses of the “overlapping generations model,” but does anyone remember what the motivation was for developing the model in the first place?
+
+
+Tyler Cowen writes,
+
+In just about any scientific literature, there is an undercurrent of tacit knowledge which is not very directly expressed in any of the published pieces.  That knowledge may cover the following issues, among many others:
+
+1. How the rules of the conversation operate, and how a body of literature on a question coheres.
+
+2. Why certain papers and methods are not taken seriously any more
+
+…Many of the people who claim the mantle of science might cite published papers, but in fact they have little or no understanding of science as a conversation and a body of literature.
+
+
+#academia
+#marginal-revolution
+#economics
+#philosphy-of-science
+#phil-of-modeling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # best ideas of 2022
 
 
