@@ -21738,6 +21738,50 @@ So, the people best at victim writing for college essays are not the people who 
 
 
 
+
+
+
+# writing a review with lay beliefs
+
+
+This strikes me as a great way to write a review article. For a given topic, identify what most people think works, then compare to what exists in the literature. 
+
+(a) happiness
+
+"By coding media articles on happiness, we first identified the most commonly recommended stragies" for increasing happiness. Then, we assessed whether these strategies have been tested. E.g., "the widely touted happiness benefits of engaging with nature have been demonstrated in only X studies..."
+
+https://www.nature.com/articles/s41562-023-01651-4#ref-CR90 
+
+(b) org selection techniques/myths
+
+This paper isn't a review, but it isn't hard to imagine how the paper could be reformulated to become one. HR managers commonly believe X, Y, and Z about hiring. The number of studies (and their quality) in the lit on X, Y, and Z ...
+
+https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/koenig/PDFs-Publikationen/FisherEtAl_final.pdf
+
+
+#lay-beliefs
+#review
+#grad-philosophy
+#writing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Winne & Nesbit, 2010 “The psychology of academic achievement”
 
 
