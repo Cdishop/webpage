@@ -18416,6 +18416,150 @@ In fact, many of the smartest young people I know are deciding against a career 
 
 
 
+
+
+
+# wang et al 2013, "can't get it out of my mind"
+
+We know that customer mistreatment compromises short term and long term emotional well-being, mainly through cross sectional and lab studies. 
+
+However, little is known about the potential mediating mechanisms via which the negative effect of customer mistreatment goes beyond the service episode and persists to influence employees’ emotions at a later time.
+
+We use a cognitive rumination lens: customer service can be viewed as a goal attainment situation. When it goes poorly, it leads to rumination, which acts as the mediator leading to the lagged manifestation of poor employee well-being. 
+
+So
+Use rumination (occurs when people don't attain goals) to overlay customer service event. 
+Use rumination as mediator between poor encounter and lagged negative affect.
+
+Cognitive Theories of rumination
+Rumination is prolonged thinking about failed goal pursuits. 
+Starts when someone fails to progress toward an important goal. 
+[so it is defined as X but also happens after X]. 
+Proximate underlying cause is accessibility of goal failure experience in one's memory. 
+
+We conceptualize customer interactions as a goal-attainment opportunity. When this fails or goes wrong, employees may ruminate. 
+
+
+
+[CHRISTOPHER - OVERLAY INTERMITTENT LEARNING]
+rumination is worst when repetitive reliving of the failure happens. 
+think about injury. when my neck hurts randomly throughout the day, that's worse than when I have a set time when I know it is going to hurt and I can turn my attention off.
+X1 = repetitive vs one-time
+X2 = random, unknown schedule vs fixed schedule
+
+apply this to something you encounter. some work situation.
+
+
+[CHRISTOPHER NOTE]
+They are not theorizing into terms of downstream arrows. They are applying lenses over common workplace experiences. 
+They are not doing A -> B -> C -> D
+They are doing: look at A using X theory. 
+
+
+
+
+
+
+# liao, lee, johnson, song, liu "seeing from a short-term perspective"
+
+Why do findings from abusive supervision studies differ?
+Two reasons: they are using static, between person approaches.
+They are examining consequences without accounting for people's attributions of their leaders' behavior. 
+
+People have different momentary (requires ESM) attributions (requires attribution frame) of their leaders' motives, which prompt different kinds of downstream work behaviors. 
+
+Rumination: Control perspective of repetitive thought
+Individuals experience recurring and automatic cognitions with an attempt “to resolve the goal discrepancy between stressful events and core beliefs and assumptions” (Watkins, 2008, p. 164). When working in organizations, subordinates, in addition to accomplishing task goals, endeavor to engage in constructive interactions and develop good relationships with colleagues, especially with their direct leaders (i.e., interpersonal goals; Graen & Uhl-Bien, 1995). Nonetheless, daily abusive supervisor behavior, as a particularly stressful work event (Tepper, 2007), leads to a temporary discrepancy between subordinates’ ideal–actual states regarding interpersonal goals, thereby triggering their repetitive thought. This reasoning is consistent with general self regulation frameworks, which posit that the presence of ideal–actual discrepancies interrupts ongoing operations and triggers cognitive processing aimed at eliminating the discrepancy (Carver & Scheier, 1998; Johnson, Chang, & Lord, 2006).
+
+The valence and content of repetitive thought are shaped by subordinates’ perceptions of the extent to which resolving such a discrepancy is under their own control (Martin & Tesser, 1989, 1996; Watkins, 2008). That is, when subordinates perceive that they have control over resolving the perceived goal discrepancy, they tend to engage in constructive repetitive thought that involves contemplating causal factors and developing action plans for reducing it (Martin & Tesser, 1996; Wrosch, Scheier, Miller, Schulz, & Carver, 2003). However, when subordinates  perceive a lack of control over reducing the discrepancy, they tend to engage in disruptive thought about the unresolvable discrepancy and its uncontrollable causes (Trapnell & Campbell, 1999; Tripp & Bies, 2010).
+
+Rumination is a dysfunctional form of cognitive processing that focuses on failures in achieving desired states and/or resolving goal discrepancies (Trapnell & Campbell, 1999; Watkins, 2008). The control perspective of repetitive thought suggests that the dysfunctional cognitive response of rumination is likely to be activated when subordinates experience a disruptive event (e.g., daily abuse) but feel incapable of improving or escaping the situation (Nolen-Hoeksema, Wisco, & Lyubomirsky, 2008; Song et al., 2018). Consequently, rather than deliberating about potential strategies and solutions, subordinates will instead ruminate about daily leader abusive behavior by replaying the frustrating and emotionally disturbing episode in their mind and reliving the psychological harm that it caused (Liang, Hanig, Evans, Brown, & Lian, 2018)
+
+So, any event leading to a perceived "there is distance between my ideal goal and where I am" will cause someone to reflect. If they believe they have control over the situation, they will think about causal factors underlying everything and engage them to make progress. Conversely, if they think the situation is out of their control, they will ruminate (frustrated, relive the emotional harm). 
+
+
+
+
+
+
+
+
+# song et al. "a social mindfullness"
+
+We know a lot about the consequences of customer mistreatment. 
+
+Most studies assume that employees perceive true and accurate instances of customer mistreatment. However, The experience of customer mistreatment, however, is based on complex perceptual and evaluative judgments that may vary substantially within and across people.
+
+So, examine how people attribute it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed intervals vs random intervals. Which is worse? Known upcoming or unknown upcoming?
+
+All of this attribution stuff is about positive vs negative attribution. I attribute my supervisor's behavior to positive motives or negative motives. 
+
+Another huge dimension in attributions theory is stability. This is long-lasting or this was a one-off. 
+
+
+
+
+
+
+
+
+
+#christopher-theory
+#christopher-thinking
+#ob-notes
+#rumination-theory
+#chunked-ideas
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Open source jobs and salaries becoming more popular
 
 See this webpage
