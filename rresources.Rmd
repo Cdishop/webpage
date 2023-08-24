@@ -216,6 +216,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Beginning Computer Science with R](https://homerhanumat.github.io/r-notes/index.html)
 
+[R for HR](https://rforhr.com/)
+
 [Statistical Inference](https://leanpub.com/LittleInferenceBook/read)
 
 [Intro to Quant Methods](https://bookdown.org/ejvanholm/Textbook/)

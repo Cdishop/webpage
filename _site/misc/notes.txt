@@ -30,6 +30,9 @@ crucial keywords
 #literature-summary
 #christopher-theory
 #ob-insight
+#marketing-genius
+#opener-practice
+#bumble
 
 
 
@@ -244,6 +247,12 @@ describe. white on top. black on bottom. great combo.
 Just wanted to say hi for a second, maybe get your number.
 My name is Christopher
 
+tease tease tease / push pull
+super comfortable ... now is that to make up for your uncomfortable personality or what?
+often paired with guitar ... but idk something tells me you have no musical talent whatsoever
+I've never seen a dodgeball instructor up close before.
+
+
 (b) misdirect
 
 "clearly used for"
@@ -259,7 +268,8 @@ you know a long term side effect of X is..."inability to complete coherent thoug
 kirk correlation
 when I look at you, I get the same feeling as..."when I sit on a cold toilet seat"
 you look like/got a face only a mother could love/his version of X is
-
+Death before...dishonor [I think I'd rather die before getting a tattoo like that]
+I have yet to see any evidence of it...
 
 
 # say hello to someone on the street
@@ -340,6 +350,7 @@ When I look at you, I get the same feeling as when I sit down on a cold toilet s
 
 
 # Humor
+
 
 00) no time for drake (key and peele)
 
@@ -1123,6 +1134,905 @@ A significant change in employees' organizational commitment occurred over the t
 
 
 
+ended
+2022 - dec 22 vol 65 (6)
+
+
+
+
+
+
+# temporal boredom relates to feelings of time passing slowly, which relates to low performance
+
+
+fast or slow: how temporal work design (zhao, deng, chen, parker, zhang)
+
+Two work design things that can make employees feel like time is going faster (which most people feel is more pleasant than when time moves slowly): no uncertain wait times before embarking on next task (temporal predictability) and segmenting work tasks.
+
+By temporal predictability, they really mean "bored today because I had to stand around waiting for stuff to do"
+
+[hook]
+workdays can pass quickly for some but slow for others
+workers’ experienced passage of time is a critical work experience that is not well understood in the management literature. In this paper, we seek to understand the following questions: Is it possible to alter employees’ experienced passage of time via work design, and, if possible, are there any performance benefits of doing so?
+
+[theory]
+attentional gate model (Zakay & Block, 1995) 
+use work design to increase perceptions of "time moved quickly today" (a pleasant experience)When people “watch a pot until it boils,” time seems to pass slowly because attention is devoted to the passage of time. On the other hand, when people immerse themselves in nontemporal aspects of the environment, time seems to pass quickly because they have no cognitive capacity to process the passage of time (Brown, 2008; Zakay, 1989).
+
+[contributions]
+1. contribute to the work design literature by identifying two novel temporal work design characteristics. 
+2. we investigate a universal yet understudied work experience—time passing
+quickly or slowly at work.
+3. informs an emerging research program in management research: the time literature. To the best of our knowledge, the time literature within the management field has not yet systematically studied how employees experience work time differently and how such variations influence work outcomes (Shipp & Cole, 2015). 
+
+[christopher note]
+When people say contributions, what they really mean is "this study is relevant or related to X literature." That's not a contribution. It is not a critical test. It is not a gauntlet. 
+
+[study1a]
+Mturkers: you are invited to check other Mturker's typos
+To manipulate temporal predictability, participants in the experimental condition were presented with a clear schedule of task time and break time. In contrast, those in the control condition did not know how long it would take for each task and each break, and they kept waiting until they were instructed to move on.
+
+The four modified items for
+temporal predictability were: (1) “In my typical work time, I spend a substantial portion of my day waiting for unpredictable events or tasks [R]”; (2) “I often find myself waiting for the next piece of work, which could happen at any time [R]”; (3) “In my job, I am often on ‘stand by’, waiting for a task to occur at some unknown time [R]”; and (4) “My workday involves lots of waiting for something to happen at some non-specified time [R].”
+
+The four modified items for task segmentation were (1) “My daily work activities can be broken down to be performed in different blocks of time”; (2) “In my job, I carry out my work in small chunks of time”; (3) In my job, a workday is separated into smaller segments by clear ‘markers’”; (4) “My job provides opportunities to separate a long task into smaller chunks with a different activity in between.” 
+
+Participants in the "I'm bored because I have to wait around" or "no task segmentation" conditions experienced time as moving slower and performed worse on a "check this equation for errors" task.
+
+
+#ob-notes
+#amj
+#items
+#survey-items
+#questionnaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# when leaders are perfectionists, then subordinates feel simultaneously engaged but exhausted
+
+
+leader perfectionism -- friend or foe (xu, liu, ji, dong, wu)
+
+Leader perfectionism -> employee engagement -> creativity
+Leader perfectionism -> employee exhaustion -> less creativity (if employee has low LOC)
+
+
+hook
+some studies find that leader perfectionism harms employee creativity, other studies find that it boosts employee creativity.
+We identify both positive and negative mechanisms of LP on employee creativity.
+
+theory
+Self-regulation starts from a perceived discrepancy between the current and desired state. LP creates a discrepancy, which triggers the need for employees' self-reg to fulfill perfectionistic requirements. Doing so drives engagement but consumes personal resources. 
+Internals (people who believe they have control over events) can insulate themselves from depleting tasks.
+
+contributions
+Reconciles conflicting past findings
+Most leader perfectionism research has focused on leader outcomes. We show leader-subordinate outcome.
+Add to LOC lit by showing how LOC is a moderator.  
+
+[christopher note]
+Once again, they conflate "relevant for this lit" with "contribution." Reconciling conflicting findings is a contribution. "This study is located within this literature" is not a contribution.
+
+
+#academese
+#ob-notes
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# talk to your friends about your initial ideas before talking to network outsiders
+
+inside-out, outside-in, or all-in-one? (wal, criscuolo, & salter)
+
+Drawing on colleagues to gain feedback and support in the elaboration of one’s ideas can be a difficult process. Due to the ill-defined, ill- structured, and uncertain nature of early-stage ideas, individuals face a dual risk in that they may see their high-potential ideas dismissed for the wrong reasons if they expose them to the wrong people at the wrong time.
+
+So, start with your inner-circle friends, because they will discuss (and not hound you for) ill-defined, ill-structured, or uncertain ideas. 
+
+
+hook
+People pursuing novel ideas need (harsh) feedback from others.
+We know that networks are important, but no one has explored the "sequencing" people might use to gain helpful critiques but also mitigate the risks of having the wrong people be overly dismissive.
+We introduce the concept of “inside-out” network sequencing as the practice by which individuals elaborating novel ideas mobilize feedback and support from their inner-circle ties before their outer-circle ones. 
+
+contributions
+1. in addition to network structure and position, the sequencing effects of networks also matter.
+2. our research brings into focus the strategic nature of networking in relation to the pursuit of novel ideas in established organizations. we demonstrate that individuals elaborating creative ideas can outperform colleagues not only through the strategic pursuit of beneficial positions, but also by making savvy choices of who to involve when.
+3. our study demonstrates that network mechanisms such as feedback depend on timing and embeddedness, and may backfire if mobilized at the wrong time.
+
+theory
+Early-stage ideas tend to be ill-defined and ill-structured.
+The notion of the “lone genius” who builds an innovation from basic idea through to proof of concept and validation without direct or indirect input from others is inconsistent with the observation that most innovations materialize through social interaction.
+The ideas need input from others to advance and develop, but mobilization at the wrong time can undermine the creative process.
+Individuals benefit from exposing their ideas to their inner-circle ties early becuase
+- such members are nicer to you (have patience)
+- such members have greater knowledge overlap with you
+Then, get feedback from outsiders once the ideas are developed. 
+
+
+Building on research on social circles (Dunbar, 1998; Kadushin, 1968), social cohesion around relationships (Reagans and McEvily 2003; Tortoriello & Krackhardt, 2010; Tortoriello, Reagans, & McEvily, 2012), and innovation in mature organizations (Battilana & Casciaro, 2013; Criscuolo et al., 2014; Dougherty, 1992), we contend that the nature of the feedback and support an individual receives from any given colleague – and hence the best timing of first exposure of an idea to them – depends on the extent to which that colleague is embedded in the individual’s inner or outer circle of network contacts.
+
+Inside-out network sequencing allows individuals to leverage the benefits of early feedback from inner-circle ties who are more likely to commit to spending time digesting ill-defined, ill-structured, and uncertain ideas, and to whose feedback the idea creator is receptive. At the same time, it allows individuals to shield early-stage ideas from outer-circle ties until they can better withstand the cold scrutiny of relative outsiders. Outer-circle ties are less likely to have the commitment and contextual knowledge to appreciate ideas at their earliest stages of elaboration, but their outsider perspective makes them ideally suited to offer complementary expertise and to externally validate ideas once they are more developed.
+
+
+
+#great-paper
+#amj
+#ob-notes
+#advice-generation
+#idea-generation
+#help-seeking
+#advice
+#advice-seeking
+#networks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# concrete people tend to focus on short term goals
+
+
+painting a clear picture while seeing the big picture (carton, knowleton)
+
+
+Should leaders speak with abstract visions or with concrete visions to motivate organizational change?
+
+These authors say it depends on the firm's hierarchy (strength of hierarchy, whether flat or hierarchical). 
+
+Couldn't understand the logic, but the notion of abstract vs concreteness makes sense.
+
+Whereas an abstractly defined vision (“an environmentally friendly city”) is emotionally neu- tral and has many interpretations, a concrete vision (“a city full of hybrid cars”) is emotionally resonant and provides a clear sense of direction, improving the ability for employees to coordinate their efforts (Carton, Murphy, & Clark, 2014). In addition to inspiring others, leaders who generate concrete visions are also likely to be personally motivated to pursue change, because they can easily visualize success and then determine which action steps are needed to make progress (Stam et al., 2014).
+
+Given these benefits, it would stand to reason that leaders are better positioned to spearhead positive change efforts if they are predisposed to think in terms of picture-like detail (a “concrete orientation” [Emmons, 1992]).1 Yet, a conundrum arises when considering a finding from research on cognition: people with a concrete orientation tend to think and speak about short-term goals rather than long-term goals, and focus on small operational details rather than overarching strategy (DeShon & Gillespie, 2005; Wiesenfeld, Reyt, Brockner, & Trope, 2017).
+
+
+
+#ob-notes
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# unprompted help makes the recipient feel threatened (sort of like my dissertation but no OBJECTIVE requests)
+
+Typical OB-style argument. The literature on X has predominantly seen it as positive. It can also be negative.
+
+Also, they copied my exact "help after a request is different from un-prompted help" idea.
+
+Does the recipient help feel threatened when the initial person offers help? If the other person is high status and helps without a prompt, then yes the receiver feels threatened.
+If the receiver first asked for help, then all good.
+
+hook
+Org studies have mostly shown that positive reciprocity results after someone offers help at work.
+However, other literatures on social support and advice suggest that individuals feel inferior or threatened when offered help. 
+It is critical to reconsile these perspectives.
+We contend that the answer is because past research has not differentiated two concepts
+- reactive helping (assistance provided in response to a request)
+- anticipatory helping (providing help without being asked)
+
+How to frame stuff as an assumption
+Driven largely by a narrative that maintains that “the majority of helping is done reactively” at work (Bolino & Grant, 2016: 622; see also Bamberger, 2009; Fisher, Pillemer, & Amabile, 2018: 1526), scholars have often explicitly or implicitly assumed that workplace helping is reactive, or have failed to distinguish it from anticipatory helping in their the- ory and empirics. This assumption is problematic, as emerging evidence has suggested that anticipatory helping may be far more common at work than cur- rently depicted (e.g., Grant, Parker, & Collins, 2009; Lee et al., 2019). Moreover, as we detail below, it is highly unlikely that anticipatory helping leads to the same positive social exchange outcomes as reactive helping due to its perceived threatening nature.
+
+Theory
+Integrate social exchange and self-affirmation theory.
+Helping without a prompt is threateneing to receiver because it makes the recipient feel like they are receiving negative feedback about their competence. 
+We posit that this increased self-threat from anticipatory helping in turn triggers defensive reactions found in exchange encounters: namely, reducing recipients’ willingness to accept help and undermining recipients’ ratings of the helper’s per- formance (i.e., extent to which an employee meets the expectations and requirements of their role or job [Griffin, Neal, & Parker, 2007]) and relational evalua- tions (i.e., degree of likeability, friendliness, or pleas- antness [Gibson, Harari, & Marr, 2018; Leach, Ellemers, & Barreto, 2007]).
+Self-affirmation theory: people are motivated to maintain a positive self view. When people experience events that challenge their "sense of themselves as good, virtuous, and successful, they experience self-threat. When threatened, people take defensive actions such as avoiding, denying, or dismissing. 
+
+Contributions
+1. Contribute to helping literature by demonstrating the importance of distinguishing between reactive and anticipatory helping at work
+2. Contribute to social exchange theory lit. A main tenant of social exchange theory is that positively valenced actions will be met with positive responses. By integrating self-affirmation theory with social exchange theory, we explain why a positive behavior may be met by a negative behavior.
+
+
+Study1, vignette experiment (prolific)
+Imagine high status (low status) coworker
+Imagine him helping you (prompted vs unprompted)
+DV questionnaire: self threat, willingness to accept help, liking of helper
+
+Study2, field questionnaire
+Prompted vs unprompted helping
+Status of others
+Self-threat
+
+Study3, recall (prolific)
+Reactive helping: “We would like you to describe an instance when you were working on a task and asked a coworker to help you and they provided you help—that is, they helped you on your task in response to your request.”
+Anticipatory helping: “We would like you to describe an instance when you were working on a task and a coworker offered to help or helped you even though you had not asked for their help—that is, they helped you on your task although you did not request it.”
+Questionnaires (self threat, whether participants accepted help from the coworker they recalled)
+
+
+
+[christopher thinking]
+Is there some fundamental assumption I can find that would be countered by random walks with help requests?
+Theory OB says this happens and this happens. If so, requests for help should looks like Y. I find that they actually look like random walks with trend. 
+
+"when helping hurts helpers" (harari, parke, marr)
+
+
+#ob-notes
+#helping
+#my-dissertation-but-no-objective-requests
+#amj
+#marketing-genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+# People view their jobs favorably during economic recessions
+
+Indeed, even when the quality of jobs is objectively worse, people sometimes evaluate jobs subjectively better depending on how they think about their jobs and the context in which they are assessed. We propose that challenging economic times will promote positive ways of thinking about and evaluating jobs. Specifi- cally, we argue that during economic downturns peo- ple will be less attuned to other possible jobs and more likely to view their own jobs favorably.
+
+When unemployment is high and job options are limited, people are more likely to focus on the positive features of their jobs rather than dwelling on their shortcomings 
+
+hook
+Recessions are a huge factor of the American economy and workforce.
+Little is known about how recessions influence the way people evaluate their jobs (PROBABLY NOT TRUE. ANY ECONOMICS STUDIES?)
+We propose that...
+
+contributions
+1. Most job sat studies focus on conditions of workplace. We show that conditions outside of immediate job also matter.
+2. Most prior theories say that negative events lead to negative employee outcomes. We show how a negative event actually cultivates job sat.
+
+
+"does job satisfaction rise and fall with the economy?" (bianchi, martin, li)
+
+#ob-notes
+#recessions
+#economy
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Telling people "stop doing that" (prohibitive voice) makes me anxioius, whereas telling people "here is a new way of doing things" (proactive voice) leads to pride
+
+
+Proactivitly offering suggestions to develop new work protocols = promotive voice, which leads to feelings of pride.
+Advising other people about undesirable behaviors = prohibitive voice, which leads to anxiety.
+
+Anxiety => interpersonal avoidance between voicer and receiver
+Less anxiety => interpersonal interaction between voicer and receiver
+
+
+"the social aftershocks of voice" welsh, outlaw, netwon, baer
+
+
+#ob-notes
+#amj
+#marketing-genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# call "customer mistreatment" something entirely different (negative contact with beneficiary) so you can pretend to study a whole new phenomenon
+
+
+The literature assumes that workers feel satisfied when they know their work is valued by others (beneficiaries). But, we know little about negative contact with beneficiaries. 
+
+Rude contact from beneficiaries leads employees to feel that their actions are worthless (low self worth). 
+
+Employees have to rationalize the rude contact from their beneficiaries. They do this by thinking to themselves, "I incur high personal costs for the good of patients/families/customers."
+
+Low self worth relates to poor job satisfaction.
+Self sacrifice and rationalization is related to job sat.
+
+contributions
+1. examine negative contact with beneficiaries (most people examine only positive [christopher not true -- think customer mistreatment literature)
+2. contribute to meaningful work literature, which usually focuses on self worth only and not rationalization
+
+theory
+The principles of relational job design that have informed past research on positive beneficiary contact largely stem from the overarching framework of social information processing theory. This perspective holds that “finding meaning in behavior and in a job environment is an information processing activity,” and that the social context is a primary driver of what and how information gets processed (Salancik & Pfeffer, 1978: 225). Extant research on beneficiary contact has primarily focused on the first tenet of social information processing theory, which deals with information saliency. The information saliency aspect of social information processing holds that cues from one’s social environment influence the perceptions one forms about their work. This is particularly true when the information is related to the value or worth of one’s job. When beneficiaries are a major part of the work itself, beneficiaries represent a salient source of information about the value of one’s work. 
+So, the environment gives you signals that you use to form impressions of work. People can use those signals directly (info processing) or reinterpret them to their own means (rationalization). 
+
+"it's not always sunny in relationally rich jobs" (nielsen & colbert)
+
+
+#ob-notes
+#academese
+#terrible-but-great-intro
+#mimic-but-terrible-intro
+#marketing-genius
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cool writing on strategy view of performance feedback theory and attribution theory
+
+(a) performance feedback and learning (argote, cyert &  March)
+
+Performance feedback theory suggests that learning from performance feedback is a four- step process: (1) performance evaluation, (2) attribution, (3) search, and (4) risk-taking and change (Cyert & March, 1963; Greve, 2003b; Posen et al., 2018; c.f., Jordan & Audia, 2012).
+
+In the first step, managers evaluate performance. Due to the bounded rationality and the complexity of performance assessment (Cyert & March, 1963; Obloj & Sengul, 2020; Zollo, 2009), they simplify performance evaluation by dichotomizing past performance into success and failure by comparing it with the aspiration level (Cyert & March, 1963). Performance that falls short of the aspiration level is considered a failure, while performance that exceeds it is considered a success. In the second step, managers seek to identify factors deemed to have contributed to the success or failure. Based on the outcome of this attribution, they build or update the causal model specifying the causes of the success or failure, which they then use to make future decisions in the following steps. The strategies and actions associated with success will be reinforced, while those associated with failure will be scrutinized.
+
+In the third step, different types of organizational search are triggered depending on whether a firm experienced success or failure. When a firm experiences failure, managers engage in a problemistic search to find alternatives to strategies and actions thought to have caused the failure, and they become more willing to take greater risks—opening a path to the fourth step of organizational change. Success may also lead to organizational change through an accumulation of a firm’s slack resources, which may promote slack search (c.f., Xu, Zhou, & Du, 2019).
+
+
+(b) attribution theory
+
+Diffusion of responsibility -- people do not feel responsible for bad performance if control = low. 
+
+When individuals believe they have little control over outcomes, they feel less responsible for the outcomes and are more likely to attribute negative outcomes to external causes (Weiner, 1979; 1986). When a task is performed by several individuals, each individual's control over the outcome of the task decreases and responsibility can be diffused across several individuals; hence, each individual will feel less responsible for the outcome (Beyer et al., 2017; Forsyth, Zyzniewski, & Giammanco, 2002; Mynatt & Sherman, 1975). This heuristic is activated when a task fails, as individuals may attempt to diffuse their responsibility for the failure to others. The larger the number of individuals involved in a task, the more broadly the responsibility can be diffused, and the less likely that each individual will feel accountable for the failure of the task, setting the stage for external attribution (Forsyth et al., 2002). Thus, the diffusion of responsibility amplifies individuals' tendency to attribute failure to others.
+
+Managers may be predisposed to attribute success to themselves and their firm regardless of the number of partners in an alliance. As the number of partners in an alliance increases, however, their perceived control over outcomes decreases, and it becomes more difficult for them to claim a larger share of the credit for a successful alliance because the success is a culmination of joint efforts of all the partners and each partner may vie for more credit and recognition for the success (Ariño & Doz, 2000). Supporting these arguments, prior studies in attribution theory have found that, as the number of partners for a joint project increases, individuals are more likely to make a self-serving attribution for failure, but not for success (Beyer et al., 2017; Mynatt & Sherman, 1975), and they are more likely to fairly acknowledge others' contributions to the success of the project (e.g., Forsyth et al., 2002).
+
+Perceived capability of others -- if someone is highly capable, you reduce tendency to attribute failure to him/her
+
+The perceived capability of self and others is an important factor for attribution in performance assessment in both attribution (Weiner, 1979; 1986) and management research (Rhee, 2009). In particular, the perceived capability of others in a joint task significantly influences how individuals assess and attribute the outcomes of the task (Silvia & Duval, 2001; Strube & Berry, 1985). Building on and extending these arguments, we posit that highly capable alliance partners will reduce managers' tendency to attribute a failed alliance to their partners. When evaluating the outcomes of a complex event such as an alliance, it is difficult for a firm's managers to methodically measure each partner firm's actual contributions (Zollo,2009) Thus, their perceptions of the partner firms' capabilities will be instrumental in estimating the contribution of each partner (Simcoe & Waguespack, 2011). Managers' perception of other firms' capabilities for a task is often determined by the amount of experience they have with the same or similar tasks (Eggers & Kaplan, 2013). Organizational learning research has recognized experience as a primary source of acquiring and enhancing capabilities, suggesting that a firm's level of experience is positively related to its performance (Argote, 2013). Studies on alliances have similarly reported that a firm's alliance experience is positively related to its alliance capability (see Wang & Rajagopalan, 2015 for a review).
+
+Ambiguity of Performance Information
+
+Managers may exploit greater information ambiguity to portray poor performance in a positive light. 
+
+The consistency of performance over time contains crucial information for evaluating and attributing current performance and has been recognized as an important factor in attribution (Meyer, 1980; Weiner, 1979; 1986). Consistent prior performance allows firms to clearly identify a common pattern and make accurate causal attributions of their performance. By contrast, inconsistent prior performance complicates the process of identifying a common pattern and drawing unambiguous lessons, increasing the difficulty of making accurate causal attributions (Arrfelt, Wiseman, & Hult, 2013). We posit that the ambiguity arising from inconsistent prior alliance performance will, not only obscure managers'
+" ability to learn from performance feedback, but will also amplify their tendency to make self-serving attributions. Low variability1 in alliance performance allows managers to forecast their future alliance performance more accurately, which in turn helps them make more informed decisions on which governance mode to choose next time. It also limits their tendency to make self-serving attributions when they experience alliance performance that falls short of their aspiration. Low variability in alliance performance reduces ambiguity and noise in performance feedback and provides a consistent pattern of action - outcome relationships that allow managers to more clearly identify the cause of the failure (Dahl & Ransom, 1999; Felon, 1981; Willard & Gramzow, 2008). This causal clarity leaves little room for managers to attribute the failure to their alliance partners or other contingent factors because they cannot "use divergent criteria and draw on disparate types of behavioral evidence" (Dunning et al., 1989: 1082). By contrast, highly variable alliance performance complicates managers' tasks in establishing causal relationships between their actions and the outcomes of past alliances. Highly variable alliance performance indicates that a firm has experienced a wide range of alliance performance levels (both success and failure) and sends mixed signals about its ability to make successful alliances (Kim et al., 2015). Even if its recent alliance performance was unsatisfactory, the fact that it has also experienced successful alliances implies that it is possible to make a successful alliance in the future. In light of the possibility of achieving alliance performance that positively deviates from recent alliance failure, managers may frame the recent failure as an outcome that does not reflect their true capabilities and attribute it to external factors (Gilovich et al., 2002; Tversky & Kahneman, 1974). This framing and attribution will not discourage them from making future alliances. Supporting these arguments, attribution research has found that individuals are more likely to make a self-serving attribution for failure when the information pertaining to the failure is ambiguous and contradictory (e.g., Dahl & Ransom, 1999; Dunning et al., 1989; Felon, 1981). Jordan and Audia (2012) pushed this argument further to assert that managers may exploit greater information ambiguity to portray poor firm performance in a positive light-e.g., by manipulating comparison groups and emphasizing the organizational goals that were better met.
+
+The mixed signals from highly variable prior alliance performance may also make managers attribute successful alliances to themselves. Seen from a negative perspective, highly variable prior alliance performance signifies that they have been unable to reliably make successful alliances. Seen from a positive perspective, however, it can be considered evidence that they can make successful alliances in the right conditions. In light of the strong performance in the recent alliance, managers recollect previous successes and draw parallels between recent and past successes. In attributing recent success, they can give more weight to the actions they took in the focal alliance as well as in successful past alliances (e.g., close monitoring and specific contractual agreement) to conclude that such actions led to the success. When individuals have both positive and negative experiences, they tend to rely on positive memories when explaining a recent positive event much more than on negative recollections (e.g., Mayer, McCormick, & Strong, 1995). Thus, when previous alliance performances have been more variable, managers are more likely to make the internal attribution of a successful alliance. In line with these arguments, evidence from attribution research has consistently shown that ambiguous performance- assessment situations facilitate individuals' tendency to make a positive assessment of their achievements (Dahl & Ransom, 1999; Dunning et al., 1989; Felon, 1981; Willard & Gramzow, 2008). 
+
+"the role of attribution in learning from performance feedback" (lee, lee, kim)
+
+#ob-notes
+#performance
+#feedback
+#strategy
+#attribution-theory
+#amj
+#org-learning
+#organizational-learning
+#performance-ambiguity
+
+
+
+
+
+
+
+
+
+
+# CEO's screw themselves when they give incoherent reasons for firm failure to their shareholders
+
+Following disclosure of financial misconduct, a transgressing firm faces the difficult task of convinc- ing shareholders that it remains worthy of their capi- tal. Fortunately, firms have a few well-documented crisis management tactics they can use to manage shareholders’ evaluations of their trustworthiness; the most-studied and frequently deployed among them being executive dismissal (Gangloff, Connelly, & Shook, 2016; Gomulya & Boeker, 2014) and crisis communication (Bundy, Pfarrer, Short, & Coombs, 2017; Coombs & Holladay, 2004; Elsbach, 2003 Hersel, Helmuth, Zorn, Shropshire, & Ridge, 2019). While most research has examined these tactics inde- pendently to draw conclusions about the utility of each, consider MEMC, Inc.’s crisis management strat- egy after the Securities and Exchange Commission (SEC) identified a misstatement in its financial reports. Initially, MEMC communicated to its shareholders:
+The Company believes that the joint venture’s ac- counting for their functional currency was appropri- ate, and the Company is in the process of working with the SEC staff to resolve this issue.
+Then, despite these efforts to minimize any appear- ance of wrongdoing, MEMC unexpectedly announced its chief executive would immediately step down just three weeks later. How do shareholders reconcile inconsistency and illogicality like this within a firm’s crisis management strategy? Existing crisis manage- ment research acknowledges post-transgression com- munication and executive dismissal as central tactics firms can use to rebuild shareholder trust. We posit that firms can send costly mixed messages to share- holders when they fail to utilize these tactics in a coherent manner.
+
+"mixed messsages: crisis communication" (hersel, gangloff, shropshire)
+
+#ob-notes
+#financial-misconduct
+#strategy
+#executive-strategy
+#amj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# people have different amounts and types of things that they find exhausting at work
+
+The authors call this a "configural approach" to the job-demands job-resources model. 
+
+Previously, research examined this theory using a variable centered approach (lots of demands on average is bad). 
+
+They show that different amounts of different demands and resources are highly variable across people. 
+
+GREAT EXPLANATION of JDJR model
+demands -> exhaustion
+resources -> low exhaustion
+resources attenuate the effects of demands
+
+hook / theory / contribution
+We know from JDJR: demands produce exhaustion (because they impose psych costs); resources reduce exhaustion (because they motivate employees). We also know that some resources act as moderators on the effects of demands. But results vary. This disconnect between theory and empirical evi- dence about how job demands and resources combine reflects a lack of scholarly consensus around these phenomena, despite increasing recognition that job characteristics have synergistic, not isolated, effects on employee outcomes (Parker, Morgeson, & Johns, 2017). The present research thus aims to build consensus (Hollenbeck, 2008) on how configural effects of job demands and resources may be theorized and tested.
+
+
+FINDINGS
+
+what is sufficient to produce exhaustion?
+- low social support
+- high workload and high emotional demands
+- high workload and low autonomy
+
+what is sufficient for engagement?
+- high autonomy + social support + feedback
+
+Results suggest three configurations—low social support, high workload and emotional demands, and high workload and low autonomy—are sufficient for the presence of exhaustion, while no configurations are consistently sufficient for its absence. Further, only one configuration—high autonomy, social support, and feedback—is sufficient for engagement, and another—low social support and feedback (and autonomy in Study 2)—for its absence.
+
+CHRISTOPHER NOTE
+So, it is easier to screw it up (exhaustion) than it is to get it right (engagement). Engagement requires a bunch of stuff. Exhaustion only requires one. 
+
+
+full intro
+
+Research on employee stress and well-being has increased significantly over the past 20 years (Bliese, Edwards, & Sonnentag, 2017). In particular, the job demands–resources (JDR) model (Demerouti, Bakker, Nachreiner, & Schaufeli, 2001) has been extensively used to explore the antecedents and mechanisms producing two key outcomes: exhaustion and en- gagement. Conceptually, job demands should show positive associations with exhaustion and negative associations with engagement because job demands require sustained effort and impose physiological or psychological costs. Similarly, job resources should be negatively and positively associated with exhaus- tion and engagement, respectively, because they motivate employees and reduce physiological and psychological costs. Correspondingly, a rich stream of theoretical and empirical research based on the JDR model has provided support for these effects of demands and resources on exhaustion and engage- ment (Bakker & Demerouti, 2007; Crawford, LePine, & Rich, 2010; Van Yperen & Janssen, 2002), and other outcomes related to strain and well-being (e.g., mortality [Gonzalez-Mule & Cockburn, 2017], blood pressure [Ilies, Dimotakis, & De Pater, 2010], patient satisfaction [Reilly, Nyberg, Maltarich, & Weller, 2014]).
+
+Because of the large variety of demands and re- sources experienced by employees, the JDR model has extended beyond examining the main effects of individual demands and resources (additive models) to examine how they combine (multiplicative mod- els). Most notably, the buffering hypothesis suggests that resources buffer the effects of demands on ex- haustion. Associations between demands and ex- haustion should be attenuated in the presence of high levels of resources, and different resources may buffer against different demands (Bakker & Demer- outi, 2017). Although this is a key premise of the model, evidence for such multiplicative buffering effects is inconsistent. Autonomy or control and social support have been found to moderate relation- ships between various demands and exhaustion in some studies (Bakker, Demerouti, & Euwema, 2005; Fox, Dwyer, & Ganster, 1993; Kirmeyer & Dougherty, 1988) but not others (Ganster, Fusilier, & Mayes, 1986; Parker & Sprigg, 1999). Recent meta-analytic reviews have found limited to no buffering effects for a variety of resources on demands (Gonzalez- Mule, Kim, & Ryu, 2020; H€ausser, Mojzisch, Niesel, & Schulz-Hardt, 2010). Autonomy or control and support showed almost no buffering effects, which calls into question whether other resources have buffering effects on demands.
+
+This disconnect between theory and empirical evi- dence about how job demands and resources combine reflects a lack of scholarly consensus around these phenomena, despite increasing recognition that job characteristics have synergistic, not isolated, effects on employee outcomes (Parker, Morgeson, & Johns, 2017). The present research thus aims to build consen- sus (Hollenbeck, 2008) on how configural effects of job demands and resources may be theorized and tested. We depart from traditional variable-centered approaches to the JDR model, which determine the average effects of single demands or resources (Gabriel, Daniels, Diefendorff, & Greguras, 2015). Instead, we adopt a person-centered approach (Gabriel, Camp- bell, Djurdjevic, Johnson, & Rosen, 2018), which involves the “clustering of people as opposed to variables” (Woo, Jebb, Tay, & Parrigon, 2018: 816). Our configural logic explains why extant multiplica- tive models yield inconsistent findings.
+
+
+"toward a configural theory of job demands" (ong, johnson)
+
+
+#ob-notes
+#amj
+#marketing-genius
+#intro-mimic
+#mimic-intro
+#job-demands
+#job-resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# lay theories (growth vs fixed) implications for whether people engage with dissimilar others
+
+People with fixed mindsets about professional relationships ("professional relationships are like pieces of a puzzle: people either click or they don't") are more likely to avoid dissimilar others (regardless of deep vs surface level characteristics?). 
+
+Results
+People with growth theories were more likely than people with fixed theories to report ties to dispositionally dissimilar others.
+
+
+Growth Theory
+Lay theories (also known as implicit theories or mindsets), or beliefs people hold about the mallea- bility of an entity or attribute, have profound conse- quences for how they engage in proactive efforts and respond to difficult situations or relations (Carr et al., 2012; Dweck, 2000; Knee, 1998). For example, stu- dents who believe that intelligence is innate and fixed (fixed theory) are more likely to disengage from schoolwork than those who see intelligence as malleable (growth theory) (Mueller & Dweck, 1998). The reason is simple: effort makes little sense if intel- ligence is fixed and cannot be nurtured. In fact, working hard—and possibly struggling or even failing—may be viewed as a telling sign that one lacks intelligence: people who are naturally smart should not need to study hard. In contrast, students who believe that intelligence can be cultivated are more likely to persist rather than give up in the face of setbacks or challenges (e.g., exams). Hence, hold- ing a fixed theory compels people to avoid difficult situations (because effort—having to try hard— signals a lack of innate ability), whereas holding a growth theory makes people more willing to engage in effortful learning and growth (Dweck & Leggett, 1988; Grant & Dweck, 2003; Neel & Shapiro, 2012). Similar effects have been found across a range of domains, including romance (Knee, 1998), negotia- tion (Kray & Haselhuhn, 2007), and leadership (Heslin & Keating, 2017). In addition, lay theories are simple beliefs that are relatively easy to measure as well as manipulate (Paunesku, Walton, Romero, Smith, Yeager, & Dweck, 2015).
+
+
+For people with a fixed theory, relationships are defined and constrained by a sense of natural compatibility. In this view, people are fixed in their match potential, much like jigsaw puzzle pieces. People can come together, but relationships cannot be forged and molded at will through individual effort. Instead, relationships should form, spontaneously and organically, between people who are natu- rally compatible, and only superficial relations can form between those who are not. People with a fixed theory therefore believe that deliberate efforts to build and maintain ties are futile—a sign that the relationship is perhaps not meant to be (Kuwabara et al., 2018). Instead of cultivating relationships over time, their focus is on finding the right match quickly and rejecting those who are not.
+
+In the growth view, on the other hand, relationships are like muscles that can grow and stretch with care. People can learn to work with each other and become compatible over time—even if they do not click right away—by setting aside their differences, attending to their mutual needs, and committing to each other. In this view, compatibility is a product of proactive effort to accommodate each other. Natural compatibility may be helpful, but it is less consequential than whether people are willing to invest time and effort in building and maintaining relationships.
+
+
+CHRISTOPHER NOTE
+Growth theory for certain things in relationships is fine.
+But fixed theory for a few core values is key (freedom of speech and dependable and lighthearted. must have those. fixed theory on those. anything else is growth). 
+There was also a big mismatch between theory and method: theory was all about "growth mindset people will put in work over time to develop relationships," but their methods were just single moment correlations or manipulations. 
+
+
+Writing on diversity and surface vs deep level tensions
+A core theme across research on workplace di- versity, including similarity-attraction (Byrne, 1961; Montoya & Horton, 2013), relational demography (Riordan, 2000), team diversity (Williams & O’Reilly, 1998), homophily in networks (McPherson, Smith- Lovin, & Cook, 2001), and cultural fit (Kristof-Brown, Zimmerman, & Johnson, 2005), is that interpersonal similarity—whether in demographic or surface-level attributes that are relatively stable and readily re- cognizable (e.g., race, gender, and age), or deep-level attributes in dispositional characteristics, (e.g., values, attitudes, and psychological traits)—promotes mutual trust, identification, and satisfaction, while dissimilar- ity breeds dislike, distrust, and conflict. It is perhaps a truism that communicating and collaborating with people who look different or think differently, com- pared to people with similar attributes, is generally more challenging, fraught with misperceptions and misunderstanding. At the same time, today’s work- place is increasingly heterogeneous, not only in demo- graphics but also in culture and politics, creating a vexing challenge for managers and employees in terms of how to sustain social integration without curtailing diversity, and vice versa.
+
+
+THE LAY THEORY OF INSTRUMENTAL RELATIONS SCALE
+1 5 Strongly disagree, 6 5 Strongly agree. High scores indicate stronger fixed theories.
+1. Professional relationships are like pieces of a puzzle: people either click or they don’t, no matter how little or hard they work at it.
+2. The basis of any productive relationship is chemistry, like how naturally and effortlessly you get along with a person.
+3. How well you click or get along with a coworker is not something you can control or change easily.
+4. A relationship between coworkers without chemistry is likely to not work.
+5. A productive relationship is probably not meant to be if it does not develop naturally and effortlessly.
+
+
+
+"lay theories of instrumental relations" (kuwabara, cao, cho, ingram)
+
+
+#amj
+#ob-notes
+#lay-theories
+#fixed-growth
+#marketing-genius
+#growth-theory
+#items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# knowledge diversity in teams is good and bad
+
+If I have a super knowledge diverse team, I can realize its benefits rather than its processes losses using hierarchy/centralized meta knowledge approach. This effect is even more amplified when members believe the status hiearchy is flexible/members have the ability to move up the hierachy.
+
+In other words, diverse teams need a coordinator to avoid process loss. This format, by definition, requires hiearchy, which will trigger perceptions of status (which could be bad). You want members to believe that the status hiearchy is possible for them to navigate.
+
+If members believe that a status hierarchy is impossible to navigate, impossible to move up, then low status members will not contribute. 
+
+BUT, other research (woolley; hays & galisnky) says that people need stable hierarchies ("I know my leader will be the same for the rest of the session") to know who to coordinate with. 
+
+Writing on benefits and drawbacks of knowledge diversity in teams
+Knowledge diversity can stimulate information sharing as team members with specialized knowledge offer their perspective and solicit the perspective of others (Kearney, Gebert, & Voelpel, 2009). In diverse teams, members can more readily recognize that others have different perspectives from their own, which can prompt information sharing to broaden the team’s collective understanding of problems (van Knippenberg & Schippers, 2007). With this in mind, many organizations believe in the performance value of knowledge-diverse teams and, as a result, assemble teams in ways that increase knowledge diversity (Aime, Humphrey, DeRue, & Paul, 2014; Guillaume et al., 2017; van Knippenberg & Schippers, 2007).
+As noted earlier, however, knowledge diversity may also reduce team information sharing. Several classic group decision-making experiments have found that commonly held information (i.e., homogenous knowl- edge possessed by many team members) is generally shared more often in teams than diverse information that is uniquely held by just one member (Gigone & Hastie, 1993; Stasser, Taylor, & Hanna, 1989; Stasser & Titus, 1985, 1987). Teams can view unique informa- tion as a threat to achieving consensus, since reconcil- ing multiple distinct points of view can be more difficult for teams than focusing the team conversation instead on overlapping information on which mem- bers already agree (Postmes, Spears, & Cihangir, 2001; Stamkou, van Kleef, & Homan, 2019). 
+
+Status Hierarchies in teams can constrict or amplify the effects above
+Status differences undermine the relationship between knowledge diversity and information sharing because the team places greater emphasis on the perspectives and contributions of status-advantaged members than on those of status- disadvantaged members (Bunderson, 2003).
+However, status differences within a team (e.g., a designated leader or expert) can counteract the tendency for teams to withhold unique knowledge (Aime et al., 2014; Stasser, Stewart, & Wittenbaum, 1995; Stewart & Stasser, 1995; Wittenbaum, 1998). Those at the top of the status hierarchy can use their standing to elicit and then integrate diverse information (Stewart & Stasser, 1995). They thus have the capacity to direct members’ attention to unique pieces of information that might otherwise go overlooked (Wittenbaum, 2000). A status hierarchy can incentivize low- status members to make valuable contributions to the team in an attempt to “move up” (Becker & Huselid, 1992; Lazear & Rosen, 1981). 
+
+The exception is when the hierarchy is stable: For example, emergency room teams tend to have steep yet fluid hierarchies (Klein, Ziegert, Knight, & Xiao, 2006), whereas other types of teams, such as performing arts teams, often have flat yet stable hierarchies (Harrison & Rouse, 2014). Hierarchy stability limits the ability of knowledge-diverse teams to hold high-status mem- bers accountable for serving the group’s interests. Lower-status members of knowledge- diverse teams will have less incentive to share their unique perspectives when the hierarchy is more sta- ble. 
+
+
+"leveraging knowledge diversity in hierarchically differentiated teams" (gray, bunderson, ban der vegt)
+
+
+CHRISTOPHER NOTE
+Stable hierarchies promote cooperation because others can understand or anticipate the thoughts and actions of others (Woolley et al., 2023) [the leader on this team will be the same for the duration of this project], BUT, member beliefs about "I can gain status in this group" need to entail growth/instability because it allows low status members the courage to speak up. 
+
+In other words, unstable membership roles (rotating leaders / coordinators / roles) makes people confused / cooperative behaviors hard / coordinating behaviors difficult. But, you want "instability beliefs" in how people perceive the status hierarchy. You want people to believe two things, "the command structure will be stable for the upcoming task" AND "generally, I will be able to move up in this field."
+- stable hierarchy is important for roles (not for status)
+- stability is important for duration of project
+- unstable is important for global views of gaining status in the field
+- short term vs long term
+- roles on this team vs status in the field
+- this team vs the field generally
++ status in this team vs status in the field
++ status (I have influence) vs role (I am the leader)
++ stable vs unstable 
++ duration of this project vs the field itself
+
+
+
+your leader will be the same throughout the rest of the session
+
+
+
+#amj
+#ob-notes
+#hierarchy
+#knowledge-diversity
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Mentors believe that knowledge flows in one direction, from mentor to mentee
+
+Although most individuals agree that mentoring is an important activity, many potential mentors are unengaged because they see it as a costly obligation (Ragins & Scandura, 1999). We proposed and found that, when mentors adopt a downward learning direc- tion, or the belief that individuals below them in posi- tional power are valuable sources of their learning, they become more effective mentors, both objectively and subjectively. A downward learning direction transformed mentoring from a costly obligation into a learning opportunity.
+
+hook
+Mentoring is important. Many employees feel they don't get mentored enough. 
+Growing research on barries mentees face when seeking mentor help.
+We suggest another reason: that mentors who have the capacity to help do not always do so. 
+Introduce a new construct: learning direction.
+
+theory
+connect research on learning orientation, mentoring, and social hierarchy
+
+contributions
+1. Contribute to mentorship literature by highlighting a new barrier (beliefs about knowledge cascades)
+2. extend theory by introducing learning direction as a new construct (belief about which individuals in a hierarchy hold valuable knowledge)
+3. we demonstrate that one's learning direction is malleable and open to intervention. Beliefs about learning direction can be realigned. 
+
+“learning direction,” defined as the beliefs people have about which individuals within a hierarchy are valuable sources of knowledge and learning.
+
+A downward learning di- rection represents the belief that individuals lower in positional power are valuable sources of knowledge. In contrast, a lateral learning direction is the belief that individuals with equivalent positional power are valu- able sources of knowledge, and an upward learning direction is the belief that individuals higher in posi- tional power are valuable sources of knowledge.
+
+
+We propose that downward learning-directed in- dividuals will approach mentorship with a different mindset: rather than seeing mentorship as a burden- some obligation on their time, they will be more likely to approach interactions with potential men- tees as a worthwhile activity full of learning oppor- tunities. By being open to learning from individuals lower in positional power, mentors will be more likely to view these interactions as a two-way street worth their time and full engagement. 
+
+We propose that seeing mentoring as an opportu- nity for learning will lead mentors to be more fully engaged, perceiving these interactions as a catalyst for their own innovation and job performance (Ragins & Scandura, 1999), and ultimately more effective at enhancing their mentees’ learning outcomes and experience. 
+
+LEARNING DIRECTION SCALE
+Throughout our lives, we interact with a wide range of people, some of whom have more power than we do and others who have less power than we do. By power, we mean the ability to control the out- comes and resources of another person or being in a position to evaluate that person. As you think about your interactions with others, to what extent do you agree with the following statements:
+
+To what extent do you agree with the following statements (rated on a scale of 1 5 strongly disagree to 7 5 strongly agree):
+
+Downward learning
+1. I learn a lot by interacting with those who have LESS power than I do.
+2. I seek out interactions with those who have LESS power than I do so I can learn from them.
+3. I look for learning opportunities when talking to those who have LESS power than I do.
+
+Lateral learning
+1. I learn a lot by interacting with those who have the SAME amount of power as I do.
+2. I seek out interactions with those who have the SAME amount of power as I do to learn from them. 
+3. I look for learning opportunities when talking to those who have the SAME amount of power as
+I do.
+
+Upward learning
+1. I learn a lot by interacting with those who have MORE power than I do.
+2. I seek out interactions with those who have MORE power than I do so I can learn from them.
+3. I look for learning opportunities when talking to those who have MORE power than I do.
+
+
+
+"learning down to train up: mentors are more" (zhang, wang, galinsky)
+
+
+#ob-notes
+#amj
+#learning-direction
+#mentorship
+#mentoring
+#hierarchy
+#attributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1389,6 +2299,130 @@ Here is a concept. Here are the explanations of this concept. Here is what those
 #goals-gone-wild
 #motivation
 #self-regulation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# the underlying threat predictor is appraisal of sender's desire to see me as an autonomous actor
+
+
+unprompted help
+[timing]
+- took care of something before you arrived
+- as you were working on it
+- after you were done with it
+[involvement]
+- i am working on this thing and the person steps in
+- the person did something outside me that keeps pressure off of me
+[status of sender]
+- boss
+- coworker
+[tone]
+- friendly
+- disrespectful
+
+
+unprompted help dimensions from additional examples
+[useful/made things better/hit deadline]
+- extent to which help is actually useful. VS. I'm just going to have to cover and change what he/she did.
+"she didn't organize in the way that I would have, so I had to reconfigure things anyways."
+"My coworker LC was willing to help and made me reach my deadline because of it!"
+[taking my opportunity]
+"This was helpful but aggravating because as a new hire, I wanted to prove my worth"
+
+
+"My competence was being questioned..."
+"People will question my ability because of this..."
+
+
+
+involvement and usefulness and timing. unprompted vs reactive.
+
+what is the real underlying aspect?
+This person wants to remove obstacles I'm facing so I can act.
+This person wants to remove my ability to act. 
+
+
+Appraisal of sender's desire
+
+This person wants me to be an actor in the world
+This person does not want me to act
+
+->
+
+Self threat
+
+
+
+
+Across all of these dimensions we are capturing in the literature are an endless foray of more specific or less specific characteristics of the action
+-> timing
+-> prompted or unprompted
+-> tone
+
+What really moves the needle on the extent to which someone is threatened by help is their appraisal of the sender's desire to constrict or release my actions.
+Does the sender want to...
+- increase my actions on the world
+- restrict my actions on the world
+?
+If A, then I am not threatened
+If B, then I am threatened
+
+
+
+This is my mini theory.
+What is your mini theory?
+
+
+
+What would we be showing?
+Status doesn't matter
+Unprompted doesn't matter
+Make a scale
+
+
+
+Practical implication?
+- when considering help, don't think "prompted vs unprompted | timing | status"
+think, "am I helping this person become an actor on the world?"
+Notice that sometimes not helping might provide this answer. 
+
+
+
+
+#ocb
+#ocbs
+#helping
+#unprompted
+#christopher-theory
+#christopher-thinking
+#research-idea
+#next-study
+#next-opr
+#paper-idea
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5902,6 +6936,50 @@ Theory stuff
 
 
 
+# Have You Earned Your Tomorrow
+Edgar Guest
+
+Is anybody happier because you passed his way?
+Does anyone remember that you spoke to him today?
+This day is almost over, and its toiling time is through;
+Is there anyone to utter now a kindly word of you?
+
+Did you give a cheerful greeting to the friend who came along?
+Or a churlish sort of “Howdy” and then vanish in the throng?
+Were you selfish pure and simple as you rushed along the way,
+Or is someone mighty grateful for a deed you did today?
+
+Can you say tonight, in parting with the day that’s slipping fast,
+That you helped a single brother of the many that you passed?
+Is a single heart rejoicing over what you did or said;
+Does a man whose hopes were fading now with courage look ahead?
+
+Did you waste the day, or lose it, was it well or sorely spent?
+Did you leave a trail of kindness or a scar of discontent?
+As you close your eyes in slumber do you think that God would say,
+You have earned one more tomorrow by the work you did today?
+
+
+#poem
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7590,6 +8668,37 @@ An article about extreme group identity. What are the causes and outcomes of hav
 
 
 
+# quote, philosophy
+
+Just because you can do something doesn't mean you should. Sometimes it takes more courage to walk away than to make a bad situation worse.
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7864,6 +8973,103 @@ As you age, bitter sweet chocolate becomes tastier than sweet chocolate. Things 
 #staring-ceiling
 #aging
 #philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# all walk up flirt openers
+
+
+# any opener
+
+Hi there. You caught my attention. Just wanted to chat for a second, maybe get your number. What's your name?
+Hi there. I like your outfit. Just wanted to chat for a second, maybe get your number. What's your name?
+Hi. I like your outfit [describe]. White shoes with a green dress. Good combo. Just wanted to chat for a second, maybe get your number. What's your name?
+
+Miss.
+Hello.
+
+
+# push pull on outfit
+
+Hi. Your outfit caught my attention. Looks like an interesting combination of [push pull]
+professional and party
+
+trouble maker
+playful
+rebel
+devil
+edgy
+
+stylish
+laid back
+polished
+
+
+# push pull on features
+
+You look like an interesting combination of...
+interesting how your X says ... but your Y says...
+posture
+outfit
+smile
+hair
+shoes
+eyes
+
+massive, cold, lifeless eyes (wonder what it's like to see the world through...)
+trouble maker
+playful
+rebel
+devil
+edgy
+deviant
+defiant
+provocative
+daring
+bad
+mean
+barely above average
+
+innocent
+professional
+charming
+stunning
+cute
+bold
+bubbly
+
+# open loop
+
+Hi. I like your outfit. Wanted to see if you are as interesting as your outfit would suggest. 
+
+
+#flirt
+#flirt-opener
+#social-animal
+
+
+
+
+
+
+
 
 
 
@@ -10072,6 +11278,48 @@ Any history of mental illness? I have an uncle that does yoga.
 
 
 
+
+
+
+
+# biden never forget. this is why i get upset with democrats
+
+Loan Forgiveness is not really an accurate name.  It's really a debt transfer to the working class taxpayer, who will be stuck with the debt. I think that's why they named it "forgiveness," so people wouldn't catch on.
+
+#anti-woke
+#never-forget
+#democrats-vs-republicans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# quotes
+
+
+
 It is what you read when you do not have to that determines who you will be when you cannot help it.
 
 I have the simplest tastes. I am always satisfied with the best.
@@ -10146,6 +11394,51 @@ Feather - Nujabes
 #quotes
 #quote
 #philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# quote
+
+
+Those who were seen dancing were thought to be insane by those who could not hear the music.
+
+Nietzsche
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10561,6 +11854,79 @@ Information does not matter; touch does; sensation does; emotion does.
 
 
 
+
+
+# can't do knowledge work for 8 hours a day
+
+
+
+
+
+There’s an ancient biblical, “Never hire a guy who’s really into golf”.
+
+Effectively zero WFH knowledge workers do 8 hours of hard work a day, much less 4 or 5.
+
+A lot of people lament that technology was supposed to bring 10 hour work weeks and lives of luxury. And it did, just for a select portion of the population with specific skills.
+
+For the last 10 or so years, any smart kid could pursue CS or tech-adjacent work (UI/UX, PM etc) and get an incredibly cushy life of relative luxury.
+
+It’s more of a testament to the power of FAANG that they can waste so much money and still gush $XB in FCF.
+
+
+
+
+
+Good knowledge work can only be done so many hours of the day.
+
+
+
+Two of the most productive professional writers of the later 20th Century, John Updike and Stephen King, had a standard schedule of writing hard from 8 am to noon, for a total of four hours of work per day.
+
+Updike played a lot of golf in the remaining time.
+
+
+
+
+'A Day in the Life of Roald Dahl' - "Roald Dahl had a very strict daily routine. He would eat breakfast in bed and open his post. At 10.30 a.m. he would walk through the garden to his writing hut and work until 12 p.m. when he went back to the house for lunch (one and a half hours) – typically, a gin and tonic followed by Norwegian prawns with mayonnaise and lettuce. At the end of every meal, Roald and his family had a chocolate bar chosen from a red plastic box.
+
+After a snooze, he would take a flask of tea back to the writing hut and work from 4 p.m. till 6 p.m (two hours). He would be back at the house at exactly six o’clock, ready for his dinner."
+
+So, 3.5 hours of hard work per day for Roald Dahl, whose literary estate was recently sold for something like $600 million.
+
+I suspect we could also find a lot of failed writers who only worked from 8 until noon.
+
+And a lot of failed writers who worked twice as much.
+
+
+
+#marginal-revolution
+#tyler-cowen
+#economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # christopher theory - no talking to females in orgs. perceptual error
 
 
@@ -10628,6 +11994,28 @@ How does that effect one's cognitive functioning?
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# regulation blocks those of us who want to be productive
+
+As regulation, land use restrictions, NIMBYism and licensing rules raised the cost of disruptive innovation and protested incumbents in the real world, talent and venture capital migrated to the virtual world. Calls for regulation there are now deafening, often coming from the new incumbents. Attempts to apply the lessons and techniques of virtual innovation to the biotech and greentech fields have proved much less effective because of the preexisting regulatory guardrails in each. Regulation, whether justified by safety, the environment, or incumbent political power, serves to limit productivity growth and the growth of prosperity in a society. When we empower regulators we restrict opportunity. That matters most to those who are not yet prosperous but who wish to be.
+
+#quotes
+#quote
+#philosophy
+#marginal-revolution
+#economics
+#creativity
 
 
 
@@ -12255,6 +13643,41 @@ Everyone wants to make tangential arguments about inequalities.
 
 
 
+# The Victor
+C.W. Longenecker
+
+"If you think you are beaten, you are.
+If you think you dare not, you don't.
+If you like to win but think you can't,
+It's almost a cinch you won't.
+If you think you'll lose, you're lost.
+For out in the world we find
+Success begins with a fellow's will.
+It's all in the state of the mind.
+If you are outclassed, you are.
+You've got to think high to rise.
+You've got to be sure of yourself before
+You can ever win the prize.
+Life's battles don't always go
+To the stronger or faster man.
+But sooner or later, the man who wins
+Is the man who thinks he can."
+
+#poem
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12285,6 +13708,21 @@ When a firm switches from hourly pay to piece rate pay (pay people for units pro
 
 
 
+
+
+
+# girl humor
+
+cards against humanity
+fake shock for morons (girl humor)
+
+also, girl on hinge: "I want dark bantor. I want humor. I want a guy who is funny."
+But they never actually write anything funny.
+And when I write something (dark) funny, they react negatively to it.
+
+#girl-humor
+#philosophy
+#male-female
 
 
 
@@ -12942,6 +14380,38 @@ Do not crave what you do not have. Instead, consider what you have, and how you 
 
 
 
+# flirt post thinking
+
+The style of speech, not just content. 
+
+Fascinating. I never thought I would be treated to a 15 minute monologue on...
+
+Forbes tavern... so strange how your tone and face are so friendly but the content is ... 
+
+
+#flirt-opener
+#social-animal
+#flirt-reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13073,6 +14543,85 @@ keywords
 
 
 
+# marry and average wife
+
+If you want to be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you....
+
+A pretty woman makes her husband look small
+And very often causes his downfall
+As soon as he married her and then she starts
+To do the things that will break his heart
+
+But if you make an ugly woman your wife
+Ah you'll be happy for the rest of your life
+An ugly woman cooks meals on time
+She'll always give you peace of mind....
+
+Don't let your friends say you have no taste
+Go ahead and marry anyway
+Though her face is ugly, her eyes don't match
+Take it from me, she's a better catch....
+
+Say man! Hey baby!
+I saw your wife the other day!
+Yeah? Yeah, an' she's ugly!
+Yeah, she's ugly, but she sure can cook, baby!
+Yeah, alright!
+
+#poem
+#quote
+
+
+
+
+
+
+
+
+
+# Leveling the playing field by hurting the talented. Kurt Vennegut
+
+
+As an average looking person I think this is massively unfair. I call upon the federal government to level the playing field by making beautiful people look average. This can be done with fat suits, mandatory masks, plastic surgery, etc. Read Kurt Vonnegut’s prophetic short story, “Harrison Bergeron” for a fuller description.
+
+#poem
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13101,6 +14650,140 @@ Take away
 
 #diversity
 #sjw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford
+
+Tokville when he went around America was very impressed with people when he made the observation that, "it is in these every activities, practical activities requiring cooperation among the American people (farmer's markets, coordinated driving with no street signs, helping neighbors with housing stuff) that the Democtratic character is formed -- the ability to work things out among ourselves."
+
+
+#philosophy
+#quote
+#cooperation
+#coordination
+#crawford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford
+
+Safetyism feedback loop: the safer we become, the more intolerable any remaining risk appears. This dynamic turns into a whole bunch of useless "helping" professions who are necessarily trying to think of us as fragile and in need of help. 
+
+
+#philosophy
+#quote
+#crawford
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford
+
+Academic thought has gotten quite constricted. There are a couple of problems. One is a professionalization, which is inherently policing the boundaries of the discipline. The other is the politicization -- everything you write has to support the political regime, broadly understood.  
+
+
+#philosophy
+#quote
+#crawford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford
+
+Tech guys are horrified by human heuritics and intuition that facilitate coordination (because it looks messy and illogical). 
+
+Experimental self driving car by Google came to intersection. It came to a full stop and waited for the other cars to do the same before proceeding. It was following the rules.
+
+But of course that isn't what people do. People roll up to the intersection, see what other people do. Roll through the stop sign. Ambiguous cases of right of way. We make eye contact, give a little nod, maybe waive the person across. The Google car got paralyzed and melted down.
+
+The guy in charge of the experiment said what he had learned from the experiment was that "human beings need to be less idiotic." Now of course what he meant by that was that we need to behave more like robots, to be rule followers. Completely invisible to him was this distinctly human form of intelligence -- this thought among elites in our country is politically significant. Why? Because of Tokeville story: Tokville when he went around America was very impressed with people when he made the observation that, "it is in these every activities, practical activities requiring cooperation among the American people (farmer's markets, coordinated driving with no street signs, helping neighbors with housing stuff) that the Democtratic character is formed -- the ability to work things out among ourselves."
+
+Coordinating driving among humans. Our capacity to mutually predict one another's behavior. It is an evolved capacity of our brain that is scaffolded by social norms. Go to an intersection in Rome or Bombay...you will see unregulated intersections (no lines, no lights). You have buses and donkeys and cars and bycicles all finding their way through. It is beautiful to behold. You are witnessing the human capacity for improvisational cooperation. But when one of these tech guys looks at that, he's horrified because it looks chaotic and messy. 
+
+
+#philosophy
+#quote
+#cooperation
+#coordination
+#crawford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -14740,6 +16423,72 @@ racist-quote.png
 Empowering:
 - "when I was in college, the feeling was much different. You'll either make it, or you won't, and whether you do is up to you."
 - "we now have made a full 180. We want to ensure that everyone has the sense that they can succeed."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# higher education is about embracing uncertainty
+
+
+Embracing uncertainty, knowing that you do not know, and that what you think you do know may be wrong—this is foundational to a scientific approach to the world. Over the last decade, and especially since Covid, we have seen an increasing focus on certainty, and on single static solutions to complex problems. Perhaps most alarming of all, those appeals to authority, and to silencing those who disagree, has arrived under the banner of science. #FollowTheScience, we are told, when that has never been how science worked. I hope, still, that the educational philosophy that I laid out here, as a young scientist who was yet to discover most of the joys of teaching, can once again rise up in institutions of higher education throughout the land.
+
+
+#uncertainty
+#academia
+#learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# arnold kling on: greater beuarocracy causes more middle managers and fewer true skilled professionals
+
+The need to comply with government regulation serves to empower bureaucrats over technically skilled personnel.
+
+Fifty years ago. . . Hospitals were run by doctors, newspapers by journalists, history faculties by academics, so your best career move was to be seen by your peer group as being good at the thing your organisation purported to do. In return you were assured of advancement and job security, which your boss had the power to bestow. Back then ‘Finance’ was called ‘Accounts’ and ‘HR’ was called ‘Personnel’. No one had an MBA.
+
+Not any more. As a doctor, you may have been hired for your medical expertise by eminent practitioners, but you must defer to people with no medical knowledge at all.
+
+
+#buerocracy
+#red-tape
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -16667,6 +18416,150 @@ In fact, many of the smartest young people I know are deciding against a career 
 
 
 
+
+
+
+# wang et al 2013, "can't get it out of my mind"
+
+We know that customer mistreatment compromises short term and long term emotional well-being, mainly through cross sectional and lab studies. 
+
+However, little is known about the potential mediating mechanisms via which the negative effect of customer mistreatment goes beyond the service episode and persists to influence employees’ emotions at a later time.
+
+We use a cognitive rumination lens: customer service can be viewed as a goal attainment situation. When it goes poorly, it leads to rumination, which acts as the mediator leading to the lagged manifestation of poor employee well-being. 
+
+So
+Use rumination (occurs when people don't attain goals) to overlay customer service event. 
+Use rumination as mediator between poor encounter and lagged negative affect.
+
+Cognitive Theories of rumination
+Rumination is prolonged thinking about failed goal pursuits. 
+Starts when someone fails to progress toward an important goal. 
+[so it is defined as X but also happens after X]. 
+Proximate underlying cause is accessibility of goal failure experience in one's memory. 
+
+We conceptualize customer interactions as a goal-attainment opportunity. When this fails or goes wrong, employees may ruminate. 
+
+
+
+[CHRISTOPHER - OVERLAY INTERMITTENT LEARNING]
+rumination is worst when repetitive reliving of the failure happens. 
+think about injury. when my neck hurts randomly throughout the day, that's worse than when I have a set time when I know it is going to hurt and I can turn my attention off.
+X1 = repetitive vs one-time
+X2 = random, unknown schedule vs fixed schedule
+
+apply this to something you encounter. some work situation.
+
+
+[CHRISTOPHER NOTE]
+They are not theorizing into terms of downstream arrows. They are applying lenses over common workplace experiences. 
+They are not doing A -> B -> C -> D
+They are doing: look at A using X theory. 
+
+
+
+
+
+
+# liao, lee, johnson, song, liu "seeing from a short-term perspective"
+
+Why do findings from abusive supervision studies differ?
+Two reasons: they are using static, between person approaches.
+They are examining consequences without accounting for people's attributions of their leaders' behavior. 
+
+People have different momentary (requires ESM) attributions (requires attribution frame) of their leaders' motives, which prompt different kinds of downstream work behaviors. 
+
+Rumination: Control perspective of repetitive thought
+Individuals experience recurring and automatic cognitions with an attempt “to resolve the goal discrepancy between stressful events and core beliefs and assumptions” (Watkins, 2008, p. 164). When working in organizations, subordinates, in addition to accomplishing task goals, endeavor to engage in constructive interactions and develop good relationships with colleagues, especially with their direct leaders (i.e., interpersonal goals; Graen & Uhl-Bien, 1995). Nonetheless, daily abusive supervisor behavior, as a particularly stressful work event (Tepper, 2007), leads to a temporary discrepancy between subordinates’ ideal–actual states regarding interpersonal goals, thereby triggering their repetitive thought. This reasoning is consistent with general self regulation frameworks, which posit that the presence of ideal–actual discrepancies interrupts ongoing operations and triggers cognitive processing aimed at eliminating the discrepancy (Carver & Scheier, 1998; Johnson, Chang, & Lord, 2006).
+
+The valence and content of repetitive thought are shaped by subordinates’ perceptions of the extent to which resolving such a discrepancy is under their own control (Martin & Tesser, 1989, 1996; Watkins, 2008). That is, when subordinates perceive that they have control over resolving the perceived goal discrepancy, they tend to engage in constructive repetitive thought that involves contemplating causal factors and developing action plans for reducing it (Martin & Tesser, 1996; Wrosch, Scheier, Miller, Schulz, & Carver, 2003). However, when subordinates  perceive a lack of control over reducing the discrepancy, they tend to engage in disruptive thought about the unresolvable discrepancy and its uncontrollable causes (Trapnell & Campbell, 1999; Tripp & Bies, 2010).
+
+Rumination is a dysfunctional form of cognitive processing that focuses on failures in achieving desired states and/or resolving goal discrepancies (Trapnell & Campbell, 1999; Watkins, 2008). The control perspective of repetitive thought suggests that the dysfunctional cognitive response of rumination is likely to be activated when subordinates experience a disruptive event (e.g., daily abuse) but feel incapable of improving or escaping the situation (Nolen-Hoeksema, Wisco, & Lyubomirsky, 2008; Song et al., 2018). Consequently, rather than deliberating about potential strategies and solutions, subordinates will instead ruminate about daily leader abusive behavior by replaying the frustrating and emotionally disturbing episode in their mind and reliving the psychological harm that it caused (Liang, Hanig, Evans, Brown, & Lian, 2018)
+
+So, any event leading to a perceived "there is distance between my ideal goal and where I am" will cause someone to reflect. If they believe they have control over the situation, they will think about causal factors underlying everything and engage them to make progress. Conversely, if they think the situation is out of their control, they will ruminate (frustrated, relive the emotional harm). 
+
+
+
+
+
+
+
+
+# song et al. "a social mindfullness"
+
+We know a lot about the consequences of customer mistreatment. 
+
+Most studies assume that employees perceive true and accurate instances of customer mistreatment. However, The experience of customer mistreatment, however, is based on complex perceptual and evaluative judgments that may vary substantially within and across people.
+
+So, examine how people attribute it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixed intervals vs random intervals. Which is worse? Known upcoming or unknown upcoming?
+
+All of this attribution stuff is about positive vs negative attribution. I attribute my supervisor's behavior to positive motives or negative motives. 
+
+Another huge dimension in attributions theory is stability. This is long-lasting or this was a one-off. 
+
+
+
+
+
+
+
+
+
+#christopher-theory
+#christopher-thinking
+#ob-notes
+#rumination-theory
+#chunked-ideas
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Open source jobs and salaries becoming more popular
 
 See this webpage
@@ -16677,6 +18570,306 @@ and remember salary transparency youtube video
 
 #transparency
 #salary-transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# happiness chemicals
+
+dopamine - reward
+eat
+achieve a goal
+sleep
+
+enorphin - pain killer
+exercise
+laugh
+listen to music
+
+oxytocin - love
+socialize
+physical touch
+helping others
+
+serotonin - mood stabilizer
+sun exposure
+nature
+mindfullness
+
+images/h-chemicals.jpeg
+
+
+#neuroscience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# farther along
+
+1 Tempted and tried we’re oft made to wonder,
+Why it should be thus all the day long;
+While there are others living about us,
+Never molested though in the wrong.
+
+Refrain:
+Farther along we’ll know all about it,
+Farther along we’ll understand why;
+Cheer up, don't worry, live in the sunshine,
+We’ll understand it all by and by.
+
+2 When death has come and taken our loved ones,
+It leaves our home so lonely and drear;
+Then do we wonder why others prosper,
+Living so wicked year after year. [Refrain]
+
+
+#music
+#lyrics
+
+
+
+# venezuela song
+
+
+
+Usted piensa que yo voy a rogarle para que me quiera
+Se cree importante del mundo la dueña
+No más porque tiene lo que a mí me falta
+Pero se olvida que todo no es la plata
+Que el mundo está lleno de cosas pasajeras
+Y ese fue su error y el orgullo la mata
+Ay! no hay riqueza más grande en la vida
+Ay! no hay riqueza más grande en la vida
+Que la nobleza que nace del alma
+Ay! no hay riqueza más grande en la vida
+Ay! no hay riqueza más grande en la vida
+Que la nobleza que nace del alma
+Pueda ser que un día cualquiera no esté arrepentida
+Cuando los años la tengan vencida
+Teniendo todo y le falte el amor
+Pueda ser que no me toque sangrar más su herida
+Porque es muy triste sentirse en la vida
+Culpable de ocasionar un dolor
+Yo mucho la quiero y con desdén me mira
+Pero me resigno soy buen perdedor
+Yo mucho la quiero y con desdén me mira
+Pero me resigno soy buen perdedor
+Usted piensa que yo porque soy pobre no tengo derecho
+A sentir amor dentro de mi pecho
+Pero también tengo lo que a usted le falta
+Un corazón lleno de noble sentimiento
+Es querendón pero qué va no entiende de eso
+Si analiza y pienso que nació sin alma
+Vea que Dios tarda pero nunca olvida
+Vea que Dios tarda pero nunca olvida
+Rodando se miran las cosas más altas
+Vea que Dios tarda pero nunca olvida
+Vea que Dios tarda pero nunca olvida
+Y rodando se miran las cosas más altas
+Pueda ser que un día cualquiera no esté arrepentida
+Que busque flores y sólo halle espinas
+En el preciado jardín del amor
+Pueda ser que no le toque buscar lo que hoy tira
+Como si fuera un objeto se olvida
+Que soy humano y tengo corazón
+Usted con dinero compre cosas lindas
+Que yo gano aplausos con una canción
+Usted con dinero compre cosas lindas
+Que yo gano aplausos con una canción
+Usted con dinero compre cosas lindas
+Que yo gano aplausos con una canción
+Usted con dinero compre cosas lindas
+Que yo gano aplausos con una canción. por Hildy
+
+
+
+
+
+You think I'm going to beg you to love me
+The owner is believed to be important in the world
+No more because it has what I lack
+But you forget that everything is not money
+That the world is full of fleeting things
+And that was her mistake and pride kills her
+Oh! there is no greater wealth in life
+Oh! there is no greater wealth in life
+That the nobility that is born from the soul
+Oh! there is no greater wealth in life
+Oh! there is no greater wealth in life
+That the nobility that is born from the soul
+It may be that one day you will not be sorry
+When the years have defeated her
+Having everything and lacking love
+It may be that I don't have to bleed his wound anymore
+Because it is very sad to feel in life
+Guilty of causing pain
+I love her very much and with disdain she looks at me
+But I resign myself I'm a good loser
+I love her very much and she looks at me with disdain
+But I resign myself I'm a good loser
+You think that because I am poor I have no right
+To feel love inside my chest
+But I also have what you lack
+A heart full of noble feeling
+It's loving but what's up, he doesn't understand that
+If he analyzes and I think he was born without a soul
+See that God takes but never forgets
+See that God takes but never forgets
+Rolling you look at the highest things
+See that God takes but never forgets
+See that God takes but never forgets
+And rolling you look at the highest things
+It may be that one day you will not be sorry
+Look for flowers and only find thorns
+In the precious garden of love
+It may be that it is not your turn to look for what you throw away today
+as if it were an object is forgotten
+That I am human and I have a heart
+You buy nice things with money
+That I win applause with a song
+You buy nice things with money
+That I win applause with a song
+You buy nice things with money
+That I win applause with a song
+You buy nice things with money
+That I win applause with a song. by hildy
+
+
+
+
+el mundo está lleno de cosas pasajeras
+
+the world is full of fleeting things
+
+
+no hay riqueza más grande en la vida
+
+there is no greater wealth in life
+[there are no bigger riches in life]
+
+
+
+Que la nobleza que nace del alma
+
+That the nobility that is born [comes] from the soul
+
+
+
+
+
+
+
+
+sabrosa (yummy, tasty)
+divina
+
+estamos a la orden
+
+#music
+#lyrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# collective swarm of scientific literature
+
+
+christopher theory of theory
+we also need a tool that helps us accumulate research
+
+https://unanimous.ai/swarm/
+
+
+construct
+theory
+data
+discovery
+argument
+
+
+we should have a big list of all of this
+a big image/visualization of all of this
+
+then, your new study gets linked into it somehow
+
+
+
+see also mcelreath version control talk
+
+
+#christopher-thinking
+#theory-of-theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -16948,6 +19141,82 @@ Summary
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# matthew crawford "how this thing works" is now hidden in our products
+
+The disappearance of tools from our common education is the first step toward a wider ignorance of the world of artifacts we inhabit. And, in fact, an engineering culture has developed in recent years in which the object is to “hide the works,” rendering many of the devices we depend on every day unintelligible to direct inspection. Lift the hood on some cars now (especially German ones), and the engine appears a bit like the shimmering, featureless obelisk that so enthralled the proto-humans in the opening scene of the movie 2001: A Space Odyssey. Essentially, there is another hood under the hood. This creeping concealedness takes various forms. The fasteners holding small appliances together now often require esoteric screwdrivers not commonly available, apparently to prevent the curious or the angry from interrogating the innards. By way of contrast, older readers will recall that until recent decades, Sears catalogues included blown-up parts diagrams and conceptual schematics for all appliances and many other mechanical goods. It was simply taken for granted that such information would be demanded by the consumer.
+
+A decline in tool use would seem to betoken a shift in our relationship to our own stuff: more passive and more dependent. And indeed, there are fewer occasions for the kind of spiritedness that is called forth when we take things in hand for ourselves, whether to fix them or to make them. What ordinary people once made, they buy; and what they once fixed for themselves, they replace entirely or hire an expert to repair, whose expert fix often involves replacing an entire system because some minute component has failed.
+
+
+#crawford
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+# matthew crawford, "a man needs not boast; just point to what he created and say 'it works'"
+
+As the philosopher Alexandre Kojève writes,
+The man who works recognizes his own product in the World that has actually been transformed by his work: he recognizes himself in it, he sees in it his own human reality, in it he discovers and reveals
+to others the objective reality of his humanity, of the originally abstract and purely subjective idea he has of himself.4
+The satisfactions of manifesting oneself concretely in the world through manual competence have been known to make a man quiet and easy. They seem to relieve him of the felt need to offer chattering interpretations of himself to vindicate his worth. He can simply point: the building stands, the car now runs, the lights are on. Boasting is what a boy does, because he has no real effect in the world. But the tradesman must reckon with the infallible judgment of reality, where one’s failures or shortcomings cannot be interpreted away. His well-founded pride is far from the gratuitous “self- esteem” that educators would impart to students, as though by magic.
+
+Boasting is what a boy does, because he has no real effect in the world. 
+
+A tradesman feels no need to offer chattering interpretations of himself to vindicate his worth. He can simply point: the building stands, the car now runs, the lights are on. 
+
+
+#crawford
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # klein et al. "Common ground adn coordination in joint activity"
 
 Some devices for keeping people coordinated:
@@ -17051,6 +19320,95 @@ Intellectual teams (executive teams) value transition processes like planning an
 #teams
 #ob
 #ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# arnold kling don't fall for the intention heuristic. Christopher's version is simply stochastics. 
+
+What I call the intention heuristic takes two forms:
+
+Good intentions necessarily lead to good consequences.
+
+Bad consequences necessarily indicate that someone had bad intentions.
+
+True wisdom requires discarding the intention heuristic.
+
+
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# arnold kling and TC on science as a conversation
+
+I read Tyler as saying that there is important information lost about a theory when you do not examine the process that led up to it.
+
+In macroeconometrics, why did “vector autogression” become legitimate? Why did “calibration” become legitimate? Why did input-output analysis fall out of favor and get replaced by the production function? Why did multiple regression fall out of favor in macroeconomics but become standard for explaining differences in growth across countries?
+
+One phenomenon that interests me about economics is that ideas get taken out of the context in which they were developed. For example, there are many uses of the “overlapping generations model,” but does anyone remember what the motivation was for developing the model in the first place?
+
+
+Tyler Cowen writes,
+
+In just about any scientific literature, there is an undercurrent of tacit knowledge which is not very directly expressed in any of the published pieces.  That knowledge may cover the following issues, among many others:
+
+1. How the rules of the conversation operate, and how a body of literature on a question coheres.
+
+2. Why certain papers and methods are not taken seriously any more
+
+…Many of the people who claim the mantle of science might cite published papers, but in fact they have little or no understanding of science as a conversation and a body of literature.
+
+
+#academia
+#marginal-revolution
+#economics
+#philosphy-of-science
+#phil-of-modeling
+
+
+
 
 
 
@@ -19557,6 +21915,56 @@ scale:
 
 
 
+
+
+# My Creed
+
+To live as gently as I can;
+To be, no matter where, a man;
+To take what comes of good or ill
+And cling to faith and honor still;
+To do my best, and let that stand
+The record of my brain and hand;
+And then, should failure come to me,
+Still work and hope for victory.
+
+To have no secret place wherein
+I stoop unseen to shame or sin;
+To be the same when I'm alone
+As when my every deed is known;
+To live undaunted, unafraid
+Of any step that I have made;
+To be without pretense or sham
+Exactly what men think I am.
+
+To leave some simple mark behind
+To keep my having lived in mind;
+If enmity to aught I show,
+To be an honest, generous foe,
+To play my little part, nor whine
+That greater honors are not mine.
+This, I believe, is all I need
+For my philosophy and creed.
+
+Edgar Albert Guest
+
+
+#poem
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 
 
 Rob Henderson: the goal of propaganda is to change what you think what other people think.
@@ -19584,6 +21992,50 @@ So, the people best at victim writing for college essays are not the people who 
 #philosophy
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# writing a review with lay beliefs
+
+
+This strikes me as a great way to write a review article. For a given topic, identify what most people think works, then compare to what exists in the literature. 
+
+(a) happiness
+
+"By coding media articles on happiness, we first identified the most commonly recommended stragies" for increasing happiness. Then, we assessed whether these strategies have been tested. E.g., "the widely touted happiness benefits of engaging with nature have been demonstrated in only X studies..."
+
+https://www.nature.com/articles/s41562-023-01651-4#ref-CR90 
+
+(b) org selection techniques/myths
+
+This paper isn't a review, but it isn't hard to imagine how the paper could be reformulated to become one. HR managers commonly believe X, Y, and Z about hiring. The number of studies (and their quality) in the lit on X, Y, and Z ...
+
+https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/koenig/PDFs-Publikationen/FisherEtAl_final.pdf
+
+
+#lay-beliefs
+#review
+#grad-philosophy
+#writing
 
 
 
@@ -19686,6 +22138,81 @@ keywords
 #norms
 #networks
 #communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# others are going to use this
+
+The difference between
+
+"user/cdishop/desktop/labfolder/file.txt"
+
+and
+
+"../file.txt"
+
+
+The difference between
+
+This is a really interesting write-up about Burrtzorg, the home healthcare company in the Netherlands that is very decentralized and apparently very successful at retaining employees https://hbswk.hbs.edu/item/this-company-lets-employees-take-charge-buurtzorg
+
+and
+
+Some interesting studies/ideas on team status hierarchies and performance:
+
+Gray et al 2023 say UNSTABLE status hierarchies are needed for teams to perform well.
+
+HOWEVER / BUT
+
+Wolley et al. 2023 say STABLE status hierarchies are needed for teams to 
+perform well.
+
+Why the difference? Because one is referring to team roles/ranks/positions and the other is referring to beliefs about reputation. Gray et al. 2023: teams will perform well when members believe they can over time gain recognition by others on the team for contributing useful information (UNSTABLE status hierarchy: "I feel like I can over time gain status on this team by helping out"). Woolley et al: teams will perform well when positions are stable (STABLE status hierarchy: "I know my leader will be the same for the rest of this task, so I know how to coordinate").
+
+So, you want people to perceive stable roles so they don't get confused about what to do, but you also want them to perceive instabilitly (e.g., "i feel like I can move up and acquire status in this domain") of reputation so they have incentive to contribute.
+
+[link to documents]
+
+
+
+[christopher writing]
+
+Methods with others in mind
+
+Other people are going to use my code
+Other people are going to use my notes
+I'm pointing to these articles because I think they will be relevant to others
+The whole point of a team is the whole to be greater than the sum of the parts. Do something for me so we can save one another time. 
+
+
+
+#christopher-thinking
+#christopher-theory
+#big-ideas
+#best-ideas
+#great-paper
+#methods-with-others
+#anita
+
+
+
+
+
+
 
 
 
@@ -20046,6 +22573,67 @@ keywords
 #intelligence
 #sat-act
 #psych-of-performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Man In The Glass 
+Peter Dale Wimbrow Sr.  
+ 	
+When you get what you want in your struggle for self
+And the world makes you king for a day
+Just go to the mirror and look at yourself
+And see what that man has to say.
+
+For it isn’t your father, or mother, or wife
+Whose judgment upon you must pass
+The fellow whose verdict counts most in your life
+Is the one staring back from the glass.
+
+He’s the fellow to please – never mind all the rest
+For he’s with you, clear to the end
+And you’ve passed your most difficult, dangerous test
+If the man in the glass is your friend.
+
+You may fool the whole world down the pathway of years
+And get pats on the back as you pass
+But your final reward will be heartache and tears
+If you’ve cheated the man in the glass.
+
+
+#poem
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22425,6 +25013,443 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# shane gillis quote
+
+happiness isn't real
+especially if you have a really good childhood. it is all downhill from there
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+# glassman humor
+
+
+You know what they say, you don't know what X is, you might be a racist
+
+#humor
+#glassman
+
+
+
+
+
+
+
+
+
+
+
+
+
+# glassman humor
+
+
+
+[not what you identify as trick]
+What do you like to eat?
+What are you scared of?
+
+No, I asked what do you like to eat, not what you identify as...
+
+
+#humor
+#glassman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# glassman and are you garbage humor
+
+
+Tell me about...
+Have you been reading my diary?
+I would rather...
+Oh is that the thing you get when you break your ankle...a personality disorder
+Oh you must have one of those, what's it called? [scooter] ... personality disorder
+
+"you look like" + voice impression
+[talking about a cousin who was a magician. Then do voices of that magician...] You guys know how to create a lawsuit? Let me show you. This trick lasts years. You'll be watching a movie one day in the future and you'll cry. 
+So, this is really just "you look like." and then followed with voices of that individual. 
+
+How could I have done that with Bryanna? "you look like" + voices
+Or your Grandfather saved your life in a snowstorm? 
+Or your Grandfather was your best friend while you were growing up in South Florida?
+
+Was your favorite game hey is grandpa sleeping or he is no longer with us?
+Here Bri I"m gonna show you how to get all the boys attention. The first thing you wanna do is talk about vietnam...
+Your version of eating healthy was putting skim milk in your frosted flakes
+
+
+
+#glassman
+#ayg
+#humor
+#conversations
+#social-animal
+#flirt-opener
+#flirt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# glassman people are not aware
+
+
+
+Rick Glassman
+
+Having a bad sense of humor is more of a symptom. Underneath is really what matters: lack of awareness. People don't typically say, "I know what you meant. I just didn't find it funny." More common: "I didn't like that because I thought you meant this..." Oh I didn't realize what you meant. It is less about lack of sense of humor and more about lack of awareness. 
+
+And lack of awareness comes from inability to question things. You need people to be challeneged, to meet all sorts of different people, so that they are challeneged and appreciate nuance and question things and see/reflect on/argue with different points of view. 
+
+
+
+#glassman
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christopher theory. more jobs needed practice rather than pure performance
+
+theory of 
+
+more practice, less performance
+
+but
+
+need performance where you can flow and feel the benefits.
+think about practicing piano every day without performing.
+
+You need way way way more time to freely practice your craft or your skill
+But, that practice time needs to be building up to a performance where you get to realize your improvements in front of others
+Then back to practice
+
+
+
+#christopher-thinking
+#research-idea
+#next-study
+#flow
+#normative
+#christopher-theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christopher theory of why "what are you proud of?" is great on dates
+
+Ask people "what are you proud of" is a fantastic question for outings because it sets of an emotional cascade. 
+
+Pride arises when we feel responsible for accomplishing something that others will value. 
+If my grandfather wins the lottery and is going to share the winnings with the family, I feel happy but not pride.
+If I place a put option on the market and win a bunch of money to share with my family, I feel pride. 
+
+What's interesting about pride is the behavior it causes, which is social engagement. Pride is one of the strongest emotions we know of that makes people want to talk and engage with others. 
+
+So, if you ask someone about what they are proud of, they will speak about it. By speaking about it, they will ignite some underlying pride emotions. By igniting pride emotions, they will want to talk to you more.
+
+#christopher-theory
+
+
+
+
+
+
+
+
+
+
+
+# john zimmerman tech people focus way to much invention and not enough on innovation (execution)
+
+People want AI to do magical things they cannot even consider. 
+Stop thinking like that. 
+Dumb down your problem space.
+Develop ideas about how AI can execute dumb things better. 
+
+Stop focusing on inventing magic. Focus instead on slight modifications to facilitate better execution. 
+
+#innovation
+#zimmerman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christopher thinking
+
+
+
+
+It's funny to reflect on the questions people ask when they are trying to learn about your or converse with you.
+
+Today I was asked by a girl, "what are you really good at?"
+
+I could not come up with an answer. I hesitated. Mind blank. After about 15 long seconds, I replied, "I'm not sure I'm great at anything. I suppose I'm good what I do...otherwise I wouldn't have a job." 
+
+This question strikes me as revealing, revealing about the personality of the individual I was with. I would never think to ask such a question.
+
+What kinds of books do you like to read? What's the last thing that frustrated you? What did you expect when you moved to this city but have been disatisfied with once you arrived? Think about a close friend, what was happening the moment you realized this person would become important in your life? These are the questions I would ask. The question, "what are you excellent at" would never cross my mind. 
+
+
+
+#philosophy
+#quote
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christophter thinking
+
+
+
+I love intimate moments. I don't mean sex, although sex can be intimate. I mean the feeling of two people, us, knowing something that no one else gets. 
+
+Finding and navigating little dark corners of life that no one knows about. There's something magical about that. 
+
+
+Listen to Blue Moon by Oscar Peterson and then Blues in Hoss' Flat
+Close your eyes and imagine 
+whatever comes to mind is what I want to do. 
+Whatever comes to mind when you listen to Blues in Hoss' Flat is what I want to do. 
+
+#philosophy
+#quote
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# tolerance of stupidity
+
+
+Watchin Vivek play along with this interview was like watching an adult play a game with a 5 year old. The 5 year old will make up their own rules as the game progresses and the adult goes along with it because they’re a child.
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# autism
+
+
+Autism
+
+Can't do X while Y
+Can't speak while I'm writing things down on computer.
+
+Get upset when things don't go according to plan, or when I'm interrupted from doing what I want to do/routine.
+- unless I know before hand that there is no plan
+
+Very interested in patterns. Look for patterns in everything. 
+
+Non-fiction.
+
+Huge preference for doing things on my own.
+
+Hard time looking people in the eye and communicating. 
+
+I prefer doing things the same way - for instance my morning routine or trip to the supermarket
+
+I find myself becoming strongly absorbed in something – even obsessional.
+
+I like to collect information about things I'm interested in.
+
+I am very sensitive to noise and will wear earplugs or cover my ears in certain situations
+
+Sometimes people say I am being rude, even though I think I am being polite.
+
+Very hard time talking to groups of people. 
+
+
+
+
+#autism
+#psychometrics
+#psych-quiz
+#love-languages
 
 
 
@@ -24862,6 +27887,339 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+# anita's research ideas
+
+Anita riffing compared to Nikos riffing:
+Anita: people in orgs struggle with X. How do we improve X?
+Nikos: the literature assumes X. X is wrong or incomplete because...
+
+
+we know that making decisions by having a big group talk live is awful.
+we need processes that facilitate engagement, satisfaction, proper decision making (in asynchronous settings like zoom). In remote, asynchronous contexts, how do you make this happen?
+
+
+integrating frameworks also means building mediation boxes and arrows.
+I had only ever imagined "integrating" to mean moderator. Integrating can also mean
+x -> y from theory 1
+y -> z from theory 2. Integrate to get x -> y -> z. 
+
+In OB and micro psych, we care a lot about jingle jangle fallacy. In macro, they do not care at all. Look at all the different scales for organizational learning climate. 
+
+
+
+#anita-research-ideas
+#anita-research-idea
+
+
+
+
+
+
+
+
+
+
+# wages are not keeping up with inflation, except for the super wage earners
+
+imgs/wages-with-inflation
+
+
+
+
+#economics
+#marginal-revolution
+#wages
+#pay
+#income
+#salary
+#inflation
+
+
+
+
+
+
+
+
+
+
+
+
+# cbt and mindfulness and victimology
+
+Mindful -> notice thoughts
+CBT -> re-orient distorted thinking
+
+
+Victim stance: imagining myself as the victim when I am held accountable for irrational actions or beliefs. 
+
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# conversation
+
+push pull (innocent and put together but devil)
+tease
+qualify (what makes you)
+astrology-like (so you're like super creative)
+
+
+#flirt-opener
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# looking for racism in everything
+
+imgs/weird-colonialism
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# colleges starting to realize their "be the change you want" is backfiring
+
+Now, they are using the phrase
+
+"Be the [mindfully grounded] change you want to see in the world"
+
+imgs/grounded-change
+
+
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+# high potential employee from HR blog is just positive psychology bs
+
+How about something like this, "to what extent does the employee think and write clearly?" If so, he/she is a high potential employee.
+
+Christopher's opinion:
+high potential employees have super good skills and are nice, level-headed people. But they need not have all of these crazy positive qualities.
+
+imgs/where-is-think-clearly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# twitter handles to follow
+
+
+Gov data look up
+https://www.researchdatagov.org/
+
+
+https://medium.com/data-science-at-microsoft/ten-podcasts-for-data-scientists-to-subscribe-to-e7ff0caf2d0
+
+
+https://www.inverse.com/science
+
+Scholar Follow List
+
+@KambhampatiPat
+https://www.thefp.com/p/how-dei-is-supplanting-truth-as-the?r=3pk3h&utm_medium=ios&utm_campaign=post
+
+@shannimcg
+
+@Musa_alGharbi
+
+@DG_Rand
+ 
+@victorerikray
+ 
+@cwarshaw
+ 
+@profjennabednar
+
+@hjghassell
+
+@ejfagan
+
+@cstewartiii
+
+@SamaraKlar
+ 
+@mjbsp
+ 
+@prowag
+
+@emilythorson
+
+@sobieraj
+ 
+@meredithconroy_
+ 
+@ElectProject
+ 
+@rachel__porter
+
+@kmmunger
+
+
+
+
+Follow Friday List
+@OlufemiOTaiwo
+
+@lastpositivist
+
+@DKThomp
+
+@zeynep
+
+@robkhenderson
+
+@semaforben
+
+@emollick
+
+@SamAdlerBell
+
+@RichardHanania
+
+@mattyglesias
+
+@shadihamid
+
+@MazMHussain
+
+
+Interesting Tweeters
+@AmnaUncensored
+
+@NairYasmin
+
+@NicoleBarbaro
+
+@MattThomasNYC
+
+@MattPolProf
+
+@samhaselby
+
+@GutkinLen
+
+@DavidRozado
+
+@tomstello_
+
+@blejksmith
+
+@_alice_evans
+
+@kenanmalik
+
+@njhochman
+
+@olivertraldi
+
+@MattGrossmann
+
+@RichardvReeves
+
+@Bernstein
+ 
+@rafiazakaria
+
+
+
+#twitter
+#follow-on-twitter
+#handles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Boyd & Mathew, “Arbitration supports reciprocity when the “
 
 Reciprocity is undermined by perceptions errors, or when one partner mistakenly thinks that his partner defected. If perception errors are minimal, then strategies like generous tit for tat are useful. 
@@ -25914,6 +29272,41 @@ keywords
 
 
 
+# Caitlin Reilly lack of social graces
+
+32ish minutes
+https://www.youtube.com/watch?v=YfcBMBtV3ic
+
+You are at a dinner party. A friend invited you, and it is mostly people you do not know. You are crowded around and trying to engage, standing on the outside of the circle. You are clearing trying to listen and want to be part of the conversation, but they are not asking you any questions. They are not making an attempt to bring you into the conversation. They are only talking about insider info and acknowledging each other. 
+
+THEY ARE BEING RUDE. You are not being awkward. They are being rude. Those are the people who were pricks in high school. 
+
+Think about when I host cards: I do everything I can to get people feeling welcomed. 
+
+Here is a way to bring someone into a conversation: [person walks over and you are talking to one other person.]. Look at the new person and say, "hey we were just talking about X..." see if they join. 
+
+Rick Glassman says no, it is on you to make the conversation interesting and join in. But Caitlin was just talking about normal social graces of acknowledging another person. 
+
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26487,6 +29880,41 @@ Suppose a mutation arose in one of the male walruses that gave this particular m
 
 
 
+# matt mssusker three stage system of psychological empowerment
+
+
+
+Present moment
+Able to accept painful material
+You can let that annoyance dictate your next behavior, or you can think to yourself, "this is just a thought my body produced." 
+Being able to sit with stuff that is painful without having it dictate your behavior. 
+Typically when people mitigate psychological pain they try to do a quick manuever just to get rid of it...but these actions make your life smaller and smaller. 
+You have a set of values or things that you want in life. 
+In combination, you should be able to diffuse yourself from the thought and then move toward the thing that you want rather than constantly trying to mitigate psychological annoyances.
+
+Witness the present
+Accept painful or annoying thoughts as natural byproducts of your brain without getting attached to them.
+Have a set of values or things you want to achieve. 
+Diffuse yourself from the annoyances to get out of the continuous back and forth of running from psychological pain to start taking actions towards things you value.  
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26588,6 +30016,306 @@ keywords
 #political-psych
 #facts-vs-feelings
 #conflict-resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# more golf guy humor
+
+
+clothes look comfortable, super tailored. 
+You make up for your discomfort with your personality by wearing as comfortable clothes as possible
+
+you look like your middle name is run of the mill
+
+you look like the amount on your taco bell receipts is more than your rent
+
+You've got the face only a mother could love
+
+WHEN I LOOK AT YOU, I GET THE SAME FEELING AS WHEN I SIT DOWN ON A COLD TOILET SEAT. 
+
+...Why he was wearing a girlscout outfit, I had no idea.
+
+
+#humor
+#social-animal
+
+
+
+
+
+
+
+
+
+
+
+
+# women complaining
+
+
+Imagine having a 6 years longer life expectancy due to less work related stress, making up only 7% of workplace fatalities, 4% deaths due to war, 24% of suicides and homicides, 20% of the homeless, having people assume you are the victim when you initiated DV in the majority of cases, having laws that cannot identify you as a perpetrator of rape, having a 40% higher adoption rate... and thinking men are privileged
+
+#anti-woke
+#disparities
+
+
+
+
+
+
+
+
+
+
+
+
+# tim dillon
+
+Stop looking for mystical experiences and go to work.
+
+#dillon
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+# When to use I vs Me. 
+
+A good way to understand this is to break the sentence into 2 sentences. For example:
+My friend and I went to the movies.
+You could say:
+My friend went to the movies. I went to the movies.
+Now try:
+My friend and me went to the movies.
+My friend went to the movies. Me went to the movies. (here you can clearly see that me is incorrect, you would not say me went to the movies, so you know to use my friend and I.)
+Another example:
+The dog took a walk with my friend and me.
+The dog took a walk with my friend.
+The dog took a walk with me. (here you can see that me is the correct word to use).
+Now try:
+The dog took a walk with my friend and I.
+The dog took a walk with my friend.
+The dog took a walk with I. (You can clearly see that I is not correct here).
+I hope this helps, I used this many times to help people understand.
+
+#grammer
+#grammar
+#english
+#i-vs-me
+
+
+
+
+
+
+
+
+
+
+
+
+# in defense of surveys
+
+
+in defense of surveys (stated preferences are never revealed preferences. butter vs margerine, grey study)
+- you could make the same argument for "lab behavior is never real worl behavior." Take economics games with undergraduate students. They don't map onto what you find with experienced workers
+- random bias is fine
+- error in a given direction hurts the mean score but it does not hurt parameter estimation of a linear model
+- psychometrics: artifact partitioning, use multiple people, different rating sources, different surveys, relationships to other things
+
+So, a psychometrician would say, "in the butter example, the problem is not that you are asking people for their preferences, it is that you are using a poor device to measure preferences."
+
+
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+# quote phil
+
+
+youtube.com/shorts/CBewjxSNaOw
+stop allowing radicals to exploit you on guilt
+radical leftists are not moral because THEY PRESUME TO KNOW WHAT THE CAUSE OF TRAGEDY IS and THAT THEY PRESUME TO KNOW WHAT THE SOLUTION IS. 
+- it doesn't mean you know the solution, and it doesn't mean you are moral, and it doesn't mean that I'm the devil if I oppose you
+
+#quote
+#philosophy
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# flirt quote philosophy
+
+
+I want to be able to talk to you without words in dark corners
+
+
+#flirt
+#quote
+#philosophy
+#bumble
+#social-animal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# humor quote philosophy
+
+Some people have it all. Looks, talent. How does it feel to only have looks?
+
+#humor
+#social-animal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# humor social animal
+
+
+
+What makes you...?
+The trouble is X isn't often paired with...I wonder if you are...
+
+You're cute but I'm not sure we'd get along
+
+#humor
+#social-animal
+
+
+
+
+
+
+
+
+
+
+
+
+# humor
+
+What advice would you give to a young actor who wants to hide his jewishness as well as you have?
+
+#humor
+#social-animal
+
+
+
+
+
+
+
+
+
+
+
+
+# flirt practice 
+
+
+I like your outfit. Green dress and a jean jacket, which is usually paired with a guitar, fiddle, maybe a banjo. But idk something tells me you have no musical talent whatsoever. 
+
+#social-animal
+#flirt-pratice
+#opener-practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -29356,6 +33084,64 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Proof Of Worth
+
+Though victory’s proof of the skill you possess,
+Defeat is the proof of your grit;
+A weakling can smile in his days of success,
+But at trouble’s first sign he will quit.
+So the test of the heart and the test of your pluck
+Isn’t skies that are sunny and fair,
+But how do you stand to the blow that is struck
+And how do you battle despair?
+ 
+A fool can seem wise when the pathway is clear
+And it’s easy to see the way out,
+But the test of man’s judgment is something to fear,
+And what does he do when in doubt?
+And the proof of his faith is the courage he shows
+When sorrows lie deep in his breast;
+It’s the way that he suffers the griefs that he knows
+That brings out his worst or his best.
+ 
+The test of a man is how much he will bear
+For a cause which he knows to be right,
+How long will he stand in the depths of despair,
+How much will he suffer and fight?
+There are many to serve when the victory’s near
+And few are the hurts to be borne,
+But it calls for a leader of courage to cheer
+The men in a battle forlorn.
+ 
+It’s the way you hold out against odds that are great
+That proves what your courage is worth,
+It’s the way that you stand to the bruises of fate
+That shows up your stature and girth.
+And victory’s nothing but proof of your skill,
+Veneered with a glory that’s thin,
+Unless it is proof of unfaltering will,
+And unless you have suffered to win.
+
+Edgar Guest
+
+
+
+#poem
+#quote
+#philosophy
 
 
 
