@@ -27612,6 +27612,25 @@ keywords
 
 
 
+# welsh et al “the slippery slope: how small ethical”
+
+good example of how write a hook in the following style
+- concept X is popular in the media and logical
+- but no research yet exists on X
+- we study it
+
+
+
+
+#ob-notes
+#hook-notes
+#jap-notes
+#jap
+
+
+
+
+
 
 
 
