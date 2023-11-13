@@ -7992,6 +7992,25 @@ Also, the size of one's preferred locations set correlates with the number of he
 
 
 
+# male female differences in disease prevalence
+
+images/male-female-disease.jpeg
+
+Auto-immune and inflammatory diseases and anxiety disorders more common in females.
+Cancers and autism more common in males. 
+
+#sex-differences
+#male-female
+#disease
+
+
+
+
+
+
+
+
+
 
 
 # Eichstaedt et al., 2018 “Facebook language predicts depression…”
