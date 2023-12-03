@@ -21609,6 +21609,270 @@ Murphy et al. "mundane emotions: losing yourself in boredom"
 
 
 
+
+
+# ob notes
+
+
+
+
+
+
+
+
+# grant prosocial motivation review
+
+Prosocial motivation
+The desire to expend effort to benefit others.
+
+PM leads to good things for both individuals and orgs. 
+A first key mechanism is social capital. A number of studies have shown that prosocial motives and behaviors build status, trust, and goodwill (Anderson et al. 2020, Flynn 2003, Flynn et al. 2006, Grant et al. 2009). By establishing relationships and reputations as trustworthy, prosocially motivated employees elicit respect and reciprocity rather than envy and undermining from their colleagues.
+A seocond mechanism explaining the performance benefits of prosocial motivation is working harder. In addition, when high self-esteem and self-efficacy put employees at risk for complacency, those who are prosocially motivated are more likely to maintain their effort and performance: They worry about letting others down if they fail and anticipate that others will be grateful if they succeed (Grant & Wrzesniewski 2010).
+A fourth mechanism is working safer. During the COVID-19 pandemic, prosocially motivated individuals were more likely to follow physical distancing guidelines, stay home when sick, and buy face masks (Campos-Mercade et al. 2020). By leading individuals to consider the consequences for others who might be vulnerable, prosocial motivation can encourage caution and discourage risky decisions.
+
+How do you elicit prosocial motivation?
+
+1) get people in contact with the beneficiaries of their work / get people to understand task importance
+
+Many employees hold jobs that have a positive impact on others but have little exposure to the ultimate beneficiaries of their work—the clients, customers, and end users who are affected by their tasks. Personalizing and humanizing one’s job by establishing contact with those who benefit from it can have surprising motivational effects. For example, in a field experiment (Grant et al. 2007), university fundraising callers were randomly assigned to have contact with a single undergraduate student whose scholarship was supported by their work. After meeting with the student for just 10 minutes, the average caller spent 142% more minutes on the phone and raised 171% more money, whereas callers in the control conditions did not change significantly on these measures.
+
+These effects have been extended to internal beneficiaries inside the organization. In a field experiment (Bellé 2012), nurses assembled more surgical kits per minute—and made fewer errors— after they had been randomly assigned to meet the health care practitioners who would use the kits. These effects were partially mediated by prosocial motivation: Beneficiary contact increased their desire to perform a public service and make a difference. 
+
+When direct beneficiary contact is not possible, task significance itself can drive performance: When employees are aware of the positive impact of their jobs on others, they work harder and safer. In a field experiment with lifeguards (Grant 2008c), reading stories about other lifeguards performing rescues increased the hours that lifeguards worked and increased supervisor ratings of helpfulness in protecting and assisting guests.
+
+
+#ob-notes
+#prosocial-motivation
+#edge
+#sledgehammer
+
+
+
+
+
+
+
+
+
+# self distancing
+
+Our ability to turn our attention inward to reflect on our circumstances allows us to learn from our mistakes, make sense of our experiences, plan, and engage in a host of other mental processes that contribute handedly to our ability to regulate our emotions, innovate, problem-solve, and create. But self-reflection does not always lead to positive outcomes. Particularly when people focus on negative experiences, self-reflection often backfires, leading them to get stuck in negative thought loops (i.e., worry and rumination), which undermine decision making, performance, health, and relationships. Considering these different findings together presents a paradox. 
+
+On the one hand, ample evidence indicates that self-reflection can be adaptive, enhancing emotion regulation and providing new perspectives into difficult situations. On the other hand, self-reflection can also become a liability when it morphs into perseverative negative thinking.
+
+To reduce anxiety and rumination and worry, "reflect from the balcony" when you consider negative events. 
+
+One of the defining features of maladaptive self-reflection is its immersive and egocentric quality.
+When people ruminate or worry about negative experiences, they get stuck focusing narrowly on
+the aversive features of their experiences that pose a threat to themselves, which makes it difficult for them to see the bigger picture, where solutions to their problems often lie (Kross 2021).
+Building from this observation, psychologists have speculated that facilitating adaptive reflection
+requires a mechanism to help people psychologically distance from their experience so they can
+step back from their immersed view of the situation to reflect on it more effectively.
+Psychological distancing refers to the process of mentally moving away from what is experientially available in the here and now, which by default is embedded in the present egocentric
+state of the self (for review, see Kross & Ayduk 2017). That is, whereas the default mode with
+which people typically engage in self-reflection is embedded in a first-person, egocentric perspective, which elicits rumination and worry, distancing helps break people out of this narrow view,
+allowing them to reconstrue negative experiences without becoming overwhelmed by negative
+emotions.
+A large amount of work links engaging in psychological distance (hereafter referred to as
+distance or distancing) when people reflect on negative emotional experiences with adaptive psychological, physiological, and behavioral outcomes. This is true for different populations (e.g.,
+children as well as adults, vulnerable groups), regardless of whether people distance spontaneously
+or are directed to do so in the context of experiments and field interventions.
+The role that distancing plays in enabling self-regulation has a long history in psychology (see
+Kross & Ayduk 2017 for a similar historical overview). Mischel was one of the first to speculate
+on the role that distancing plays in helping individuals grapple with intense emotions. He argued
+that creating psychological distance from the desirable features of tempting treats via distraction
+or abstraction allowed children to exert self-control in the classic delay-of-gratification paradigm
+(aka the Marshmallow Test; e.g., Mischel & Rodriguez 1993). More recent work on construal level
+theory has produced a large body of work consistent with Mischel’s claims by showing that more
+abstract mindsets and goal construals tip people’s decision making in favor of prioritizing longover short-term goals (Fujita et al. 2006).
+A similar insight is captured by Ury’s (1991) metaphor of “going to the balcony” in the context
+of negotiations: When facing a particularly frustrating moment during a difficult negotiation, it
+is helpful to adopt an attitude of a third-party observer watching the negotiation unfold from a
+balcony overlooking a stage. Ury argues that going to the balcony allows people to see the needs
+and goals of both sides more clearly and thus generates more mutually satisfactory solutions to
+deadlocks.
+In the clinical domain, Beck defined distancing as “the ability to view one’s own thoughts (or
+beliefs) as constructions of ‘reality’ rather than as reality itself” (Alford & Beck 1998, p. 142) and
+recognized it as an important preliminary step that clients achieve in order for cognitive therapy
+to be successful. More recently, the closely related concepts of decentering—observing one’s
+thoughts and emotions as passing mental events rather than direct readouts of an objective reality
+(see Bernstein et al. 2015 for review)—and perspective-broadening appraisals—seeing the bigger
+picture, recognizing that time heals all, and acknowledging the good with the bad (e.g., Schartau
+et al. 2009)—have been shown to play a key role in facilitating healthy self-reflection in a variety
+of contexts.
+The specific role that distancing plays in facilitating adaptive self-reflection has been studied in
+depth in the social-personality psychology domain (for review, see Kross & Ayduk 2017). In this
+line of work, researchers manipulate and assess peoples’ tendency to adopt a distanced perspective
+while reflecting on negative experiences and then measure an array of immediate and delayed outcomes. Across studies, researchers have linked the tendency to distance in this manner with lower
+levels of emotional reactivity, assessed subjectively and implicitly using physiological and neural
+measures. In this vein, a recent large-scale meta-analysis found that distancing was associated with
+a medium effect size (Hedges’s g = 0.518) for reducing self-reported negative emotions (Moran
+& Eyal 2022). The benefits associated with distancing are not, however, restricted to emotional
+reactivity. Distancing has also been linked with reduced cognitive accessibility of negative affect,
+intrusive ideation, and physiological stress reactions (e.g., blood pressure) relevant to physical
+health outcomes (Kross & Ayduk 2017).
+How does distancing lead to these beneficial outcomes? Although many techniques exist for
+enhancing this psychological state, at a broad level, a common mechanism underlies their benefits:
+They facilitate cognitive change, a process in which people reframe their negative experiences in
+ways that reduce their aversive qualities. As we elaborate on in the next section, although the
+specific form that such cognitive change takes may depend on both the type of distancing tactic
+used and the nature of the situation one is trying to reframe, by allowing people to step back
+from the emotional immediacy of the situation, distancing helps people change how they think
+about their circumstances in ways that ultimately improve the way they feel about them rather
+than leading them to simply relive the aversive feature of their negative experience over and over
+again—the defining feature of maladaptive forms of self-reflection such as worry and rumination
+
+
+
+
+
+
+#ob-notes
+#self-distancing
+#sledgehammer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# be around people looking to expand the pie
+
+At this point, I am so sick and tired of studies about "equality".
+
+As any good intellectual, I try to steel-man an argument and take the most charitable view of any argument about a complicated issue.
+
+However, I have come to realize that many complaints about "equality" are really resentments toward rich or successful people, but masquerading as a rigorous academic study.
+
+So many of these people don't *truly* care about inequality; they just hate that certain people are better off and have more. It's all just envy and jealousy.
+
+I care about equality of opportunity, but so many of these "studies" are fixated on equality of outcome - and the "outcome" is often defined subjectively and conveniently to paint certain "disadvantaged groups" as not having enough.
+
+I'm done. I want to hear from people who want to grow the pie, rather than come up with an "equal" way to divide the pie.
+
+
+#philsophy
+#quote
+#marginal-revolution
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# more like covid never forget: progressives had bad policies
+
+It's going to be fun to see absolutely no one of the globalists and progressives take responsibility for Europe's mass migration and destruction of the european society.
+
+They don't take credit for inflation, for the disaster of covid lockdowns, and they won't take credit for the invasion.
+
+They are like this
+
+
+
+#covid
+#never-forget
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# quote
+
+You do know that the stories going on in your head are not consistent with reality right?
+
+
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Creswell 2017 “Mindfulness Interventions”
 
 Mindfulness
