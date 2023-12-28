@@ -18652,6 +18652,373 @@ and remember salary transparency youtube video
 
 
 
+# Finding out that you were NOT the top candidate for a job after you get hired reduces feedback seeking through social integration ("my peers accept me in this role")
+
+Existing work on newcomer adjustment and socialization typically assumes that selected employees are the first choice for a role or job. However, this is not always the case. To address this oversight, we introduce and examine the phenomenon of alternate choices: Employees who are selected for a role but perceive or discover that they were not the first choice.
+
+I discover that I wasn't the top candidate when hired ->
+less social integration ("comfort around peers in this role") ->
+less feedback seeking
+
+hook - HOOK STARTING WITH IV, not DV
+Some individuals are hired as the first choice for a position, whereas others transition into their new roles as alternate choices: Employees who are selected by an organization but perceive or discover that they were not the first choice for the role.
+Despite the ubiquity of this phenomenon in orgs, scholarly insight is limited, especially for behaviors crucial to effectiveness in new roles, such as feedback seeking.
+New thing, which is relevant for this DV. What are the consequences of this new thing for this DV?
+
+contributions
+[people don't study this phenomenon, but they should]
+First, we illuminate the experience of perceiving or discovering that one is not the first choice for a role, an overlooked phenomenon in organizations. By doing so, we challenge prevailing perspectives on organizational socialization as most of this work focuses on individual differences or organizational factors after employees enter a role as antecedents of feedback seeking. Instead, we demonstrate that selection processes and decisions before entering a role also impact employees after starting their roles. 
+[incorporate social identity into feedback seeking literature]
+Prior work has treated social integration as an outcome of feedback seeking (Wanberg & Kammeyer-Mueller, 2000), but our theory and studies demonstrate that social integration also contributes to whether employees seek feedback or not. 
+
+theory
+[Not being the first candidate is a perception of falling short of perceived status]
+We conceptualize alternate choices as a perception of falling short of an achieved status, as it serves as a status marker derived from an inferior social position before employees enter into a role (Merton, 1958; Parsons, 1951). Falling short of an achieved status—such as winning the silver medal—can lead individuals to feel worse due to counterfactual thinking (i.e., what might have been; Medvec et al., 1995), but it is unclear how it affects subsequent work behavior, especially in organizations.
+[social integration and social identity]
+To understand how being an alternate choice impacts feedback seeking, we focus on its effects through social integration. Social integration refers to the extent to which employees feel comfortable developing relationships with colleagues (Jokisaari & Nurmi, 2009). Social integration relates to the fundamental need to belong, as individuals have a basic desire to form social relationships with others (Baumeister & Leary, 1995). Social identity theory provides a framework for understanding the effects of being an alternate choice on social integration, as it proposes that individuals derive a sense of self from their membership in social groups, including friends and groups (Tajfel & Turner, 1979). When individuals are excluded or rejected from a group, they believe that they are not valued or do not fit in the group, which has implications for well-being due to their fundamental desire to belong (Smart Richman & Leary, 2009). Drawing on social identity theory, we hypothesize that alternate choices experience less social integration, which reduces feedback seeking. 
+
+study 1
+Prolific recall between subjects, then answer questionnaires
+Describe a time when you were the first choice.
+Describe a time when you were the second choice. (randomly assign, between subjects)
+Rate social integration
+Rate feedback seeking
+Those who were told or discovered that they were the second choice rated lower social integration and lower feedback seeking
+
+study 2
+undergrads before starting internship, questionnaires
+[alternate choice]
+I got this job because someone else turned down the offer
+My organization did not consider me to be the top choice for this job
+There were people ranked ahead of me for this job
+Social integration
+Feedback seeking
+
+study3
+prolific kind of experiment but not behavioral. 
+Participants think they are going to be working as part of a 3 person team, and were selected based on ranking of some kind. never actually do
+
+
+beyond the first choice
+nurmohamed 2023
+
+
+#ob-notes
+#feedback-seeking
+#jap
+#new-construct
+#mimic-study
+
+
+
+
+
+
+
+
+
+
+
+
+# yet another study on help type (you did this for me vs you showed me how to do this)
+
+Consider an employee asking a colleague to help them with a work- related problem. In one scenario, the colleague provides the employee with the full solution to the problem at hand, leaving the employee dependent on the colleague’s assistance the next time a similar problem arises. In the second scenario, the colleague provides tools and explanations for solving the problem autonomously. These two different instrumental approaches to helping are termed dependency- and autonomy-oriented helping, respectively (Nadler, 1998, 2002).
+
+hook
+consider this scenario. it exemplifies what we examine.
+In this article, we unpack the largely neglected psychological process whereby followers grant informal leadership to others based on received help type. 
+
+help type of sender (gave me tools to solve these kinds of problems vs solved it for me) ->
+influences my perceptions of the benevolence of the sender & how much I trust him/her ->
+influences my support of sender's informal leadership
+
+theory
+[help type]
+Nadler 2002 proposed different help types but they haven't been explored. Teach a man to fish vs give a  man a fish.
+[Kramer how people view prospective leaders]
+Kramer 2011 followers' trust in a prospective leader is a function of two primary perceptions: perceived competence and perceived benevolance.
+
+They didn't really use an overarching theory, just a bunch of weird distinct ideas.
+
+bunch of small experiments + recall
+
+Benevolence measured from Mayer & Davis 1999
+"My teammate really looks out for what is important to me"
+
+
+experimental game:
+You have to decode an encrypted puzzle.
+Your experienced teammate can either tell you to secret code to do so (autonomy helping) or just give you the answer outright (dependency helping). 
+Measure perceived time and effort invested in help given to them
+Measure perceived helper's benevolence
+Measure perceived helper's ability
+Measure leadership support of sender
+"I would be a strong support for my helper's leadership"
+
+THEY ONLY USED ONE ITEM FOR EFFORT AND ONE ITEM FOR TIME
+
+give them a fishing rod, if it is not urgent
+chernyak-hai
+
+
+#ob-notes
+#jap
+#help-type
+#ocb
+#helpling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cognitive tests actually over rather than under predict for hispanic test takers
+
+challenging conclusions about predictive bias
+sacket
+zhang
+berry
+
+
+
+
+#ob-notes
+#selection
+#cognitive-ability
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+# How to ensure the benefits outweigh the costs in LMX situations
+
+LMX means a leader is super invested in a subset of subordinates but not invested in others (and these relationships are mutual / reciprocated). In meta analysis, Yu et al. (2018) showed that the effect of LMX on team performance was null because LMX entails costs as well as benefits. 
+
+LMX benefits team performance because investing in a select subset of social exchange relationships makes better use of the leader's limited personal resources.
+[christopher note]
+EVERYTHING ALWAYS COMES BACK TO RESOURCE SAVING. LIMITED TIME AND ENERGY.
+On the other hand, LMX negative effects team performance because it creates bad attitudes.
+
+
+LMX theory
+The notion that leaders develop differentiated relationships with employees is a pillar of leader–member exchange (LMX) theory (Liden et al., 1997). Specifically, LMX theory proposes that leaders invest additional personal resources (e.g., information, influence, and development opportunities; Graen & Scandura, 1987; Wilson et al., 2010) in and develop stronger social exchange relationships with a select set rather than all employees. These chosen employees then reciprocate in that social exchange relationship by contributing their personal resources toward helping the leader achieve their work- group goals (Dansereau et al., 1975; Graen, 1976; Graen & Cashman, 1975). Supporting these core tenets, research shows that 80%–90% of work units are differentiated in terms of LMX quality (Graen & Cashman, 1975; Liden & Graen, 1980).
+
+Basically their argument is that teams will perform well if leaders have high LMX along "task function" lines rather than irrelevant social identity lines, though they have no control group which compares A to B.
+
+The larger message is that LMX has positive and negative effects on team performance. High cognitive ability leaders are better able to tell who to develop sub relationships with in order to most effectively accomplish tasks on the team.
+
+
+do intelligent leaders differentiate exchange relationships
+matta
+frank
+farh
+lee
+
+
+
+#ob-notes
+#jap
+#teams
+#lmx
+#leader-member-exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# multiple team membership is not so bad, it is SWITCHING between multiple teams that makes people exhausted
+
+
+Individual MTM has typically been conceptualized as multi- teamers’ total number of team memberships (MTM number), without considering how regularly multiteamers shift their attention between different team contexts (MTM switching) or how multiteamers prioritize certain team memberships over others (MTM coreness). 
+
+Respondents with similar levels of MTM number differed substantially in MTM switching and coreness. 
+
+Most importantly, we found that the consequences of these three MTM characteristics may differ substantially. As in prior research, we initially found that MTM number predicted emotional exhaustion (cf. Berger et al., 2022; Pluut et al., 2014) moderated by team member familiarity (cf. Colicev et al., 2023; analysis available upon request). When we included MTM switching and MTM coreness in our models, however, MTM number no longer predicted multiteamers’ emotional exhaustion. Specifically, we found that MTM switching directly predicts an increase in multiteamers’ emotional exhaustion and their subsequent turnover from the organization. MTM coreness was associated with a decrease in emotional exhaustion and turnover, as expected, but only when multiteamers were highly familiar with the members of the teams they participated in.
+
+So, MTM switching, not number, is the big predictor of exhaustion and turnover intentions. 
+
+our MTM switching measure reflects the minimum number of times a respondent switched between teams per week. 
+
+hook
+MTM is popular in creative work.
+Scholarship is growing on the consequences of MTM.
+We need to step back and consider conceptualization. MTM could entail amount or switching. 
+We need to theoretically disentangle total number of team memberships, how often people shift attention between teams, and extent to which people prioritize one team over others.
+
+contributions
+Refine our definition of MTM.
+Integrate role of time into MTM.
+We provide practical knoweldge by showing when MTM leads to negative things.
+
+theory
+Describe MTM definitions and construct.
+Conservation of resources theory describes the consequences of MTM switching and coreness.
+We propose that MTM switching, rather than MTM number, represents the potentially negative and resource-draining aspect of MTM. Higher MTM switching implies that one frequently (rather than occasionally) moves back and forth between different team contexts. Accordingly, multiteamers need to readjust to multiple teams’ different work practices, social settings, and technologies (irrespective of the characteristics of these multiple teams; O’Leary et al., 2011). (a) relocate physically between team settings, (b) catch up with work that was done in their absence, (c) switch between specific tools and technologies, or (d) familiarize themselves with the norms and expectations of different teams (Bertolotti et al., 2015; Cummings & Haas, 2012; Mortensen et al., 2007; O’Leary et al., 2011). Compared with multiteamers who work more sequentially, those who switch more often may experience substantial resource losses because it takes much more time to finish each team’s assignments (Leroy, 2009). Consequently, these multiteamers may fail to realize antici- pated resource gains within each of their teams (e.g., acquire skills, meet performance criteria, and establish positive relationships; Hobfoll, 1989) and face substantial resource losses because they have too much to do and not enough time to do it (Perlow, 1999).
+
+On the other hand, MTM coreness (prioritizing one team over others) allows people to optimally use their time and ignore issues of switching.
+
+
+
+study
+Knowledge workers in a company
+Look at org charts and scheduling 
+more switching = greater exhaustion and greater likelihood of turnover
+
+
+#ob-notes
+#jap
+#mtm
+#switch-costs
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# how many issues should you negotiate in a negotiation?
+
+On the one hand, more issues means greater potential for integrative agreements. On the other hand, more issues means more information load and complexity.
+
+They meta analyze studies to show that more issues is better up to a threshold (3). Any more and you start to deal with too much information.
+
+
+expanding the pie or spoiling the cake?
+warsitzka, zhang, beersma
+
+
+#jap
+#ob-notes
+#negotiations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# double edge sword of psych ownership at work: it leads to territoritality
+
+
+All prior studies focus on the positives of psych ownership ("I feel high degree of ownsership for job"). We predict that there are also negatives: territoritality "I let others know that X is mine" and less information sharing, therefore leading to reduced job performance.
+
+
+hook
+Nearly all studies of psychological ownership suggest that it leads to positive outcomes like extra-role behaviors. However, people with strong ownership over things may exhibit excessive, competitive control and avoid sharing. Therefore, we develop theory on both the positive and negative consequences of psychological ownership. 
+
+contributions
+First, broaden our understanding of psych ownership. Introduce double edged sword.
+Second, we establish how psych ownership relates to various forms of territoritality (mediator).
+Third, we integrate territoritality (mediator) with COR theory to predict distal outcome. 
+
+theory
+COR theory
+Ownership leads to a natural tendency to protect or enhance the owned resources (Hobfoll, 1989; McDougall, 1923), which represent both ends in themselves and means to acquire more resources (Hobfoll, 1989; Xanthopoulou et al., 2007). People strive to protect and foster resources they value (Hobfoll, 1989, 1998, 2011), so when they confront potential losses, they attempt to protect resources. For example, if an employee senses ownership of a job, it represents a resource, which the employee wants to protect and leverages to perform required job tasks.
+
+[christopher note]
+Some people use COR theory as a "resource time constraints" theory, where they say people only have limited time and energy, so taking energy or time is draining and exhausting. Other people use COR as "people are protective of their resources and want ownership."
+
+
+psych ownership
+->
+territoritality
+->
+information sharing + performance
+
+
+
+feeling possessive, performing well?
+chen, lee, lin, brown
+
+#jap
+#ob-notes
+#psychological-ownership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # happiness chemicals
