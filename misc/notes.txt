@@ -14736,6 +14736,124 @@ Take away
 
 
 
+# approach avoid seems to be the same as promotion prevention
+
+Yet another study showing that approach vs avoid orientation (desire to achieve, desire to avoid bad) is an individual difference that predicts workplace outcomes.
+
+Approach orientation predicts both implicit and explicit knowledge sharing ("I share my experience or know how with colleagues" and "I share official documents with colleagues" , respectively). 
+
+Avoid orientation is negatively related to implicit KS, and has no relationship with explicit KS.
+
+[christopher note]
+Approach avoid
+Performance prove
+Achieve threat
+Promotion prevention
+This individually difference should always be measured. Seems to be IO and OB's biggest individual difference. 
+
+hook / argument / contribution
+past research on why people share explicit vs implicit knowledge has focused on cognitive mechanisms. We instead focus on motivation -> behavior -> performance model, or we extend reasoning to understand the behavioral mechanisms underlying these relationships [even though they use a survey to measure those behaviors]. 
+
+Past research has noticeably used cognitive mechanisms to explain the relationships of approach and avoidance motivation orientations with innovative performance. Extending this line of research and using the traditional “motivation → behavior → performance” model (e.g., Terborg & Miller, 1978), we study behavioral mechanisms underlying these relationships. This is important for two major reasons. First, motivation is also related to behavioral activities (Kanfer et al., 2017), which can offer a more complete understanding of these relationships. Second, although people’s cognitions help them form their attitudes toward innova- tion, process knowledge, and persevere at innovative tasks, innova- tive performance also involves actions and behaviors, which entail people to recognize, generate, promote, and apply new ideas or solutions (Scott & Bruce, 1994; Wu et al., 2014). Thus, our study examines how employees’ approach and avoidance motivation orientations lead to behaviors that influence innovative performance.
+
+am I motivated to share knowledge for better innovative performance?
+lin, lu, ozer, tang
+
+
+#ob-notes
+#jap
+#prevention-promotion
+#goal-orientation
+#approach-avoid
+#learning-orientation
+#motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# within person variability as a trait
+
+This is not a study about within person personality. It is a study about within person variability as a trait. It is about the SD of someone's personality distribution. 
+
+[Whole trait theory: people's personalities are distributions.]
+The perspective that personality includes both stable and variable components has been described more formally in Fleeson’s Whole Trait Theory (2001). According to Whole Trait Theory, personality traits can be conceptualized as density distributions of states, in which personality states are seen as momentary, situation-specific expressions of traits (Fleeson, 2001). Not only the mean level of this distribution but also the level of variability can be seen as an important individual difference variable (i.e., stability in variability; Fleeson, 2001; Fleeson & Jayawickreme, 2015). As such, this within-person personality variability does not represent merely random fluctuations, but rather describes regularities in how much an individual’s behavior varies over time.2 Importantly, there are substantial interindividual differences in individuals’ responsiveness to varying situations, and hence in levels of within-person personality variability (Fleeson, 2001).
+
+
+[whether variability in within person personality is good or bad depends on construct and mean levels]
+For example, high variability in Emotional Stability (ES) for individuals that tend to be emotionally stable overall (i.e., high trait ES) may be seen as appropriate sensitivity to relevant situational cues, whereas high variability in Emotional Stability for individuals that tend to be emotionally unstable overall (i.e., low trait ES) may be regarded as erratic and capricious behavior. Thus, taking into account the moderating role of mean-level personality in the current study may lead towards a more profound understanding of how and why personality variability may or may not be equally (mal)adaptive for everyone.
+
+Using an item response theory (IRT) approach they found that within-person variability in personal initiative (which overlaps with Extraversion and Conscientiousness; Warr & Fay, 2001) accounted for incremental variance in predicting contextual performance (i.e., helping colleagues) above and beyond mean scores, such that individuals with higher self-reported variability in personal initiative received higher supervisor-ratings of performance (r = .34).
+
+[whether variability in within person personality is good or bad also depends on rater]
+Self rated variability = adapting to environments
+Other rated variability = sporadic and neurotic and unpredictable
+
+Beckmann et al. (2020) recently found that other-rated within-person variability in Neuroticism (represented by individuals' relative variability index [RVI] on a trait personality measure; Mestdagh et al., 2018) was negatively associated with other-ratings of job performance (r = -.25). In a similar vein, using experience sampling methodology (ESM), Côté et al. (2012) reported less positive interpersonal relationships at work for employees showing high variability (defined as the within-person standard deviation [SD]) on a set of interpersonal behaviors (e.g., Agreeableness, dominance). 
+
+within-person personality variability in the work context
+abrahams, vergauwe, de fruyt
+
+
+#ob-notes
+#jap
+#personality
+#whole-trait-theory
+#within-person
+#variability
+#behavioral-consistency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # matthew crawford
 
 Tokville when he went around America was very impressed with people when he made the observation that, "it is in these every activities, practical activities requiring cooperation among the American people (farmer's markets, coordinated driving with no street signs, helping neighbors with housing stuff) that the Democtratic character is formed -- the ability to work things out among ourselves."
