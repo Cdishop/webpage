@@ -10750,6 +10750,44 @@ I like the science way. Here is a thing. What are some mechanisms that could gen
 
 
 
+# LLMs and imagination / memory
+
+imgs/llms-memory
+
+Imagine you take someone's work and you compress it into zip format. You do this for countless other original works and add them to the zip file. You then query the zip file with a question and sel the output as being yours. Can you now understand why this is unethical?
+
+Imagine you read someone's work and remember the information within. You do this for countless other original works and add them to your memory. You write down your understanding based on the knowledge gained and sell the writing as being yours. Can you now understand why this is ethical?
+
+#llms
+#llm
+#chatgpt
+#quote
+#philosophy
+#phil-of-science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
