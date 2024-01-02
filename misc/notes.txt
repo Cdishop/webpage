@@ -256,6 +256,7 @@ I've never seen a dodgeball instructor up close before.
 (b) misdirect
 
 "clearly used for"
+"When you are in New York, you view New York as the center of the world. When you are in Nebraska, you view New York as the center of the world." 
 
 (c) push pull
 
