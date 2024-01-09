@@ -29748,6 +29748,495 @@ keywords
 
 
 
+
+
+
+# bartel-2001-social-comparisons-in-boundary-spanning-work-effects-of-community-outreach-on-members-organizational
+
+Employees who report greater identification with their coworkers receive greater scores of interpersonal cooperation from their supervisors. 
+
+Individualswho identify strongly with their work organization tend to perceive a heightened sense of group-based trust and reciprocity,which can lead them to adopt cooperative orientations with other members (Kramerand Brewer, 1986; Kramer,1991). Kramer(1993) noted that much of the research on cooperation utilizes labo- ratoryexperiments designed to simulate cooperation dilem- mas commonly found in organizations. Greater emphasis is placed on specific types of collective-action problems (e.g., resource allocation, decision making) than on more mundane forms of interpersonal cooperation common in organizational settings. In contrast, field studies of organizational identifica- tion have examined cooperation with the focal organization, such as financial contributions and participation in organiza- tional activities (Mael and Ashforth, 1992; Bhattacharya, Rao, and Glynn, 1995), but not cooperation between members.
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# bottom-et-al-2006-building-a-pathway-to-cooperation-negotiation-and-social-exchange-between-principal-and-agent
+
+Two lab experiments on negotiation and social exchange.
+
+Emerson (1976: 336) defined social exchange theory as a “frame of reference” regarding “actions that are contingent on rewarding reactions from others.”
+
+Social exchange theory encapsulates the special case of mar- ket exchange studied by economists, exchange that is “car- ried out under special circumstances and with a most useful built-in numerical measure of value” (Homans, 1958: 598). The theory has developed through the cumulative contribu- tions of anthropologists (Boas, 1910; Malinowski, 1922; Mauss, 1954; Otterbein and Otterbein, 1965; Lee, 1979; Boehm, 1984; Kent, 1993), sociologists (Blau, 1955; Homans, 1958; Gouldner, 1960; Emerson, 1976), and social psycholo- gists (Thibaut and Kelley, 1959; Jones, 1964; Adams, 1965; Kelley et al., 2003) who adopted the view that social interac- tion “is an exchange of goods, material goods but also non- material ones, such as the symbols of approval or prestige. Persons that give much to others try to get much from them, and persons that get much from others are under pressure to give much to them” (Homans, 1958: 606).
+
+This study tests the constrast between social exchange theory and agency theory (agency theory applies an operant conditioning lens to social exchange theory). 
+
+It appears that there are two distinct pathways to motivating an agent to provide high effort. One approach, consistent with agency theory, is to provide a sufficiently high level of incentive bonus. 
+
+Most of the participants in this experiment took a second and quite different approach. This second pathway appeared to rely on the interpretation of the fixed wage as a “gift” from the principal to the agent, an expression of benevolence that obligated the agent to reciprocate. Effort varied with the size of the fixed wage. The fixed wage affected the agent’s per- ception of the principal’s benevolence. The principal’s deci- sion to choose the first or the second pathway varied with trust in the agent. Principals who trusted the agent were more likely to choose the second pathway. They did not negotiate a bonus that provided a sufficient monetary incen- tive for agents to provide high effort. Yet by securing high agent effort without distorting risk sharing, they also attained a level of efficiency exceeding the second-best solution of agency theory.
+
+Perceptions that the principal was benevolent were influ- enced by more than just the fixed wage. Aspects of the ver- bal communication between principal and agent, the total number of words exchanged, and the friendliness of those words (as rated by a neutral observer) were positively related to perceptions of benevolence. 
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christian-et-al-2014-dynamic-associations-among-somatic-complaints-human-energy-and-discretionary-behaviors-experiences
+
+Using data from two experience-sampling studies, this paper investigates the dynamic relationships between discretionary behaviors at work—voluntary tasks that employees perform—and internal somatic complaints, focusing spe- cifically on a person’s pain fluctuations. Integrating theories of human energy with evidence from the organizational, psychological, and medical sciences, we argue that pain both depletes and redirects the allocation of employees’ energy. We hypothesize that somatic pain is associated with depleted resources and lowered work engagement, which in turn are related to ebbs and flows in discretionary behaviors, but that people will habituate to the nega- tive effects of pain over time.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cote-miners-2006-emotional-intelligence-cognitive-intelligence-and-job-performance
+
+Examining the predictors of organizational citizenship behavior (a type of job performance) -- specifically emotional intelligence and cognitive ability.
+Emotional intelligence and cognitive ability are compensatory (they moderate one another when predicting OCBs). 
+
+OCBI in large part focuses on helping others (rather than org directed citizenship). 
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Currall-AdministrativeScienceQuarterly-1988
+
+review of organ's organizational citizenship behavior book.
+Organ is all about the DV side (performance) when trying to understand the satisfaction-performance link.
+The reviewer notes that organ is never clear about his overall model. What are the predictors, mediators, and DVs?
+Instead of presenting a model, he is simply saying that "performance" is a big construct made up of more than just task performance.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# detert-et-al-2013-voice-flows-to-and-around-leaders-understanding-when-units-are-helped-or-hurt-by-employee-voice
+
+OCB is important for collective performance.
+
+In two studies, we develop and test theory about the relationship between speaking up, one type of organizational citizenship behavior, and unit performance by accounting for where employee voice is flowing.
+
+Results demonstrate that voice flows are positively related to a unit’s effectiveness when they are targeted at the focal leader of that unit—who should be able to take action—whether from that leader’s own subordinates or those in other units, and negatively related to a unit’s effectiveness when they are tar- geted at coworkers who have little power to effect change.
+
+
+THIS WAS MY COMPUTATIONAL MODELING PAPER ARGUMENT, BUT INSTANTIATED IN A FIELD STUDY RATHER THAN A SIMULATION. 
+When you voice an issue to someone who can actually create change, then org performance increases.
+When you voice an issue to someone who cannot effect change, then nothing happens. Org performance does not improve. 
+
+christopher study
+- given simulation and voice flows, how do people actually behave? When given the chance, do they help high performers or low performers?
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# dukerich-et-al-2002-beauty-is-in-the-eye-of-the-beholder-the-impact-of-organizational-identification-identity-and-image
+
+Org identification (how I view my org and how i believe others view my org) relates to my cooperative behaviors. 
+
+Severaltheorists have arguedthat a consequence of identifi- cationwith a groupor organizationis the creationof an ingroup-outgroupdistinction(Tajfeeltal.,1971;Ashforthand Mael,1989;Kramer1,991).AsKramer(1991)suggested, social identificationresults in a bias toward in-groupmem- bers (i.e., members of a groupwith which one identifies)and cohesion among group members. Accordingto Dutton, Duk- erich,and Harquai(l1994:254-255), this cohesion "makes cooperativebehaviortowardotherorganizationamlembers
+likely."When individualsidentifystronglywith an organiza- tion, they are likelyto consider those behaviorsthat benefit the organizationas also benefitingthemselves. Giventhat individualseek those organizationswhose identitiesthey consider attractive(allthings being equal),they may enhance their self-concepts by enhancingthe identityof the organiza- tionthroughtheirbehaviors.Cialdinaindhisassociates (Cial- dinietal.,1976;CialdinaindRichardson,1980;Cialdinaind De Nicholas,1989) have demonstratedthat individuals attempt to enhance their own image by associating them- selves with a successful other (termed basking in reflected glory).Basedonindividualsd'esiretobaskinreflectedglory, they will more closely identifywith organizationsto the extent that they believe others see the organizationas wor-
+Itfollows, then, that members serve them- organizational
+themselves by servingthe organization.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Farh-ImpetusActionCultural-1997
+
+OCB organ opening paragraph. Citizenship behaviors are important at ASQ.
+
+Although an organization may increase its competitiveness through a multitude of means, Western scholars have in- creasingly emphasized the importance of employee actions that are not specifically designated in their formal job duties, or organizational citizenship behavior. Organ (1988: 4) de- fined organizational citizenship behavior as "individual behav- ior that is discretionary, not directly or explicitly recognized by the formal reward system, and that in the aggregate pro- motes the effective functioning of the organization"; it in- cludes actions such as aiding one's coworkers, punctuality and attendance that exceeds company norms, or voluntary assumption of ad hoc duties (Van Dyne, Graham, and Dien- esch, 1994). Except for studies devoted to the refinement of an organiza- tional citizenship behavior measure (e.g., Podsakoff et al., 1990; Van Dyne, Graham, and Dienesch, 1994), the extant literature on citizenship behavior has focused primarily on
+the various determinants of citizenship behavior and its rela- tionship to variables in a nomological network. Despite the voluminous and fruitful literature stemming from Organ's (1988) seminal work in this area, we know little about citi- zenship behavior in a global context.
+
+
+Organizational justice appears to be a key determinant of citizenship behavior and related outcomes such as satisfac- tion and commitment (Folger and Konovsky, 1989; Moor- man, 1991), and it reflects both the fairness of outcomes as well as procedures used in their allocation (Lind and Tyler, 1988). The citizenship behavior literature has focused on the fairness of outcomes (e.g., pay) received by an employee and the procedures used to determine those outcomes (Moorman, 1991). Findings suggest that if both job satisfac- tion and organizational justice are used to predict citizenship behavior, justice typically shows a stronger relationship
+
+
+Further, concepts of justice are known to vary according to people's cultural values.
+What role, then, do individual differences in cultural values play in determining what citizenship behavior is and how it relates to organizational justice?
+
+For employees who hold less traditional values, the relationship between justice and citizenship behavior will be stron- ger than for more traditional employees.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# goldstein-et-al-2012-reciprocity-by-proxy-a-novel-influence-strategy-for-stimulating-cooperation
+
+Cooperation is important at ASQ.
+
+Cooperation is the cornerstone of organizational efficiency and productivity. To achieve organizational goals, employees must be able to effectively solicit cooperation from one another, and the organizations they work for must be able to attain cooperation from a wide array of parties, including their custom- ers, partner organizations, and personnel. One of the central drivers of organiza- tional cooperation is the norm of reciprocity, the societal rule that obligates individuals to repay gifts, favors, and services that have been performed for them (Mauss, 1954; Gouldner, 1960; Blau, 1964; Regan, 1971; Emerson, 1976; Cialdini, 2009).
+
+Most studies focus on direct reciprocity. We study reciprocity by proxy in a "reuse hotel towels" context. 
+
+the reciprocity-by-proxy strategy elicits in the target a sense of indebted- ness to benefactors by providing benefits to a valued third party on behalf of the target (e.g., first making a donation to a charity on behalf of one’s employ- ees and then later asking employees to comply with a request).
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Personality, Organizational Culture, and Cooperation_ Evidence from a Business Simulation
+
+Wegeman's idea of cooperation (in contrast to OCBs). Cooperative behavior is a function of both the person (personality) and environment (culture, reward system, etc.). 
+
+Workplace cooperation has been conceptualized as the willful contribution of employee effort to the successful completion of interdependent organizational tasks (Wagner,
+1995: 152). Cooperative behavior is often manifested in members' willingness to work with others, even when it is not formally demanded, and in preferences for being rewarded for working alone or in groups (e.g., Wageman, 1995). Identifying the conditions under which members are likely to display cooperative behavior is difficult, however, since cooperative behavior can be influenced both by personality, or one's tendency to pursue individualistic or collective goals (e.g., McClintock and Liebrand, 1988), and by formal and informal control systems that reward individual achievement or cooperative efforts (e.g., Petersen, 1992). Further, understanding cooperative behavior not only
+requires knowledge of an individual's propensity to
+cooperate and the situational inducements to cooperate, but also how these factors combine. Our objectives in this study are to add to research that clarifies the conditions under which we should and should not expect to predict behavior from personality and to increase our understanding of the sources of cooperative behavior in organizations. We examine people's disposition to cooperate and the organizational culture in which they act as relevant personal and situational characteristic
+
+ We found that cooperative subjects in collectivistic cultures were rated by coworkers as the most cooperative; they reported working with the greatest number of people, and they had the strongest preferences for evaluating work performance on the
+basis of contributions to teams rather than individual achievement.
+
+Since a collectivistic organizational culture rewards members for cooperating with others in meeting organizational objectives, people with a disposition to cooperate are likely to demonstrate well-practiced cooperative behaviors in this context, such as working with others rather than alone, and expressing preferences for rewards that are based on team accomplishments. In contrast, since an individualistic organization rewards individualistic members for focusing on their own work, individualistic people are most likely to demonstrate well-practiced individualistic behaviors in this context, such as working alone rather than with others, and expressing preferences for rewards that are based on individual accomplishments.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Cohen, Levinthal, & Warglien "Collective performance: modeling the interaction of..."
 
 A paper about creating a formal model of the sequences of actions people take in organizations. Can't make heads or tails of it. Very abstract. Something about "actions coordinate in some way," but I can't follow their definitions. 
