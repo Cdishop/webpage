@@ -18654,6 +18654,69 @@ In fact, many of the smartest young people I know are deciding against a career 
 
 
 
+# TMS argote
+
+TMSs is a newer concept than the concept of routines. The concept of TMSs was developed by Wegner (1987) to characterize the sort of specialization that occurs between individuals in close interpersonal relationship, where one partner might be responsible for remembering and doing certain things and the other partner for remembering and doing others. This memory specialization provides a basis for coordination and enables the couples to perform tasks more efficiently.
+
+Wegner, Erber, and Raymond (1991) who imposed a division of labor on existing dyads and on newly formed dyads. The researchers found that the imposition of a division of labor hurt the performance of existing dyads, where members had already learned who was good at what and had worked out the division of labor that best fit their knowledge and skills. The imposed division of labor did not fit their knowledge and skills as well as the one they had developed through experience interacting. By contrast, the imposed division of labor helped the performance of new dyads, where members had not already learned who was good at what nor worked out their own division of labor.
+
+A transactive memory system (TMS) is a collective system for encoding, storing, and retrieving information in social systems (Lewis & Herndon, 2011; Wegner, 1987). Known as systems of “who knows what,” a transactive memory system provides individuals access to more information than they individually possess. A TMS has two components: the specialized knowledge that resides in the minds of individuals and the transactive processes that link individuals and enable them to coordinate their specialized knowledge and skills (Wegner, Giuliano, Hertel, & Ickes, 1985). Transactive memory systems enable groups and organizations to match tasks to the most qualified member. Further, TMSs enable members to know whom to consult for advice in various areas.
+
+Development / Manipulation
+
+Imposing division of labor on already existing TMS teams is bad. They already have a coordinating system in place.
+Imposing division of labor on new dyads can be useful. 
+
+The concept of TMSs was extended to the group level by Liang, Moreland, and Argote (1995) in a laboratory study. The researchers manipulated TMSs by training half of the groups together and half of the groups individually to assemble radios. Groups returned one week later to assemble a radio. Measures of TMSs indicated that groups with members who had trained together had a stronger TMS than groups composed of members who had trained apart. Groups with members who had trained together had better recall and made fewer errors than groups with members who had trained apart.
+
+Moreland, Argote, & Krishnan, 1996
+Training for team building does nothing.
+Being around one another so I can learn what you are good and bad at is useful, what you are skilled and unskilled in, what knowledge you do and do not have. The teambuilding exercise was designed to increase members’ familiarity with each other but to be unrelated to the performance task so members would not have opportunities to learn about each other’s task-relevant knowledge. Results indicated that groups whose members trained together performed significantly better than groups whose members trained individually, as well as groups whose members trained individually but had opportunities to become familiar with each other through a team-building exercise, and also groups whose members trained in one group and performed in another (Moreland et al., 1996). Further, the latter three conditions did not differ significantly from each other. Consistent with the design that provided only groups that trained and performed in the same group opportunities to learn about members’ taskrelevant knowledge and skills, groups that trained and performed in the same group had stronger transactive memories than the other conditions, which explained their better performance.
+
+Transactive memory systems form through several mechanisms. Learning is a key mechanism. From training or working together, members learn who is good at what, which enables the development of TMSs (Liang et al., 1995). Rewards for learning about others. Communication among members. 
+
+#ob-notes
+#tms
+#transactive-memory
+#argote
+#caring
+#ai-caring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # wang et al 2013, "can't get it out of my mind"
 
