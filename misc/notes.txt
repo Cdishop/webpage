@@ -15777,7 +15777,17 @@ keywords
 
 
 
+# speaking up vs being heard
 
+Voice leads to negative outcomes for the employee (low performance ratings, involuntary turnover) when the recipient disagrees with the voice. 
+
+This paper contributes to research on the outcomes of employee prosocial voice to managers by focusing on the relationships between voice and two managerially controlled outcomes: managerial performance ratings and involuntary turnover. Past research has considered voice from either the managerial or subordinate perspective individually and found that it can lead to positive outcomes because of its improvement-oriented nature. However, others have argued that voice can lead to unfavorable outcomes for employees. To begin resolving these competing perspectives, we examine agreement and disagreement between employees and their managers on the extent to which employees provide upward voice, proposing and demonstrating that considering either perspective alone does not fully capture how voice is related to employee outcomes. Findings from a study of 7,578 subordinates and their 335 general managers within a national restaurant chain indicate that agreement between employees and managers that employees display a high level of voice leads to favorable outcomes for employees. Our findings then extend existing research by showing that supervisor–subordinate disagreement around voice also helps explain employee outcomes—namely, how negative outcomes arise as a result of employees overestimating their voice relative to their managers' perspective and how positive outcomes result when employees underestimate their upward voice.
+
+#voice
+#ob-notes
+#jap
+#org-science
+#amj
 
 
 
