@@ -38203,6 +38203,41 @@ A basic model for achieving cooperation is the inducement-contribution model (Ba
 
 
 
+
+# knowledge hiding is partly a function of perceived professional norms
+
+In a given profession, I look to how the respected and high status individuals are behaving. I copy their knowledge hiding (and other) behaviors. 
+
+To Share or Not to Share? Professional Norms,
+Reference Groups, and Information Withholding
+Among Life Scientists
+
+#ob-notes
+#amj
+#org-science
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Podsakoff et al., "what predicts within-person variance"
 
 Decisions about what to study (construct type), how to study it (measurement and design characteristics), and from whom to obtain the data (sample characteristics) predict the proportion of variance attributle to within-person factors. 
