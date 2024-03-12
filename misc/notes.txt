@@ -24815,6 +24815,79 @@ I should write a paper about this. Thinking about prediction errors. A useful id
 
 
 
+# declarative and procedural and insider knowledge
+
+
+
+Declarative knoweldge -- knowing what or that
+
+What are the core constructs in organizational psychology?
+What does expectancy theory predict?
+
+[insider knowledge]
+
+Cohen's writing about the language of a field.
+What topics do the gatekeepers find worthwhile vs worthless?
+What are the personalities and political tendencies of the gatekeepers?
+
+
+Procedural knowledge -- knowing how
+
+How does a graduate student start and finish a research project in the field of organizational psychology?
+
+
+
+
+What do these effect?
+
+Strategy selection
+Attention
+Execution
+Decision making
+Tactical behavior
+
+
+
+Age
+AI
+
+AI can't give you insider knowledge.
+It can give you declarative knowledge.
+It can give you procedural knowledge outlines but not the experience itself. 
+
+
+
+#declarative-knowledge
+#knowledge
+#ai
+#intelligence
+#marginal-revolution
+#learning
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Heckman & Moktan, 2020
 
