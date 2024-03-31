@@ -28701,6 +28701,79 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# real perspective taking. actions
+
+the difference
+A:
+This is cool! 
+B:
+They find that cognitive ability tests on cell phones are inherently biased. I bet self-selection is the simpler/alternative answer: people with low cognitive ability are those most likely to use cell phones when given the choice of how to take the test. Thus, the pool of people is lower in cognitive ability to begin with.
+C:
+Study results: working on multiple teams is taxing/exhausting/counterproductive not when someone works on many, many teams but when someone has to switch from one context to a completely unrelated context. Switching between vastly different teams, not existing on many teams alone, accounts for the exhaustion. 
+
+
+the difference
+A:
+Rick, can you email HR and let them know you signed off?
+B:
+Rick, you need to email HR (emailaddress) the following:
+SUBJECT: Letter for C Dishop
+BODY: I am approving ...
+
+perspective taking skill. 
+Not perspective taking. "I put myself in other peoples' shoes"
+Not perspective getting. "I spoke with somemone about their preference." 
+
+
+#christopher-theory
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shared calendars or doing your reminding for you...
+- Anita: let's create a shared task calendar so you can prompt me when i need things
+- Christopher: you should have your own priority list and I shouldn't have to make your calendar for you
+#anita
+#anita-issues
+#ob-notes
+
+
+
+
+
+
+
+
+
 # Botstein 2018 "Stop the generational moralizing: to defend free speech"
 
 
