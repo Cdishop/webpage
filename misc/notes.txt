@@ -39703,6 +39703,66 @@ keywords
 
 
 
+
+
+
+
+
+
+# ob science temporal articles
+
+
+The first paper applies what I would call a "marketing angle" to whistle-blowing.
+
+In marketing:
+Your message can be more persuasive if you fit your advertisement with the observer's construal level (abstract with abstract. concrete with concrete).
+
+Similarly, in leadership:
+Your leadership speech can be more accepted and effective if you fit your communication with your observer's construal level (e.g., use abstract goal setting language when people are far but specifics when people are near). 
+
+Applied to whistle-blowing:
+Whistle-blowers first think abstractly about their situation (at this stage, top management values will be considered) and then think specificly about actions they might take to whistle blow (at this stage, they consider specific policies at the workplace). 
+
+
+This stuff would be relevant for us if we ran an additional study looking at how meeting leaders could effectively communicate their ideas within a meeting. 
+
+
+
+
+The second paper doesn't focus on cognition. Nothing about abstract thinking or the like. The basic argument is... when my team works across time zones, it becomes harder for us to meet, chat, and work synchronously due to the temporal distance between us. Therefore, when things get demanding and I really need to speak synchronously with my team, I will have to do so outside my normal work hours (time shift). 
+
+
+Bridging the Chasm Between Intentions and Behaviors:Developing and Testing a Construal Level Theory of InternalWhistle-BlowingAbhijeet K. Vadera,a,* Ann E. Tenbrunsel,b Kristina A. Diekmann
+
+
+Working Around the Clock: Temporal Distance, IntrafirmCommunication, and Time Shifting of the Employee WorkdayJasmina Chauvin,a,* Prithwiraj Choudhury,b Tommy Pan Fang
+
+
+#ob-notes
+#org-science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # anderson kenneth
 
 great writing on cross lagged panel models
