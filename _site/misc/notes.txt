@@ -160,6 +160,18 @@ What did you learn about...
 What do you think X has added to your life?
 
 
+(f) david brooks questions
+
+Tell me about the last time ...
+What crossroads are you at?
+What is this chapter of your life about?
+What would you do if you weren't afraid?
+What talent do you have that you are not using?
+
+Questions about commitments, talents, ancestry
+
+
+
 
 #social-animal
 
@@ -256,11 +268,13 @@ I've never seen a dodgeball instructor up close before.
 (b) misdirect
 
 "clearly used for"
+"When you are in New York, you view New York as the center of the world. When you are in Nebraska, you view New York as the center of the world." 
 
 (c) push pull
 
 "staring at that phone. half of me thinks you must be reading a profound article. and the other half of me thinks you have no self control"
 "comfortable clothes. You must make up for your uncomfortable personality by wearing comfortable clothes."
+"you look like you take more than you give in a relationship"
 
 (d) goofy
 
@@ -5145,6 +5159,52 @@ Optimism is related to 11 to 15% longer lifespan and to greater odds of achievin
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# Kat Williams
+
+Ask people what X did for their life?
+
+What did cocaine do your your life?
+What did Rick do for your life?
+
+All these addicts, none of them could tell a great story of how cocaine changed their life for the better. They had no response to the question, what did cocaine do for your life? All of them said, I had my life together, then I decided to do this dumb thing and it screwed me. 
+
+Cultivating a friend will give you a great story. 
+
+To assess whether something is worthwhile, ask what X will do for your life.
+
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Lu, Nisbett, & Morris, 2020 “Why East Asians but not South Asians are underrepresented in leadership positions “
 
 East Asians were less likely than South Asians and whites to attain leadership positions, whereas South Asians outperformed whites. The leadership attainment gap between East Asians and South Asians was consistently explained by cultural differences in assertiveness, but not by prejudice or motivation.
@@ -7991,6 +8051,25 @@ Also, the size of one's preferred locations set correlates with the number of he
 
 
 
+# male female differences in disease prevalence
+
+images/male-female-disease.jpeg
+
+Auto-immune and inflammatory diseases and anxiety disorders more common in females.
+Cancers and autism more common in males. 
+
+#sex-differences
+#male-female
+#disease
+
+
+
+
+
+
+
+
+
 
 
 # Eichstaedt et al., 2018 “Facebook language predicts depression…”
@@ -8491,6 +8570,40 @@ negative affect high arousal due to negative event (supervisor BLM)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# the real way to do admisssions
+
+Instead, Penn should set a standardized test score floor and then randomly choose its admittees from the pool of applicants meeting that requirement.  That’s it; that’s the application process.  Setting a floor helps make sure the matriculating class has the requisite cognitive ability to succeed but otherwise limits concerns about ideology being privileged over academic merit.  Random selection (as opposed to just taking the highest test scores) recognizes that standardized tests may be too blunt to make fine distinctions among students and generates a campus population that approximates the population of smart young adults along many more dimensions than we currently consider.
+
+https://marginalrevolution.com/marginalrevolution/2024/02/random-admissions-above-the-bar.html
+
+#ob-notes
+#selection
+#academia
+#cognitive-ability
+#sat
+#act
+#marginal-revolution
+#random
 
 
 
@@ -10458,6 +10571,53 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+# laughter and death
+
+Ability to laugh across species correlates with awareness of death
+
+#williamson
+#edge
+#laughter
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # The limits of intuition
 
 Brian Eno
@@ -10660,6 +10820,44 @@ I like the science way. Here is a thing. What are some mechanisms that could gen
 
 #edge
 #explanation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# LLMs and imagination / memory
+
+imgs/llms-memory
+
+Imagine you take someone's work and you compress it into zip format. You do this for countless other original works and add them to the zip file. You then query the zip file with a question and sel the output as being yours. Can you now understand why this is unethical?
+
+Imagine you read someone's work and remember the information within. You do this for countless other original works and add them to your memory. You write down your understanding based on the knowledge gained and sell the writing as being yours. Can you now understand why this is ethical?
+
+#llms
+#llm
+#chatgpt
+#quote
+#philosophy
+#phil-of-science
+
 
 
 
@@ -13013,6 +13211,30 @@ and whether in the traditional or gig workplace.
 
 
 
+
+# many successful youngsters are movie stars who benefited from tiktok at the right time. they did not invent anything. 
+
+All of these wealthy millenials and gen z'rs are mistaking how they made their money. They made their money from tik tok, youtube, and social media -- in other words, through a pretty face. They did not build anything. They did not create. They are movie stars but in the modern movie dimension of social media. The are not entrepeneurs. 
+
+#social-trends
+#christopher-thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # loss aversion and credentialism kills innovation
 
 Collective Action Kills Innovation
@@ -14669,6 +14891,124 @@ Take away
 
 
 
+# approach avoid seems to be the same as promotion prevention
+
+Yet another study showing that approach vs avoid orientation (desire to achieve, desire to avoid bad) is an individual difference that predicts workplace outcomes.
+
+Approach orientation predicts both implicit and explicit knowledge sharing ("I share my experience or know how with colleagues" and "I share official documents with colleagues" , respectively). 
+
+Avoid orientation is negatively related to implicit KS, and has no relationship with explicit KS.
+
+[christopher note]
+Approach avoid
+Performance prove
+Achieve threat
+Promotion prevention
+This individually difference should always be measured. Seems to be IO and OB's biggest individual difference. 
+
+hook / argument / contribution
+past research on why people share explicit vs implicit knowledge has focused on cognitive mechanisms. We instead focus on motivation -> behavior -> performance model, or we extend reasoning to understand the behavioral mechanisms underlying these relationships [even though they use a survey to measure those behaviors]. 
+
+Past research has noticeably used cognitive mechanisms to explain the relationships of approach and avoidance motivation orientations with innovative performance. Extending this line of research and using the traditional “motivation → behavior → performance” model (e.g., Terborg & Miller, 1978), we study behavioral mechanisms underlying these relationships. This is important for two major reasons. First, motivation is also related to behavioral activities (Kanfer et al., 2017), which can offer a more complete understanding of these relationships. Second, although people’s cognitions help them form their attitudes toward innova- tion, process knowledge, and persevere at innovative tasks, innova- tive performance also involves actions and behaviors, which entail people to recognize, generate, promote, and apply new ideas or solutions (Scott & Bruce, 1994; Wu et al., 2014). Thus, our study examines how employees’ approach and avoidance motivation orientations lead to behaviors that influence innovative performance.
+
+am I motivated to share knowledge for better innovative performance?
+lin, lu, ozer, tang
+
+
+#ob-notes
+#jap
+#prevention-promotion
+#goal-orientation
+#approach-avoid
+#learning-orientation
+#motivation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# within person variability as a trait
+
+This is not a study about within person personality. It is a study about within person variability as a trait. It is about the SD of someone's personality distribution. 
+
+[Whole trait theory: people's personalities are distributions.]
+The perspective that personality includes both stable and variable components has been described more formally in Fleeson’s Whole Trait Theory (2001). According to Whole Trait Theory, personality traits can be conceptualized as density distributions of states, in which personality states are seen as momentary, situation-specific expressions of traits (Fleeson, 2001). Not only the mean level of this distribution but also the level of variability can be seen as an important individual difference variable (i.e., stability in variability; Fleeson, 2001; Fleeson & Jayawickreme, 2015). As such, this within-person personality variability does not represent merely random fluctuations, but rather describes regularities in how much an individual’s behavior varies over time.2 Importantly, there are substantial interindividual differences in individuals’ responsiveness to varying situations, and hence in levels of within-person personality variability (Fleeson, 2001).
+
+
+[whether variability in within person personality is good or bad depends on construct and mean levels]
+For example, high variability in Emotional Stability (ES) for individuals that tend to be emotionally stable overall (i.e., high trait ES) may be seen as appropriate sensitivity to relevant situational cues, whereas high variability in Emotional Stability for individuals that tend to be emotionally unstable overall (i.e., low trait ES) may be regarded as erratic and capricious behavior. Thus, taking into account the moderating role of mean-level personality in the current study may lead towards a more profound understanding of how and why personality variability may or may not be equally (mal)adaptive for everyone.
+
+Using an item response theory (IRT) approach they found that within-person variability in personal initiative (which overlaps with Extraversion and Conscientiousness; Warr & Fay, 2001) accounted for incremental variance in predicting contextual performance (i.e., helping colleagues) above and beyond mean scores, such that individuals with higher self-reported variability in personal initiative received higher supervisor-ratings of performance (r = .34).
+
+[whether variability in within person personality is good or bad also depends on rater]
+Self rated variability = adapting to environments
+Other rated variability = sporadic and neurotic and unpredictable
+
+Beckmann et al. (2020) recently found that other-rated within-person variability in Neuroticism (represented by individuals' relative variability index [RVI] on a trait personality measure; Mestdagh et al., 2018) was negatively associated with other-ratings of job performance (r = -.25). In a similar vein, using experience sampling methodology (ESM), Côté et al. (2012) reported less positive interpersonal relationships at work for employees showing high variability (defined as the within-person standard deviation [SD]) on a set of interpersonal behaviors (e.g., Agreeableness, dominance). 
+
+within-person personality variability in the work context
+abrahams, vergauwe, de fruyt
+
+
+#ob-notes
+#jap
+#personality
+#whole-trait-theory
+#within-person
+#variability
+#behavioral-consistency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # matthew crawford
 
 Tokville when he went around America was very impressed with people when he made the observation that, "it is in these every activities, practical activities requiring cooperation among the American people (farmer's markets, coordinated driving with no street signs, helping neighbors with housing stuff) that the Democtratic character is formed -- the ability to work things out among ourselves."
@@ -15348,6 +15688,58 @@ https://www.youtube.com/shorts/4KOam_84FSI
 
 
 
+# good undergrad or PhD project
+
+Should supervisors communicate goals or visions? The
+moderating role of subordinates' psychological distance
+Arne Vanderstukken1,2 | Bert Schreurs3 | Filip Germeys2 | Anja Van den Broeck2 |
+Karin Proost2,4
+
+
+In marketing, make sure your advertisement matches the construal of the observor in order to be persuasive
+
+In leadership, make sure your speech matches the construal of your observor in order to be effective
+Use abstract, general goal speech when people are distant
+Use specific actions for speech when people are near
+
+
+#ob-notes
+#grad
+#undergrad-reading
+#phd
+#construal
+#psych-distance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # feminization of organizations
 
@@ -15495,7 +15887,17 @@ keywords
 
 
 
+# speaking up vs being heard
 
+Voice leads to negative outcomes for the employee (low performance ratings, involuntary turnover) when the recipient disagrees with the voice. 
+
+This paper contributes to research on the outcomes of employee prosocial voice to managers by focusing on the relationships between voice and two managerially controlled outcomes: managerial performance ratings and involuntary turnover. Past research has considered voice from either the managerial or subordinate perspective individually and found that it can lead to positive outcomes because of its improvement-oriented nature. However, others have argued that voice can lead to unfavorable outcomes for employees. To begin resolving these competing perspectives, we examine agreement and disagreement between employees and their managers on the extent to which employees provide upward voice, proposing and demonstrating that considering either perspective alone does not fully capture how voice is related to employee outcomes. Findings from a study of 7,578 subordinates and their 335 general managers within a national restaurant chain indicate that agreement between employees and managers that employees display a high level of voice leads to favorable outcomes for employees. Our findings then extend existing research by showing that supervisor–subordinate disagreement around voice also helps explain employee outcomes—namely, how negative outcomes arise as a result of employees overestimating their voice relative to their managers' perspective and how positive outcomes result when employees underestimate their upward voice.
+
+#voice
+#ob-notes
+#jap
+#org-science
+#amj
 
 
 
@@ -18418,6 +18820,69 @@ In fact, many of the smartest young people I know are deciding against a career 
 
 
 
+# TMS argote
+
+TMSs is a newer concept than the concept of routines. The concept of TMSs was developed by Wegner (1987) to characterize the sort of specialization that occurs between individuals in close interpersonal relationship, where one partner might be responsible for remembering and doing certain things and the other partner for remembering and doing others. This memory specialization provides a basis for coordination and enables the couples to perform tasks more efficiently.
+
+Wegner, Erber, and Raymond (1991) who imposed a division of labor on existing dyads and on newly formed dyads. The researchers found that the imposition of a division of labor hurt the performance of existing dyads, where members had already learned who was good at what and had worked out the division of labor that best fit their knowledge and skills. The imposed division of labor did not fit their knowledge and skills as well as the one they had developed through experience interacting. By contrast, the imposed division of labor helped the performance of new dyads, where members had not already learned who was good at what nor worked out their own division of labor.
+
+A transactive memory system (TMS) is a collective system for encoding, storing, and retrieving information in social systems (Lewis & Herndon, 2011; Wegner, 1987). Known as systems of “who knows what,” a transactive memory system provides individuals access to more information than they individually possess. A TMS has two components: the specialized knowledge that resides in the minds of individuals and the transactive processes that link individuals and enable them to coordinate their specialized knowledge and skills (Wegner, Giuliano, Hertel, & Ickes, 1985). Transactive memory systems enable groups and organizations to match tasks to the most qualified member. Further, TMSs enable members to know whom to consult for advice in various areas.
+
+Development / Manipulation
+
+Imposing division of labor on already existing TMS teams is bad. They already have a coordinating system in place.
+Imposing division of labor on new dyads can be useful. 
+
+The concept of TMSs was extended to the group level by Liang, Moreland, and Argote (1995) in a laboratory study. The researchers manipulated TMSs by training half of the groups together and half of the groups individually to assemble radios. Groups returned one week later to assemble a radio. Measures of TMSs indicated that groups with members who had trained together had a stronger TMS than groups composed of members who had trained apart. Groups with members who had trained together had better recall and made fewer errors than groups with members who had trained apart.
+
+Moreland, Argote, & Krishnan, 1996
+Training for team building does nothing.
+Being around one another so I can learn what you are good and bad at is useful, what you are skilled and unskilled in, what knowledge you do and do not have. The teambuilding exercise was designed to increase members’ familiarity with each other but to be unrelated to the performance task so members would not have opportunities to learn about each other’s task-relevant knowledge. Results indicated that groups whose members trained together performed significantly better than groups whose members trained individually, as well as groups whose members trained individually but had opportunities to become familiar with each other through a team-building exercise, and also groups whose members trained in one group and performed in another (Moreland et al., 1996). Further, the latter three conditions did not differ significantly from each other. Consistent with the design that provided only groups that trained and performed in the same group opportunities to learn about members’ taskrelevant knowledge and skills, groups that trained and performed in the same group had stronger transactive memories than the other conditions, which explained their better performance.
+
+Transactive memory systems form through several mechanisms. Learning is a key mechanism. From training or working together, members learn who is good at what, which enables the development of TMSs (Liang et al., 1995). Rewards for learning about others. Communication among members. 
+
+#ob-notes
+#tms
+#transactive-memory
+#argote
+#caring
+#ai-caring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # wang et al 2013, "can't get it out of my mind"
 
@@ -18570,6 +19035,420 @@ and remember salary transparency youtube video
 
 #transparency
 #salary-transparency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Finding out that you were NOT the top candidate for a job after you get hired reduces feedback seeking through social integration ("my peers accept me in this role")
+
+Existing work on newcomer adjustment and socialization typically assumes that selected employees are the first choice for a role or job. However, this is not always the case. To address this oversight, we introduce and examine the phenomenon of alternate choices: Employees who are selected for a role but perceive or discover that they were not the first choice.
+
+I discover that I wasn't the top candidate when hired ->
+less social integration ("comfort around peers in this role") ->
+less feedback seeking
+
+hook - HOOK STARTING WITH IV, not DV
+Some individuals are hired as the first choice for a position, whereas others transition into their new roles as alternate choices: Employees who are selected by an organization but perceive or discover that they were not the first choice for the role.
+Despite the ubiquity of this phenomenon in orgs, scholarly insight is limited, especially for behaviors crucial to effectiveness in new roles, such as feedback seeking.
+New thing, which is relevant for this DV. What are the consequences of this new thing for this DV?
+
+contributions
+[people don't study this phenomenon, but they should]
+First, we illuminate the experience of perceiving or discovering that one is not the first choice for a role, an overlooked phenomenon in organizations. By doing so, we challenge prevailing perspectives on organizational socialization as most of this work focuses on individual differences or organizational factors after employees enter a role as antecedents of feedback seeking. Instead, we demonstrate that selection processes and decisions before entering a role also impact employees after starting their roles. 
+[incorporate social identity into feedback seeking literature]
+Prior work has treated social integration as an outcome of feedback seeking (Wanberg & Kammeyer-Mueller, 2000), but our theory and studies demonstrate that social integration also contributes to whether employees seek feedback or not. 
+
+theory
+[Not being the first candidate is a perception of falling short of perceived status]
+We conceptualize alternate choices as a perception of falling short of an achieved status, as it serves as a status marker derived from an inferior social position before employees enter into a role (Merton, 1958; Parsons, 1951). Falling short of an achieved status—such as winning the silver medal—can lead individuals to feel worse due to counterfactual thinking (i.e., what might have been; Medvec et al., 1995), but it is unclear how it affects subsequent work behavior, especially in organizations.
+[social integration and social identity]
+To understand how being an alternate choice impacts feedback seeking, we focus on its effects through social integration. Social integration refers to the extent to which employees feel comfortable developing relationships with colleagues (Jokisaari & Nurmi, 2009). Social integration relates to the fundamental need to belong, as individuals have a basic desire to form social relationships with others (Baumeister & Leary, 1995). Social identity theory provides a framework for understanding the effects of being an alternate choice on social integration, as it proposes that individuals derive a sense of self from their membership in social groups, including friends and groups (Tajfel & Turner, 1979). When individuals are excluded or rejected from a group, they believe that they are not valued or do not fit in the group, which has implications for well-being due to their fundamental desire to belong (Smart Richman & Leary, 2009). Drawing on social identity theory, we hypothesize that alternate choices experience less social integration, which reduces feedback seeking. 
+
+study 1
+Prolific recall between subjects, then answer questionnaires
+Describe a time when you were the first choice.
+Describe a time when you were the second choice. (randomly assign, between subjects)
+Rate social integration
+Rate feedback seeking
+Those who were told or discovered that they were the second choice rated lower social integration and lower feedback seeking
+
+study 2
+undergrads before starting internship, questionnaires
+[alternate choice]
+I got this job because someone else turned down the offer
+My organization did not consider me to be the top choice for this job
+There were people ranked ahead of me for this job
+Social integration
+Feedback seeking
+
+study3
+prolific kind of experiment but not behavioral. 
+Participants think they are going to be working as part of a 3 person team, and were selected based on ranking of some kind. never actually do
+
+
+beyond the first choice
+nurmohamed 2023
+
+
+#ob-notes
+#feedback-seeking
+#jap
+#new-construct
+#mimic-study
+
+
+
+
+
+
+
+
+
+
+
+
+# yet another study on help type (you did this for me vs you showed me how to do this)
+
+Consider an employee asking a colleague to help them with a work- related problem. In one scenario, the colleague provides the employee with the full solution to the problem at hand, leaving the employee dependent on the colleague’s assistance the next time a similar problem arises. In the second scenario, the colleague provides tools and explanations for solving the problem autonomously. These two different instrumental approaches to helping are termed dependency- and autonomy-oriented helping, respectively (Nadler, 1998, 2002).
+
+hook
+consider this scenario. it exemplifies what we examine.
+In this article, we unpack the largely neglected psychological process whereby followers grant informal leadership to others based on received help type. 
+
+help type of sender (gave me tools to solve these kinds of problems vs solved it for me) ->
+influences my perceptions of the benevolence of the sender & how much I trust him/her ->
+influences my support of sender's informal leadership
+
+theory
+[help type]
+Nadler 2002 proposed different help types but they haven't been explored. Teach a man to fish vs give a  man a fish.
+[Kramer how people view prospective leaders]
+Kramer 2011 followers' trust in a prospective leader is a function of two primary perceptions: perceived competence and perceived benevolance.
+
+They didn't really use an overarching theory, just a bunch of weird distinct ideas.
+
+bunch of small experiments + recall
+
+Benevolence measured from Mayer & Davis 1999
+"My teammate really looks out for what is important to me"
+
+
+experimental game:
+You have to decode an encrypted puzzle.
+Your experienced teammate can either tell you to secret code to do so (autonomy helping) or just give you the answer outright (dependency helping). 
+Measure perceived time and effort invested in help given to them
+Measure perceived helper's benevolence
+Measure perceived helper's ability
+Measure leadership support of sender
+"I would be a strong support for my helper's leadership"
+
+THEY ONLY USED ONE ITEM FOR EFFORT AND ONE ITEM FOR TIME
+
+give them a fishing rod, if it is not urgent
+chernyak-hai
+
+
+#ob-notes
+#jap
+#help-type
+#ocb
+#helpling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cognitive tests actually over rather than under predict for hispanic test takers
+
+challenging conclusions about predictive bias
+sacket
+zhang
+berry
+
+
+
+
+#ob-notes
+#selection
+#cognitive-ability
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+# How to ensure the benefits outweigh the costs in LMX situations
+
+LMX means a leader is super invested in a subset of subordinates but not invested in others (and these relationships are mutual / reciprocated). In meta analysis, Yu et al. (2018) showed that the effect of LMX on team performance was null because LMX entails costs as well as benefits. 
+
+LMX benefits team performance because investing in a select subset of social exchange relationships makes better use of the leader's limited personal resources.
+[christopher note]
+EVERYTHING ALWAYS COMES BACK TO RESOURCE SAVING. LIMITED TIME AND ENERGY.
+On the other hand, LMX negative effects team performance because it creates bad attitudes.
+
+
+LMX theory
+The notion that leaders develop differentiated relationships with employees is a pillar of leader–member exchange (LMX) theory (Liden et al., 1997). Specifically, LMX theory proposes that leaders invest additional personal resources (e.g., information, influence, and development opportunities; Graen & Scandura, 1987; Wilson et al., 2010) in and develop stronger social exchange relationships with a select set rather than all employees. These chosen employees then reciprocate in that social exchange relationship by contributing their personal resources toward helping the leader achieve their work- group goals (Dansereau et al., 1975; Graen, 1976; Graen & Cashman, 1975). Supporting these core tenets, research shows that 80%–90% of work units are differentiated in terms of LMX quality (Graen & Cashman, 1975; Liden & Graen, 1980).
+
+Basically their argument is that teams will perform well if leaders have high LMX along "task function" lines rather than irrelevant social identity lines, though they have no control group which compares A to B.
+
+The larger message is that LMX has positive and negative effects on team performance. High cognitive ability leaders are better able to tell who to develop sub relationships with in order to most effectively accomplish tasks on the team.
+
+
+do intelligent leaders differentiate exchange relationships
+matta
+frank
+farh
+lee
+
+
+
+#ob-notes
+#jap
+#teams
+#lmx
+#leader-member-exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# multiple team membership is not so bad, it is SWITCHING between multiple teams that makes people exhausted
+
+
+Individual MTM has typically been conceptualized as multi- teamers’ total number of team memberships (MTM number), without considering how regularly multiteamers shift their attention between different team contexts (MTM switching) or how multiteamers prioritize certain team memberships over others (MTM coreness). 
+
+Respondents with similar levels of MTM number differed substantially in MTM switching and coreness. 
+
+Most importantly, we found that the consequences of these three MTM characteristics may differ substantially. As in prior research, we initially found that MTM number predicted emotional exhaustion (cf. Berger et al., 2022; Pluut et al., 2014) moderated by team member familiarity (cf. Colicev et al., 2023; analysis available upon request). When we included MTM switching and MTM coreness in our models, however, MTM number no longer predicted multiteamers’ emotional exhaustion. Specifically, we found that MTM switching directly predicts an increase in multiteamers’ emotional exhaustion and their subsequent turnover from the organization. MTM coreness was associated with a decrease in emotional exhaustion and turnover, as expected, but only when multiteamers were highly familiar with the members of the teams they participated in.
+
+So, MTM switching, not number, is the big predictor of exhaustion and turnover intentions. 
+
+our MTM switching measure reflects the minimum number of times a respondent switched between teams per week. 
+
+hook
+MTM is popular in creative work.
+Scholarship is growing on the consequences of MTM.
+We need to step back and consider conceptualization. MTM could entail amount or switching. 
+We need to theoretically disentangle total number of team memberships, how often people shift attention between teams, and extent to which people prioritize one team over others.
+
+contributions
+Refine our definition of MTM.
+Integrate role of time into MTM.
+We provide practical knoweldge by showing when MTM leads to negative things.
+
+theory
+Describe MTM definitions and construct.
+Conservation of resources theory describes the consequences of MTM switching and coreness.
+We propose that MTM switching, rather than MTM number, represents the potentially negative and resource-draining aspect of MTM. Higher MTM switching implies that one frequently (rather than occasionally) moves back and forth between different team contexts. Accordingly, multiteamers need to readjust to multiple teams’ different work practices, social settings, and technologies (irrespective of the characteristics of these multiple teams; O’Leary et al., 2011). (a) relocate physically between team settings, (b) catch up with work that was done in their absence, (c) switch between specific tools and technologies, or (d) familiarize themselves with the norms and expectations of different teams (Bertolotti et al., 2015; Cummings & Haas, 2012; Mortensen et al., 2007; O’Leary et al., 2011). Compared with multiteamers who work more sequentially, those who switch more often may experience substantial resource losses because it takes much more time to finish each team’s assignments (Leroy, 2009). Consequently, these multiteamers may fail to realize antici- pated resource gains within each of their teams (e.g., acquire skills, meet performance criteria, and establish positive relationships; Hobfoll, 1989) and face substantial resource losses because they have too much to do and not enough time to do it (Perlow, 1999).
+
+On the other hand, MTM coreness (prioritizing one team over others) allows people to optimally use their time and ignore issues of switching.
+
+
+
+study
+Knowledge workers in a company
+Look at org charts and scheduling 
+more switching = greater exhaustion and greater likelihood of turnover
+
+
+#ob-notes
+#jap
+#mtm
+#switch-costs
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# how many issues should you negotiate in a negotiation?
+
+On the one hand, more issues means greater potential for integrative agreements. On the other hand, more issues means more information load and complexity.
+
+They meta analyze studies to show that more issues is better up to a threshold (3). Any more and you start to deal with too much information.
+
+
+expanding the pie or spoiling the cake?
+warsitzka, zhang, beersma
+
+
+#jap
+#ob-notes
+#negotiations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# costs of public universities going way up for students because of building costs and spending on administration staff
+
+Breaking Down the Spending at One of America’s Priciest Public Colleges
+Auburn University piled money into buildings, administrators and athletics after years of raising costs for students; $74 million recreation center, $51 million dorm
+https://www.wsj.com/us-news/education/breaking-down-spending-at-one-of-americas-priciest-public-colleges-2d74ec48
+
+Article is about Auburn University spending in 2002 compared to 2016.
+A few things I learned from this article:
+University is expanding its buildings (dorms, sports, university centers) = huge cost
+University is hiring way more administrators and president's office staff and diversity hires = huge costs
+
+All of this is going on while, when asked to justify greater tuition costs for students, deans say "well we have to invest in our faculty to ensure the students get a good education." No, you are not investing in your faculty. You are investing in facilities and administrators. 
+
+#anti-woke
+#universities
+#costs
+#cost-of-tuition
+#auburn
+#economics
+#leadership-spoken-different-from-enacted
+#stated-vs-enacted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# double edge sword of psych ownership at work: it leads to territoritality
+
+
+All prior studies focus on the positives of psych ownership ("I feel high degree of ownsership for job"). We predict that there are also negatives: territoritality "I let others know that X is mine" and less information sharing, therefore leading to reduced job performance.
+
+
+hook
+Nearly all studies of psychological ownership suggest that it leads to positive outcomes like extra-role behaviors. However, people with strong ownership over things may exhibit excessive, competitive control and avoid sharing. Therefore, we develop theory on both the positive and negative consequences of psychological ownership. 
+
+contributions
+First, broaden our understanding of psych ownership. Introduce double edged sword.
+Second, we establish how psych ownership relates to various forms of territoritality (mediator).
+Third, we integrate territoritality (mediator) with COR theory to predict distal outcome. 
+
+theory
+COR theory
+Ownership leads to a natural tendency to protect or enhance the owned resources (Hobfoll, 1989; McDougall, 1923), which represent both ends in themselves and means to acquire more resources (Hobfoll, 1989; Xanthopoulou et al., 2007). People strive to protect and foster resources they value (Hobfoll, 1989, 1998, 2011), so when they confront potential losses, they attempt to protect resources. For example, if an employee senses ownership of a job, it represents a resource, which the employee wants to protect and leverages to perform required job tasks.
+
+[christopher note]
+Some people use COR theory as a "resource time constraints" theory, where they say people only have limited time and energy, so taking energy or time is draining and exhausting. Other people use COR as "people are protective of their resources and want ownership."
+
+
+psych ownership
+->
+territoritality
+->
+information sharing + performance
+
+
+
+feeling possessive, performing well?
+chen, lee, lin, brown
+
+#jap
+#ob-notes
+#psychological-ownership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -19486,6 +20365,38 @@ Consuming online content makes us feel like we're learning, but 90% of the conte
 
 #chris-williamson
 #ob-insight
+
+
+
+
+
+
+
+
+# red tape and credentialism favors the incumbent
+
+Regulation is the Friend of the Incumbent!
+
+quote
+this ist he other aspect that is going wrong in our field.
+stricter and stricter standards for publishing means incumbents and already-established big dogs have advantage
+
+#quote
+#philosophy
+#marginal-revolution
+#economics
+#red-tape
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -21557,6 +22468,270 @@ Murphy et al. "mundane emotions: losing yourself in boredom"
 
 
 
+
+
+# ob notes
+
+
+
+
+
+
+
+
+# grant prosocial motivation review
+
+Prosocial motivation
+The desire to expend effort to benefit others.
+
+PM leads to good things for both individuals and orgs. 
+A first key mechanism is social capital. A number of studies have shown that prosocial motives and behaviors build status, trust, and goodwill (Anderson et al. 2020, Flynn 2003, Flynn et al. 2006, Grant et al. 2009). By establishing relationships and reputations as trustworthy, prosocially motivated employees elicit respect and reciprocity rather than envy and undermining from their colleagues.
+A seocond mechanism explaining the performance benefits of prosocial motivation is working harder. In addition, when high self-esteem and self-efficacy put employees at risk for complacency, those who are prosocially motivated are more likely to maintain their effort and performance: They worry about letting others down if they fail and anticipate that others will be grateful if they succeed (Grant & Wrzesniewski 2010).
+A fourth mechanism is working safer. During the COVID-19 pandemic, prosocially motivated individuals were more likely to follow physical distancing guidelines, stay home when sick, and buy face masks (Campos-Mercade et al. 2020). By leading individuals to consider the consequences for others who might be vulnerable, prosocial motivation can encourage caution and discourage risky decisions.
+
+How do you elicit prosocial motivation?
+
+1) get people in contact with the beneficiaries of their work / get people to understand task importance
+
+Many employees hold jobs that have a positive impact on others but have little exposure to the ultimate beneficiaries of their work—the clients, customers, and end users who are affected by their tasks. Personalizing and humanizing one’s job by establishing contact with those who benefit from it can have surprising motivational effects. For example, in a field experiment (Grant et al. 2007), university fundraising callers were randomly assigned to have contact with a single undergraduate student whose scholarship was supported by their work. After meeting with the student for just 10 minutes, the average caller spent 142% more minutes on the phone and raised 171% more money, whereas callers in the control conditions did not change significantly on these measures.
+
+These effects have been extended to internal beneficiaries inside the organization. In a field experiment (Bellé 2012), nurses assembled more surgical kits per minute—and made fewer errors— after they had been randomly assigned to meet the health care practitioners who would use the kits. These effects were partially mediated by prosocial motivation: Beneficiary contact increased their desire to perform a public service and make a difference. 
+
+When direct beneficiary contact is not possible, task significance itself can drive performance: When employees are aware of the positive impact of their jobs on others, they work harder and safer. In a field experiment with lifeguards (Grant 2008c), reading stories about other lifeguards performing rescues increased the hours that lifeguards worked and increased supervisor ratings of helpfulness in protecting and assisting guests.
+
+
+#ob-notes
+#prosocial-motivation
+#edge
+#sledgehammer
+
+
+
+
+
+
+
+
+
+# self distancing
+
+Our ability to turn our attention inward to reflect on our circumstances allows us to learn from our mistakes, make sense of our experiences, plan, and engage in a host of other mental processes that contribute handedly to our ability to regulate our emotions, innovate, problem-solve, and create. But self-reflection does not always lead to positive outcomes. Particularly when people focus on negative experiences, self-reflection often backfires, leading them to get stuck in negative thought loops (i.e., worry and rumination), which undermine decision making, performance, health, and relationships. Considering these different findings together presents a paradox. 
+
+On the one hand, ample evidence indicates that self-reflection can be adaptive, enhancing emotion regulation and providing new perspectives into difficult situations. On the other hand, self-reflection can also become a liability when it morphs into perseverative negative thinking.
+
+To reduce anxiety and rumination and worry, "reflect from the balcony" when you consider negative events. 
+
+One of the defining features of maladaptive self-reflection is its immersive and egocentric quality.
+When people ruminate or worry about negative experiences, they get stuck focusing narrowly on
+the aversive features of their experiences that pose a threat to themselves, which makes it difficult for them to see the bigger picture, where solutions to their problems often lie (Kross 2021).
+Building from this observation, psychologists have speculated that facilitating adaptive reflection
+requires a mechanism to help people psychologically distance from their experience so they can
+step back from their immersed view of the situation to reflect on it more effectively.
+Psychological distancing refers to the process of mentally moving away from what is experientially available in the here and now, which by default is embedded in the present egocentric
+state of the self (for review, see Kross & Ayduk 2017). That is, whereas the default mode with
+which people typically engage in self-reflection is embedded in a first-person, egocentric perspective, which elicits rumination and worry, distancing helps break people out of this narrow view,
+allowing them to reconstrue negative experiences without becoming overwhelmed by negative
+emotions.
+A large amount of work links engaging in psychological distance (hereafter referred to as
+distance or distancing) when people reflect on negative emotional experiences with adaptive psychological, physiological, and behavioral outcomes. This is true for different populations (e.g.,
+children as well as adults, vulnerable groups), regardless of whether people distance spontaneously
+or are directed to do so in the context of experiments and field interventions.
+The role that distancing plays in enabling self-regulation has a long history in psychology (see
+Kross & Ayduk 2017 for a similar historical overview). Mischel was one of the first to speculate
+on the role that distancing plays in helping individuals grapple with intense emotions. He argued
+that creating psychological distance from the desirable features of tempting treats via distraction
+or abstraction allowed children to exert self-control in the classic delay-of-gratification paradigm
+(aka the Marshmallow Test; e.g., Mischel & Rodriguez 1993). More recent work on construal level
+theory has produced a large body of work consistent with Mischel’s claims by showing that more
+abstract mindsets and goal construals tip people’s decision making in favor of prioritizing longover short-term goals (Fujita et al. 2006).
+A similar insight is captured by Ury’s (1991) metaphor of “going to the balcony” in the context
+of negotiations: When facing a particularly frustrating moment during a difficult negotiation, it
+is helpful to adopt an attitude of a third-party observer watching the negotiation unfold from a
+balcony overlooking a stage. Ury argues that going to the balcony allows people to see the needs
+and goals of both sides more clearly and thus generates more mutually satisfactory solutions to
+deadlocks.
+In the clinical domain, Beck defined distancing as “the ability to view one’s own thoughts (or
+beliefs) as constructions of ‘reality’ rather than as reality itself” (Alford & Beck 1998, p. 142) and
+recognized it as an important preliminary step that clients achieve in order for cognitive therapy
+to be successful. More recently, the closely related concepts of decentering—observing one’s
+thoughts and emotions as passing mental events rather than direct readouts of an objective reality
+(see Bernstein et al. 2015 for review)—and perspective-broadening appraisals—seeing the bigger
+picture, recognizing that time heals all, and acknowledging the good with the bad (e.g., Schartau
+et al. 2009)—have been shown to play a key role in facilitating healthy self-reflection in a variety
+of contexts.
+The specific role that distancing plays in facilitating adaptive self-reflection has been studied in
+depth in the social-personality psychology domain (for review, see Kross & Ayduk 2017). In this
+line of work, researchers manipulate and assess peoples’ tendency to adopt a distanced perspective
+while reflecting on negative experiences and then measure an array of immediate and delayed outcomes. Across studies, researchers have linked the tendency to distance in this manner with lower
+levels of emotional reactivity, assessed subjectively and implicitly using physiological and neural
+measures. In this vein, a recent large-scale meta-analysis found that distancing was associated with
+a medium effect size (Hedges’s g = 0.518) for reducing self-reported negative emotions (Moran
+& Eyal 2022). The benefits associated with distancing are not, however, restricted to emotional
+reactivity. Distancing has also been linked with reduced cognitive accessibility of negative affect,
+intrusive ideation, and physiological stress reactions (e.g., blood pressure) relevant to physical
+health outcomes (Kross & Ayduk 2017).
+How does distancing lead to these beneficial outcomes? Although many techniques exist for
+enhancing this psychological state, at a broad level, a common mechanism underlies their benefits:
+They facilitate cognitive change, a process in which people reframe their negative experiences in
+ways that reduce their aversive qualities. As we elaborate on in the next section, although the
+specific form that such cognitive change takes may depend on both the type of distancing tactic
+used and the nature of the situation one is trying to reframe, by allowing people to step back
+from the emotional immediacy of the situation, distancing helps people change how they think
+about their circumstances in ways that ultimately improve the way they feel about them rather
+than leading them to simply relive the aversive feature of their negative experience over and over
+again—the defining feature of maladaptive forms of self-reflection such as worry and rumination
+
+
+
+
+
+
+#ob-notes
+#self-distancing
+#sledgehammer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# be around people looking to expand the pie
+
+At this point, I am so sick and tired of studies about "equality".
+
+As any good intellectual, I try to steel-man an argument and take the most charitable view of any argument about a complicated issue.
+
+However, I have come to realize that many complaints about "equality" are really resentments toward rich or successful people, but masquerading as a rigorous academic study.
+
+So many of these people don't *truly* care about inequality; they just hate that certain people are better off and have more. It's all just envy and jealousy.
+
+I care about equality of opportunity, but so many of these "studies" are fixated on equality of outcome - and the "outcome" is often defined subjectively and conveniently to paint certain "disadvantaged groups" as not having enough.
+
+I'm done. I want to hear from people who want to grow the pie, rather than come up with an "equal" way to divide the pie.
+
+
+#philsophy
+#quote
+#marginal-revolution
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# more like covid never forget: progressives had bad policies
+
+It's going to be fun to see absolutely no one of the globalists and progressives take responsibility for Europe's mass migration and destruction of the european society.
+
+They don't take credit for inflation, for the disaster of covid lockdowns, and they won't take credit for the invasion.
+
+They are like this
+
+
+
+#covid
+#never-forget
+#anti-woke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# quote
+
+You do know that the stories going on in your head are not consistent with reality right?
+
+
+#philosophy
+#quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Creswell 2017 “Mindfulness Interventions”
 
 Mindfulness
@@ -22229,6 +23404,43 @@ The whole point of a team is the whole to be greater than the sum of the parts. 
 
 
 
+# james mccann
+
+
+Who among you by worrying will add a single day to your life?
+
+Do not dispair, do not seek the easy path, do not stop trying, do not worry. It is in the struggle where we add meaning to our lives. We named our children after our grandparents not because of the ease with which they forged our opportunity, but in honor of the great struggle and sacrifice they endured, an acknowledgement that our great fortune is a direct result of it. 
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22541,6 +23753,43 @@ keywords
 
 
 
+# networking overpowers intelligence in career progression
+
+https://www.insidehighered.com/opinion/views/2023/07/10/education-privilege-laundering-opinion
+
+Studies have found that graduates of elite K–12 schools who get into elite universities tend to be worse than average on the academic front. That is, they tend to be relatively weak students, not prodigious ones. Nonetheless, they tend to perform particularly well socioeconomically after graduation, especially relative to peers from less advantaged backgrounds who graduated from the same university and with higher GPAs. Why? Because while students from nonelite backgrounds tend to prioritize their academics when they get into top colleges, students from elite backgrounds spend much more time networking and socializing—and these latter behaviors tend to yield much higher career dividends in our ostensibly “meritocratic” system than actual talent or hard work.
+
+#networking
+#careers
+#career-progression
+#cognitive-ability
+#intelligence
+#merit
+#economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22842,6 +24091,63 @@ Youtube and advice:
 #marginal-revolution
 #folk-wisdom
 #lay-theories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# williamson summary
+
+0:00: 🤔 Humans struggle with moderation due to our evolutionary history of scarcity and our current abundance of resources.
+
+5:54: 💰 Slot machines are designed to be effective by using the scarcity loop, which includes opportunity, unpredictable rewards, and quick repeatability.
+
+11:17: 🎰 Pigeons prefer unpredictable rewards over predictable rewards, which may be due to our evolutionary need to search for food.
+
+16:49: 🎰 Companies are using casino-like features in advertising and online shopping to increase conversion rates.
+
+22:29: 🌍 The production and supply of the drug Captagon in the Middle East is primarily sourced from Syria, with government labs producing more than legal exports.
+
+28:47: 💊 The line between compulsion, dependency, and addiction becomes blurred when using substances or stimuli as a solution to problems.
+
+34:30: 🎥 The video discusses the emergence of countercultural movements and predicts the rise of opposing movements in the near future.
+
+39:58: 💡 Humans crave status and influence, and social media has allowed individuals to have a greater influence on a larger scale.
+
+45:24: 🚩 The shift from judging people by their actions to judging them by their opinions has given words more weight than actions, leading to performative empathy and suspicion about the authenticity of people's deeds.
+
+50:39: 📈 Politicians' tweets in the United States have become more toxic over the past decade, as they chase after likes and retweets.
+
+56:00: 🎓 The focus of going to university should be on learning and personal growth, not just grades.
+
+#chris-williamson
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23561,6 +24867,79 @@ I should write a paper about this. Thinking about prediction errors. A useful id
 
 
 
+# declarative and procedural and insider knowledge
+
+
+
+Declarative knoweldge -- knowing what or that
+
+What are the core constructs in organizational psychology?
+What does expectancy theory predict?
+
+[insider knowledge]
+
+Cohen's writing about the language of a field.
+What topics do the gatekeepers find worthwhile vs worthless?
+What are the personalities and political tendencies of the gatekeepers?
+
+
+Procedural knowledge -- knowing how
+
+How does a graduate student start and finish a research project in the field of organizational psychology?
+
+
+
+
+What do these effect?
+
+Strategy selection
+Attention
+Execution
+Decision making
+Tactical behavior
+
+
+
+Age
+AI
+
+AI can't give you insider knowledge.
+It can give you declarative knowledge.
+It can give you procedural knowledge outlines but not the experience itself. 
+
+
+
+#declarative-knowledge
+#knowledge
+#ai
+#intelligence
+#marginal-revolution
+#learning
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Heckman & Moktan, 2020
 
@@ -23645,6 +25024,44 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Olyphant Humor
+
+When visit New York you think to yourself "this is the center of the world."
+When you visit LA you think to yourself "this is the center of the world."
+When you visit Indiana you think to yourself "New York is the center of the world."
+
+Well that was nice of you to say in your introduction to my talk, but let me say to those of you listening, "prepare to be dissapointed."
+
+Listen I sat through patiently while you told that story and now I'd like to move on. How have you been?
+
+What? I guess that means you weren't listening. It's all just a blurr to you isn't it?
+
+
+#humor
+#social-animal
+#quote
 
 
 
@@ -26672,6 +28089,48 @@ Well if you'd let me finish and shut the fuck up.
 
 
 
+# thinking about rule following takes time away from thinking about problem solving
+
+https://www.nytimes.com/2024/01/18/opinion/american-life-bureaucracy.html
+
+https://www.the-american-interest.com/2019/01/31/bureaucracy-vs-democracy/
+
+Two great reports on the perils of buerocracy.
+Administrators at colleges are growing exponentially large. Larger than students or faculty.
+Their jobs are to create rules and to make people follow them. 
+
+DEI example: faculty used to submit a one page report about how his career is advancing. Now he submits a 15 page report about how he is advancing DEI. 
+
+In a recent essay in Liberties Journal, he illustrates how administrators control campus life by citing the rules they have devised to govern how members of the campus community should practice sadomasochistic sex: “When parties consent to BDSM 3, or other forms of kink, nonconsent may be shown by the use of a safe word, whereas actions and words that may signal nonconsent in non-kink situations, such as force or violence, may be deemed signals of consent.” Do institutions really need to govern private life this minutely?
+
+#anti-woke
+#red-tape
+#university
+#marginal-revolution
+#david-brooks
+#quote
+#buerocracy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -27137,6 +28596,21 @@ busness ideas
 
 
 
+# holding contradictory beliefs
+
+Eric Weinstein’s take on my idea about people having contradictory beliefs in life.
+You need to have contradictory facilities in life, and you need to know when to pull on one and when to pull on the other. You need to have both a scarcity and an abundance mindset, but crucially you need to know when to deploy one versus the other. 
+
+
+#philosophy
+#christopher-thinking
+#staring-ceiling
+#quote
+
+
+
+
+
 
 
 
@@ -27279,6 +28753,79 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# real perspective taking. actions
+
+the difference
+A:
+This is cool! 
+B:
+They find that cognitive ability tests on cell phones are inherently biased. I bet self-selection is the simpler/alternative answer: people with low cognitive ability are those most likely to use cell phones when given the choice of how to take the test. Thus, the pool of people is lower in cognitive ability to begin with.
+C:
+Study results: working on multiple teams is taxing/exhausting/counterproductive not when someone works on many, many teams but when someone has to switch from one context to a completely unrelated context. Switching between vastly different teams, not existing on many teams alone, accounts for the exhaustion. 
+
+
+the difference
+A:
+Rick, can you email HR and let them know you signed off?
+B:
+Rick, you need to email HR (emailaddress) the following:
+SUBJECT: Letter for C Dishop
+BODY: I am approving ...
+
+perspective taking skill. 
+Not perspective taking. "I put myself in other peoples' shoes"
+Not perspective getting. "I spoke with somemone about their preference." 
+
+
+#christopher-theory
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shared calendars or doing your reminding for you...
+- Anita: let's create a shared task calendar so you can prompt me when i need things
+- Christopher: you should have your own priority list and I shouldn't have to make your calendar for you
+#anita
+#anita-issues
+#ob-notes
+
+
+
+
+
+
+
+
+
 # Botstein 2018 "Stop the generational moralizing: to defend free speech"
 
 
@@ -27339,6 +28886,42 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# conan, burr, glassman
+
+
+Your mom is italian right? What's your heritage?
+
+She was italian, yes, but then she got her act together. 
+
+
+
+Listen we've all done things we're not proud of. Didn't jesus say, "he who doesn't jack off to a cheerleader at a football game..."
+
+
+
+#quotes
+#humor
+#social-animal
 
 
 
@@ -27560,6 +29143,25 @@ keywords
 
 
 
+
+
+
+
+
+# welsh et al “the slippery slope: how small ethical”
+
+good example of how write a hook in the following style
+- concept X is popular in the media and logical
+- but no research yet exists on X
+- we study it
+
+
+
+
+#ob-notes
+#hook-notes
+#jap-notes
+#jap
 
 
 
@@ -28636,6 +30238,495 @@ keywords
 
 
 
+
+
+
+# bartel-2001-social-comparisons-in-boundary-spanning-work-effects-of-community-outreach-on-members-organizational
+
+Employees who report greater identification with their coworkers receive greater scores of interpersonal cooperation from their supervisors. 
+
+Individualswho identify strongly with their work organization tend to perceive a heightened sense of group-based trust and reciprocity,which can lead them to adopt cooperative orientations with other members (Kramerand Brewer, 1986; Kramer,1991). Kramer(1993) noted that much of the research on cooperation utilizes labo- ratoryexperiments designed to simulate cooperation dilem- mas commonly found in organizations. Greater emphasis is placed on specific types of collective-action problems (e.g., resource allocation, decision making) than on more mundane forms of interpersonal cooperation common in organizational settings. In contrast, field studies of organizational identifica- tion have examined cooperation with the focal organization, such as financial contributions and participation in organiza- tional activities (Mael and Ashforth, 1992; Bhattacharya, Rao, and Glynn, 1995), but not cooperation between members.
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# bottom-et-al-2006-building-a-pathway-to-cooperation-negotiation-and-social-exchange-between-principal-and-agent
+
+Two lab experiments on negotiation and social exchange.
+
+Emerson (1976: 336) defined social exchange theory as a “frame of reference” regarding “actions that are contingent on rewarding reactions from others.”
+
+Social exchange theory encapsulates the special case of mar- ket exchange studied by economists, exchange that is “car- ried out under special circumstances and with a most useful built-in numerical measure of value” (Homans, 1958: 598). The theory has developed through the cumulative contribu- tions of anthropologists (Boas, 1910; Malinowski, 1922; Mauss, 1954; Otterbein and Otterbein, 1965; Lee, 1979; Boehm, 1984; Kent, 1993), sociologists (Blau, 1955; Homans, 1958; Gouldner, 1960; Emerson, 1976), and social psycholo- gists (Thibaut and Kelley, 1959; Jones, 1964; Adams, 1965; Kelley et al., 2003) who adopted the view that social interac- tion “is an exchange of goods, material goods but also non- material ones, such as the symbols of approval or prestige. Persons that give much to others try to get much from them, and persons that get much from others are under pressure to give much to them” (Homans, 1958: 606).
+
+This study tests the constrast between social exchange theory and agency theory (agency theory applies an operant conditioning lens to social exchange theory). 
+
+It appears that there are two distinct pathways to motivating an agent to provide high effort. One approach, consistent with agency theory, is to provide a sufficiently high level of incentive bonus. 
+
+Most of the participants in this experiment took a second and quite different approach. This second pathway appeared to rely on the interpretation of the fixed wage as a “gift” from the principal to the agent, an expression of benevolence that obligated the agent to reciprocate. Effort varied with the size of the fixed wage. The fixed wage affected the agent’s per- ception of the principal’s benevolence. The principal’s deci- sion to choose the first or the second pathway varied with trust in the agent. Principals who trusted the agent were more likely to choose the second pathway. They did not negotiate a bonus that provided a sufficient monetary incen- tive for agents to provide high effort. Yet by securing high agent effort without distorting risk sharing, they also attained a level of efficiency exceeding the second-best solution of agency theory.
+
+Perceptions that the principal was benevolent were influ- enced by more than just the fixed wage. Aspects of the ver- bal communication between principal and agent, the total number of words exchanged, and the friendliness of those words (as rated by a neutral observer) were positively related to perceptions of benevolence. 
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# christian-et-al-2014-dynamic-associations-among-somatic-complaints-human-energy-and-discretionary-behaviors-experiences
+
+Using data from two experience-sampling studies, this paper investigates the dynamic relationships between discretionary behaviors at work—voluntary tasks that employees perform—and internal somatic complaints, focusing spe- cifically on a person’s pain fluctuations. Integrating theories of human energy with evidence from the organizational, psychological, and medical sciences, we argue that pain both depletes and redirects the allocation of employees’ energy. We hypothesize that somatic pain is associated with depleted resources and lowered work engagement, which in turn are related to ebbs and flows in discretionary behaviors, but that people will habituate to the nega- tive effects of pain over time.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# cote-miners-2006-emotional-intelligence-cognitive-intelligence-and-job-performance
+
+Examining the predictors of organizational citizenship behavior (a type of job performance) -- specifically emotional intelligence and cognitive ability.
+Emotional intelligence and cognitive ability are compensatory (they moderate one another when predicting OCBs). 
+
+OCBI in large part focuses on helping others (rather than org directed citizenship). 
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Currall-AdministrativeScienceQuarterly-1988
+
+review of organ's organizational citizenship behavior book.
+Organ is all about the DV side (performance) when trying to understand the satisfaction-performance link.
+The reviewer notes that organ is never clear about his overall model. What are the predictors, mediators, and DVs?
+Instead of presenting a model, he is simply saying that "performance" is a big construct made up of more than just task performance.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# detert-et-al-2013-voice-flows-to-and-around-leaders-understanding-when-units-are-helped-or-hurt-by-employee-voice
+
+OCB is important for collective performance.
+
+In two studies, we develop and test theory about the relationship between speaking up, one type of organizational citizenship behavior, and unit performance by accounting for where employee voice is flowing.
+
+Results demonstrate that voice flows are positively related to a unit’s effectiveness when they are targeted at the focal leader of that unit—who should be able to take action—whether from that leader’s own subordinates or those in other units, and negatively related to a unit’s effectiveness when they are tar- geted at coworkers who have little power to effect change.
+
+
+THIS WAS MY COMPUTATIONAL MODELING PAPER ARGUMENT, BUT INSTANTIATED IN A FIELD STUDY RATHER THAN A SIMULATION. 
+When you voice an issue to someone who can actually create change, then org performance increases.
+When you voice an issue to someone who cannot effect change, then nothing happens. Org performance does not improve. 
+
+christopher study
+- given simulation and voice flows, how do people actually behave? When given the chance, do they help high performers or low performers?
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# dukerich-et-al-2002-beauty-is-in-the-eye-of-the-beholder-the-impact-of-organizational-identification-identity-and-image
+
+Org identification (how I view my org and how i believe others view my org) relates to my cooperative behaviors. 
+
+Severaltheorists have arguedthat a consequence of identifi- cationwith a groupor organizationis the creationof an ingroup-outgroupdistinction(Tajfeeltal.,1971;Ashforthand Mael,1989;Kramer1,991).AsKramer(1991)suggested, social identificationresults in a bias toward in-groupmem- bers (i.e., members of a groupwith which one identifies)and cohesion among group members. Accordingto Dutton, Duk- erich,and Harquai(l1994:254-255), this cohesion "makes cooperativebehaviortowardotherorganizationamlembers
+likely."When individualsidentifystronglywith an organiza- tion, they are likelyto consider those behaviorsthat benefit the organizationas also benefitingthemselves. Giventhat individualseek those organizationswhose identitiesthey consider attractive(allthings being equal),they may enhance their self-concepts by enhancingthe identityof the organiza- tionthroughtheirbehaviors.Cialdinaindhisassociates (Cial- dinietal.,1976;CialdinaindRichardson,1980;Cialdinaind De Nicholas,1989) have demonstratedthat individuals attempt to enhance their own image by associating them- selves with a successful other (termed basking in reflected glory).Basedonindividualsd'esiretobaskinreflectedglory, they will more closely identifywith organizationsto the extent that they believe others see the organizationas wor-
+Itfollows, then, that members serve them- organizational
+themselves by servingthe organization.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Farh-ImpetusActionCultural-1997
+
+OCB organ opening paragraph. Citizenship behaviors are important at ASQ.
+
+Although an organization may increase its competitiveness through a multitude of means, Western scholars have in- creasingly emphasized the importance of employee actions that are not specifically designated in their formal job duties, or organizational citizenship behavior. Organ (1988: 4) de- fined organizational citizenship behavior as "individual behav- ior that is discretionary, not directly or explicitly recognized by the formal reward system, and that in the aggregate pro- motes the effective functioning of the organization"; it in- cludes actions such as aiding one's coworkers, punctuality and attendance that exceeds company norms, or voluntary assumption of ad hoc duties (Van Dyne, Graham, and Dien- esch, 1994). Except for studies devoted to the refinement of an organiza- tional citizenship behavior measure (e.g., Podsakoff et al., 1990; Van Dyne, Graham, and Dienesch, 1994), the extant literature on citizenship behavior has focused primarily on
+the various determinants of citizenship behavior and its rela- tionship to variables in a nomological network. Despite the voluminous and fruitful literature stemming from Organ's (1988) seminal work in this area, we know little about citi- zenship behavior in a global context.
+
+
+Organizational justice appears to be a key determinant of citizenship behavior and related outcomes such as satisfac- tion and commitment (Folger and Konovsky, 1989; Moor- man, 1991), and it reflects both the fairness of outcomes as well as procedures used in their allocation (Lind and Tyler, 1988). The citizenship behavior literature has focused on the fairness of outcomes (e.g., pay) received by an employee and the procedures used to determine those outcomes (Moorman, 1991). Findings suggest that if both job satisfac- tion and organizational justice are used to predict citizenship behavior, justice typically shows a stronger relationship
+
+
+Further, concepts of justice are known to vary according to people's cultural values.
+What role, then, do individual differences in cultural values play in determining what citizenship behavior is and how it relates to organizational justice?
+
+For employees who hold less traditional values, the relationship between justice and citizenship behavior will be stron- ger than for more traditional employees.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# goldstein-et-al-2012-reciprocity-by-proxy-a-novel-influence-strategy-for-stimulating-cooperation
+
+Cooperation is important at ASQ.
+
+Cooperation is the cornerstone of organizational efficiency and productivity. To achieve organizational goals, employees must be able to effectively solicit cooperation from one another, and the organizations they work for must be able to attain cooperation from a wide array of parties, including their custom- ers, partner organizations, and personnel. One of the central drivers of organiza- tional cooperation is the norm of reciprocity, the societal rule that obligates individuals to repay gifts, favors, and services that have been performed for them (Mauss, 1954; Gouldner, 1960; Blau, 1964; Regan, 1971; Emerson, 1976; Cialdini, 2009).
+
+Most studies focus on direct reciprocity. We study reciprocity by proxy in a "reuse hotel towels" context. 
+
+the reciprocity-by-proxy strategy elicits in the target a sense of indebted- ness to benefactors by providing benefits to a valued third party on behalf of the target (e.g., first making a donation to a charity on behalf of one’s employ- ees and then later asking employees to comply with a request).
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Personality, Organizational Culture, and Cooperation_ Evidence from a Business Simulation
+
+Wegeman's idea of cooperation (in contrast to OCBs). Cooperative behavior is a function of both the person (personality) and environment (culture, reward system, etc.). 
+
+Workplace cooperation has been conceptualized as the willful contribution of employee effort to the successful completion of interdependent organizational tasks (Wagner,
+1995: 152). Cooperative behavior is often manifested in members' willingness to work with others, even when it is not formally demanded, and in preferences for being rewarded for working alone or in groups (e.g., Wageman, 1995). Identifying the conditions under which members are likely to display cooperative behavior is difficult, however, since cooperative behavior can be influenced both by personality, or one's tendency to pursue individualistic or collective goals (e.g., McClintock and Liebrand, 1988), and by formal and informal control systems that reward individual achievement or cooperative efforts (e.g., Petersen, 1992). Further, understanding cooperative behavior not only
+requires knowledge of an individual's propensity to
+cooperate and the situational inducements to cooperate, but also how these factors combine. Our objectives in this study are to add to research that clarifies the conditions under which we should and should not expect to predict behavior from personality and to increase our understanding of the sources of cooperative behavior in organizations. We examine people's disposition to cooperate and the organizational culture in which they act as relevant personal and situational characteristic
+
+ We found that cooperative subjects in collectivistic cultures were rated by coworkers as the most cooperative; they reported working with the greatest number of people, and they had the strongest preferences for evaluating work performance on the
+basis of contributions to teams rather than individual achievement.
+
+Since a collectivistic organizational culture rewards members for cooperating with others in meeting organizational objectives, people with a disposition to cooperate are likely to demonstrate well-practiced cooperative behaviors in this context, such as working with others rather than alone, and expressing preferences for rewards that are based on team accomplishments. In contrast, since an individualistic organization rewards individualistic members for focusing on their own work, individualistic people are most likely to demonstrate well-practiced individualistic behaviors in this context, such as working alone rather than with others, and expressing preferences for rewards that are based on individual accomplishments.
+
+
+
+#asq
+#ob-notes
+#reciprocity
+#ocb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Cohen, Levinthal, & Warglien "Collective performance: modeling the interaction of..."
 
 A paper about creating a formal model of the sequences of actions people take in organizations. Can't make heads or tails of it. Very abstract. Something about "actions coordinate in some way," but I can't follow their definitions. 
@@ -29549,6 +31640,93 @@ keywords
 #joint-action
 #collective-action
 #collective-performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# stepping in and out of flow. cognitive vs feelings
+
+Eric Weinstein
+
+Transcendant feelings. 
+
+Going back and forth between getting lost in a thing and then stepping back and thinking about what we are doing. You can capture this in music. I can play a tune and not really realize how I am doing it. Then I can step back, stop playing, and analytically determine what I did. Going in and out of these states is something you should pursue. 
+
+Eric Weinstein
+You are recognizing that the transcendant lives in particular structures -- that particular structures elicit this feeling. We have an opportunity to go back and forth between an anlytic description and getting lost in the thing itslef. If I'm thinking about this thing I can't really feel it. And if I"m feeling it I can't really think about it or compose it. 
+
+Find things that speak to your head, heart, and loins. You have to go back and forth between these lenses. 
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# "women are wonderful effect"
+
+https://marginalrevolution.com/marginalrevolution/2023/09/misandry.html
+
+Scholars, journalists, politicians, and activists will lavish attention on a small, badly flawed study if it purports to find bias against women, but they’ll ignore—or work to suppress—the wealth of solid research showing the opposite. Three decades ago, psychologists identified the “women-are-wonderful effect,” based on research showing that both sexes tended to rate women more positively than men. This effect has been confirmed repeatedly—women get higher ratings than men for intelligence as well as competence—and it’s obvious in popular culture.
+
+“Toxic masculinity” and “testosterone poisoning” are widely blamed for many problems, but you don’t hear much about “toxic femininity” or “estrogen poisoning.” Who criticizes “femsplaining” or pretends to “believe all men”? If the patriarchy really did rule our society, the stock father character in television sitcoms would not be a “doofus dad” like Homer Simpson, and commercials wouldn’t keep showing wives outsmarting their husbands. (When’s the last time you saw a TV husband get something right?) Smug misandry has been box-office gold for Barbie, which delights in writing off men as hapless romantic partners, leering jerks, violent buffoons, and dimwitted tyrants who ought to let women run the world.
+
+Numerous studies have shown that both sexes care more about harms to women than to men. Men get punished more severely than women for the same crime, and crimes against women are punished more severely than crimes against men. Institutions openly discriminate against men in hiring and promotion policies—and a majority of men as well as women favor affirmative-action programs for women.
+
+The education establishment has obsessed for decades about the shortage of women in some science and tech disciplines, but few worry about males badly trailing by just about every other academic measure from kindergarten through graduate school. By the time boys finish high school (if they do), they’re so far behind that many colleges lower admissions standards for males—a rare instance of pro-male discrimination, though it’s not motivated by a desire to help men. Admissions directors do it because many women are loath to attend a college if the gender ratio is too skewed.
+
+Gender disparities generally matter only if they work against women. In computing its Global Gender Gap, the much-quoted annual report, the World Economic Forum has explicitly ignored male disadvantages: if men fare worse on a particular dimension, a country still gets a perfect score for equality on that measure. Prodded by the federal Title IX law banning sexual discrimination in schools, educators have concentrated on eliminating disparities in athletics but not in other extracurricular programs, which mostly skew female. The fact that there are now three female college students for every two males is of no concern to the White House Gender Policy Council. Its “National Strategy on Gender Equity and Equality” doesn’t even mention boys’ struggles in school, instead focusing exclusively on new ways to help female students get further ahead.
+
+
+#marginal-revolution
+#tyler-cowen
+#anti-woke
+#gender
+#gender-bias
+#toxic-masculinity
+#gender-gap
+#sex-differences
+#disparities
+#concern-for-womens-wellbeing
 
 
 
@@ -30852,6 +33030,99 @@ keywords
 
 
 
+
+
+# electrial life of louis wain
+
+You would be excused for hoping that this is where Mr Wain's fortunes would change. But, alas, a few years after the death of his mother, poor Marie was also taken by the dreaded influenza.
+
+Louis continued to display a woeful lack of financial acumen, and the family sank ever deeper in the quicksand of their debts.
+
+Aside from its bizarre social prejudices and the fact that everything stank of shit, Victorian England was also a land of innovation and scientific discovery.
+
+My warped appearance and uncommon
+behaviour saw me banned from school
+and I was quite excluded from the
+enviously hum-drum existence of
+normal children.
+
+My warped appearance and uncommon
+behaviour saw me banned from school
+and I was quite excluded from the
+enviously hum-drum existence of
+normal children.
+
+I studied chemistry, mathematics,
+music, astronomy and art... and
+soon discovered that school, in
+fact, was no match for my vast,
+peculiar intellect...
+
+I realised I could defeat the chaos
+of my mind, by always moving... I
+became brilliant. 
+
+But forty-four years after the
+death of my father, sinister
+electrical currents and foul ether
+will infect my body and mind
+irreparably. I will be certified
+insane and admitted into a pauper’s
+ward at Springfield Psychiatric
+Hospital in Tooting... You probably
+won’t have heard of me, but my name
+is Louis Wain.
+
+I’ve received word about your
+foolish antics at the country show,
+Mr Wain. There’s been a whole raft
+of complaints about...
+(consults a note)
+... “An odd fellow being dangerous,
+climbing nonchalantly into the
+Longhorn’s pen and standing not
+three yards from the largest, most
+ferocious animal on the entire
+site...”
+
+I was trying to get a closer look
+at him and, well, he didn’t have a
+very good sense of humour, put it
+that way... 
+
+I heard somewhere that they like
+peanuts and it calms them down, but
+it didn’t work. That’s the trouble
+with these show-cows. Huge egos... 
+
+
+
+
+One of my many flaws. 
+Have you ever thought to answer a question directly rather than 
+I know you come from a simple culture where the only people who where diapers are babies.
+What are you talking about Spring? It is the middle of January? I guess you aren't as open minded as me.
+
+
+
+#quotes
+#philosophy
+#wain
+#louis-wain
+#electrical
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Cubrich et al., 2021 "Examining the criterion-related validity evidence of LinkedIn Profile Elements"
 
 Differences in what people put on their linkedIn profiles does not correlate with job performance.
@@ -31080,6 +33351,70 @@ keywords
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# declarative and procedural and insider knowledge
+
+
+
+Declarative knoweldge -- knowing what or that
+
+What are the core constructs in organizational psychology?
+What does expectancy theory predict?
+
+[insider knowledge]
+
+Cohen's writing about the language of a field.
+What topics do the gatekeepers find worthwhile vs worthless?
+What are the personalities and political tendencies of the gatekeepers?
+
+
+Procedural knowledge -- knowing how
+
+How does a graduate student start and finish a research project in the field of organizational psychology?
+
+
+
+
+What do these effect?
+
+Strategy selection
+Attention
+Execution
+Decision making
+Tactical behavior
+
+
+
+Age
+AI
+
+AI can't give you insider knowledge.
+It can give you declarative knowledge.
+It can give you procedural knowledge outlines but not the experience itself. 
+
+
+
+#declarative-knowledge
+#knowledge
+#ai
+#intelligence
+#marginal-revolution
+#learning
+#ob-notes
+#christopher-theory
 
 
 
@@ -33378,6 +35713,36 @@ keywords
 
 
 
+
+
+# stop hesitating to love. 
+
+
+To deny love for fear of suffering, is like refusing to live for fear of dying.
+
+Jim Morrison.
+
+How could it be a mistake to love someone completely?
+
+
+#quote
+#philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Peysakhovich & Rand, 2016 "Habits of virtue: creating norms of cooperation..."
 
 Put people into "cooperative prisoner's dilemma" games and they will behave in cooperative ways in future PD games. Put people into "selfish prisoner's games" and they will behave selfishly in future games.
@@ -33806,7 +36171,19 @@ keywords
 
 
 
+# Matt Taibbi quote
 
+Matt Taibbi on news media outlets:
+
+"We can't let bad ideas out there. People will be charmed by bad ideas, they will spread, and bad social consequences will occur. We have to censor everything."
+
+These officials don't seem to understand that when audiences see that a platform is putting its thumb on the scale and making a political decision to "save viewers from bad ideas" -- that action inspires lack of trust in the media. That censorship behavior inspires behavior just as much as being exposed to an idea inspires a reaction. 
+
+https://www.youtube.com/shorts/d___TFU_CAc
+
+#quote
+#media
+#news
 
 
 
@@ -36182,6 +38559,41 @@ A basic model for achieving cooperation is the inducement-contribution model (Ba
 
 
 
+
+# knowledge hiding is partly a function of perceived professional norms
+
+In a given profession, I look to how the respected and high status individuals are behaving. I copy their knowledge hiding (and other) behaviors. 
+
+To Share or Not to Share? Professional Norms,
+Reference Groups, and Information Withholding
+Among Life Scientists
+
+#ob-notes
+#amj
+#org-science
+#jap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Podsakoff et al., "what predicts within-person variance"
 
 Decisions about what to study (construct type), how to study it (measurement and design characteristics), and from whom to obtain the data (sample characteristics) predict the proportion of variance attributle to within-person factors. 
@@ -37334,6 +39746,66 @@ keywords
 #replication-crisis
 #research-decisions
 #science-of-science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ob science temporal articles
+
+
+The first paper applies what I would call a "marketing angle" to whistle-blowing.
+
+In marketing:
+Your message can be more persuasive if you fit your advertisement with the observer's construal level (abstract with abstract. concrete with concrete).
+
+Similarly, in leadership:
+Your leadership speech can be more accepted and effective if you fit your communication with your observer's construal level (e.g., use abstract goal setting language when people are far but specifics when people are near). 
+
+Applied to whistle-blowing:
+Whistle-blowers first think abstractly about their situation (at this stage, top management values will be considered) and then think specificly about actions they might take to whistle blow (at this stage, they consider specific policies at the workplace). 
+
+
+This stuff would be relevant for us if we ran an additional study looking at how meeting leaders could effectively communicate their ideas within a meeting. 
+
+
+
+
+The second paper doesn't focus on cognition. Nothing about abstract thinking or the like. The basic argument is... when my team works across time zones, it becomes harder for us to meet, chat, and work synchronously due to the temporal distance between us. Therefore, when things get demanding and I really need to speak synchronously with my team, I will have to do so outside my normal work hours (time shift). 
+
+
+Bridging the Chasm Between Intentions and Behaviors:Developing and Testing a Construal Level Theory of InternalWhistle-BlowingAbhijeet K. Vadera,a,* Ann E. Tenbrunsel,b Kristina A. Diekmann
+
+
+Working Around the Clock: Temporal Distance, IntrafirmCommunication, and Time Shifting of the Employee WorkdayJasmina Chauvin,a,* Prithwiraj Choudhury,b Tommy Pan Fang
+
+
+#ob-notes
+#org-science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
