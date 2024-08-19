@@ -29031,6 +29031,262 @@ keywords
 
 
 
+
+
+
+
+# consequences of ai studies
+
+
+#ai-social
+#ai-consequences
+
+
+
+strategic mimicing
+- through the exercise, students pick up on a behavior, then incorporate that into something...
+
+
+assumptions in the literature
+- all of this is infobot. the bot shares critical information. or the bot knows important information. nothing about structuring interactions between people. 
+- all of this is "should the agent be charismatic and empathic or cold and straightforward?" 
+
+
+
+what are the big effects?
+- are you a user, inventor, or someone being evaluated by AI?
+- hiding in tech or avatars or AI tool intermediatery provides a sense of distance
+
+
+
+
+
+
+
+
+lewis-echo
+When teams have amazon echo and go to it for information, teams may come to rely on the machine and reduce information exchange with eachother, harming their ability to learn who knows what.
+
+use echo -> rely on echo -> reduce info exchange -> no TMS
+
+
+"intelligent machines and teamwork" yan, lewis, figge, hollingshead
+
+
+
+
+
+
+
+gurkan-timing
+Use a chatbot early in a task or later in a task? When team members do not know each other well or when team members know each other well?
+
+https://aisel.aisnet.org/amcis2023/sig_core/sig_core/6/
+"it depends on the timing" bei yan necdet gurkan
+
+
+
+
+
+
+
+
+
+people-mimic
+As the agents interacted with people in particular ways, people pick up the interaction style from the technological agents and interacted with their human counterparts in the same manner (Lee et al., 2012; Oliveira et al., 2018; Strohkorb Sebo et al., 2018).
+
+
+
+
+
+
+laio-empathic
+Empathic chatbot vs non-emphathic chatbot receive more information from participants, especially when participants underwent a positive affect manipulation (think about a good time) before interacting with chatbot. 
+
+"are you feeling happy" liao, yan
+
+
+
+
+
+
+facunato-charismatic
+When the robot’s speech is based on charismatic speech characteristics, it is significantly better at enhancing team creativity and performance than when its speech uses fewer charismatic speech characteristic. The robot in the study just provided instructions to participants. It was as if the robot was an undergraduate research assistant walking student teams through a creativity and performance laboratory task. The RA (robot) is either happy and charismatic or not. 
+
+"charismatic speech features in robot interactions" fucinato
+
+
+
+
+
+
+
+randolph-surveyofintelligentassistant
+Found teams who were using AI assistants on prolific or qualtrics. look at the screener items. 
+
+"transactive memory systems in superteams" mcwilliams, randolph
+
+
+
+
+
+
+
+jago-status
+People assume that algorithms can only be applied to non-complex domains. So, learning that a job is managed by an algorithm (AI gives feedback and evaluates performance) will make people view that job as low complexity and low status.
+
+"algorithmic management diminishes status" jago, raveendhran
+ 
+
+
+
+
+
+
+
+
+
+zimmerman-errors
+When thinking of new ways to use AI, people only consider super hard challenges where AI errors are costly. Instead, think of low hanging fruit. Think of routinized domains where AI can make mistakes but timeliness and repetition for learning are worthwhile. 
+
+
+
+
+
+
+
+tang-selfreg
+Using intelligent machines aids in disrepancy reduction (improves work goal progress), and by doing so enhances performance. 
+
+
+"the self-regulatory consequences of dependence" tang, koopman, yam, cremer
+
+
+
+
+
+
+
+nfast-tracking
+People prefer tracking products whether algorithms provide feedback rather than humans because they infer that the algorithm is non-judgemental. 
+This product is going to track your sleep. An algorithm will analyze and provide feedback [vs] a human will analyze and provide feedback. People rate algorithm as non judgemental and indicate greater consumer preferences for these products. 
+nfast hook
+Behaviora tracking is increasingly popular.
+We know that people are biased away from algorithms in many contexts.
+However, we argue that people will prefer algorithms for behavior tracking and feedback, because they will see the algorithm as non-judgemental. 
+
+
+"when and why consumers prefer human-free" raveendhran, fast
+"humans judge, algorithms nudge" raveendhran, fast
+
+
+
+
+
+
+
+
+
+nfast-user
+Are you someone who is using an AI, is evaluated by AI, or created an AI tool? Adverse perceptions toward AI come from individuals who see themselves as being evaluated by AI -- not from people who see themselves as users or creators of AI. 
+
+"inventors bias at work" cratsley, fast
+
+
+
+
+
+
+
+
+
+
+nfast-removed
+You can now use AI agents as intermediaries (agent, you negotiate with the cable company for me, on my behalf). This creates an additional degree of separation between each human (human person using AI, AI, receiver human). Doing so erodes moral concerns and often leads to worse behaviors. 
+
+"the power to harm" gratch, fast
+
+
+
+
+
+
+
+
+
+
+nfast-avatar
+Sort of like my strategic tech choices idea. If a leader thinks a conversation is going to entail negative evaluations, he prefers to interact with an avatar rather than f2f. 
+
+"virtual (freedom from) reality: evaluation apprehension" raveendhran, fast, carnevale
+
+
+
+
+
+
+
+
+
+
+
+
+
+nfast-hrdecisions
+The perceived fairness of decision-making procedures is a key concern for organizations, particularly when evaluating employees and determining personnel outcomes. Algorithms have created opportunities for increasing fairness by overcoming biases commonly displayed by human decision makers. However, while HR algorithms may remove human bias in decisionmaking, we argue that those being evaluated may perceive the process as reductionistic, leading them to think that certain qualitative information or contextualization is not being taken into account. 
+
+
+
+
+
+ 
+
+
+
+
+# consequences of ai studies
+
+
+#ai-social
+#ai-consequences
+#ob-notes
+#ob-ai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # conan, burr, glassman
 
 
