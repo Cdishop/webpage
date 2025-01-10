@@ -9273,6 +9273,319 @@ Keywords
 
 
 
+
+
+
+Who is the cohort?
+
+AOM
+
+AI and Algorithms at Work: How and Why Humans Trust and React to AI and Algorithms in the Workplace
+
+Roman Briker, Jack McGuire, Sarah Bankins, Mauricio Marrone, Anna Carmella Ocampo, Simon Lloyd D Restubog, Sang Eun Woo, David De Cremer, Pok Man Tang, Türkü Erengin, Simon B de Jong, Markus Langer, Cornelius J König, Michelle Kramp, Yochanan Bigman, Nicholas Surdel, Kurt Gray, Melissa Ferguson
+
+Bigman 
+Gray
+
+Fast
+Argo
+Ravni
+Gratch
+
+Jack McGuire
+June Rhu
+
+
+
+
+
+
+
+
+
+
+
+
+
+# bigman & Gray, people are averse to machines making moral decisions
+
+People are averse to machines making moral decisions
+- because machines are viewed as not having minds
+++ low agency (autonomy, adaptability, ability to reason)
+++ not very experienced 
+
+People are averse to machines making morally-relevant driving, legal, medical, and military decisions, and that this aversion is mediated by the perception that machines can neither fully think nor feel.
+
+Studies
+
+Read scenario about either machine or committee or leader making an important decision (drone strike, parole decision, grant lend, etc.)
+
+Rate perceived assessment of mind
+To what extent can machine/committee
+- six agency (communicate with others; able of thinking; plan actions; has foresight; able to think things through)
+- six experience (sensitive to pain; experience happiness; experience fear)
+
+Rate permissibility
+
+It is appropriate for X to make these decisions
+A X should be the one to make these decisions
+A X should be forbidden to make these decisions
+
+
+#ai-ob
+#ob-notes
+#bigman
+#ai
+#ai-hiring
+#ai-selection
+
+
+
+
+
+
+
+
+
+
+
+
+
+# yam, bigman, gray 2021, reducing the uncanny valley
+
+The more machines look human, the more they seem to find them creepy and revolting, a
+phenomenon referred to as the “uncanny valley”
+
+How to reduce this effect? Dehumanize.
+
+Here, you will check in with one of our receptionist robots. Before you do, we wanted to tell you that although advanced robots can behave similarly to humans, they lack the most essential of human qualities – the ability to feel. Robots cannot experience love, desire, or any other emotions. Robots are merely a collection of cold silicon circuits; there are merely means to enhance our hotel’s operation.
+
+[control: you will be served by a variety of robots. We hope you enjoy your stay]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# bigman threat of economic inequality increases preference for algorithm decision-making
+
+We argue that threats of inequality are vivid and salient information
+that lead people to view some medical decisions as moral issues. While
+past research has demonstrated that moral concerns can make people
+averse to algorithm decision-making because algorithms are seen as
+devoid of emotion (Bigman & Gray, 2018; Young & Monroe, 2019), we
+suggest that this “cold impartiality” may be a positive factor when
+inequality is salient. Highlighting inequality in human-led decisionmaking should motivate people towards an alternative that is perceived
+as less biased: algorithms.
+
+CHRISTOPHER NOTE
+No, this is really an effect of: if people think that humans are biased, then they prefer the algorithm. Look at the method.
+The title should be, "signals that humans are biased increases preference for algorithm"
+
+[threat condition]
+In America, there are large racial disparities in who dies from COVID19. In Chicago, for example, African Americans account for only 33% of the population, but 72% of COVID19-related deaths. It is currently unclear what causes this disparity, but there is some evidence suggesting that generally white doctors tend to under-diagnose African American patients.
+
+NOTICE THAT WHITE DOCTORS ARE BIASED IS THE MANIPULATION
+
+3.1.3. Preference for algorithm decision-making
+All participants then read the following question: Imagine you are feeling severe shortness of breath and need to go to a hospital.There are two nearby hospitals. You know that both hospitals are running low on supplies and need to prioritize patients. In one hospital a human doctor makes triage decisions; in the second hospital an AI-based algorithm makes triage decisions. To which hospital would you go? Participants answered the question on a 1 (“Definitely the hospital where the human doctor makes triage decisions”) to 5 (“Definitely the hospital where an AI-based algorithm makes triage decisions”)
+
+
+
+
+
+
+
+# bigman gray trends in cog sciences morality and robots
+
+Which elements are tied to morality when viewing robots?
+
+Situation awareness
+For observers to perceive a person as morally responsible for wrongdoing, that person must seem to be aware of the moral concerns inherent in the situation.  For example, a young child unaware of the danger of guns will not be held responsible for shooting someone. 
+
+Intentionality
+Does this thing have the ability to hold a belief that an action will lead to a particular outcome?
+
+Free will
+The ability to freely act or to do otherwise. Can this thing independently implement actions?
+
+Human like in appearance
+
+Potential harm
+Studies reveal that observing damage and suffering lead people to search for an intentional agent to hold responsible for that damage [14]. If people cannot find another person to hold responsible, they will seek other agents, including corporations and gods.
+
+
+#morality
+#ai-morality
+
+
+
+
+
+
+
+# bigman et al. 2022 algorithmic discrimination causes less moral outrage than human
+
+
+Organizational discrimination can be perpetrated by algorithms. For example, Amazon developed a machine-learning-based algorithm to screen applicant resumes, but the algorithm turned out to discriminate against women, penalizing applicants whose resumes contained terms such as ―women’s chess club captain‖ or the names of women’s colleges. The algorithm was soon scrapped amid outrage about its systematic gender discrimination, and, according to Amazon, was never actually used (Dastin, 2018).
+
+Humans are perceived as having a full mind—capable of both intention and antipathy—and therefore when they discriminate, they are likely to be seen as motivated by prejudice. Because algorithms are perceived as lacking a full mind, people should be less likely to attribute their behavior to a prejudiced motivation, which should then make observers less outraged when algorithms perpetrate discrimination.
+
+Decision made by human vs algorithm -> prejudiced motivation -> outrage
+
+Studies
+
+Manipulate vignette about company hiring almost no women. 
+Use hiring committee vs use AI algorithm
+
+Prejudiced motivation
+[x] is sexist
+[x] does not want to hire women
+[x] is prejudiced
+
+Outrage
+I am angry at company
+I am outraged by hiring practices
+I am disgusted by hiring practices
+
+
+#ai-ob
+#ai-hiring
+#ob-notes
+#ai
+#bigman
+#ai-selection
+
+
+
+
+
+
+
+
+
+# wiese, Weis, bigman et al 2022 it's a match
+
+
+As robots become more and more common as work partners, we need to reveal how people choose to rely upon mechanical agents in shared activities [12]. Here, we examine how decisions to outsource tasks to robots are shaped by the perceived ft between the mind of robots and their tasks.
+
+Study
+
+Complete task
+Social task (RME)
+Arithmetic task (visual adding)
+
+For each trial, you have two different response options: (1) answer question without any help by selecting one of four response options on the screen or (2) offload decision to one of two robot agents (click on robot agent to answer the question immediately).
+
+Robot 1: capable of experiencing complex emotional states
+Robot 2: NOT capable of experiencing complex emotional states
+
+Results
+People offloaded more for the harder, arithmetic task
+Robot 1 (emotional ability) robot was chosen more for RME
+Robot 2 (not emotional ability) robot was chosen more for arithmetic
+
+The results show that participants offloaded the task to the robots in the vast majority of trials rather than responding themselves—a pattern that was more pronounced for the arithmetic than the social task. The results also show that agent preferences were driven by robot-task ft, such that the emotional robot was chosen more often to respond to the social task and the emotionless robot was chosen more often to respond to the arithmetic task. 
+
+
+#ai-ob
+#ai-collabiration
+#human-ai
+#bigman
+#ai-cooperation
+
+
+
+
+
+Christopher thinking
+Offloading seems like a much more functional approach than ai jumping in
+- people prefer offloading to nudging
+
+
+
+
+
+
+
+
+
+
+
+# arnestad, Meyers, gray, bigman 2024 "manual mode increases human blame for AI mistakes"
+
+
+
+People are offloading many tasks to artificial intelligence (AI)—including driving, investing decisions, and medical choices—but it is human nature to want to maintain ultimate control. So even when using autonomous machines, people want a “manual mode”, an option that shifts control back to themselves. Unfortunately, the mere existence of manual mode leads to more human blame when AI makes mistakes. When observers know that a human agent theoretically had the option to take control, the humans are assigned more responsibility, even when agents lack the time or ability to actually exert control, as with self-driving car crashes. Four experiments reveal that though people prefer having a manual mode, even if the AI mode is more efficient and adding the manual mode is more expensive (Study 1), the existence of a manual mode increases human blame (Studies 2a3c). We examine two mediators for this effect: increased perceptions of causation and counterfactual cognition (Study 4). The results suggest that the human thirst for illusory control comes with real costs. Implications of AI decision-making are discussed.
+
+Just AI vs manual mode available -> perceived causation -> blame of human agent
+
+
+Blame 
+● [Frank/Tesla/the self-driving car] is to blame for the
+accident
+● [Frank/Tesla/the self-driving car] is responsible for the
+accident
+
+Liability 
+● [Frank/Tesla] should compensate the other driver
+● Tesla should compensate Frank
+
+Causal Role 
+● [Frank/the self-driving car] caused the accident
+● [Frank/the self-driving car] had control over [the car’s/its own] actions
+● [Frank/the self-driving car] made a choice
+
+Counterfactual
+Cognition
+● If [Frank/the self-driving car] would have made a different decision, the girl wouldn’t have been hurt
+● [Frank/the self-driving car] could have done otherwise
+● [Frank/the self-driving car] could have prevented the accident
+
+
+#ai-ob
+#bigman
+#ai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Dai & Busemeyer 2014 “A probabilitistic, dynamic …”
 
 EXCELLENT intro to intertemporal choice models. Motivate need for probabilitistic models. Motivate need for dynamic models.
