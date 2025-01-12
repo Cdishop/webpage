@@ -18642,6 +18642,483 @@ but this isn't job creation. this isn't coming up with tasks for others to do. W
 
 
 
+
+
+
+# Tiokhin et al., "Shifting the level of selection in science"
+
+Criteria for rewarding scientists typically focus on individual contributions. This creates a conflict between what is best for scientists' careers and what is best for science. 
+
+We need to shift the incentives to better align individual and collective interests. 
+
+In evolutionary biology, it is well-established that mechanisms that create a shared fate incentivize individuals to confer benefits to others, reducing individual-level competition and promoting cooperation.
+
+The case in hens:
+- The goal is to increase chicken egg production
+- A: selection for the most productive hens (those that lay the most eggs). These hens also are the nastiest. They canibalize their peers. When you select for the best hens, total egg production actually decreases.
+- B: select for the most productive groups of hens. Group 3 produced a lot of eggs. Allow all of those hens to reproduce. This increases the number of eggs produced over successive generations.
+
+What could be done in academia:
+- reward at the department level
+- offer permanent positions for roles other than producing research, rather to help others improve. Statisticians, technicians, theoretical modelerrs.
+- create competitions that incentivize large-scale cooperation
+- make it easier for individuals to police group-detrimental behaviors
+
+
+
+THIS PAPER IS AMAZING
+
+
+keywords
+- cooperation
+- theory of science
+- selection
+- evolutionary biology
+- evolution of cooperation
+
+
+#great-paper
+#selection
+#level-of-selection
+#reward-group-vs-individual
+#cooperation
+#evolution-of-cooperation
+
+
+
+
+
+
+
+
+de Melo et al
+- consider the counterpart perspective (ultimatum)
+- draw attention away from short-term rewards
+- contemplate actions; think ahead of time. don't just act.
+
+
+
+
+
+
+rand cooperation in the field
+- descriptive norms: more likely to cooperate when people are told that others have cooperated (imply that cooperation is a social norm)
+- observability: others are informed about your contribution decisions
+- reciprocity is deep rooted in our psychology (just world view; karma). Find ways of engaging people's reciprocity concerns. 
+
+
+
+
+
+
+
+# Peysakhovich & Rand, 2016 "Habits of virtue: creating norms of cooperation..."
+
+Put people into "cooperative prisoner's dilemma" games and they will behave in cooperative ways in future PD games. Put people into "selfish prisoner's games" and they will behave selfishly in future games.
+
+
+
+What explains variability in norms of cooperation across organizations and cultures? One answer comes from the tendency of individuals to internalize typically successful behaviors as norms. Different institu- tional structures can cause different behavioral norms to be internalized. These norms are then carried over into atypical situations beyond the reach of the institution. Here, we experimentally demonstrate such spillovers. First, we immerse subjects in environments that do or do not support cooperation using repeated prisoner’s dilemmas. Afterwards, we measure their intrinsic prosociality in one-shot games. Subjects from environments that support cooperation are more prosocial, more likely to punish selfishness, and more trusting in general.
+
+
+
+keywords
+- cooperation
+- motivation
+- game theory
+
+
+#cooperation
+#motivation
+#habits
+#norms
+
+
+
+
+
+
+# Andrew Delton on what makes people cooperate
+
+What makes people cooperate?
+- shadow of the future: believing interactions will continue into the future
+- unique relationship: our coordination is seamless and I like this person.
+- need of recipient: people offer help to high need people (why give a loaf of bread to someone who is satiated?)
+- recipient is likely to reciprocate: people help others when they believe the other person will reciprocate
+
+Sznycer, Delton, Robertson et al., "the ecological rationality of helping others..."
+
+keywords
+- cooperation
+- helping
+- citizenship
+- evolution
+
+
+
+#cooperation
+#ocb
+#reciprocity
+
+
+
+
+
+
+# Delton et al., "Evolution of direct reciprocity under uncertainty can explain ..."
+
+
+Evolutionary and economic theories predict that humans shouldn't be generous in one-shot situations. But we are. Why?
+
+Because deciding whether an interaction is one-shot or repeated is uncertain. It is subject to noise. 
+
+It is better to mistake a one shot game for a repeated game than it is to mistake a repeated game for a one-shot game.
+- as a byproduct, people have a tendency to cooperate even in one-shot games
+
+
+research ideas
+- evolution simulation but with performance. PDs but with performance.
+- what social situations cause people to infer one-shot interactions?
+
+
+keywords
+- cooperation
+- evolution of cooperation
+- reciprocity
+
+#cooperation
+#reciprocity
+#evolution-of-cooperation
+
+
+
+
+
+
+# burt "cooperation beyond the network"
+
+CEOs who work in closed networks (project teams with similar backgrounds) are less likely to cooperate in one-shot games. 
+
+This effect is amplified for extremely successful CEOs. 
+
+Successful CEOs in closed networks are particularly likely to defect against people beyond their network. 
+
+HOW DO YOU PROMOTE COOPERATION?
+- put people through a "failing" experience in which they need the cooperation of someone else. they witness the benefit of someone helping them
+
+
+
+The tightness within a closed network that faciliates within-network cooperation simultaneously erodes the probability of cooperation beyond the network. 
+
+
+When you work with diverse people on different project teams, you build skills and gather experiences that make you a better "cooperate with others" person.
+- put people through this experience
+- they don't say what exactly the skills are
+
+
+
+
+
+
+
+
+# in-group out-group defense 
+
+HOW DO YOU PROMOTE COOPERATION?
+- give them an enemy to fight against
+
+From group-hunting by lions, wolves, or killer whales (24, 25), to groups of chimpanzees raiding their neighbors (11), to hostile takeovers in the marketplace (26), and to territorial conflicts within and between nation states (27), intergroup conflict is often a clash between the antagonist’s out-group aggression and the opponent’s in-group defense (23, 28)
+
+
+
+
+
+
+(1) individual decision models
+
+act to public goal = interest * efficacy (one’s actions will make a difference in accomplshing goals)
+
+- incentives matter
+++ material: salery, insurance
+++ solidary: praise, respect, friendship
+++ purposive: one’s values
+
+
+
+
+
+# kittur "beyond wikipedia"
+
+[christopher summary]
+Workers must deal with coordination problems when participating in virtual, platform work (generate, share, and make sense of information in a distributed manner). 
+
+How do people coordinate?
+- talking to one another (common)
+- hierarchy (most of work done by small core; many know about 80/20 rule; few know that it is a coordinating mechanism)
+- formal policies for people to read
+- shared mental models
+
+
+Increasing the number of people provides more resources to the system, but it also raises the demands of coordination. 
+
+
+
+(0) general writing on platforms and future work
+
+One particular kind of production group, the wiki, has become an enormously popular way for people to generate, share, and make sense of information in a distributed manner. Wikipedia, an online encyclopedia driven by volunteer contributions, is a case in point: over two million articles have been created in the English language version alone.
+
+As communities grow, they encounter common coordination problems. As small groups group, the informal norms once known by everyone need to be codified into explicit rules and enforced. Informal control structures are centralized into formal hierarchies. Subgroups are formed as the larger size undermines cohesion. Groups’ needs for coordination and communication grow and are accompanied by process losses (i.e., the efforts of the group are lower than what the individuals could ideally accomplish [34]). While these group coordination processes are not specific to wikis, it is plausible that they underlie the evolution of wikis in the same way they do other kinds of online and offline groups.
+
+(a) coordination
+
+Researchers have consistently found that Wikipedia’s success depends upon more than a production process in which many independent contributors each do a little bit of work, causing the coverage and quality of the resulting articles to slowly and consistently grow [21]. To be successful, editors need to coordinate their work in both broad and detailed ways. By coordination, we mean "the act of managing interdependencies between activities" [28].
+
+For example, editors must have a common view of what an encyclopedic article is.
+
+Virtual organizations may involve many more people than is common in a conventional organization. These contributors often have a tenuous and poorly defined relationship to the virtual organization, rarely undergo common training, often fail to share a common context or background and work without strong managerial direction.
+
+collaborators in these virtual environments are seeking ways resolve their discontinuities by developing a common view of their task, their work processes and the work product.
+
+-coordination mechanisms 1 (from classic rsearch on coordination in groups and orgs): peer to peer communication
+
+Collaborators develop a common vision by discussion the issues
+
+-coordination mechanism 2: group structure (role differentiation, division of labor, formal and informal management)
+
+develop a common view of what is needed by relying on others, typically managers, to tell them.
+
+In many peer production communities, a common workgroup structure is to have a small core of leaders set direction and do a disproportionate amount of the work. For example, the top four percent of the developers in the Apache server project contributed 88% of new lines of code [30]. Having the work concentrated in a small group of contributors can have a number of benefits. Communication needs are reduced, since many topics require discussion only by the core group. Similarly, consensus building can be easier since fewer stakeholders are involved. The core group is also more likely to develop a common view or shared mental models of the work that needs to be accomplished even without explicit communication.
+
+-coordination mechanism 3: shared mental models
+
+beliefs held in common among a set of editors about what should be done and who should be doing it. Shared mental models represent a blend of standardization and communication that allows editors to coordinate task assignment without explicit communication [31].
+
+
+keywords
+#coordination
+#wiki
+#platforms
+
+
+
+
+
+
+
+
+# Kittur, Lee, "coordination in collective intelligence"
+
+
+Increasing the number of people in a system provides more resources, but it also raises the demands of coordination. Predict: adding people benefits low-coordination tasks but negatively influences tasks requiring lots of coordination.
+- resolving spelling errors is an independent task (requires no coordination). 
+++ efficiently solve it by using large numbers of people
+- making a change to Linux kernal is a task with high interdependence, high coordination requirements; because when you change the kernal, it effects other software components
+++ efficiently solve it by not using a lot of people. Use hierarchy.
+
+
+What they examine and find (wikipedia study)
+- DV1: how much info is in a wiki article? (independent task)
+- DV2: how readable is a wiki article? (task that requires interdependence)
+++ results: more editors benefited an article's "depth of info" (which does not require coordination) but it harmed an article's "readability" (which requires coordination). 
+
+When more people are added to the problem (the problem being, "create an article"), it benefits low coordination outcomes ("how much info the article contains") but harms high coordination outcomes ("how readable the article is"). 
+
+
+
+
+
+(0) general writing on platforms and future work
+
+large numbers of people come together to produce services and artifacts that benefit the producers themselves and the larger public.
+
+encourages many people to contribute content that, when appropriately aggregated, benefits the group as a whole
+
+These systems are generally characterized by low costs of participation, individuals’ self-selecting tasks to work on, and easy or algorithmic ways of combining their contribution. The rationale for many of these sites is that having more contributors leads to more complete or better quality artifacts [5][32].
+
+(1) coordination
+
+However, even casual inspection shows that the work that people engage in using these technology-enabled collaboration systems differs greatly in its coordination requirements, from tasks that are relatively independent and can be done with little coordination to highly interdependent ones, which require significant coordination amongst contributors [22].
+
+evaluations of movies generated by subscribers to netflix.com depend only on each subscriber honestly giving an evaluation of a movie, independently of other subscribers. In contrast, making a change to the Linux kernel is a task with high coordination requirements, since the change will affect many other software components. Collaboratively editing a Wikipedia article sits between these extremes of interdependence1.
+
+When tasks require high coordination because the work is highly interdependent, having more contributors can increase process losses, reducing the effectiveness of the group below what individual members could optimally accomplish [29]. Although having more contributors increases the resources available to accomplish a group’s goals (e.g., time, energy and expertise), it may also lead to increased process losses due to the need to coordinate the work of more people. In the limit, coordination costs can overwhelm the benefits of added personnel, noted as Brooks’s Law in the domain of software projects: “Adding manpower to a late software project makes it later” [6].
+
+Wilkinson and Huberman found that high-quality articles in Wikipedia (“featured” articles) have substantially more editors involved than do run-of-the mill, non-featured articles, even after controlling for article popularity [35]. However, Kittur and Kraut [20] demonstrated that the benefits of having additional editors depended on the ways in which the editors coordinated their work, by directly communicating with each other or by concentrating most of the editing among a subset of the editors.
+
+
+Compared to interdependent tasks, tasks that can be performed independently and have low coordination requirements should benefit from having more contributors involved. In the examples above, catching and fixing spelling errorsindependent tasks with low coordination requirementsshould be efficiently performed by large numbers of people. A similar intuition underlies Linus’ law in the domain of open source software development: “With enough eyeballs all bugs are shallow” [27]. Conversely, interdependent tasks, which have high coordination requirements, should not benefit as much from having additional editors. As coordination costs in these interdependent tasks scale superlinearly with the number of participants [6], the costs of coordination may even outweigh the benefits of having additional editors.
+
+
+it may be more efficient when completing highcoordination tasks to reduce coordination requirements by concentrating the work in a core of editors. This strategy reduces the overhead of communication between many editors and enables other editors to work more efficiently by providing an outline for the article which they can flesh out and by promoting shared mental models [28]. Mockus, Fielding, & Herbsleb [23] find support for this coordination strategy in the domain of open-source software, where a large set of peripheral developers work on low coordination tasks such as finding bugs, while a smaller set of core developers builds new features. In Wikipedia, concentrating the work among a subset of all the editors working on an article may be an effective coordination strategy that scales up to large numbers of editors. In contrast, communication as a coordination strategy does not scale as well [20].
+
+
+keywords
+#coordination
+#platform
+
+
+
+
+
+
+
+# kittur "herding the cats: the influence of groups"
+
+
+In platform work, people self-select tasks that match their expertise and interests. But platform work also requires collective goal following and behaviors directed for the good of the group that take time away from "this is fun and matches my expertise" tasks. How can platforms motivate OCBs? 
+
+Answer: by using group-identity. When people join a group, their self-interest expands, and they start to believe that helping the group serves their own self-interest in a way that identical behavior would not if they had not identified with the group.
+
+What they study and find
+- wikipedia contributors
+- people that join a wiki contributor group (group identification) vs work independently
+- after joining, contributors increase their overall activity, direct their work toward group-relevant projects, and provide more OCBs than independent workers
+
+keywords
+#platform
+#coordination
+#collective-action
+#ocb
+
+
+
+
+
+
+
+
+
+# Rahman & Valentine "How managers maintain control through collaborative repair"
+
+Old orgs: managers operate in the same building as workers, and managers are responsible for  worker outputs, performance reviews, career development, motivation, discipline, etc. 
+
+New, platform orgs: digital infrastructure connecting client managers (people using the platform to hire project workers) and workers for short-term, expertise-based work (software development, animation, etc.). Work is often public, and performance ratings can be public.
+
+How do client managers attempt and achive managerial control in platform settings?
+
+Discovery
+- when client managers used coercive control (threaten low wages, threaten replacement of worker), then the project was left uncompleted
+- when the client managers used collaborative repair (coupling criticism with praise, task-based feedback), then workers completed projects.
+
+Although it may seem that managers who maintain a tight grip on powerless gig workers are able to coerce project completion, they find that client managers who were more relational, collaborative, and helpful were actually more likely to achieve desired outcomes. 
+
+study
+- monitor communications between client manager and worker on a platform service
+- code those messages
+++ code some for "coercive management language"; code some for "collaborative language"
+- save whether the project finished or not
+
+
+
+keywords
+#platform-work
+
+
+
+
+
+
+(a) the framework
+
+Current crowd work typically consists of small, independent, and homogenous tasks, as shown in Figure 1. Workers are paired with an instance of each task to produce an output. Such simple, small-scale work has engendered low-pay, piece rate reward structures, in part due to the perception that workers are homogenous and unskilled. The current model is also insufficient to support the complexity, creativity, and skills that are needed for many kinds of professional work that take place today. Nor can it drive factors that will lead to increased worker satisfaction, such as improved pay, skill development, and complex work structures.
+
+Much professional work consists of complex sets of interdependent tasks that need to be coordinated across individuals with different expertise and capabilities [89]. For example, producing a book, an academic paper, or a new car all may involve many individuals working in structured teams, each with different skills and roles, collaborating on a shared output.
+
+Crowdsourced labor markets can be viewed as large distributed systems in which each person, such as a worker on Mechanical Turk, is analogous to a processor that can solve a task requiring human intelligence. In this way a crowdsourcing market could be seen as a loosely coupled distributed computing system [9].
+
+The key problems of coordination:
+
+Managing shared resources: whenever a limited resource must be shared, coordinating how becomes important. In crowdsourcing, you have to allocate people (limited resource) to tasks.
+
+Interdependence: one activity produces something required as input for another activity. Deciding how to divide tasks into subtasks, and in which order they should be completed, and how to manage all of this, is important. 
+
+Worker motivation: unlike traditional orgs, crowd work poses unique challenges for maintaining high quality work, satisfaction, and goal-setting. Orgs can use management, incentives, and sanctions. But in crowd platforms, you have limited direct supervision, lack of nuanced and individualized rewards, difficulty of imposing standards, and workers can leave.
+
+
+
+
+
+(b) research foci
+
+(1) workflow
+
+Most crowd uses today entail aggregating many, independent individual tasks. We need workflow designs that facilitate decomposing tasks into subtasks, managing the dependencies between subtasks, and assembling the results. We need to experiment with how this works for complex problems with no clear solution. Rather than edit text, for example, crowd workflows should support complex goals such as essay writing or music composition. Workers also need help juggling tasks from different requesters.
+
+(2) task assignment
+
+We have to be able to match tasks to a limited pool of workers, and those workers need tasks that match their interests and skills. What usually happens is that requesters guess at an appropriate incentive amount, describe the task breifly, and iterate until success. This is inefficient and expensive. Asign tasks in relation to an individuals' abilities, quickly. Are workers or the platforms better-suited to manage task assignment? 
+
+(3) hierarchy
+
+Workers may be nodes (workers) in one job but managers in another. Organized groups of workers might apply to jobs as a single entity. Workers on Mturk like that they don't have a boss. Need research on the willingness of crowd workers to manage or be managed. 
+
+(4) realtime crowd work
+
+Flash crowds: groups of individuals who arrive moments at a request for problems with a short deadline. What would it take to begin with a sketch on a napkin, find a designer to mock up interface alternatives, a usability analyst to test those prototypes, and a front-end engineer to implement the best one, all in a single afternoon?
+
+(5) collaboration
+
+Many tasks worth completing require collaboration -- yet crowdsourcing has largely focused on independent work. You have to create rapport in one hour (over a shorter time horizon than traditional orgs), and over wider cultural gaps. 
+
+(6) quality control
+
+Workers satisfice, minimizing the effort they expend. People trick or game the system. Requesters get around this with quality checks or post-hoc checks that delete bad work. We need to move away from reducing/removing poor quality work to scaffolding or nudging excellent work.
+
+(7) job design
+
+"It would be better if task assignments weren't so monotonous. I don't see the long-term payoff and it discourages me." In traditional firms, when managers design jobs that provide skill variety, task identity, and task significance, workers find their jobs more meaningful [57]. When workers have autonomy in their jobs and receive feedback, they experience increased responsibility for and understanding of the impact of their work. Unfortunately, many paid crowd work platforms do not provide as much skill variety, task identity, and task significance as volunteer platforms such as Wikipedia. There are direct payoffs when requesters convey the identity and significance of tasks to crowd workers [26,115]. Timely and task-specific feedback from peers and requesters, as well as opportunities for self-assessment, help workers to learn, persevere, and produce better results [42]. 
+
+An ideal crowd work system would allow workers to complete a whole and identifiable piece of work in a way that is satisfying and measurable (cf. [62]). The system would explain the significance of the job, offer peer-to-peer and expert feedback, and encourage selfassessment. These systems could offer a variety of ways to complete the task, and thereby not only provide autonomy for the worker, but also reduce errors [55]. Achieving this vision will require communication with workers about the scope and impact of their work, as well as verification that workers understand their impact.
+
+This suggests a need to balance distinct and competing concerns: how much information a worker needs before consenting to provide labor, how much information should be shared to motivate and retain workers, how to share context without introducing inefficiency and how much information may be legitimately withheld to protect interests of requesters.
+
+
+(8) requester clarity and motivation
+
+Don't forget that requesters have to be motivated to provide clear and helpful projects. Often, poor output from a worker is due to unclearly specified directions, not laziness. 
+
+
+(9) reputation and career progression
+
+In traditional orgs, you get letters of rec, network of support, etc. In platforms, you get "I was satisfied with this person's work" reports. How do we allocate fair and useful reputation protocols? How should people advance in their career on a platform? entry level, untrusted worker -> trusted worker -> hourly contractor -> employee
+
+
+
+
+keywords
+#great-paper
+#platforms
+#org-behavior-crowdsourcing
+
+
+
+
+
+
+[valentine writing from intro]
+
+(a) shadow of the future problem
+
+Temporary teams present an intriguing problem: many descriptions of temporary groups suggest that extra-role behaviors are necessary for effective tightly coupled coordination. And yet, temporary groups assemble and work together under conditions that bear little similarity to known antecedents of extra-role behaviors. New research is needed to theorize the conditions that motivate the extra-role behaviors of temporary group members. 
+
+What are the causes of OCBs in traditional settings?
+
+In traditional groups a main predictor of extra-role behaviors is the strength or salience of an individual’s social identity based on their group membership (Blader & Tyler, 2009; Dukerich, Golden, & Shortell, 2002; Kramer, Hanna, Su, & Wei, 2001; Van der Vegt & Bunderson, 2005). Individuals with strong social identity vis-a-vis their work group “have integrated the group with their self-concept,” meaning they are inherently concerned with their group’s welfare and will act on behalf of their group’s
+interests because “group success is tantamount to individual success” (Blader & Tyler, 2009: 466). However, it is unclear whether and how “strong social identity” would develop and motivate extra-role behaviors in ephemeral one-off engagements that last for mere hours, days, or weeks. 
+
+The second antecedent of extra-role behaviors is employees’ perceptions that their supervisor or organization treats them fairly (Cohen-Charash & Spector, 2001; Colquitt, Conlon, Wesson, Porter, & Ng, 2001; Colquitt et al., 2013). When employees are treated fairly, they feel that they are in a social exchange relationship with another who values their interests, and so generously offer their own discretionary behaviors to continue the mutually enjoyable social connection (Organ 1988, 1990). Yet such synergistic social exchange relationships develop as supervisors and employees interact and develop trust over time (Colquitt, LePine, Piccolo, Zapata, & Rich, 2012). It is unclear whether people experience developmental social exchange relationships with relative strangers on brief work engagements.
+
+
+
+
+
+
+
+
+
+
+
+
 # Dionne Diversity, network structure, and effectiveness of collective design
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734147&HistoricalAwards=false
 
