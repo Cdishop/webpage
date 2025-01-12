@@ -34092,6 +34092,1876 @@ We are living in a world where, whenever a new bubble of business emerges, the p
 
 
 
+# kittur "beyond wikipedia"
+
+[christopher summary]
+Workers must deal with coordination problems when participating in virtual, platform work (generate, share, and make sense of information in a distributed manner). 
+
+How do people coordinate?
+- talking to one another (common)
+- hierarchy (most of work done by small core; many know about 80/20 rule; few know that it is a coordinating mechanism)
+- formal policies for people to read
+- shared mental models
+
+
+Increasing the number of people provides more resources to the system, but it also raises the demands of coordination. 
+
+
+
+(0) general writing on platforms and future work
+
+One particular kind of production group, the wiki, has become an enormously popular way for people to generate, share, and make sense of information in a distributed manner. Wikipedia, an online encyclopedia driven by volunteer contributions, is a case in point: over two million articles have been created in the English language version alone.
+
+As communities grow, they encounter common coordination problems. As small groups group, the informal norms once known by everyone need to be codified into explicit rules and enforced. Informal control structures are centralized into formal hierarchies. Subgroups are formed as the larger size undermines cohesion. Groups’ needs for coordination and communication grow and are accompanied by process losses (i.e., the efforts of the group are lower than what the individuals could ideally accomplish [34]). While these group coordination processes are not specific to wikis, it is plausible that they underlie the evolution of wikis in the same way they do other kinds of online and offline groups.
+
+(a) coordination
+
+Researchers have consistently found that Wikipedia’s success depends upon more than a production process in which many independent contributors each do a little bit of work, causing the coverage and quality of the resulting articles to slowly and consistently grow [21]. To be successful, editors need to coordinate their work in both broad and detailed ways. By coordination, we mean "the act of managing interdependencies between activities" [28].
+
+For example, editors must have a common view of what an encyclopedic article is.
+
+Virtual organizations may involve many more people than is common in a conventional organization. These contributors often have a tenuous and poorly defined relationship to the virtual organization, rarely undergo common training, often fail to share a common context or background and work without strong managerial direction.
+
+collaborators in these virtual environments are seeking ways resolve their discontinuities by developing a common view of their task, their work processes and the work product.
+
+-coordination mechanisms 1 (from classic rsearch on coordination in groups and orgs): peer to peer communication
+
+Collaborators develop a common vision by discussion the issues
+
+-coordination mechanism 2: group structure (role differentiation, division of labor, formal and informal management)
+
+develop a common view of what is needed by relying on others, typically managers, to tell them.
+
+In many peer production communities, a common workgroup structure is to have a small core of leaders set direction and do a disproportionate amount of the work. For example, the top four percent of the developers in the Apache server project contributed 88% of new lines of code [30]. Having the work concentrated in a small group of contributors can have a number of benefits. Communication needs are reduced, since many topics require discussion only by the core group. Similarly, consensus building can be easier since fewer stakeholders are involved. The core group is also more likely to develop a common view or shared mental models of the work that needs to be accomplished even without explicit communication.
+
+-coordination mechanism 3: shared mental models
+
+beliefs held in common among a set of editors about what should be done and who should be doing it. Shared mental models represent a blend of standardization and communication that allows editors to coordinate task assignment without explicit communication [31].
+
+
+keywords
+#coordination
+#wiki
+#platforms
+
+
+
+
+
+
+
+
+# Kittur, Lee, "coordination in collective intelligence"
+
+
+Increasing the number of people in a system provides more resources, but it also raises the demands of coordination. Predict: adding people benefits low-coordination tasks but negatively influences tasks requiring lots of coordination.
+- resolving spelling errors is an independent task (requires no coordination). 
+++ efficiently solve it by using large numbers of people
+- making a change to Linux kernal is a task with high interdependence, high coordination requirements; because when you change the kernal, it effects other software components
+++ efficiently solve it by not using a lot of people. Use hierarchy.
+
+
+What they examine and find (wikipedia study)
+- DV1: how much info is in a wiki article? (independent task)
+- DV2: how readable is a wiki article? (task that requires interdependence)
+++ results: more editors benefited an article's "depth of info" (which does not require coordination) but it harmed an article's "readability" (which requires coordination). 
+
+When more people are added to the problem (the problem being, "create an article"), it benefits low coordination outcomes ("how much info the article contains") but harms high coordination outcomes ("how readable the article is"). 
+
+
+
+
+
+(0) general writing on platforms and future work
+
+large numbers of people come together to produce services and artifacts that benefit the producers themselves and the larger public.
+
+encourages many people to contribute content that, when appropriately aggregated, benefits the group as a whole
+
+These systems are generally characterized by low costs of participation, individuals’ self-selecting tasks to work on, and easy or algorithmic ways of combining their contribution. The rationale for many of these sites is that having more contributors leads to more complete or better quality artifacts [5][32].
+
+(1) coordination
+
+However, even casual inspection shows that the work that people engage in using these technology-enabled collaboration systems differs greatly in its coordination requirements, from tasks that are relatively independent and can be done with little coordination to highly interdependent ones, which require significant coordination amongst contributors [22].
+
+evaluations of movies generated by subscribers to netflix.com depend only on each subscriber honestly giving an evaluation of a movie, independently of other subscribers. In contrast, making a change to the Linux kernel is a task with high coordination requirements, since the change will affect many other software components. Collaboratively editing a Wikipedia article sits between these extremes of interdependence1.
+
+When tasks require high coordination because the work is highly interdependent, having more contributors can increase process losses, reducing the effectiveness of the group below what individual members could optimally accomplish [29]. Although having more contributors increases the resources available to accomplish a group’s goals (e.g., time, energy and expertise), it may also lead to increased process losses due to the need to coordinate the work of more people. In the limit, coordination costs can overwhelm the benefits of added personnel, noted as Brooks’s Law in the domain of software projects: “Adding manpower to a late software project makes it later” [6].
+
+Wilkinson and Huberman found that high-quality articles in Wikipedia (“featured” articles) have substantially more editors involved than do run-of-the mill, non-featured articles, even after controlling for article popularity [35]. However, Kittur and Kraut [20] demonstrated that the benefits of having additional editors depended on the ways in which the editors coordinated their work, by directly communicating with each other or by concentrating most of the editing among a subset of the editors.
+
+
+Compared to interdependent tasks, tasks that can be performed independently and have low coordination requirements should benefit from having more contributors involved. In the examples above, catching and fixing spelling errorsindependent tasks with low coordination requirementsshould be efficiently performed by large numbers of people. A similar intuition underlies Linus’ law in the domain of open source software development: “With enough eyeballs all bugs are shallow” [27]. Conversely, interdependent tasks, which have high coordination requirements, should not benefit as much from having additional editors. As coordination costs in these interdependent tasks scale superlinearly with the number of participants [6], the costs of coordination may even outweigh the benefits of having additional editors.
+
+
+it may be more efficient when completing highcoordination tasks to reduce coordination requirements by concentrating the work in a core of editors. This strategy reduces the overhead of communication between many editors and enables other editors to work more efficiently by providing an outline for the article which they can flesh out and by promoting shared mental models [28]. Mockus, Fielding, & Herbsleb [23] find support for this coordination strategy in the domain of open-source software, where a large set of peripheral developers work on low coordination tasks such as finding bugs, while a smaller set of core developers builds new features. In Wikipedia, concentrating the work among a subset of all the editors working on an article may be an effective coordination strategy that scales up to large numbers of editors. In contrast, communication as a coordination strategy does not scale as well [20].
+
+
+keywords
+#coordination
+#platform
+
+
+
+
+
+# Kittur "CrowdForge"
+
+In contrast to the typical crowdsource tasks on Mturk, work in organizations requires complex, interdpeendent, and cognitive effort & time. The impact of micro-task markets would be awesome if they could be applied to complex and interdependent tasks. 
+
+Here is a framework and toolkit to make crowdwork operational for interdependent tasks. 
+
+One omnipotent genius has to partition the problem into sub-tasks with low cognitive load.
+
+Use MapReduce:
+- break a large task down into smaller subtasks (partition)
+- have one subtask processed by one or more workers (map)
+- merge the results of multiple workers' work into a single output (reduce)
+
+Example 1: write an encyclopedia article
+
+Partition: ask people to create lists of section headers commonly found in articles
+Map: ask people to write a single fact for each header
+Reduce: ask people to take the headers and facts and combine into complete sentences into full paper.
+
+
+
+keywords
+#platform
+#interdependence
+
+
+
+
+
+
+
+
+
+
+
+# kittur "herding the cats: the influence of groups"
+
+
+In platform work, people self-select tasks that match their expertise and interests. But platform work also requires collective goal following and behaviors directed for the good of the group that take time away from "this is fun and matches my expertise" tasks. How can platforms motivate OCBs? 
+
+Answer: by using group-identity. When people join a group, their self-interest expands, and they start to believe that helping the group serves their own self-interest in a way that identical behavior would not if they had not identified with the group.
+
+What they study and find
+- wikipedia contributors
+- people that join a wiki contributor group (group identification) vs work independently
+- after joining, contributors increase their overall activity, direct their work toward group-relevant projects, and provide more OCBs than independent workers
+
+keywords
+#platform
+#coordination
+#collective-action
+#ocb
+
+
+
+
+
+
+
+
+
+# Rahman & Valentine "How managers maintain control through collaborative repair"
+
+Old orgs: managers operate in the same building as workers, and managers are responsible for  worker outputs, performance reviews, career development, motivation, discipline, etc. 
+
+New, platform orgs: digital infrastructure connecting client managers (people using the platform to hire project workers) and workers for short-term, expertise-based work (software development, animation, etc.). Work is often public, and performance ratings can be public.
+
+How do client managers attempt and achive managerial control in platform settings?
+
+Discovery
+- when client managers used coercive control (threaten low wages, threaten replacement of worker), then the project was left uncompleted
+- when the client managers used collaborative repair (coupling criticism with praise, task-based feedback), then workers completed projects.
+
+Although it may seem that managers who maintain a tight grip on powerless gig workers are able to coerce project completion, they find that client managers who were more relational, collaborative, and helpful were actually more likely to achieve desired outcomes. 
+
+study
+- monitor communications between client manager and worker on a platform service
+- code those messages
+++ code some for "coercive management language"; code some for "collaborative language"
+- save whether the project finished or not
+
+
+
+keywords
+#platform-work
+
+
+
+
+
+
+# gerry
+
+
+Over the last 50 years, the number of large corporations has declined. 
+
+Moreover, the new large corporations like Facebook and Google employ far fewer people than the old ones (like Blockbuster). 
+
+The reason: public corporations are no longer the most economical way to do business. The original need for public corporations was the need to raise capital on a large scale to invest in tangible assets such as factories, warehouses, railroad tracks, stores, and so on. It was cheapest to produce all of the Model Ts in one giant factory in Detroit, staffed by tens of thousands of workers and administered by a large white collar staff. Over the past two generations, however, it has become increasingly feasible to "rent" the inputs to a firm rather than buy them. 
+- in 2018, Google had more contractors than direct employees, and this number is only expected to increase
+
+Finally, a greater amount of the economy now comes from services and virtual goods. 
+
+Why is declining corporation numbers bad?
+- large corporations are associated with greater equality
+- large corporations provide career stability, path to success, healthcare, retirement savings
+- large corporations are easier to regulate
+- fewer and fewer large companies in the stock market, which makes it more volatile
+
+The decline in public corporations is associated with declining middle class, lower upward mobility, greater inequality, a fraying social safety net. 
+
+
+
+#ross-school-of-business
+#corporations-declining
+
+
+
+
+
+
+
+
+# reidl & woolley burstiness
+
+[christopher summary]
+Burstiness (work individually, then come together as a team to coordinate and speak, then individual) is much better for team performance over distributed environments than continuous discussions over multiple threads. 
+
+
+
+https://behavioralscientist.org/bursty-communication-can-help-remote-teams-thrive/
+
+Many tech companies like IBM, Apple, Facebook, and Google rely heavily on remote teams, but some of them have started to discourage the practice. we show that remote teams who communicate in bursts—exchanging messages quickly during periods of high activity—perform much better than remote teams whose conversations involve long lag time between responses and are spread across multiple topic threads. 
+
+In our randomized controlled trial, we studied 260 software workers spanning 50 different countries, separating them into 52 teams of five and charging them with the same task: develop an algorithm that can recommend the ideal contents of a medical kit on a space flight.
+
+We offered about half the teams cash prizes, the equivalent of those Silicon Valley perks like gourmet food trucks and on-site gym and laundry services. It might surprise some employers to learn that while the incentives did spur some activity and effort, incentives ultimately did nothing to improve the quality of the work.
+
+What did lead to better outcomes was having a “bursty” communication style, where ideas were communicated and responded to quickly. By contrast, in environments where communication and feedback were delayed or dispersed across multiple threads, teams suffered, and the quality of their work suffered.
+
+These findings suggest a new outlook on team performance. Traditionally, performance has been attributed largely to the abilities of the individual members (e.g., general cognitive ability). Thus, many of the models of team effectiveness have highlighted team composition and, over the last few decades, an extensive focus on team diversity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# reidl "make your crowd smart"
+
+Crowdsourcing is becoming popular. But you have to think about the problem and task you are trying to solve, and then create a consistent crowdsourcing paradigm. This paper provides a framework.
+
+The best type of crowd depends on the scope and complexity of the problem you are trying to solve. 
+
+
+
+Search crowd
+- use when the solution to the problem already exists. you just need someone to tell you
+- use when the problems are well-defined, and require independent work
+- provide a clear task description, reach a wide audience, use incentives, target diverse audience
+
+Wired crowd
+- use when the solution must be discovered by building on knowledge over time
+- make the best, past contributions by the crowd public
+- have new crowd members learn from past successes
+
+
+Crowd teams
+- use bursts of communication
+- promote diverse discussion topics
+
+THIS PAPER DID NOT PROVIDE THE INFORMATION THAT IT SAID IT WOULD. IT SAID THAT IT WOULD OFFER CROWD TAXONOMIES FOR CERTAIN KINDS OF PROBLEMS. WHAT IT ACTUALLY DID WAS GROUP RESEARCH BY THE AUTHORS IN DIFFERENT CATEGORIES. 
+
+
+Riedl & Woolley academy of management discoveries "teams vs crowds"
+- mimic intro writing on platforms and crowd work and "how do incentives work in non-traditional teams"
+
+
+
+
+
+
+
+# retelny "no workflow can ever be enough"
+
+Crowdsourcing, a new, dominant work paradigm, succeeds by decomposing tasks into small, independent functions and then combining them together. 
+
+Is it better to partition tasks in such a way, or to just get people into roles and let them go?
+
+The workflow-based teams were given a pre-specified workflow to follow, which fully decomposed all of the tasks and dependencies for the goal as in the crowdsourcing literature (e.g., [52]). In contrast, the role-based teams were
+given a minimally specified work plan, which did not define any individual tasks or dependencies, allowing the crowd workers to self-manage to complete the goal.
+
+Workflow teams couldn't adapt their behavior.
+Role based teams had a harder time coordinating. 
+
+As Lucy Suchman articulated in seminal CSCW research, predefined plans are insufficient to describe human behavior toward complex goals [58]. Instead, complex goals require situated action: constant modification and replanning in reaction to the current situation. Similar concepts recur across literatures: Schön calls this continuous adaptation the reflective practitioner [56]; organizational behavior lists it as a core feature of reciprocal interdependence [62]. The more complex the goal, the more necessary adaptation becomes [21, 23, 63, 65].
+
+keywords
+#great-paper
+#coordination
+#platform-work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# kittur "power of the few vs wisdom of the crowd"
+
+
+Is the success of platform work driven by wisdom of the crowds (small contributions by many, many people) or an "elite" core?
+
+Wikipedia was driven by an elite core early on, then later the workload shifted to many, common users. The same pattern occurs elsewhere.
+
+We discovered an initial rise and subsequent decline in the influence of “elite” users. This result held true whether elite users were defined by peer-selected groups (administrators) or data-driven groups (high-edit users). We demonstrated that this decline was not due to a decrease in elite user activity or to shifts in user group editing patterns, but instead was driven by marked growth in the population of low-edit users – the rise of the bourgeoisie.
+
+
+
+
+
+
+
+
+
+
+# cameron "risky business: gig workers and the navigation of the ideal worker expectations"
+
+
+
+Ideal worker theory and literature: people try to represent themselves as devoted, dedicated, prepared for, and committed to their jobs to others. 
+
+Current theory and literature focuses on professional workers in low risk conditions. It states that availability is the key mechanism behind presenting yourself as an ideal worker. 
+
+This research identifies another signal of devotion: taking on risk. Platform and gig workers are distributed, short time, virtual, etc. They work without healthcare, in weird conditions, and without the same rights. They have to take on risk (like being exposed to Covid) to show that they are an ideal worker. 
+
+keywords
+#mimic-framing-paper
+
+
+
+
+
+
+
+
+
+# kittur "the future of crowd work"
+
+Crowd work has benefits, but is also has the potential to turn into exploitative labor. How can we create a future in which we would want our children to participate?
+
+A crowd work industry is quickly growing in scope; it spans a wide range of skill and pay levels. Anyone with access to the Internet can perform micro-tasks on the order of seconds, whereas more skilled workers can complete multi-hour tasks on professional online marketplaces. Incentive and work structures also vary a lot, ranging from prizes to paying per task. 
+
+We also foresee a serious risk that crowd work will fall into an intellectual framing focused on low-cost results and exploitative labor. With diminished visibility and communication channels vis-a-vis traditional workplaces, workers may be treated as exchangeable and untrustworthy, having low or static skill sets and strong motivations to shirk. Workers may become equally cynical, having fewer bonds, enforceable contracts, and power than with traditional workplaces [130]. Such concerns may grow ever sharper unless this trajectory is somehow altered.
+
+
+(a) the framework
+
+Current crowd work typically consists of small, independent, and homogenous tasks, as shown in Figure 1. Workers are paired with an instance of each task to produce an output. Such simple, small-scale work has engendered low-pay, piece rate reward structures, in part due to the perception that workers are homogenous and unskilled. The current model is also insufficient to support the complexity, creativity, and skills that are needed for many kinds of professional work that take place today. Nor can it drive factors that will lead to increased worker satisfaction, such as improved pay, skill development, and complex work structures.
+
+Much professional work consists of complex sets of interdependent tasks that need to be coordinated across individuals with different expertise and capabilities [89]. For example, producing a book, an academic paper, or a new car all may involve many individuals working in structured teams, each with different skills and roles, collaborating on a shared output.
+
+Crowdsourced labor markets can be viewed as large distributed systems in which each person, such as a worker on Mechanical Turk, is analogous to a processor that can solve a task requiring human intelligence. In this way a crowdsourcing market could be seen as a loosely coupled distributed computing system [9].
+
+The key problems of coordination:
+
+Managing shared resources: whenever a limited resource must be shared, coordinating how becomes important. In crowdsourcing, you have to allocate people (limited resource) to tasks.
+
+Interdependence: one activity produces something required as input for another activity. Deciding how to divide tasks into subtasks, and in which order they should be completed, and how to manage all of this, is important. 
+
+Worker motivation: unlike traditional orgs, crowd work poses unique challenges for maintaining high quality work, satisfaction, and goal-setting. Orgs can use management, incentives, and sanctions. But in crowd platforms, you have limited direct supervision, lack of nuanced and individualized rewards, difficulty of imposing standards, and workers can leave.
+
+
+(b) research foci
+
+(1) workflow
+
+Most crowd uses today entail aggregating many, independent individual tasks. We need workflow designs that facilitate decomposing tasks into subtasks, managing the dependencies between subtasks, and assembling the results. We need to experiment with how this works for complex problems with no clear solution. Rather than edit text, for example, crowd workflows should support complex goals such as essay writing or music composition. Workers also need help juggling tasks from different requesters.
+
+(2) task assignment
+
+We have to be able to match tasks to a limited pool of workers, and those workers need tasks that match their interests and skills. What usually happens is that requesters guess at an appropriate incentive amount, describe the task breifly, and iterate until success. This is inefficient and expensive. Asign tasks in relation to an individuals' abilities, quickly. Are workers or the platforms better-suited to manage task assignment? 
+
+(3) hierarchy
+
+Workers may be nodes (workers) in one job but managers in another. Organized groups of workers might apply to jobs as a single entity. Workers on Mturk like that they don't have a boss. Need research on the willingness of crowd workers to manage or be managed. 
+
+(4) realtime crowd work
+
+Flash crowds: groups of individuals who arrive moments at a request for problems with a short deadline. What would it take to begin with a sketch on a napkin, find a designer to mock up interface alternatives, a usability analyst to test those prototypes, and a front-end engineer to implement the best one, all in a single afternoon?
+
+(5) collaboration
+
+Many tasks worth completing require collaboration -- yet crowdsourcing has largely focused on independent work. You have to create rapport in one hour (over a shorter time horizon than traditional orgs), and over wider cultural gaps. 
+
+(6) quality control
+
+Workers satisfice, minimizing the effort they expend. People trick or game the system. Requesters get around this with quality checks or post-hoc checks that delete bad work. We need to move away from reducing/removing poor quality work to scaffolding or nudging excellent work.
+
+(7) job design
+
+"It would be better if task assignments weren't so monotonous. I don't see the long-term payoff and it discourages me." In traditional firms, when managers design jobs that provide skill variety, task identity, and task significance, workers find their jobs more meaningful [57]. When workers have autonomy in their jobs and receive feedback, they experience increased responsibility for and understanding of the impact of their work. Unfortunately, many paid crowd work platforms do not provide as much skill variety, task identity, and task significance as volunteer platforms such as Wikipedia. There are direct payoffs when requesters convey the identity and significance of tasks to crowd workers [26,115]. Timely and task-specific feedback from peers and requesters, as well as opportunities for self-assessment, help workers to learn, persevere, and produce better results [42]. 
+
+An ideal crowd work system would allow workers to complete a whole and identifiable piece of work in a way that is satisfying and measurable (cf. [62]). The system would explain the significance of the job, offer peer-to-peer and expert feedback, and encourage selfassessment. These systems could offer a variety of ways to complete the task, and thereby not only provide autonomy for the worker, but also reduce errors [55]. Achieving this vision will require communication with workers about the scope and impact of their work, as well as verification that workers understand their impact.
+
+This suggests a need to balance distinct and competing concerns: how much information a worker needs before consenting to provide labor, how much information should be shared to motivate and retain workers, how to share context without introducing inefficiency and how much information may be legitimately withheld to protect interests of requesters.
+
+
+(8) requester clarity and motivation
+
+Don't forget that requesters have to be motivated to provide clear and helpful projects. Often, poor output from a worker is due to unclearly specified directions, not laziness. 
+
+
+(9) reputation and career progression
+
+In traditional orgs, you get letters of rec, network of support, etc. In platforms, you get "I was satisfied with this person's work" reports. How do we allocate fair and useful reputation protocols? How should people advance in their career on a platform? entry level, untrusted worker -> trusted worker -> hourly contractor -> employee
+
+
+
+
+keywords
+#great-paper
+#platforms
+#org-behavior-crowdsourcing
+
+
+
+
+
+
+
+
+
+# Kittur "the knowledge accelerator"
+
+
+Crowdsourcing is powerful, but it relies on small, independent tasks that must be decomposed a priori. For interdependent tasks, you need "global view" people who can see the whole. Unfortunately, these kinds of people are highly skilled and sought, so they leave for better jobs, and when they do, the system breaks apart...the independent workers do not know how to aggregate their work. 
+
+It would be great if we could design a system where you don't need "big picture" people. You can scaffold a system entirely though small contributions of individuals, each of whom sees only part of the whole. 
+
+How do you support big picture thinking with workers each seeing only a small part of the whole?
+
+
+
+They develop a software system. It's ok, but it is limited because "his explanation suggests that the approach would be most valuable where experts generate a lot of valuable information that is unstructured and redundant." 
+
+So, the system is really a "trim away the excess" system. 
+
+
+
+keywords
+#platform
+#workflow
+
+
+
+
+
+
+
+
+
+# Davis "varieties of uberization: how technology and institutions change "
+
+Some of the most basic features of business corporations vary drastically around the world. The biggest corporation in Denmark has more employees than the biggest corporations in China and India. How is that possible? America’s biggest firms are mostly retailers. In Germany, they are mostly manufacturers. In India, IT services. In Brazil and Nigeria, banks. Why? 
+
+Because of the raw materials available to those who organize firms. The configuration of certain materials dimensions creates the conditions for why some firms thrive in some places but not in others. 
+
+Five dimensions relevant for thinking about how firms organize
+
+capital markets: how do firms fund themselves?
+
+labor markets: how are jobs oranized?
+
+product markets: how are competition and collaboration among firms organized?
+
+education systems: how are workers prepared for work?
+
+social safety net: how are health care, income security, and retirement provided?
+
+these form the soil, and they lend themselves to some institutional crops but not others. 
+
+
+
+To over-simplify drastically, GM exists to create shareholder value, and currently has 173,000 employees around the world. Toyota exists to ennoble Japan on the global stage and has 371,000 employees. Volkswagen exists to create good jobs for (German) workers and has 664,000 employees. GM is far more likely to outsource and downsize than VW because the American institutional context valorizes shareholder value, while the German context values stable skilled employment.
+
+
+
+Uberization is the creation of spot labor markets enabled by smartphones in which buyers and sellers can connect for the performance of specific tasks. The most visible version of Uberization is the ridehailing industry, where riders and drivers are connected via a smartphone app. But the idea is more generic: as the cliche goes, there is an Uber for everything now, from food delivery and Ikea furniture assembly to virtual physician house
+calls. The significance of Uberization is not just that it is cheaper to find a ride to the airport these days. It is that Uberization represents a very different means of recruiting and paying labor that is almost certain to undermine core aspects of the traditional employment relation. 
+
+Uberization will change how firms are staffed. 
+
+#davis-uberization
+#environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+# valentine "when equity seems unfair: the role of justice"
+
+[christopher writing]
+
+Quick summary: you facilitate OCBs with practices that turn people to the collective. Study: compare hospitals with practice A to hospitals with practice B by looking at quotes from nurses.
+
+
+
+How do you facilitate OCBs and coordination among temporary workers?
+
+Use practices that turn people toward the collective.
+
+Study
+- nurse pods handling new patients
+- temporary teams because hospital staff are always in flux
+
+IV -- work assignment style
+
+Exactly equal round robin
+- new patients go to pod 1, 2, 3, 4, 1, 2, 3, 4
+
+Based on availability
+- new patients go to the pod with available space
+
+DV -- quotes by nurses of...
+
+cheating behavior
+synchrony
+helping behaviors
+collective unity for the good of the team
+
+
+She looked at reports from Alpine and Belleview (hospitals with round robin style) vs Carter and Dryer (hospitals with availability style).
+
+
+Alpine and Belleview (round robin style) quotes:
+- nurses feel that the rules of the game are the same for everyone. You just have to deal with new patients. 
+- we all look out for each other
+- it's all about the broader picture
+- i'll go figure out what is needed and do it, even if it isn't my job
+- we help each other out
+- I pick up where other nurses are having a hard time
+
+Carter and Dryer (availability style) quotes:
+- intentionally slow work to limit patient inflow
+- people focus on own area without thinking about the collective
+- People should help others when they can. But here, when people are done they are done. They wait for their next patient. 
+- rare for someone to take the attitue, "look, I"m here to help everyone and not just take care of my own patients."
+
+
+
+[valentine writing from intro]
+
+(a) shadow of the future problem
+
+Temporary teams present an intriguing problem: many descriptions of temporary groups suggest that extra-role behaviors are necessary for effective tightly coupled coordination. And yet, temporary groups assemble and work together under conditions that bear little similarity to known antecedents of extra-role behaviors. New research is needed to theorize the conditions that motivate the extra-role behaviors of temporary group members. 
+
+What are the causes of OCBs in traditional settings?
+
+In traditional groups a main predictor of extra-role behaviors is the strength or salience of an individual’s social identity based on their group membership (Blader & Tyler, 2009; Dukerich, Golden, & Shortell, 2002; Kramer, Hanna, Su, & Wei, 2001; Van der Vegt & Bunderson, 2005). Individuals with strong social identity vis-a-vis their work group “have integrated the group with their self-concept,” meaning they are inherently concerned with their group’s welfare and will act on behalf of their group’s
+interests because “group success is tantamount to individual success” (Blader & Tyler, 2009: 466). However, it is unclear whether and how “strong social identity” would develop and motivate extra-role behaviors in ephemeral one-off engagements that last for mere hours, days, or weeks. 
+
+The second antecedent of extra-role behaviors is employees’ perceptions that their supervisor or organization treats them fairly (Cohen-Charash & Spector, 2001; Colquitt, Conlon, Wesson, Porter, & Ng, 2001; Colquitt et al., 2013). When employees are treated fairly, they feel that they are in a social exchange relationship with another who values their interests, and so generously offer their own discretionary behaviors to continue the mutually enjoyable social connection (Organ 1988, 1990). Yet such synergistic social exchange relationships develop as supervisors and employees interact and develop trust over time (Colquitt, LePine, Piccolo, Zapata, & Rich, 2012). It is unclear whether people experience developmental social exchange relationships with relative strangers on brief work engagements.
+
+
+(b) temporary work hype
+
+Temporary groups are short-lived organizational
+systems that challenge traditional theories of organizing (Bechky, 2006; Meyerson, Weick, & Kramer,
+1996). These groups of relative strangers assemble on
+demand for one-time engagements and coordinate
+tightly coupled and complex work. In recent years,
+temporary groups have become a common way for
+work to be done in many industry settings
+(Edmondson, 2012a; Klein, Ziegert, Knight, & Xiao,
+2006). This trend has been attributed to several
+factors, including new internet communication technologies (ICTs) that facilitate the assembly of temporary groups, as well as new macro-employment
+models where many people’s careers span projects,
+organizations, and industries (Benkler, 2017;
+Cappelli, 1999). Examples of temporary groups used
+in different industry settings include innovation
+project teams (Dugan & Gabriel, 2013), crowdsourced
+flash teams and organizations (Retelny et al., 2014;
+Valentine, Retelny, To, Rahmati, Doshi, & Bernstein,
+2017), “tour of duty” start-up teams (Hoffman,
+Casnocha, & Yeh, 2013), “fluid” project teams
+(Staats & Upton, 2011), and ad-hoc virtual teams
+(Crisp & Jarvenpaa, 2013). Against this backdrop,
+organization scholars face the intriguing problem of
+explaining how temporary groups can accomplish
+tightly coupled complex work
+
+Many firms operate in a fast-paced 24/7 service economy characterized by irregular work schedules and multiple shifts (Barnett & Hall, 2007; Presser, 2003). Although staggered round-the-clock staffing provides flexibility, it also involves considerable flux in personnel, meaning that the composition of professionals may vary greatly from one shift to the next, and even from one day to the next. Operating with fluid personnel is possible because people are typically organized around roles, or activity-based positions that can be assumed by anyone with the necessary training. At the same time, organizational work is increasingly interdependent and team-based (Devine, Clayton, Philips, Dunford, & Melner, 1999). Team-based work (that is, work assigned to a team rather than an individual, or work that requires multiple specialties to work together) provides real benefits like access to more and more diverse knowledge, gains in accountability and efficiency, satisfaction, learning, and synergistic processes (Batt, 2004; Cummings, 2004; Dahlin, Weingart, & Hinds, 2005; Edmondson, 1999; Larson, 2010).
+
+(c) what she calls "group-coordination processes"
+
+Having our shared efforts be a priority.
+Updating you about my progress.
+Holding you accountable for your work.
+Helping one another.
+
+
+(d) my summary of "pods" vs "traditional" ED care
+
+Traditional care:
+- patient arrives
+- any available nurse takes chart, operates, and then returns chart to counter
+- any available resident takes chart, operates, and then returns chart to counter
+- physican takes chart, operates, and returns chart to counter
+
+In this design, people care about their individual tasks.
+
+Pod care:
+- group of 10 hospital beds
+- new patients arrive and are assigned to pod 1, then 2, then 3, then 4
+- this pod is worked on by nurse, resident, physician, etc.
+- if the pod doesn't operate effectively, it still gets new patients as they arrive
+
+In this design, people care about keeping an efficient stream of patients through their pods. 
+
+So, I would call this "demand interdependence." You care about the group because you have to work harder if you don't help the group out.
+
+If you don't do well, your pod gets "punished" with more and more patients. 
+
+keywords
+#great-paper
+#temporary-work
+#platform-work
+
+
+
+
+# equilibrium and differential in R
+
+DynamicModelsLabsinR.pdf
+
+keywords
+#equilibrium-in-r
+#differential-in-r
+
+
+
+
+
+
+# group performance deshon lab
+
+gpm_compile.pdf
+
+keywords
+#deshon-group-performance
+#daniel-state-space
+
+
+
+
+
+# hastings et al. "LIFT: integrating stakeholder voices"
+
+Teachers form classroom groups based on superficial characteristics (race, gender, GPA).
+
+Let the students choose the attributes, and they will choose things like schedule preference (morning or evening, weekend) and skills (programming experience).
+
+No differences between the "teacher chosen" vs "learner chosen" conditions for group satisfaction, completion, or performance.
+
+
+keywords
+#group-forming
+#choose-groupmates
+#great-paper
+
+
+
+
+
+OTHER COOPERATION LITERATURE
+
+
+
+# Tiokhin et al., "Shifting the level of selection in science"
+
+Criteria for rewarding scientists typically focus on individual contributions. This creates a conflict between what is best for scientists' careers and what is best for science. 
+
+We need to shift the incentives to better align individual and collective interests. 
+
+In evolutionary biology, it is well-established that mechanisms that create a shared fate incentivize individuals to confer benefits to others, reducing individual-level competition and promoting cooperation.
+
+The case in hens:
+- The goal is to increase chicken egg production
+- A: selection for the most productive hens (those that lay the most eggs). These hens also are the nastiest. They canibalize their peers. When you select for the best hens, total egg production actually decreases.
+- B: select for the most productive groups of hens. Group 3 produced a lot of eggs. Allow all of those hens to reproduce. This increases the number of eggs produced over successive generations.
+
+What could be done in academia:
+- reward at the department level
+- offer permanent positions for roles other than producing research, rather to help others improve. Statisticians, technicians, theoretical modelerrs.
+- create competitions that incentivize large-scale cooperation
+- make it easier for individuals to police group-detrimental behaviors
+
+
+
+THIS PAPER IS AMAZING
+
+
+keywords
+- cooperation
+- theory of science
+- selection
+- evolutionary biology
+- evolution of cooperation
+
+
+#great-paper
+#selection
+#level-of-selection
+#reward-group-vs-individual
+#cooperation
+#evolution-of-cooperation
+
+
+
+
+
+
+
+
+de Melo et al
+- consider the counterpart perspective (ultimatum)
+- draw attention away from short-term rewards
+- contemplate actions; think ahead of time. don't just act.
+
+
+
+
+
+
+rand cooperation in the field
+- descriptive norms: more likely to cooperate when people are told that others have cooperated (imply that cooperation is a social norm)
+- observability: others are informed about your contribution decisions
+- reciprocity is deep rooted in our psychology (just world view; karma). Find ways of engaging people's reciprocity concerns. 
+
+
+
+
+
+
+
+# Peysakhovich & Rand, 2016 "Habits of virtue: creating norms of cooperation..."
+
+Put people into "cooperative prisoner's dilemma" games and they will behave in cooperative ways in future PD games. Put people into "selfish prisoner's games" and they will behave selfishly in future games.
+
+
+
+What explains variability in norms of cooperation across organizations and cultures? One answer comes from the tendency of individuals to internalize typically successful behaviors as norms. Different institu- tional structures can cause different behavioral norms to be internalized. These norms are then carried over into atypical situations beyond the reach of the institution. Here, we experimentally demonstrate such spillovers. First, we immerse subjects in environments that do or do not support cooperation using repeated prisoner’s dilemmas. Afterwards, we measure their intrinsic prosociality in one-shot games. Subjects from environments that support cooperation are more prosocial, more likely to punish selfishness, and more trusting in general.
+
+
+
+keywords
+- cooperation
+- motivation
+- game theory
+
+
+#cooperation
+#motivation
+#habits
+#norms
+
+
+
+
+
+
+# Andrew Delton on what makes people cooperate
+
+What makes people cooperate?
+- shadow of the future: believing interactions will continue into the future
+- unique relationship: our coordination is seamless and I like this person.
+- need of recipient: people offer help to high need people (why give a loaf of bread to someone who is satiated?)
+- recipient is likely to reciprocate: people help others when they believe the other person will reciprocate
+
+Sznycer, Delton, Robertson et al., "the ecological rationality of helping others..."
+
+keywords
+- cooperation
+- helping
+- citizenship
+- evolution
+
+
+
+#cooperation
+#ocb
+#reciprocity
+
+
+
+
+
+
+# Delton et al., "Evolution of direct reciprocity under uncertainty can explain ..."
+
+
+Evolutionary and economic theories predict that humans shouldn't be generous in one-shot situations. But we are. Why?
+
+Because deciding whether an interaction is one-shot or repeated is uncertain. It is subject to noise. 
+
+It is better to mistake a one shot game for a repeated game than it is to mistake a repeated game for a one-shot game.
+- as a byproduct, people have a tendency to cooperate even in one-shot games
+
+
+research ideas
+- evolution simulation but with performance. PDs but with performance.
+- what social situations cause people to infer one-shot interactions?
+
+
+keywords
+- cooperation
+- evolution of cooperation
+- reciprocity
+
+#cooperation
+#reciprocity
+#evolution-of-cooperation
+
+
+
+
+
+
+# burt "cooperation beyond the network"
+
+CEOs who work in closed networks (project teams with similar backgrounds) are less likely to cooperate in one-shot games. 
+
+This effect is amplified for extremely successful CEOs. 
+
+Successful CEOs in closed networks are particularly likely to defect against people beyond their network. 
+
+HOW DO YOU PROMOTE COOPERATION?
+- put people through a "failing" experience in which they need the cooperation of someone else. they witness the benefit of someone helping them
+
+
+
+The tightness within a closed network that faciliates within-network cooperation simultaneously erodes the probability of cooperation beyond the network. 
+
+
+When you work with diverse people on different project teams, you build skills and gather experiences that make you a better "cooperate with others" person.
+- put people through this experience
+- they don't say what exactly the skills are
+
+
+
+
+
+
+
+
+# in-group out-group defense 
+
+HOW DO YOU PROMOTE COOPERATION?
+- give them an enemy to fight against
+
+From group-hunting by lions, wolves, or killer whales (24, 25), to groups of chimpanzees raiding their neighbors (11), to hostile takeovers in the marketplace (26), and to territorial conflicts within and between nation states (27), intergroup conflict is often a clash between the antagonist’s out-group aggression and the opponent’s in-group defense (23, 28)
+
+
+
+
+
+
+(1) individual decision models
+
+act to public goal = interest * efficacy (one’s actions will make a difference in accomplshing goals)
+
+- incentives matter
+++ material: salery, insurance
+++ solidary: praise, respect, friendship
+++ purposive: one’s values
+
+
+
+
+
+
+
+
+
+
+# rahman "the invisible cage"
+
+A platform system connecting client managers to workers used to use a straightforward and transparent performance rating system: after completing the work, customers gave workers ratings on dimensions like "quality of work" and "communication" and "on schedule." 
+
+But they had rating inflation. Within several months, most workers had super high scores, so you couldn't really differentiate workers.
+
+So, the company implemented a new algorithm to calculate worker performance. The algorithm was not made public, and workers were clueless as to why they received a X% performance rating rather than a X+1% performance rating score. 
+
+Rahman (the author of the paper) interviewed the workers about their experiences with this situation. 
+
+The consequence: workers were frustrated. How exactly people respond is a function of (a) how much they depend on the platform for pay and (b) whether they are a high or low performer. If someone really depends on the platform, then he will experiment and tinker to try to identify what the algorithm is ranking on. If someone doesn't need the platform for income, he will disengage when the algorithm for performance ratings becomes opaque. 
+
+
+Here is what he found:
+
+"
+Because freelancers, based on their experiences with more traditional evaluations, expected to use their rating scores to learn how they could better align their actions with the evaluation criteria, they found their inability to learn from the opaque system deeply frustrating. Their ongoing inability to learn and frustration from the opaque evaluation, even years after its introduction, led workers to feel paranoid because they could not determine what actions would influence their rating scores.
+"
+
+
+
+Good writing on "growth of platform work" under 'research setting' section.
+
+I examined workers’ reactivity to opaque third-party rating evaluations they received on TalentFinder (a pseudonym), one of the largest organizations providing an online labor platform. From inception, TalentFinder positioned itself as an intermediary providing the technology infrastructure to match individual clients or organizations with freelancers, earning a percentage fee from the money clients paid to freelancers (Horton, 2010; Kittur et al., 2013; Kuhn and Maleki, 2017). Intermediaries matching labor with capital are not new (Autor, 2009; Bonet, Cappelli, and Hamori, 2013). Unlike previous intermediaries, however, TalentFinder and other emerging organizations provide a digital, centralized platform that could be used by almost anyone in the world. Recent estimates indicate that labor platforms are among the fastest growing markets (Chan and Wang, 2018).
+
+In 2015, TalentFinder had over 12 million registered freelancers and 5 million clients spread across 100 countries. Clients posted 3 million projects, generating over $1 billion of work. TalentFinder differentiated itself from other labor platforms by marketing itself as a platform on which clients could hire freelancers to complete administrative as well as complex, high-skilled work such as software, mobile application, and web development, along with design, animation, sales, and marketing.
+
+keywords
+#platforms
+#client-management
+#gig-work
+#goodharts-law
+
+
+
+
+
+
+
+
+
+# stanton "landing the first job"
+
+
+
+whether you lose your reputation after leaving a group or agency.
+oDesk
+- like Mturk
+- workers can join agencies; collectives of workers who know and vouch for one another. The agencies have their own, collective ratings, formed from combining the ratings of the individuals within them.
+- agency heads can invite inexperienced workers into an agency as a way for these new workers to gain status (and therefore work opportunities) despite being inexperienced. 
+- if a worker leaves an agency, he loses all reputation ratings he received during his tenure at the agency
+- agency heads collect a fraction of the workers' earnings who they invite
+
+Online markets for remote labour services allow workers and firms to contract with each other directly. Despite this, intermediaries—called outsourcing agencies—have emerged in these markets. This article shows that agencies signal to employers that inexperienced workers are high quality. Workers affiliated with an agency have substantially higher job-finding probabilities and wages at the beginning of their careers compared to similar workers without an agency affiliation. This advantage declines after highquality non-affiliated workers receive good public feedback scores. The results indicate that intermediaries have arisen endogenously to permit a more efficient allocation of workers to jobs.
+
+
+#platforms
+#distributed-work
+#status
+#intermediaries
+#groups-in-platforms
+
+
+
+
+
+
+
+
+
+
+# Petriglieri et al "Agony and ecstasy in the gig economy"
+
+Where does identity come from for independent (distributed) workers?
+
+Independent workers lack the secure affiliations and predictable futures deemed necessary to construct a stable identity at work (Sennett, 1998; Ashforth, Harrison, and Corley, 2008). For these workers, the availability of institutionalized frameworks to orient their identity work is, at best, elusive. There is no inclusion boundary past which their identity is granted (Van Maanen and Schein, 1979) and no collective endorsement (Bartel and Dutton, 2001; DeRue and Ashford, 2010) by a larger entity. These workers operate in weak situations (Mischel, 1973) with unclear expectations about appropriate behaviors. In such situations, Weick (1996: 44) argued, ‘‘guides for action may lie elsewhere.’’ The question is, where do guides for action reside in the absence of jobs designed by others (Hackman and Oldham, 1980), leaders who give meaningful direction (Barnard, 1938; Smircich and Morgan, 1982; Podolny, Khurana, and Hill-Popper, 2005), and collegial interactions (Wrzesniewski, Dutton, and Debebe, 2003) that help workers make meaning of their selves, their identities, and the link between them (Pratt and Ashforth, 2003)?
+
+Qualitative study that is hard to interpret
+
+
+#identity
+#gig-work
+#platform-work
+
+
+
+
+
+
+
+
+
+
+# stark "algorithmic management in the platform economy"
+
+Good writing in opening paragraphs about the growth of platform organizations. How they are taking over the economy.
+
+
+
+
+
+
+
+
+
+
+
+
+# Evans "Beach time, bridge time, and billable hours"
+
+A paper on whether contract, flex-time workers actually experience more control over their time than traditional workers.
+
+
+Americans are overworked and pressed for time. Some say that people can regain control over their time by pursuing boundaryless, project-based careers that unfold across rather than within organizations. 
+
+Do boundaryless careers (technical contractors) actually have more control over their time?
+
+They perceive to have more control, but they don't use extra free time...they actually work longer hours. Why?
+
+In traditional orgs, people don't use break-time or flex-time because there is a social pressure to always be present to show commitment.
+
+That social pressure does not exist for technical contractors. So why aren't they taking advantage of flex time?
+
+Because of market / economic / money stuff. 
+
+(1) 
+
+Free-time for contract workers does not mean "time without work, WAHOO," but instead "time without pay."
+
+They try to avoid free-time.
+
+(2)
+
+They equate time with money, because more time means more billable hours.
+
+(3)
+
+Contractor demand is usually highest in times of crisis for a client manager. Firms tend to hire contractors into troubled projects at the last minute.
+
+(4) 
+
+Reputation is important for getting new contracts, so even these people feel pressure to put in long hours for solid references and referrals. 
+
+Note:
+No control group
+
+
+keywords
+#great-paper
+#platform
+#temporary-work
+#time-pressure
+#long-hours
+#workaholics
+#flex-time
+
+
+
+
+
+
+
+# fleming "brokerage, boundary spanning, and leadership"
+
+
+How do leaders emerge in open innovation communities?
+
+Open innovation communities typically lack financial or corporate backing, forgo personal ownership rights to their members’ work, rely on volunteers, and eschew formal planning and management structures.
+
+Technical skill is key
+Boundary spanning is key (diverse ties within and outside your org)
+
+
+#platform
+#open-innovation
+#distributed-work
+
+
+
+
+
+
+
+
+
+
+
+
+# Irani "difference and dependence among digital workers"
+
+Good writing on what exactly mechanical turk involves. 
+
+Good writing on how mechanical turk is really just a way to off-load menial work.
+
+
+Interesting point about the economics of employers vs workers on digital platforms. A requester explains, upon receiving a dispute from a worker about the work or a payment issue: "You cannot spend time exchanging email with workers. The time you spent looking at the email costs more than what you paid them. This has to function on autopilot as an algorithmic system."
+
+Messages from workers about payment or work disputes do not receive messages from employers or requesters. Instead, the messages act as signals to the employers. If a particular way of determining "correctness" for a task results in a large number of disputing messages, Rick's team (the employer or requester) will look into revising the algorithm but will rarely retroactively revise decisions and re-pay workers. 
+
+
+RQ
+- how do you maintain humanity? Does a requester position turn you into a psycho narcassist?
+
+#platforms
+#gig-work
+#digital-workers
+#mturk
+
+
+
+
+
+
+
+
+
+
+
+
+# leung
+
+In a world of distributed and boundaryless work, how does "bouncing from one job to another" affect hiring potential?
+
+Perhaps managers will reward "bouncers" because they have diverse experiences, or perhaps managers will punish "bouncers" because they are perceived as less committed. 
+
+What this study finds:
+- moving incrementally between similar jobs is good
+- bouncing erratically is bad
+
+Freelancers who move between more related job categories on Elance.com -- compared to those who never moved or moved between distant jobs -- were most likely to win additional assignments. 
+
+#platforms
+#skill-development
+#boundaryless
+
+
+
+
+
+
+
+
+
+
+
+# Kornberger "evaluative infrastructures: accounting for"
+
+Great writing on platforms in general.
+
+Terrible writing on theory.
+
+keywords
+#academese
+#bad-writing
+#unreadable-theory
+#platforms
+
+
+
+RQ
+- all of this "using flashteams for stuff" is niche
+- even lawyers wouldn't be able to get beyond the vocab
+- only software savvy people know how to use this stuff to make their work lives more efficient
+
+
+
+
+
+
+
+
+# retelny "expert crowdsourcing with flash teams"
+
+Good writing on the problems and solutions to coordination.
+
+Obstacles to coordination
+- geographical dispersion
+- tech-mediated communication
+- changing team membership
+=> lack shared understanding of who is responsible for what, and what the overall task is
+
+People need to quickly understand their shared work, interdependencies, and each respective role.
+
+How to improve coordination
+- team structures that encode who is responsible for what work
+- modularity: I need this input. Do whatever you want, as long as you give me this input so I can do my work. standard input
+
+
+Organizational behavior (OB) research has identified the obstacles to team coordination as well as the conditions and structures that enable effective team coordination. Obstacles to effective team coordination include geographic dispersion, technology-mediated communication, and fluid (or changing) team membership [39, 19, 11, 22]. These conditions impede team coordination because team members lack a shared understanding of their overall task, and each person’s responsibilities within the task [36]. Because their communication is all electronically-mediated, teams also struggle to engage in the rich communication necessary to build a shared understanding [11]. Teams of experts who are pulled from the crowd will face these same obstacles in the extreme. Foundry’s design is inspired by specific OB studies that show how to support coordination under the challenging working conditions confronted by crowdsourced expert teams. First, Foundry’s composeable team structures are motivated by OB studies of the purpose and functioning of team structures. Team structures enable coordination by encoding who is responsible for what work and which team members are interdependent [8]. Even in the absence of ongoing relationships, lightweight team structures can help even relative strangers coordinate effectively, when the structures set up shared space and shared work around strictly defined work roles [41]. Second, Foundry’s modular design is influenced by management modularity theory which shows how system components must be “loosely coupled” and have a standardized interface so that they can connect and interact in a variety of configurations [4]. Third, Foundry’s design includes several integration mechanisms such as pipelining, structured handoffs and DRIs that address key points of coordination (which OB research shows are often neglected) [18]. We argue that for teams of crowdsourced experts to be most successful, they need to quickly understand their shared work, interdependencies and respective roles in completing that work [37].
+
+
+#flash-teams
+#platforms
+#coordination
+
+
+
+
+
+
+
+
+
+# heath "coordination neglect: how lay theories"
+
+To solve problems, orgs must divide tasks and then integrate the components. Individuals display cognitive short-comings in both areas.
+
+People focus more on division of labor than on integration.
+
+Second, people have trouble communicating when integrating -- both across specialist domains and poor communication in general. 
+
+There is also an inbalance in what management scientists study. Our core theories cover two problems: motivating individuals so that goals are aligned; and organizing individuals so that their actions are aligned. Empirical studies mostly focus on the former. 
+
+We argue that people have inadequate lay theories of organizing, and that their lay theories hinder them when they attack the problem of coordination. Our level of analysis is the individual and the cognitive processes that individuals use to approach the coordination problem. We argue that when individuals design organizational processes or when they participate in them, they frequently fail to understand that coordination is important and they fail to take steps to minimize the difficulty of coordination. To summarize this hypothesis, we say that individuals exhibit coordination neglect.
+
+For example, in order to argue that coordination neglect is a cognitive problem, we must distinguish it from motivational problems such as agency problems. Thus, it is important for us to provide examples where people really would prefer to coordinate so that agency problems are not an issue. Engineers and marketers may not talk to each other to coordinate their efforts because they: (1) have more fun interacting with others in their own department or (2) because they don’t anticipate how much they need to interact to create a successful product. The first is not coordination neglect, it is an agency problem; an organization could presumably solve it by introducing an incentive scheme that encourages the marketers and engineers to interact. The second is more interesting because it suggests a cognitive limitation. This kind of cognitive limitation is unlikely to be solved by any of the standard incentive solutions to problems of control or agency.
+
+
+Two aspects of coordination neglect
+
+(a) partition focus
+
+People focus more on dividing into components than on integrating components. 
+
+They focus on individual elements rather than a system.
+
+Managers, immediately, partition work into units for different teams to complete rather than thinking about how different aspects need to interface. 
+- the result is less independent work, more telephone tag, more meetings and more frustration
+
+Software engineers partition the project crudely and then proceed immediately into implementation. Unfortunately, this inevitably results in greater integration problems later on because they must continuously loop back and make unanticipated changes to the original inadequate design, a phenomenon that has been documented repeatedly by researchers in software engineering.
+
+People prefer to categorize ambiguous information into crisp, well-bounded categories. 
+
+
+(b) Component focus
+
+People not only focus on the partitioning of a task, but also on the individual components that they create. 
+
+A chassis engineer describes a car driving down the road: "all I could see were the suspension arms going up and down."
+
+Teece (1986) notes that in order for firms to commercialize an innovation successfully, they must combine fundamental research with other capabilities or assets. Research alone is not enough, firms must integrate it with other capabilities like marketing, competitive manufacturing, and support. 
+
+WW2 story: British and American armies were trying to destroy German submarines. The British were doing a much better job. So, America copied the British ship technology...but they failed to notice that Britain had much better org structure (The British had a central Intelligence Center with a small staff who collected all incoming information (e.g. decrypted radio intercepts, photographs, prisoner interviews) and communicated this information directly with field commanders.)
+
+
+In the product development literature, Marco Iansiti and others (1993; 1995; Iansiti & Clark, 1994) have argued that ineffective development teams are ‘element focused’ while effective ones are ‘system focused’. Iansiti notes that most development processes in traditional companies are sequential and element-focused. Basic researchers explore a new concept and hand it off to other scientists; these scientists elaborate the concept until they discover a new application, then they hand it off to engineers and manufacturing people; the engineers and manufacturing people prototype and produce the new product . . . This linear approach by element focused firms “tends to compartmentalize specific knowledge” (Iansiti, 1993, p. 138). In contrast,  system-focused companies form a core group of managers, scientists, and engineers early in the process, and this integration team modifies and adapts the new concepts from fundamental research so that they mesh with the current capabilities of the company. Iansiti shows that systems focus is much more effective than element focus: system-focused companies solved 77% of major problems early on, while element-focused companies, which were not as attuned to integration, solved only 40% (Iansiti, 1993, see also Henderson & Clark, 1990).
+
+
+How can people be better at integrating?
+
+You need coordination mechanisms. Chip argues that communication is key.
+
+"the greater the efficiency of communication within the organization, the greater the tolerance for interdependence" (March & Simon, 1958).
+
+People struggle to perspective take.
+Specialists struggle to understand the language of other specialists. 
+People over-estimate how easy it is to communicate their knowledge to others.
+People don't realize that their knowledge is privately held and not known by others. 
+
+keywords
+#great-paper
+#coordination-neglect
+#coordination-mechanisms
+
+
+
+
+
+
+
+
+
+
+
+
+# lee "the nature of expertise in organization design"
+
+[Read my notes on the paper immediately above first]
+
+Have MBA students think aloud as they solve a case study.
+
+Code the language that people use as "partition focus" (emphasizing division of labor) or "integration focus" (emphasizing how to integrate components together)
+
+Experts were less susceptible to partition focus (and integration neglect). 
+
+The authors of this paper add some nuance to chip's coordination neglect idea:
+
+task division and allocation is division of labor.
+
+rewards and information flows are integration of effort.
+
+Great writing on strategy, expertise, designing orgs, etc. 
+
+keywords
+#great-paper
+#strategy-cognition
+#org-design-strategy
+
+
+
+
+
+
+
+
+
+
+# dow "shepherding the crowd yields better work"
+
+Micro-task platforms provide massively parallel, ondemand labor. However, it can be difficult to reliably achieve high-quality work because online workers may behave irresponsibly, misunderstand the task, or lack necessary skills. This paper investigates whether timely, taskspecific feedback helps crowd workers learn, persevere, and produce better results. 
+
+Tools for facilitating quality work on platforms
+- payment ok up to a point, after which it just incentivizes speed
+- aggregate answers from multiple workers
+- use known filters
+- provide context and rationale for task
+
+Feedback to facilitate quality work:
+- concrete, expert feedback helps people understand and strive for key metrics
+- motivates because people become cognizant that others are judging their work
+- self-assessments may provide guidance without additional  overhead
+- self-assessments reveal differences from output to key criteria and perhaps less discouraging than external reviews
+
+Some relevant questions and good writing
+- when should feedback be provided?
+- how detailed should feedback be?
+- who should provide feedback?
+
+study
+- write reviews for products you own (like a camera)
+- conditions:
+++ no feedback
+++ self feedback (complete an assessment of yourself; Fig 5)
+++ external feedback (a different person completes an assessment of you)
+
+DVs
+- performance: repost the reviews to different Mturkers and have them rate it
+- learning: do participants in X condition receive greater and greater performance reviews over time?
+- perseverence: participants could edit their reviews after they self assessed or reviewed an external assessment. Pers = ratio of revised reviews to total reviews
+
+
+Results
+- external and self-assessments led to better reviews
+- higher attrition rates (dropped before getting paid) in the assessment conditions
+- so, greater performance in the assessment conditions may have been due to driving poor performers out
+
+
+keywords
+#mimic-platform
+#platform
+#gig-workers
+#distributed-work
+#performance-management
+#great-paper
+#great-writing
+
+
+
+
+
+
+
+
+# bechky "gaffers, gofers, and grips"
+
+
+
+How can people coordinate in temporary teams?
+
+Good writing on temporary, distributed orgs and workers
+
+"There are many unanswered questions about how people cope with circumstances in which control is not direct and immediate, and conformity to well-established administrative routines not guaranteed."
+
+With greater uncertainty, firms shift away from coordinating via formal organizational structures such as rules, schedules, and division of labor, and move toward interpersonal coordination like informal communication.
+
+
+This researcher worked as a production assistant for 4 films and then wrote about her experience.
+
+
+She argues that roles are coordinating mechanisms for temporary orgs
+- role expectations guide relationships and tasks
+- members in certain roles were expected to perform certain tasks
+
+
+keywords
+#ethnography
+#role-coordination
+#temporary-work
+#academic-fluff-writing
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Valentine "flash organizations: crowdsourcing complex work by structuring crowds as orgs"
+
+Crowdwork is dominated by simple and modular tasks that can be entirely pre-defined. 
+
+How do you enable crowds to operate on complex, changing, and abstract goals?
+
+Create a hieararchy with pre-defined roles rather than tasks. 
+
+Enable continuous adaptation of the work and division of labor by version control of not only the work itself but also of the org hierarchy.
+
+
+organizations because they regularly orchestrate large groups in pursuit of complex and open-ended
+goals, whether short-term like disaster response or long-term
+like spaceflight [8, 9, 63]. Organizations achieve this complexity through a set of formal structures — roles, teams, and
+hierarchies — that encode responsibilities, interdependencies
+and information flow without necessarily pre-specifying all
+actions [15, 83].
+
+
+keywords
+#platform-work
+#flash-organizations
+
+
+
+
+
+
+
+
+
+
+
+# chan "hiring preferences in online labor markets"
+
+Good writing on the growth of online platforms for labor.
+
+Study
+- in online markets, a bias favoring females exists
+- people prefer to hire females
+
+
+keywords
+#platforms
+#online-work
+#distributed-work
+
+
+
+
+
+
+
+
+
+
+# katz "the rise and nature of alternative work arrangements"
+
+A government or finance report documenting that contract workers, freelancers, independent contractors, and temporary work has grown significantly.
+
+
+keywords
+#flex-time
+#temporary-work
+#contract-work
+
+
+
+
+
+
+
+
+
+
+# Kuhn "micro-entrepreneurs, dependent contractors, and instaserfs"
+
+Review and large discussion of online labor platforms. 
+
+Come back and read the whole thing. This is not a study but a review to skim many, many times.
+
+[hype]
+How traditional HRM concepts and theory should be applied to this novel and rapidly evolving employment arrangement is therefore an important question, and one whose answer will require understanding the diversity among both platform firms and platform workers.
+
+[define labor platform]
+We define online labor platforms as for-profit firms that use technology to facilitate the filling of immediate short-term service labor needs, either remotely or in person, with workers who are officially considered independent contractors.
+
+[types of workers/labor in platforms]
+The business model is to charge fees for connecting people offering services with consumers and businesses willing to pay for them. Ride-hailing firms Uber and Lyft are prominent exemplars of this new technology-enabled labor force, and numerous other start-ups offer a diverse array of app-based consumer services, including laundry and food delivery. Other platform firms target business clients rather than consumers. Platforms such as Upwork (formerly Elance-oDesk) offer businesses the ability to hire contract labor from around the world for a wide variety of tasks such as web design and translation services, while other platform firms provide on-site, on-demand labor to businesses. Paid microtask labor mediated by platforms such as Amazon’s Mechanical Turk (MTurk) fits this definition, as do crowdsourcing platforms such as TopCoder that provide highly skilled labor such as software development.
+
+One factor that all online platform firms share is a reliance on electronic reputation mechanisms.
+
+Cappelli and Keller (2013, p. 591) asserted that performance management issues for employees are “almost unrecognizable” in the context of contractual employment arrangements, because solutions to problems must be bilateral between the contractor and the client and are ultimately governed by courts.
+
+
+Some dimensions that differ between platforms
+
+Do workers control their work assignments?
+Do workers control their compensation?
+- MTurk vs Uber vs Fivrr
+
+To what extent does the platform control/manipulate client interactions?
+
+Is the worker dependent on the platform for wages?
+
+
+Here is what this paper is
+- dimensions over which platform companies differ (like whether the platform compensates the worker directly or if the worker sets his own wage)
+
+
+
+[research discoveries]
+
+The most commonly cited benefit of working via an online labor platform is the ability to control one’s own hours. Most respondents in a recent survey of Uber, TaskRabbit, and other platform workers named schedule flexibility as a reason for choosing this type of work (Madan, Saluja, Jiang, & Choi, 2015). But many people cited insufficient scheduling flexibility as a reason for quitting, and finding enough work and optimizing schedules were commonly named as sources of stress
+
+
+Unlike independent actors in a true market, platform workers with limited autonomy generally cannot reap significant rewards associated with superior quality performance or risk-taking, although they can be punished for poor (as evaluated by platform algorithms) performance. If a platform prefers that clients view workers as interchangeable, it may actively police any attempts by workers to build a personal client base in the way that traditional independent contractors would. Such platform workers can increase their earnings only by working longer hours. They have some incentive to avoid poor customer reviews, but exceptional performance is unlikely to result in significantly higher rewards. On the other hand, platform workers with greater autonomy, who can make decisions about their compensation and work assignments, may be able to materially benefit from superior skills or performance.
+
+On those platforms that permit workers to set their own pay rates, the possibility exists for superior performance to lead to significantly higher income. For example, software developers in a crowdsource coding marketplace materially benefit from superior site-based reputation scores both by making higher bids and by being more likely to be chosen
+
+
+keywords
+#platforms
+#gig-work
+#bed-reading
+#platform-hype
+#distributed-work-hype
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hertel "motivation of sotware developers in Open Source projects"
+
+
+What motivates programmers to work in an online platform for free?
+
+Identification with the software
+Desire to improve the software
+Enjoyment of programming
+
+Research idea
+- how do you motivate people?
+- when someone identifies either (1) a problem or (2) something they enjoy doing and is org-relevant,
+- then allow them to change their job to work on it and get paid for it
+
+keywords
+#motives-for-platform-work
+#gig-work
+
+
+
+
+
+
+
+
+# Metiu "owning the code: status closure in distributed groups"
+
+
+Cooperation is hard for distributed groups because of communication problems. 
+
+This author shows that cooperation is also hard for distributed groups because of a long-standing sociological issue: status.
+
+High status groups keep low status groups "out of their club," or the HS group remains closed off from the LS group.
+
+HS group closes off the LS group by criticizing, not using the work of the LS group, and taking control of the code created by the LS group.
+
+This reminds me of "lindy hop instructors are closed to newbies."
+- best dancers don't want to dance with the newbies
+- so the best dancers get better, and the newbies don't get better
+
+
+Good writing on distributed work
+
+keywords
+#cooperation
+#platforms
+#distributed-work
+#academese
+#bad-writing-but-good-paper
+#ethnography
+
+
+
+
+
+
+# forte "scalling consensus"
+
+How does "self-governance" happen in wikipedia?
+
+They argue that the site is becoming increasingly decentralized. 
+
+
+
+
+
+
+
+
+
+
+# stewart "social status in an open-source community"
+
+
+In online communities, people use crude public metrics to assess others' status. 
+
+These metrics can constrain low-status people's ability to move up in status.
+
+Once someone has a bunch of positive scores, they are unlikely to receive a future negative score.
+
+Once someone has a bunch of negative scores, they are unlikely to receive a future positive score.
+
+keywords
+#platforms
+#status
+#open-software
+
+
+
+
+
+
+
+
+# goodman "some management issues in temporary systems"
+
+Good writing on some of the HR questions that emerge when thinking about temporary teams.
+
+keywords
+#temporary-work
+#hr-issues-in-temporary-work
+
+
+
+
+
+
+
+
+
+
+# Barley "the changing nature of work: careers, identities, and work lives"
+
+Hype for contigent work, platform work, etc. 
+
+A letter from the editor. 
+
+the study of new forms of organizing must be linked more tightly to the study of work and how new forms of work are affecting people’s lives
+
+Each leads us to ask whether ideas commonly held by scholars in our field are mistaken or at least outdated and in need of serious refinement.
+
+challenge widespread assumptions rooted in the study of systems that have been disappearing.
+
+
+However, it is worth re-emphasizing that forms of organizing, the institutional structures of employment, and the experiences of workers are intimately tied to what people do, how they do it, and to the social order that shapes and is created by work.
+
+In what ways is the nature of work changing?
+
+First, and perhaps foremost, has been the demise of manufacturing
+Firms have begun to offshore professional and technical jobs as well
+
+
+Equally important has been the growth of contingent work, a general term for forms of employment tied to the completion of a specific task and, hence, of relatively short duration.
+the number of Americans holding contingent jobs increased from 10.1 percent in 2005 (the BLS’s last estimate) to 15.8 percent in late 2015.
+
+
+Although once largely confined to the construction, consulting, aerospace, and defense industries, project work is now becoming a predominant form of organizing in high-tech industries, and it is spreading into banking, retail and other sectors of the economy.
+
+
+Holding two or more jobs simultaneously is also rarely discussed in organizational and management studies, although it is relatively common,
+
+
+
+One type of research question in this landscape: identity when jobs are unstable
+
+But, suppose people increasingly no longer work in organizations that offer stable jobs. How will people answer the questions: “Who am I?” and “How is what I am doing meaningful?” Identity construction without a solid organization foundation is a theme that unites a number of the papers in this issue.
+
+
+
+
+
+
+
+Pando Pooling Hype. 
+
+Finally and perhaps most importantly, the papers in this volume lead us to ask how people will make enough money in a postindustrial economy to sustain a life, much less a family. Comedians, chefs who establish pop-up and underground restaurants, seasonal tax preparers, and contingent workers cannot count on a steady, sufficient income even when they manage to establish an occupational identity and situate themselves in a supportive occupational community. What are we to do when our employment institutions no longer match the nature of work that people are pursuing? In the United States at least, our tax structure, retirement funds, social safety net, and access to health care revolve around laws and institutions developed in the mid-20th century that hinged on the presumption of stable employment and full-time jobs in formal organizations that offered a regular paycheck plus benefits. The question of how to put into place institutions that match the work arrangements that we are so rapidly evolving is in the end a question of policy about which we are unlikely to be able to speak with knowledge and authority unless we again join the study of work to the study of organizing.
+
+
+
+keywords
+#platform-hype
+#pando-pooling-hype
+#risk-pooling-hype
+#contingent-work-hype
+#distributed-work-hype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# fisher "lower cost or just lower value?"
+
+Perfect example of a simulation that can be used in the platform gig work space. 
+
+What is the org cost/benefit to using contingent workers?
+
+Once you consider turnover, low performance, OCBs, etc. is it really worth it to hire temporary Mturks?
+
+keywords
+#simulation-platform
+#contingent-work
+#temporary-work
+#cost-benefit-analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# robers "understanding the motivations, participation, adn performance of open software developers"
+
+Mimic paper.
+
+Open source software communities are hugely popular and growing. 
+They represent new organizational forms.
+What motivates people to participate?
+
+extrinsic: payment
+intrinsic: writing code is an activity they enjoy
+
+results
+- both extrinsic and intrinsic are related
+
+
+
+similar results in "lakhani why hackers do what they do: understanding motivation and effort in free/open source software projects"
+
+Academic theorizing on individual motivations for participating in
+F/OSS projects has posited that external motivational factors in the form of extrinsic benefits
+(e.g.; better jobs, career advancement) are the main drivers of effort. We find in contrast, that
+enjoyment-based intrinsic motivation, namely how creative a person feels when working on the
+project, is the strongest and most pervasive driver. We also find that user need, intellectual
+stimulation derived from writing code, and improving programming skills are top motivators for
+project participation
+
+keywords
+#platform
+#open-source-communities
+#mimic-platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+# vallas "what do platforms do?"
+
+Review on the gig economy and platforms
+
+
+Rise of platform work
+(
+1 - large orgs use software systems internally and to interface with customers
+2 - internet companies create entirely new markets
+
+)
+
+Major platform-based companies such as Airbnb and Uber are now a decade old. Their emergence coincided with the Great Recession, which facilitated the companies’ expansion by creating a ready pool of workers, especially among recent graduates, who could be matched with valueseeking consumers. The platform economy has experienced rapid growth since then and now encompasses a wide array of digitally mediated economic transactions involving the exchange of goods and services. It has grown in two ways (Davis 2016a,b; Kenney & Zysman 2016; Srnicek 2016). The first has unfolded within the traditional economy, as established corporations organically digitalize their internal operations and transactions with other businesses. The origins of this trend lie in the advent of the minicomputer in the 1970s, the popularity of the personal computer in the 1980s, and the spread of the internet in the 1990s and thereafter. Corporations must now have public-facing websites in parallel with internally oriented information systems through which functions are conducted. In the wake of lean management, internal divisions of leading corporations increasingly view one another as customers with whom economic transactions are carried out. This has begun to foster platform-like work situations within conventional firms as applications and mobile devices become widespread.
+
+The second and potentially more consequential path of growth began outside the traditional economy, as companies that have been born digital use the internet to usurp existing markets or create entirely new ones. capital platforms for lodging, goods, and even machinery; service labor platforms for rides, household help, and caring labor; and video streaming and content platforms, which compete with broadcast, cable, and other media companies. The platform economy also encompasses social media firms such as Facebook and Instagram, which subsist on revenue from advertising and the sale of data, and internet service platforms such as Amazon Web Services, which provide the infrastructure on which other companies and platforms depend. As such, the platform economy represents an important and strategically consequential branch of global capitalism, not least because of the Schumpeterian creative destruction—or disruption, in the contemporary parlance—it has imposed across much of the economic landscape.
+
+
+Styles of workers who exist in the platform work space (founders, freelancers, gig workers, microtaskers, influencers)
+
+The first category includes the architects and technologists of the platforms, who are founders, highly skilled employees, and independent contractors. To date, there are few studies of these contributors (however, see Cockayne 2016, Irani 2015, Kelkar 2018). These workers design and maintain platforms’ digital infrastructures. As such, the products of their labor have implications for the occupational conditions other types of platform workers are likely to confront (Irani 2015). Neff’s (2012) study of early-stage workers in creative industries finds they are performing venture labor, on account of their willingness to work long hours in hopes of generating substantial future wealth through initial public offerings or acquisitions. Kelkar (2018) shows how platform designers at edX reconfigured the relationship between users and the software as the company moved to a conventional business model.
+
+A second type of platform work is performed by cloud-based consultants or freelancers who offer professional services via platforms such as UpWork or Freelancer. Like architects and technologists, these workers provide professional services, but they are users rather than creators of platforms. Their work is often untethered to an individual workplace or geographic locale, although some authors (Ettlinger 2017) find geographic clustering even on global platforms specializing in digital labor. This category is defined by a high level of technical skill in such fields as graphic design, computer programming, and journalism, with workers typically engaged on a project-specific basis (Christin 2018, Osnowitz 2011). Cloud-based consultants can often secure a stable source of income only if they succeed in maintaining a sufficient roster of clients. A key issue is whether platforms that support this type of labor encourage the outsourcing of work by firms operating in the traditional economy (Drahokoupil & Piasna 2019) or provide a digital infrastructure that is replacing temporary employment agencies (Corporaal & Lehdonvirta 2017).
+
+A third category is gig workers whose services are engaged via platforms and generally performed offline, as in ride-hail, food delivery, home repair, and care work. There is a robust market for this type of business, which includes delivery, day-labor, and odd-job tasks. This arrangement affords the provider with flexibility in terms of work schedules and autonomy, a benefit that is regularly advertised by the firms. However, gig workers must not only assume responsibility for operating costs and risks and forego protections enjoyed by employees but also conform to the temporal rhythms of customer demand, which can reduce their autonomy substantially (Ravenelle 2019, Rosenblat 2018, Schor 2020).
+
+A fourth type of platform work is performed entirely online, involving what is termed microtasking, as represented by workers engaged on Amazon Mechanical Turk (AMT) or Figure Eight (formerly CrowdFlower). These workers undertake human intelligence tasks that computers cannot perform and that are part of the process of machine learning. These jobs generally require less training and experience than the work of cloud-based consultants and freelancers. Examples include describing or classifying the content of images, editing computer-generated text, validating user accounts on social media, or transcribing brief audio clips (Wood et al. 2018). Payment is on a piece-rate basis. Partly because microtasking encompasses a large, highly varied group of workers living in both the Global North and South, tasks are priced under extremely competitive conditions, and the ability to earn a living wage in wealthy countries through microtasking is limited (Berg 2016, Berg & de Stefano 2018, Gray & Suri 2019). Crowdworking sites have great potential to disperse work that was once performed in-house; indeed, Berg (2016, p. 546) cites instances in which microtasking “has become the organizational model” for firms that previously relied on in-house employment, citing as an example a publishing company that is one of the largest users of AMT and whose entire labor force is sourced via that platform.
+
+A final type of platform worker exists in the penumbra of social media and includes the content producers and influencers who perform what Duffy (2017) calls aspirational labor. This type of platform work is often provided on an unpaid basis, in the hope of gaining a sufficient level of prominence in the attention economy (Marwick 2013) to establish a regular source of revenue. This work resembles Neff’s venture labor in that workers’ vision of a desirable future leads them to embrace highly insecure positions in the labor market.
+
+
+
+keywords
+#platforms
+#gig-economy
+#worker-types-in-platforms
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
