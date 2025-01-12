@@ -24373,6 +24373,45 @@ when feedback comes from man, women report sig lower motivation to use it. Women
 ji woon run dissertation
 
 
+
+
+
+Let’s use this structure
+Help me identify some other AI trends that would be relevant for OB studies
+
+June rho:
+AI used for feedback
+[trend: AI is being used as a manger to give employee feedback
+[IV: AI vs person feedback
+[DV: intention to use feedback
+AI trend: used to give feedback
+OB domain: feedback
+
+Algo:
+How do people perceive jobs managed by AI?
+[trend: AI is being used to algorithmically manage certain jobs (eg uber drivers)
+[IV: manager of someone is a human boss vs an algorithm
+[DV: status perception of that someone who is a worker under a particular type of boss
+AI trend: AI used for algorithmic management
+OB domain: perceived status of jobs
+
+Wiese
+Choosing when to use AI
+[trend: people can delegate tasks to AI
+[IV: type of task you are working on. What kinds of skills it requires
+[DV: does someone do the task him or herself, or delegate to an AI?
+AI trend: using or delegating tasks to AI
+OB domain: self regulation / motivation
+
+Fast and bigman
+[trend: AI is being used to make hiring decisions
+[IV: algorithm used to make hiring decision vs committee
+[DV: belief that appropriate selection decision was used; belief
+AI trend: using AI for hiring
+OB domain: selection
+
+
+
 #ob-notes
 #ai-social
 #ai-consequences
