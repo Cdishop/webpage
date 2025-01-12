@@ -32981,6 +32981,366 @@ keywords
 
 
 
+# Lazear 2000 "Performance pay and productivity"
+
+When a firm switches from hourly pay to piece rate pay (pay people for units produced), employee effectinveess (measured in many different ways) increases.
+
+
+#pay-for-performance
+#performance-management
+#human-resources
+
+
+
+
+
+# Condly, Clark, and Stolovich (2003)
+
+Incentives improve individual performance on a range of tasks by an average of 22 percent
+- team incentives lead to much better performance than individual incentives
+
+
+
+
+keywords
+- psych of performance
+- motivation
+- incentives
+
+
+
+#incentives
+#motivation
+#performance-management
+
+
+
+
+
+
+
+
+
+# Bradler, Dur, Neckermann, & Non, "Employee recognition and performance: a field"
+
+Recognition is an important source of employee motivation. But how should managers allocate recognition: should they praise all? or should they recognize only extraordinary performances?
+
+On the one hand, exclusive recognition might raise the performance of high-performers even further as they feel acknowledged and motivated by the public praise. However, this might come at the cost of discouraging and frustrating the non-recipients. On the other hand, non-recipients might respond positively as they are encouraged to catch up with the high-performers while the latter might rest on their laurels.
+
+Lab study
+- students do work
+- experimentally manipulate praise:
+++ only praise top performer
+++ praise top three performers
+++ praise everyone
+
+
+They find that praise to the top three performers results in the best performance gains. This study is inconclusive. The results aren't important. The framing and the question are awesome.
+
+keywords
+- performance management
+- motivation
+- rewards
+- undergraduate reading
+
+
+#performance-management
+#motivation
+#incentives
+#undergrad-reading
+
+
+
+
+
+
+# Kotiloglu, Chen, Lechler, 2019 "Organizational responses to performance feedback"
+
+Nice review and meta analysis of performance feedback. 
+
+
+Main results of standards/aspirations/feedback level/goal
+- when performance is below a standard (aspiration/goal), orgs increase action intensity
+- when performance is above a standard, orgs decrease action intensity
+
+It depends a lot on private/public firm, sector of the market, size of the company, etc.
+
+
+keywords
+- performance management
+- performance
+- feedback
+- goals/aspirations/standards
+
+
+#performance-management
+#feedback
+#aspirations
+#goals
+
+
+
+
+
+
+
+# Benson, Li, & Shue "Promotions and the peter principle"
+
+People are often promoted based on current success rather than managerial potential.
+
+
+The best worker is not always the best candidate for manager. In these cases, do firms promote the best potential manager or the best worker in their current job? Using microdata on the performance of sales workers at 131 firms, we find evidence consistent with the Peter Principle, which proposes that firms prioritize current job performance in promotion decisions at the expense of other observable characteristics that better predict managerial performance.
+
+
+
+keywords
+- selection
+- performance
+- promotion
+
+#peter-principle
+#selection
+#promotion
+#performance-management
+#internal-mobility
+#great-paper
+
+
+
+
+
+
+# Weiss dissertation "An examination of employee coachability and managerial coaching..."
+
+Employees need to be coachable, which consists of:
+- feedback seeking
+- feedback receptive
+- implementation of feedback
+
+
+Individual antecedents to coachability
+- learning goal orientation
+- feedback orientation
+- proactive personality
+- expressed humility
+- achievement striving
+- ego defense
+- instrumental motive
+
+
+keywords
+- coachability
+- performance
+- training
+- human resource management
+
+
+
+#performance-management
+#coachable
+#feedback
+#human-resource-management
+
+
+
+
+# Gilchrist et al., "When 3+1 > 4: gift structure"
+
+Do higher wages lead to increased productivity? We find that paying higher wages, per se, does not have a discernable effect on productivity.
+
+Economists have long recognized that employees are often paid more than the market clearing wage, and that unemployed workers do not bid wages down to the point where supply equals demand. The neoclassical explanation for this phenomenon comes in the form of efficiency wage theories, which generally argue that employees will work harder when they receive high wages because they do not want to lose a high-paying job (Katz 1986). This type of mechanism relies on repeated interactions between employers and employees. In one-time jobs without any consideration for future employment, the neoclassical model would argue that efficiency wages do not increase productivity. At the same time, a robust literature based in psychology and behavioral economics demonstrates that people care about fairness, and that fairness considerations may create incentives for reciprocation. If you give a gift to someone, that person might reciprocate – even in a one-shot game with no potential for future interaction (Gouldner, 1960; Cialdini, 1993; Berg et al. 1995, Fehr and Gächter 2000, Pillutla et al. 2003, Falk et al. 2008). This principle has been implemented in field settings as well. For example, Falk (2007) shows that including a small gift in a fundraising letter leads to higher donation levels. In the context of labor economics, fairness concerns and reciprocity have been offered as an explanation for efficiency wages (Akerlof 1982, Akerlof and Yellen 1990, Fehr et al. 2009). If employees view high wages as a gift, then they may reciprocate by working harder, even though there is no financial incentive to do so. The thrust of this argument is that the market wage serves as a reference point, and employees will reward positive deviations from this reference point—even in a one-shot employment contract with no career concerns.
+
+Do employees work harder when they are paid more? Laboratory experiments have mostly shown that paying an unconditional bonus before the work starts causes workers to reciprocate by working harder (e.g. Fehr et al. 1993, Fehr and Gächter 2000, Hannan et al. 2002, Charness 2004). In seminal work in the field, Gneezy and List (2006) look at two field settings, hiring roughly 40 workers to test whether paying higher-than marketwages increases output in a library data entry task and in door-to-door fundraising. Specifically, Gneezy and List compare the output of workers assigned to a “gift” treatment, (in which workers are hired at a low wage and then offered a raise immediately before starting work), with the output of workers assigned to a “non-gift” treatment, (in which workers are hired at and paid the low wage). They find that workers who receive the “gift” (i.e., the additional money) exert higher productivity for the first few hours of the task; in their setting, the temporary increase in productivity does not justify its cost. Since then, there has been mixed evidence on the relevance of gift exchange in different contexts. Hennig-Schmidt et al. (2010), Kube et al. (2012, 2013), Al-Ubaydli et al. (2015), and concurrent but independent work by Esteves-Sorenson and Macera (2013) all find that gifts have mild to no effects when hiring undergraduate students for field experiments. However, looking at a tree-planting firm, Bellemare and Shearer (2009) find that a one-day, unexpected gift leads to an increase in productivity. Cohn et al. (forthcoming) also find evidence in favor of gift exchange—but only when employees view the initial wage as being unfairly low. Looking at managers in a large multinational, Ockenfels et al. (forthcoming) find that bonuses that fall behind natural reference points lead to lower job satisfaction and performance. There is an open question about the extent to which all of these effects persist. However, because this prior research has not varied the base wage, the set-up cannot identify whether reciprocity is triggered because the higher wages are above the market rate or because the higher wages are salient to workers who unexpectedly receive the gift after having already agreed to a job. In other words, wage amount (high vs. low) is confounded with wage structure (salient gift vs. no gift) in the prior literature. In this paper, we offer a large-scale gift exchange experiment in a field setting where we vary both whether or not a worker receives an unexpected raise before starting work, as well as the base wage offered to potential hires. This subtle difference allows us to differentiate between the impact of salient “gifts” on performance and the impact of above-market wages on performance. Our results show that the way in which a wage is structured (and not simply its level) may be essential to generating reciprocity. In our study, hiring at and paying workers a high wage ($4) leads to no increase in productivity; i.e. it results in an economically identical and statistically indistinguishable amount of productivity relative to hiring at and paying workers a lower wage ($3). However, hiring workers at a lower wage and then offering them an unexpected raise ($3+$1) significantly increases performance. Common models of reciprocity in labor markets (e.g., Akerlof 1982, Akerlof and Yellen 1990) assume that high wages alone are the determinant of reciprocation, but these models do not differentiate between our 3+1 and 4 offers.
+
+
+keywords
+- incentives
+- behavioral economics
+- reciprocity
+- wages
+- effort
+- performance
+
+
+
+
+
+
+
+
+
+# Lee, Doyle "How performance incentives shape exploration/exploitation"
+
+Can individuals excel simultaneously at exploration and exploitation? How? How do incentives change which dimension people pursue?
+
+Examine employees who undergo a pay restructuring. They go from a performance-based incentive system to a flat-wage structure. What happens?
+
+When wages change from performance-based to flat wages, then high-ability individuals increase their exploratory behavior...they presume this effect happens because such individuals have greater slack available in a flat-wage structure with minimum performance targets. 
+
+In other words, the high ability performers have no problem reaching the minimal requirements in a flat-wage structure, so they reach the requirements, have extra time/space, and then pursue exploratory ideas.
+
+An unanswered question: why do they do so? What perceptions mediate this move? Is it because the high performers are bored? Because they have greater cognitive capacity?
+
+
+keywords
+- incentives
+- pay
+- exploration exploitation
+
+
+
+#incentives
+#exploration-exploitation
+#performance-management
+
+
+
+
+
+# jd hudge fund story about profit tailoring [james]
+
+Old EA video games: you pay 40 for a game. Regardless of whether I spend 4 or 400 hours playing the game, we all pay the same price.
+
+The person who wants to play it for 400 might be willing to pay more for his experience.
+
+So, develop in-app or in-game purchases. If you want more of the experience, pay for it and you get it. If you don't like it, then don't pay for it. 
+
+
+
+#performance-management
+#incentives
+#in-app-purchases
+#engagement
+
+
+
+
+
+
+# Tucker et al., "Improving productivity through public relative performance feedback"
+
+In emergency departments, when you change from private to public and relative performance feedback, phyisicians improve in their performance. They also find reductions in variation in productivity across providers, which stems from bottom-ranked workers exhibiting differentially large improvements in productivity. These effects hold without sacrificing system-level performance, service quality, or worker attrition.
+
+
+keywords
+- incentives
+- feedback
+- performance
+- performance feedback
+- big fish small pond
+
+#frog-pond
+#incentives
+#feedback
+#performance-management
+#big-fish-small-fish
+
+
+
+
+
+
+
+
+
+
+# ludwig "using public feedback and competitive rewards to increase"
+
+Public, individual feedback about safety driving among pizza drivers increased their safe driving behaviors. 
+
+Behavior X was incentivized and given feedback at store A, behavior Y was incenstivied and given feedback at store B.
+- at store A, behavior X increased
+- at store B, behavior Y increased
+
+This study investigated the effects of a safe driving compe- tition facilitated by publicly-posted individual feedback. The turn-signal use, safety-belt use, and complete intersection stopping of 82 pizza deliver- ers were observed at two experimental and three control stores, as well as among the civilian population. After baseline observations, pizza deliver- ers received posted weekly individual feedback on their turn-signal use (at Store A) or complete intersection stops (at Store B). The deliverers’ safe driving scores were posted individually on a vertical scale along with their names. Each week the deliverer with the highest average performance was rewarded with a free vehicle-maintenance coupon. Turn-signal use among drivers at Store A (n = 24) increased 22 percentage points from baseline to the intervention phase which was maintained into the withdrawal phase. Complete intersection stopping among drivers at Store B (n = 21) increased 17 percentage points from baseline to the intervention phase and was main- tained into the withdrawal phase. 
+
+keywords
+#performance-management
+#rewards
+#incentives
+#behavior-management
+#aba-design
+#intervention
+#feedback
+#competitive-rewards
+
+
+
+
+
+
+
+
+# Lourenco "monetary incentives, feedback, and recognition"
+
+
+In a sales environment, feedback doesn't improve performance, but recognition and monetary incentives do.
+
+
+This study provides experimental evidence from a field setting regarding the effects of monetary incentives, feedback, and recognition on performance measured as sales relative to goals. The results of my field experiment in a retail services company show an increase in performance due to the introduction of monetary incentives and recognition, but no change in performance relative to a control group when only feedback was provided.
+
+
+operationalization of each:
+
+(1) monetary incentives
+
+Reps earned an extra $10 for meeting the goal, $20 for meeting the stretched goal, and $30 for meeting the super stretched goal.
+
+(2) performance feedback
+
+Reps in the feedback condition received info about sales and the three goals on a by product and by store basis.
+
+(3) recognition
+
+Reps in the recognition condition participated in a special acknowledgement program that awarded certificates -- with no monetary value -- signed by the CEO at the end of the experiment.
+
+
+The info for conditions 1, 2, or 3 was communicated via email, weekly. "Here is an update of your weekly bonus! Your bonus for the week of XX is YY!"
+
+or
+
+"In the week of XX, you were part of our Gold group of Reps. Congrats! You are part of our most valuable group of Reps."
+
+
+
+keywords
+#sales-motivation
+#use-materials
+#materials-embedded
+#study-materials
+#performance-management
+#incentives
+#feedback
+#recognition
+#good-writing
+
+
+
+
+
+# downes et al "referents or role models?"
+
+Is it good or bad to perceive the high performance of your peers?
+- it depends on your personality
+
+What are the effects of perceiving peers’ higher performance? Social–cognitive theory emphasizes the positive influence that perceiving higher performers can have on observer task and job performance (because observational learning from role models enhances self-efficacy). Social comparison theory emphasizes the negative self-evaluations that accompany perceiving higher performers, which should under many circumstances reduce self-efficacy and subsequent task and job performance. To more fully understand the effects of perceiving higher performance, we argue the effects of perceived higher performers on observer task and job performance depend on individuals’ disposition in how they cognitively process coworkers’ performance. Drawing on goal orientation theory, we suggest individuals with higher levels of performance prove goal orientation (PPGO) primarily interpret perceived higher performers as comparative referents rather than as instructive role models, inhibiting social learning and reducing self-efficacy.
+
+
+cross sectional study.
+
+keywords
+#mimic-study
+#performance-management
+#peer-social-comparisons
+#frog-pond
+#small-fish-big-fish
+
+
+
+
+
+
+
 
 
 
