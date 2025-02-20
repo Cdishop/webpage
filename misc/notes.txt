@@ -33911,6 +33911,53 @@ keywords
 
 
 
+
+
+
+
+# Neelam Modi, Alina Lungeanu, Leslie DeChurch, and Noshir Contractor
+
+Interest in team diversity initiatives has surged over the past decade. Some initiatives aim to compose “high variability” teams where members contribute a variety of attributes. Others compose “highly atypical” teams whose combination of attributes is underrepresented within the broader organization or field, even if it lacks variety internally. These approaches entail markedly different underlying assumptions about how to benefit most from team diversity initiatives, and comparing their short- and long-term outcomes contributes to an important discovery about cultivating diverse teams. Variable and atypical teams were compared within a competitive seed grant program context. Examining all team proposal submissions over six years, we assessed short-term performance based on the team's funding status following a three-stage review process and long-term viability based on team members’ tendency to collaborate more in the future. Our analysis revealed that diversity operates differently when conceptualized as variability versus atypicality. Specifically, while team variability often led to neutral or negative short-term outcomes, it had a mixed impact on long-term viability. Conversely, team atypicality showed a mixed effect on short-term performance, but it consistently enhanced long-term viability. Hence, there was distinctive value in nurturing highly atypical teams in terms of long-term viability.
+
+
+
+
+
+# Wu, Lingfei and Wang, Dashun and Evans, James A.. "Large teams develop and small teams disrupt science and technology," Nature, v.566, 2019. doi:10.1038/s41586-019-0941-9 Citation details
+
+
+One of the most universal trends in science and technology today is the growth of large teams in all areas, as solitary researchers and small teams diminish in prevalence1–3. Increases in team size have been attributed to the specialization of scientific activities3, improvements in communication technology4,5, or the complexity of modern problems that require interdisciplinary solutions6–8. This shift in team size raises the question of whether and how the character of the science and technology produced by large teams differs from that of small teams. Here we analyse more than 65 million papers, patents and software products that span the period 1954–2014, and demonstrate that across this period smaller teams have tended to disrupt science and technology with new ideas and opportunities, whereas larger teams have tended to develop existing ones.
+
+
+
+
+# berg creativity
+
+Scholars have long recognized that creativity and innovation unfold in a multistage process (Amabile, 1988; Anderson, Potocnik, & Zhou, 2014). This pro- cess begins with employees generating rough initial ideas, then elaborating initial ideas into more detailed plans, and eventually implementing the plans to pro- duce a finished product (Perry-Smith & Mannucci, 2017). Thus, developing creative ideas is just the beginning—ideas must then be implemented success- fully to become creative final products. In organiza- tions, employees do not always implement their own ideas. Rather, employees are often handed ideas to implement that were developed by someone else. Engineers may build products that they or others designed (Hargadon & Sutton, 1997). Film directors may create films from screenplays that they or others wrote (Baker & Faulkner, 1991). Marketers may exe- cute their own or someone else’s idea for a new adver- tising campaign (Hirschman, 1989). Organizations are increasingly crowdsourcing new ideas from employ- ees (Terwiesch & Ulrich, 2009) or from customers and other outsiders (Bayus, 2013), which employees may be asked to implement. 
+Despite the ubiquity of employees being handed ideas to implement that they did not create, this situation has been largely neglected in past research (Rouse, 2013). A common assumption in prior research is that the same creators drive all stages of the creative process, from idea generation through implementa- tion, overlooking the notion that ideas may be handed off between stages (Amabile & Pratt, 2016). As a result, past theory and research on idea implementation has focused on employees trying to implement their own ideas, as opposed to ideas developed by someone else (e.g., Baer, 2012; Fleming, Mingo, & Chen, 2007; Miron-Spektor, Erez, & Naveh, 2011; Perry-Smith & Mannucci, 2017; West, 2002). 
+Drawing on theories of psychological ownership (Baer & Brown, 2012; Pierce, Kostova, & Dirks, 2001) and creative cognition (Ward, Smith, & Finke, 1999), we propose that implementers’ effectiveness in build- ing new ideas into creative final products depends on when and from whom ideas are handed off (if at all) to the implementer. In particular, we introduce a framework that differentiates handoff types based on two considerations: (1) how mature ideas are when implementers become the primary driver of the idea, and (2) whether a prior handoff between other individ- uals took place before the implementer is handed the idea. We hypothesize that “late handoffs” are costly to creativity, meaning that implementers build less creative final products when they are handed rela- tively mature ideas to implement without driving at least some of their prior development. However, we also hypothesize that “serialized late handoffs”— when implementers are handed relatively mature ideas after an earlier handoff between two other indi- viduals—are less costly to creativity than late handoffs from one other individual. We tested our hypotheses using two studies: an archival study of the U.S. film industry and a complementary experiment. Across the two studies, results generally supported our theorizing. 
+
+
+# nurmohamed 2nd selection
+
+Existing work on newcomer adjustment and socialization typically assumes that selected employees are the first choice for a role or job. However, this is not always the case. To address this oversight, we introduce and examine the phenomenon of alternate choices: Employees who are selected for a role but perceive or discover that they were not the first choice. Drawing on social identity theory, we contend that alternate choices seek less feedback directly from others due to experiencing less social integration and examine whether leader inclusion offsets these effects. Our studies cycling between experimental and field survey designs support the proposed theory. 
+
+
+#great-paper
+#great-abstract
+#grad-phil
+
+
+
+
+
+
+
+
+
+
+
+
 # Kubin et al., 2020 “Personal experiences bridge moral and political divides better than facts”
 
 Using facts to handle political disagreements only makes people mad. To get someone to tolerate an alternative position, you have to use personal stories.
