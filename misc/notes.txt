@@ -7888,6 +7888,997 @@ We demonstrate that the treatment increases children’s skills in terms of impu
 
 
 
+
+
+
+
+
+
+
+# ping brodsky main message
+
+You need to think about what task you are doing, what it requires, and whether your tech facilitates or hampers work.
+
+
+# zoom convo lags disrupts turn taking
+
+Boland, J. E., Fonseca, P., Mermelstein, I., & Williamson, M. (2022). Zoom disrupts the rhythm of conversation. Journal of Experimental Psychology: General, 151(6), 1272–1282.
+
+Small, variable transmission delays over Zoom disrupt the typical rhythm of conversation, leading to delays in turn initiation.
+
+For instance, research has shown that tiny lags of less than a second in video calls can cause interruptions and difficulty with conversational turn-taking.
+
+The onion coworkers on an infinite loop of “oops” go ahead
+https://theonion.com/coworkers-on-zoom-trapped-in-infinite-loop-of-telling-e-1843523932/
+
+#ping
+#ob-notes
+#virtual
+
+# voice calls lead to better understanding and closeness than text, though people think voice will lead to more misunderstandings
+
+Kumar, A., & Epley, N. (2021). It’s surprisingly nice to hear you: Misunderstanding the impact of communication media can lead to suboptimal choices of how to connect with others. Journal of Experimental Psychology: General, 150(3), 595.
+
+People expect voice-calls to be awkward and lead to misunderstandings.
+But actually, voice calls and telephone conversations lead to more feelings of closeness and more understanding than text-based communications. 
+
+In a correlational study described in the introduction, respondents reported feeling less lonely over the course of a New Year’s weekend as they spent more time in voice-based communication, which included face-to-face meetings as well as voice-based interactions. Experiments 1 and 2 highlighted the importance of voice more specifically, and manipulated communication media experimentally. In both experiments, participants reported feeling more connected to their conversation partner— either an old friend or a stranger—when they talked using voice-based media than when they typed using text-based media. Participants’ expectations in Experiment 1 anticipated this effect on the strength of their social connections when they compared the two media against each other directly, but they also expected that voice-based interaction would be more awkward than text-based interaction. As a result, most participants preferred to reconnect over text. This preference appeared to be at least somewhat mistaken as actual interactions using one’s voice created a stronger sense of social connection but proved no more awkward than interactions using text.
+
+#ping
+#ob-notes
+#virtual
+
+
+# typos in an emotional email signal to me that you are overwhelmed by emotion
+
+Blunden, H., & Brodsky, A. (2021). Beyond the emoticon: Are there unintentional cues of emotion in email?. Personality and Social Psychology Bulletin, 47(4), 565-579.
+
+I view your typos in an emotional email as a signal of you being overwhelmed and taken over by the emotion. Framing: lit says emotions only leak through in rich media. Here, we show that emotions can leak through even in text-based communication. 
+
+The researchers wanted to know if unintentional mistakes—specifically, typos in emails—can serve as hidden clues that reveal a sender’s emotional state. In other words, even if you’re not trying to show how you feel, could a few typos make someone reading your email think you’re, say, angrier or happier than you really intended to seem?
+
+Traditional View: In face-to-face conversation, we pick up on lots of emotional cues (like tone of voice, facial expressions, body language). However, email is usually thought to lack these cues.
+New Idea: Even though emails don’t have things like tone or facial expressions, they might still carry “leaks” of emotion. One possible leak is typos—small mistakes that you might not even notice but that a reader could interpret in a meaningful way.
+
+Manipulating Typos: In some emails, the researchers added a few subtle typos (e.g., “unaceptable” instead of “unacceptable”). In other versions, the emails were written perfectly.
+Varying the Emotional Context: In some studies, the emails were written to express a negative emotion (like anger), while in another study they looked at a positive emotion (joy).
+Measuring Reactions: After reading an email, participants rated:
+How much emotion they thought the sender was experiencing (e.g., anger or joy).
+Whether the sender’s emotions seemed to “get in the way” of their ability to write clearly (a concept the researchers call emotional interference).
+How intelligent they thought the sender was (since typos sometimes make people assume the writer is less careful or less smart).
+Typos Increase Perceived Emotion:
+Anger: In emails that were meant to be angry, the ones with typos were judged as coming from a more angry sender compared to error-free emails.
+Joy: Similarly, in emails meant to be joyful, adding typos led people to perceive a higher level of joy.
+Typos Signal Emotional Interference:
+People tended to believe that if an email contained typos, it wasn’t just poor writing—it was a sign that the sender’s emotions were interfering with their normal thinking. This “emotional interference” partly explained why the emails were seen as more emotionally charged.
+Judgments About Intelligence Depend on Context:
+In general, emails with typos made the sender seem less intelligent.
+However, if the email was already emotional, the negative judgment about intelligence was less severe. In an emotional context, people were more willing to attribute typos to the sender being overwhelmed by emotion rather than a lack of ability.
+
+#ping
+#ob-notes
+#virtual
+
+
+# busy people are seen as high status. No time is the new conspicuous consumption.
+
+Bellezza, S., Paharia, N., & Keinan, A. (2017). Conspicuous consumption of time: When busyness and lack of leisure time become a status symbol. Journal of Consumer Research, 44(1), 118-138.
+
+Busy has become a status symbol. People who are viewed as busy are seen as possessing human capital resources and in demand by the labor market. These perceptions mediate perceptions of status. 
+
+While research on conspicuous consumption has typically analyzed how people spend money on products that signal status, in this research we investigate conspicuous consumption in relation to time. We demonstrate the conditions under which displaying one’s busyness at work and lack of leisure time operates as a visible signal of status in the eyes of others. A series of studies, across several distinct groups of participants, demonstrates that the positive status effect of displaying one’s busyness and lack of leisure time is driven by the perception that a busy person possesses desired human capital characteristics (competence, ambition) and is scarce and in demand in the job market.
+
+First, while past research on status signaling has primarily focused on how the expenditure of money has been a vehicle to signal status (Bellezza and Keinan 2014; Berger and Ward 2010; Griskevicius et al. 2007; Han et al. 2010; Keinan, Crener, and Bellezza 2016; Mandel et al. 2006; Ordabayeva and Chandon 2011; Rucker and Galinsky 2008; Wang and Griskevicius 2014; Ward and Dahl 2014), we explore how the expenditure of time can lead to the same end.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+# multi tasking customer service agents lead to delays and lower customer service satisfaction
+
+Goes, P. B., Ilk, N., Lin, M., & Zhao, J. L. (2018). When more is less: Field evidence on unintended consequences of multitasking. Management Science, 64(7), 3033-3054.
+
+We know a lot about multi-tasking and losses in individual productivity, but what about multi-tasking and customer service satisfaction?
+
+Online customer service chats provide new opportunities for firms to interact with their customers and have become increasingly popular in recent years for firms of all sizes. One reason for their popularity is the ability for customer service agents to multitask (i.e., interact with multiple customers at a time) thereby increasing the system “throughput” and agent productivity. Yet little is known about how multitasking impacts customer satisfaction—the ultimate goal of customer engagements. We address this question using a proprietary data set from an S&P 500 service firm that documents agent multitasking activities (unobservable to customers) in the form of server logs, customer service chat transcripts, and postservice customer surveys. We find that agent multitasking leads to longer in-service delays for customers and lower problem resolution rates. Both lead to lower customer satisfaction, although the impact varies for different customers. Our study is among the first to document the link between multitasking and customer satisfaction
+
+Related literature
+For example, Aral et al. (2012) found that at low levels of multitasking (measured as the average number of projects simultaneously worked on), workers attain benefits from task complementarities and smoothing bursty work, leading to increased output. Cameron and Webster (2011) observed that busy workers may make themselves more accessible to their colleagues via multitasking. Reinsch et al. (2008) argued that multitasking team members in a meeting will communicate more efficiently by initiating concurrent live-chat conversations among themselves.
+
+#ping
+#virtual
+#ob-notes
+
+# multi tasking productivity follows a U shape but accuracy goes down
+
+Adler, R. F., & Benbunan-Fich, R. (2012). Juggling on a high wire: Multitasking effects on performance. International Journal of Human-Computer Studies, 70(2), 156-168.
+
+Up to a certain point, you can get more output by multi-tasking, but your accuracy for each output will go down with multitasking. 
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# I edit more and send longer messages to desirable rather than undesirable targets
+
+Walther, J. B. (2007). Selective self-presentation in computer-mediated communication: Hyperpersonal dimensions of technology, language, and cognition. Computers in human behavior, 23(5), 2538-2557.
+
+The basic framework for CMC:
+A sender considers the desirability of the target, editing messages based on this
+The receiver forms impressions of the sender
+
+People are looking for minimal similarity when interacting online. 
+
+Sender send longer and more thoughtful and more edited messages to desirable rather than undesirable targets
+
+#ping
+#virtual
+#ob-notes
+
+
+
+# meeting best practices
+
+Leach, D. J., Rogelberg, S. G., Warr, P. B., & Burnfield, J. L. (2009). Perceived meeting effectiveness: The role of design characteristics. Journal of Business and Psychology, 24, 65-76.
+
+The findings suggest, though, that agenda use, punctuality, and meeting facilities warrant particular attention. 
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+# Less redundant and more truly diverse ideas emerge in anonymous chat rooms
+
+Cooper, W. H., Gallupe, R. B., Pollard, S., & Cadsby, J. (1998). Some liberating effects of anonymous electronic brainstorming. Small group research, 29(2), 147-178.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+# virtual communication curbs creative idea generation
+
+Brucks, M. S., & Levav, J. (2022). Virtual communication curbs creative idea generation. Nature, 605(7908), 108-112.
+
+COVID-19 accelerated a decade-long shift to remote work by normalizing working from home on a large scale. Indeed, 75% of US employees in a 2021 survey reported a personal preference for working remotely at least one day per week1, and studies estimate that 20% of US workdays will take place at home after the pandemic ends2. Here we examine how this shift away from in-person interaction affects innovation, which relies on collaborative idea generation as the foundation of commercial and scientific progress3. In a laboratory study and a field experiment across five countries (in Europe, the Middle East and South Asia), we show that videoconferencing inhibits the production of creative ideas. By contrast, when it comes to selecting which idea to pursue, we find no evidence that videoconferencing groups are less effective (and preliminary evidence that they may be more effective) than in-person groups. Departing from previous theories that focus on how oral and written technologies limit the synchronicity and extent of information exchanged4,5,6, we find that our effects are driven by differences in the physical nature of videoconferencing and in-person interactions. Specifically, using eye-gaze and recall measures, as well as latent semantic analysis, we demonstrate that videoconferencing hampers idea generation because it focuses communicators on a screen, which prompts a narrower cognitive focus.
+
+
+#ping
+#virtual
+#ob-notes
+#thinkscape
+
+
+# cmc and idea generation
+
+Kerr, D. S., & Murthy, U. S. (2004). Divergent and convergent idea generation in teams: A comparison of computer-mediated and face-to-face communication. Group Decision and Negotiation, 13, 381-399.
+
+You need to choose the right technology for the task at hand (is this a generate task or a select the best option task?). F2F groups are better at filtering irrelevant options and selecting the final, best choice.
+Chat rooms generate lots and lots of ideas, but they also generate lots of irrelevant options. 
+
+#ping
+#virtual
+#ob-notes
+
+
+# emails are super disruptive, comparable to that of phone calls
+
+The use of email by employees at the Danwood Group was studied and it was found that the interrupt effect from emails is more than generally believed. Employees allowed themselves to be interrupted almost as frequently as telephone calls and the common reaction to the arrival of an email is to react almost as quickly as they would respond to telephone calls. This means the interrupt effect is comparable with that of a telephone call. The recovery time from an email interruption was found to be significantly less than the published recovery time for telephone calls. It is to be concluded, therefore, that while Email is still less disruptive than the telephone, the way the majority of users handle their incoming email has been shown to give far more interruption than expected.
+
+Jackson, T., Dawson, R., & Wilson, D. (2001). The cost of email interruption. Journal of systems and information technology, 5(1), 81-92.
+
+#ping
+#virtual
+#ob-notes
+
+
+# spending more time on emails lowers productivity and increases stress. Effects of batching are mixed
+
+Mark, G., Iqbal, S. T., Czerwinski, M., Johns, P., Sano, A., & Lutchyn, Y. (2016, May). Email duration, batching and self-interruption: Patterns of email use on productivity and stress. In Proceedings of the 2016 CHI conference on human factors in computing systems (pp. 1717-1728).
+
+Also, interruptions involve a significant recovery time to reorient back to an interrupted task [18, 35]. Perhaps people who self-interrupt have more control over when to take a task break, e.g. gearing their interruptions to natural break points in tasks [18] making it easier to resume an interrupted task, thus leading to a higher feeling of productivity
+
+# email batching is not a panacea. The effects of the intervention wore off after 2 weeks
+
+Wijngaards, I., Pronk, F. R., & Burger, M. J. (2022). For whom and under what circumstances does email message batching work?. Internet Interventions, 27, 100494.
+
+
+
+# enhance creativity by boredom and no pressure days
+
+Elsbach, K. D., & Hargadon, A. B. (2006). Enhancing creativity through “mindless” work: A framework of workday design. Organization science, 17(4), 470-483.
+
+
+You need no pressure and boredom to come up with ideas
+
+We propose that organizations use a new framework of workday design to enhance the creativity of today’s chronically overworked professionals. Although insights from creativity research have been integrated into models of work design to increase the stimulants of creativity (e.g., intrinsic motivation), this has not led to work design models that have effectively reduced the obstacles to creativity (e.g., workload pressures). As a consequence, creative output among professionals in high-workload contexts remains disappointing. In response, we offer a framework of work design that focuses on the design of entire workdays rather than the typical focus on designing either specific tasks or very broad job descriptions (e.g., as the job characteristics model in Hackman et al. 1975). Furthermore, we introduce the concept of “mindless” work (i.e., work that is low in both cognitive difficulty and performance pressures) as an integral part of this framework. We suggest that to enhance creativity among chronically overworked professionals, workdays should be designed to alternate between bouts of cognitively challenging and high-pressure work (as suggested in the original model by Hackman et al. 1975), and bouts of mindless work (as defined in this paper). We discuss the implications of our framework for theories of work design and creativity.
+
+
+#ping
+#virtual
+#ob-notes
+
+
+
+# establishing rules for communication is important in virtual teams
+
+Haron, N. A., Hua, L. T., Hassim, S., Eftekhari, F., Muhammad, M. T., & Harun, A. N. (2019). Strategies to improve communication management within virtual project teams. Science and Technology, 27(3), 2015-2030.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+# senders do not expect an immediate response to their emails
+
+Giurge, L. M., & Bohns, V. K. (2021). You don’t need to answer right away! Receivers overestimate how quickly senders expect responses to non-urgent work emails. Organizational Behavior and Human Decision Processes, 167, 114-128.
+
+Workplaces increasingly use response speed as a proxy for hard work, signaling to employees that the only way to succeed is to be “always on.” Drawing on boundary theory and egocentrism, we examine a problematic bias around expectations of response speed for work emails, namely that receivers overestimate senders’ response speed expectations to non-urgent emails sent outside normative work hours (e.g., on the weekend). We label this phenomenon the email urgency bias and document it across eight pre-registered experimental studies (N = 4,004). This bias led to discrepancies in perceived stress of receiving emails, and was associated with lower subjective well-being via greater experienced stress. A small adjustment on the sender’s side alleviated the email urgency bias (a brief note senders can add in their emails to clarify their response expectations). This paper demonstrates the importance of perspective differences in email exchanges and the need to explicitly communicate non-urgent expectations.
+
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# on the other hand, people do not like delays in instant messaging
+
+Hwang, S. Y., Khojasteh, N., & Fussell, S. R. (2019). When delayed in a hurry: Interpretations of response delays in time-sensitive instant messaging. Proceedings of the ACM on Human-Computer Interaction, 3(GROUP), 1-20.
+
+When Instant Messaging (IM) users experience delays in receiving responses from a partner, they may interpret these delays in a variety of ways (e.g., a technological problem vs. the partner is avoiding interaction), and these interpretations can have social consequences. In a laboratory study, we explored whether the presence of a typing indicator shaped people’s interpretation of delays. Participants collaborated with a confederate on a time-sensitive task and retrospectively reviewed their interaction. We manipulated delay condition (none, delay, delay with typing indicator) and time pressure (low, high). Participants rated their partners as significantly lower in conversational involvement, were more frustrated, and liked their partners less during a delay whether or not they saw a typing indicator. We discuss implications for the design of new features for IM clients that help people interpret delays appropriately
+
+#ping
+#virtual
+#ob-notes
+
+
+CHRISTOPHER THEORY
+HOW DO YOU RECONCILE THESE ASPECTS?
+FIRST ARTICLE SAYS DELAYS ARE FINE
+SECOND ARTICLE SAYS DELAYS ARE NO GOOD
+WHY?
+In-mission communication vs out of mission communication
+While working on project during the day slack channel vs general emails sent during the week
+
+
+#christopher-theory
+
+
+
+
+# we take email mistakes to mean that someone is low intelligence, until we come to learn that they are from another culture
+
+Vignovic, J. A., & Thompson, L. F. (2010). Computer-mediated cross-cultural collaboration: Attributing communication errors to the person versus the situation. Journal of Applied Psychology, 95(2), 265–276.
+
+#ping
+#virtual
+#ob-notes
+# when you have a sloppy email but tag it with “sorry using my iphone for messages,” then people don’t attribute bad things to you
+
+Carr, C. T., & Stefaniak, C. (2012). Sent from my iPhone: The medium and message as cues of sender professionalism in mobile telephony. Journal of Applied Communication Research, 40(4), 403-424.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+# in distributed settings with no face time, you have to signal face time to get recognition for career advancement
+
+Cristea, I. C., & Leonardi, P. M. (2019). Get noticed and die trying: Signals, sacrifice, and the production of face time in distributed work. Organization Science, 30(3), 552-572.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+# look at the camera when you are on a virtual video call
+
+. Participants were presented with a randomly selected video conference screenshot of an actor varying in terms of gaze, distance from the camera, and camera angle. Participants were asked to imagine attending a video conference with the actor shown in the screenshot and to score them according to social perception, interpersonal attraction, and social presence. Results showed that looking at the camera increased social presence, likeability judgments, and interpersonal attraction compared to looking at the screen or offscreen. Overall, gaze has larger effects on various dimensions of impression formation than distance to the camera and camera angle, although the effects were generally small. The finding suggests that gaze can be a powerful nonverbal cue in video conferences that may overshadow other cues such as camera angle and distance to the camera. 
+
+
+Fauville, G., Queiroz, A. C., Luo, M., Hancock, J., & Bailenson, J. N. (2022). Impression formation from video conference screenshots: The role of gaze, camera distance, and angle.
+
+The effect holds for physicians and distanced tele-health visits too
+Helou, S., El Helou, E., Evans, N., Shigematsu, T., El Helou, J., Kaneko, M., & Kiyono, K. (2022). Physician eye contact in telemedicine video consultations: A cross-cultural experiment. International Journal of Medical Informatics, 165, 104825.
+
+#ping
+#virtual
+#ob-notes
+#mimic-study
+
+
+
+# in zoom backgrounds, books and plants are rated as warm and competent, females are high regardless of background
+
+Trait inferences from first impressions are drawn rapidly and spontaneously. However, the Covid-19 pandemic forced interactions online introducing differential influential factors on first impressions. As such, there is an absence of research investigating video background on videoconferencing impression formation. This study explored the influence of video background, facial expression, and gender on first impressions of trustworthiness and competence. Video background affected trustworthy and competence perceptions with Plants and Book backgrounds scoring highly on both dimensions while the Home and Novelty backgrounds consistently received the lowest ratings. Happy faces were perceived as more trustworthy and more competent while female faces were also rated as more trustworthy and more competent, regardless of the background they were using. The explanations for these findings are discussed, along with future directions for research and the implications for videoconferencing use.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# other people are not paying attention to your little quirks or mishaps
+
+This research provides evidence that people overestimate the extent to which their actions and appearance are noted by others, a phenomenon dubbed the spotlight effect. In Studies 1 and 2, participants who were asked to don a T-shirt depicting either a flattering or potentially embarrassing image overestimated the number of observers who would be able to recall what was pictured on the shirt. In Study 3, participants in a group discussion overestimated how prominent their positive and negative utterances were to their fellow discussants. Studies 4 and 5 provide evidence supporting an anchoring-and-adjustment interpretation of the spotlight effect. In particular, people appear to anchor on their own rich phenomenological experience and then adjust--insufficiently--to take into account the perspective of others. The discussion focuses on the manifestations and implications of the spotlight effect across a host of everyday social phenomena. 
+
+Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment: an egocentric bias in estimates of the salience of one's own actions and appearance. Journal of personality and social psychology, 78(2), 211.
+
+Are people¶s meta-perceptions, or their beliefs about how others perceive them, too positive, too negative, or spot on? Across six samples of new acquaintances (total N=1113) and/or wellknown acquaintances (total N=1336), we indexed meta-bias (i.e., the mean-level difference between meta-perceptions and impressions) on a broad range of attributes to test: a) how biased people are on average, b) whether bias is pervasive or limited to particular contexts (level of acquaintanceship) or attributes (e.g., liking judgments or traits), c) whether bias is consistent across attributes, and d) what explains bias. On average, participants demonstrated a negative meta-bias on most attributes for both new and well-known acquaintances, suggesting that people generally fail to appreciate how positively they are seen by others.
+
+Elsaadawy, N., & Carlson, E. N. (2022). Do you make a better or worse impression than you think?. Journal of Personality and Social Psychology, 123(6), 1407.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+
+# expressing social support to someone else is less awkward and more warm than you think
+
+We asked participants to think about five specific people they might be able to express support to who were going through a complicated time, facing a tough situation, or enduring a difficult moment in their lives
+
+, expressers rated how awkward the recipient would feel; two items measuring the amount of warmth conveyed by their message (how sincerely and how warmly their message would be perceived), two items measuring positive effects of receiving support (how positive or negative the recipient will feel and how supported they will feel),
+
+Consistent with our main hypothesis, results showed that expressers underestimated how positively people receiving their support would feel (Fig. 1). Expressers expected that recipients would feel more awkward than recipients actually did, paired-samples t(49) = 4.99, p < .001, d = 0.71; that their supportive message would convey less warmth, paired-samples t(49) = −3.12, p = .003, d = −0.44, and seem less competent, paired-samples t(49) = −4.69, p < .001, d = −0.66, than recipients perceived their message to be; and that the effects of receiving support would be less positive than recipients actually experienced, paired-samples t(49) = −2.58, p = .013, d = −0.36.
+
+Dungan, J. A., Munguia Gomez, D. M., & Epley, N. (2022). Too reluctant to reach out: Receiving social support is more positive than expressers expect. Psychological Science, 33(8), 1300-1312.
+#ping
+#ob-notes
+#virtual
+
+
+
+
+# feedback seeking from my undergrads is seen as positive when it is performance and learning oriented rather than impression management oriented
+
+We found that subordinates' feedback-seeking behavior was more strongly, positively related to a high-quality leader-member relationship (LMX) and subordinates' work performance when super visors interpreted the feedback seeking as driven more by performance enhancement motives and less by impression management motives. Th
+
+1970) to develop the scale. These two items were, "Desire to discover what his or her responsibilities are" and "Desire to discover exactly what is expected of him or her."
+Vs
+"Desire to enhance his or her image (e.g., to make me believe that he or she is a helpful employee)," "Desire to build up favors for a later exchange," "Desire to 'show-off his or her expertise," "Desire to capture my attention on him or her," and "Desire to obtain recognition or other organizational rewards." Another item, "Desire to create a good impression,"
+
+Lam, W., Huang, X., & Snape, E. D. (2007). Feedback-seeking behavior and leader-member exchange: Do supervisor-attributed motives matter?. Academy of management journal, 50(2), 348-363.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+# Failing to fully appreciate how much others will genuinely want to help, and will feel positive for doing so, could then leave people overly reluctant to asking for help more often in daily life.
+
+Just like our OPR sampling paper
+
+Zhao, X., & Epley, N. (2022). Surprisingly happy to have helped: Underestimating prosociality creates a misplaced barrier to asking for help. Psychological Science, 33(10), 1708-1731.
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+# Advisors interpersonally penalize those who do not follow their advice.
+
+
+Advisors denigrate and distance themselves from seekers who they learn consulted others, an effect mediated by perceptions that their own advice will be disregarded
+
+Seekers should consider interpersonal goals alongside decision accuracy ones.
+
+Christopher: with AI, social costs are not there
+Christopher: what if I learn that my advisee went to another person vs another AI?
+
+Blunden, H., Logg, J. M., Brooks, A. W., John, L. K., & Gino, F. (2019). Seeker beware: The interpersonal costs of ignoring advice. Organizational Behavior and Human Decision Processes, 150, 83-100.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# more people and longer zoom meetings = more fatigued 
+
+Video-conferencing use has increased significantly in recent years, highlighting the need to understand its impact on individuals' psychological experiences. We conducted two large survey studies (total N = 3920) to examine the relationship between video-conferencing, video-conference fatigue (Zoom fatigue), and individuals' feelings of social connection, social skills, and life satisfaction. Study 1 showed that people tended to feel more connected to others when video-conference meetings were frequent, brief and conducted with small groups, compared to long meetings with many participants. As meetings became longer and more frequent, people felt less socially connected and reported increased video-conference fatigue. Feeling cognitively or emotionally exhausted from engaging in video-conferencing may limit the ability to meaningfully engage with others in the call. In Study 2, mediation analyses indicated that increased video-conferencing could undermine life satisfaction by increasing video-conference fatigue. Furthermore, we compared participants’ perceptions of their social skills between in-person and video-conferencing meetings, and found people consistently felt less skilled in video-conferences than during in-person meetings. We discuss these findings in the context of widespread remote work and the need to protect well-being in this digital era.
+
+Queiroz, A. C., Lee, A. Y., Luo, M., Fauville, G., Hancock, J. T., & Bailenson, J. N. (2023). Too tired to connect: understanding the associations between video-conferencing, social connection and well-being through the lens of zoom fatigue. Computers in Human Behavior, 149, 107968.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+# compared to reading the text of a pitch, hearing the person’s voice say the pitch makes the evaluator see them as higher on intellect
+
+Schroeder, J., & Epley, N. (2015). The sound of intellect: Speech reveals a thoughtful mind, increasing a job candidate’s appeal. Psychological science, 26(6), 877-891.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# a clumsy mistake is taken as silly and humanizing for a highly superior person, but taken as bad for a not superior person
+
+Taken as a whole, these data support the contention that a blunder on the part of a superior person removes the onus of being "too good"; it increases his approachability and makes him seem less austere, more human-while a blunder on the part of a mediocre person makes him seem that much more mediocre.
+
+Aronson, E., Willerman, B., & Floyd, J. (1966). The effect of a pratfall on increasing interpersonal attractiveness. Psychonomic Science, 4(6), 227-228.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+# there are norms for media use in companies. High performers follow those norms
+
+This research provides strong support for the existence of dominant media norms within organizations and describes their influence on employees’ (a) perceptions of organizational norms, (b) reported media use, and (c) performance evaluations. Survey results demonstrate the presence of strong organizational norms for instant messaging (IM) and e-mail use within a large, high-tech organization. These norms, as well as supervisory behavior, may influence employees’ use of IM and e-mail and even more so when employees have strong polychronic orientations. In addition, employees who reportedly followed organizational norms by using IM and e-mail were awarded higher performance ratings by their supervisors, with 30% of the variance explained. The authors support the survey findings with in-depth interviews with participants exploring media use.
+
+Turner, J. W., Grube, J. A., Tinsley, C. H., Lee, C., & O’Pell, C. (2006). Exploring the dominant media: How does media use reflect organizational norms and affect performance?. The Journal of Business Communication (1973), 43(3), 220-250.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# viewing someone as distrustworthy from prior information means I don’t talk to that person much in a negotiation, and because of lack of information sharing we are unable to find an integrative solution
+
+The results indicate that information quantity shared was a primary determinant of negotiating effectiveness, and the expectation of trust was a crucial condition for both sharing information and developing a climate of trust. Negotiators should first ensure that they can trust each other. If and only if they are sure that they can trust one another not to exploit each other’s vulnerability, then they should share as much information as they can. In that process, they can determine what is relevant and true and thereby discover integrative potential if it exists. However, it is not suggested that negotiators gullibly reveal their bottom lines and expose their weaknesses to their counterparts, unless there exists a definite climate of trust. And a climate of trust is unlikely to occur without initial trust expectations. This emphasizes the importance of trust expectations. Thus, negotiators either should spend time building trust before engaging in the task or should choose (or be paired with) counterparts with whom they have already built a trusting relationship.
+
+For 56 pairs of negotiators, the role descriptions included a suggestion of initial mistrust, “You have learned from your experiences during the past 2 years that you cannot trust Dr. Jones, personally. There has been a high level of mutual fear and suspicion between the two of you.” For 52 pairs of negotiators, the role descriptions included a suggestion of initial trust, “You have learned from your experiences during the past 2 years that you can trust Dr. Jones, personally. There has been a high level of mutual reliance and confidence between the two of you.” 
+
+In the Ugli Orange role play, the negotiators are cast as doctors, each of whom is employed by a different pharmaceutical firm. The doctors, “Jones” and “Roland,” negotiate an agreement on how they will share a scarce resource, the ugli oranges, which are ostensibly sufficient for the needs of only one of their employers. Each firm needs all the available ugli oranges to accomplish its goals. One firm wishes to neutralize a lethal nerve gas that is about to escape from bombs off the coast of the United States. The other desires to develop a serum to cure an epidemic that will damage the organs of infants
+
+The integrative solution becomes evident only if and when the doctors realize that one needs only the rinds of the oranges; the other needs only the juice. This integrative solution is a logrolling agreement because the rinds and juice represent the issues that are prioritized differently by the two parties.
+
+The solution also has some of the characteristics of bridging, defined as refocusing on underlying interests and away from apparent surface issues (Pruitt, 1981). To achieve the integrative solution, both negotiators had to refocus on the fact that each one needed only one part of the oranges (underlying interests) and away from the mistaken notion that they both needed the whole oranges (surface issue).
+
+Third, the observers and negotiators responded to the questions, “How many oranges will Jones’s firm get?” and “How many oranges will Roland’s firm get?” Both firms obtained their desired parts of all 3,000 oranges only if the negotiators logrolled. The sum of the quantities of oranges obtained by the two negotiators represented the agreed total quantity of goods to be obtained, the joint outcome. However, only three levels of joint outcome were possible in the Ugli Orange role play. Either the negotiators logrolled and obtained their desired parts of all 3,000 oranges, or they arrived at a zerosum solution distributing the 3,000 oranges between them somehow, or they reached a stalemate with both of them receiving no oranges at all. Because Hypotheses 3 and 4 addressed whether the parties logrolled, and the stale-maters and distributors did not logroll, stalematers and distributors were combined into the single category of non-logrollers. For each dyad, effectiveness was represented as a binary measure: logrolled = 1, or did not logroll = 0.
+
+Butler Jr, J. K. (1999). Trust expectations, information sharing, climate of trust, and negotiation effectiveness and efficiency. Group & Organization Management, 24(2), 217-238.
+
+#ping
+#negotiations
+#virtual
+#ob-notes
+
+
+
+
+
+
+# what people do as newcomers when they can’t use “in person” socialization tactics. Interviews
+
+Research on newcomer uncertainty and information seeking behaviors has largely assumed that newcomers could interact with and observe others in physical work settings. This study examined how organizational newcomers sought information during the early stages of the COVID-19 pandemic without such possibility. Drawing on in-depth interviews with 30 individuals who began jobs remotely between February and November 2020, we uncovered three major areas of uncertainty: workplace relationships, task/role performance, and organizational norms. Our findings demonstrate how these newcomers managed the uncertainties through six information seeking tactics: organizing virtual small talks; initiating unsanctioned in-person meetings; asking overt and targeted questions; utilizing digital repositories unintentional limit testing; and anticipating future information seeking. We discuss implications for remote newcomer socialization and provide propositions for future research.
+
+Woo, D., Endacott, C. G., & Myers, K. K. (2023). Navigating water cooler talks without the water cooler: Uncertainty and information seeking during remote socialization. Management Communication Quarterly, 37(2), 251-280.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+# virtual teams can be just as trusting and cooperative as face to face teams, just takes a bit of time to get there
+
+This study examines the development of trust and cooperation in computer-mediated and face-to-face teams. Fifty-two, three-person teams worked on a mixed-motive task over a 3-week period using computer-mediated or face-to-face interaction. Results showed that trust started lower in computer-mediated teams but increased to levels comparable to those in face-to-face teams over time. Furthermore, this pattern of results also held for teams that switched from face-to-face to electronic media and vice versa. Content analysis showed that high levels of inflammatory remarks were associated with slow trust development in computer-mediated teams.
+
+Although the effects of time on trust development do not support Cues-Filtered-Out, the content of initial interactions in computer-mediated teams and its association with trust are consistent with this theory. That is, members of teams that met electronically at the outset were significantly more likely to use offensive language and tease or antagonize each other. Not surprisingly, these behaviors were associated with lower levels of cognitive and affective trust and lower levels of cooperation. However, over time, these communication behaviors diminished, and the behaviors and outcomes of face-to-face and computer-mediated teams converged, as predicted by Walther’s Social Information Processing Theory. At the same time, Walther’s theory does not completely account for these findings since it would predict that the opportunity to learn about group members through increasing amounts of social information over time would predict trust in computer-mediated groups. In fact, we found that general social information was not associated with cognitive or affective trust; instead, it was the decrease in inflammatory communication that influenced trust development.
+
+Wilson, J. M., Straus, S. G., & McEvily, B. (2006). All in due time: The development of trust in computer-mediated and face-to-face teams. Organizational behavior and human decision processes, 99(1), 16-33.
+
+#ob-notes
+#virtual
+#ping
+
+
+
+
+# get to know one another a bit over a phone call before negotiating
+
+Past research has indicated that rapport helps negotiators overcome interpersonal friction and find cooperative agreements. Study 1 explored differences in the behavioral dynamics evoked by e-mail versus face-to-face negotiation. Although some behavioral content categories differed in ways pointing to strengths of e-mail, the strongest pattern was that e-mail inhibited the process of exchanging personal information through which negotiators establish rapport. The authors hypothesized that the liabilities of e-mail might be minimized by a pre-negotiation intervention of social lubrication. To test this in Study 2, half of dyads had a brief personal telephone conversation (“schmoozed”) before commencing e-mail negotiations, and half did not. Schmoozers felt more rapport, their plans were more trusting (although no less ambitious), and their economic and social outcomes were better.
+
+In the spirit of this special issue, the current research also speaks to a practical question: How should people effectively make use of the Internet-enabled communications technology when negotiating deals and disputes? An often heard maxim, supported by the results of Moore et al. (1999), is that e-mail is best used in negotiating with people with whom one already has a relationship. Indeed there are many theories of trust based on the notion that prior relationships or common group memberships provide assurance and enable cooperation (Brewer & Kramer, 1985). However, negotiations often occur at the start of business relationships between geographically distant parties. The greatest advantage in using e-mail, in terms of saved travel costs, would be gained in such cases, yet in such cases there is often no basis of trust from prior ties. The current findings suggest that a simple preliminary act, a brief phone call, would greatly improve the outcomes to be expected in such cases from an e-mail negotiation.
+
+Participants in the schmooze condition received two special instructions. First, in addition to their negotiating partner’s name and e-mail address, each participant received a small, black-and-white photograph of their partner, accompanied by a few biographical details and a phone number, and they were instructed to have an initial “getting to know each other” telephone conversation with their partner before they began negotiating. Instructions required that participants not discuss negotiable issues or business on the phone but merely have a brief social conversation. All negotiation in both the schmooze and nonschmooze conditions took place via e-mail.
+
+Morris, M., Nadler, J., Kurtzberg, T., & Thompson, L. (2002). Schmooze or lose: Social friction and lubrication in e-mail negotiations. Group Dynamics: Theory, Research, and Practice, 6(1), 89.
+
+#ob-notes
+#ping
+#virtual
+
+
+
+
+# a nasty comment is less nasty online in an anonymous chat room relative to f2f
+
+How widespread is the belief that “mean words on the Internet do not hurt anyone?” The answer likely depends on the part of the Internet to which one refers. Reactions vary across environments that differ in anonymity and the presence of social data such as profile pictures. However, even when people are identifiable, we find initial evidence that inflammatory speech is less shocking in digital contexts
+
+ In sum, we find evidence that reactions to inflammatory comments in certain digital environments are muted relative to face-to-face contexts, and this effect is likely partly accounted for by victim perception and shifting norms. The social information present in digital contexts also appears to affect reactions to malicious behavior, but we find mixed evidence for why this is the case.
+
+ The present findings may at first appear to conflict with recent work suggesting that digital media amplify outrage (Crockett, 2017). Crockett argues that online contexts increase exposure to extreme moral transgressions, decrease the effort required for outrage expression, and reinforce habitual outrage. We do not think these claims conflict with the present findings, rather we believe our results point to nuance in the Internet’s effects upon felt outrage. Much of Crockett’s discussion targets the context in which immoral events are learned of and shared, whereas our studies manipulate the context in which the immoral behavior itself takes place. For example, people may be more likely to express outrage over inflammatory behavior when discussing with others on social media but may feel less outrage if the inflammatory behavior in question took place in an anonymous, digital context than in a face-to-face context.
+
+In the online condition, participants saw a screenshot of an online class discussion in which a student made a potentially offensive comment about political correctness (excerpts include, “I’m so sick of this political correctness bs,” “students at the school are pampered little children,” and “grow a pair and get on with your lives”). Participants in the off-line condition saw this same comment in a transcript from a face-to-face class discussion.
+
+e (anchors: not at all upsetting to highly upsetting, no anger to a great deal of anger, not at all offensive to highly offensive, a ¼ .87).
+
+Puryear, C., & Vandello, J. A. (2019). Inflammatory comments elicit less outrage when made in anonymous online contexts. Social Psychological and Personality Science, 10(7), 895-902.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+
+
+The selection, usage, and perception of communication channels, particularly electronic mail (e-mail), may seem straightforward but are, in reality, quite complex. Consider the following scenario: Sara and Bill work in the same organization and rely on e-mail for communication. Sara, having been with the company for several years, frequently uses e-mail to interact with numerous colleagues, all of whom she knows well. The topics she discusses via e-mail are generally well understood by all parties. Bill, however, is new to the company, unfamiliar with computer-mediated communication, and inexperienced with the firm's e-mail system. Additionally, he must discuss various new topics with individuals with whom he has had little to no prior interaction.
+Given their differing levels of experience—with e-mail, communication partners, messaging topics, and organizational context—Sara and Bill are likely to have distinct perceptions of e-mail's capabilities as a communication medium. Specifically, as the more experienced user, Sara may perceive e-mail as a more capable and effective communication tool than Bill. Indeed, studies on computer-mediated communication (CMC) have highlighted such perceptual differences. Some research (e.g., Rice & Love, 1987) suggests that CMC channels enable reasonably rich communication, while other studies (e.g., Schmitz & Fulk, 1991) indicate that users perceive these channels as relatively lean.
+The results provided by this research gen support channel expansion theory; specific they show that a set of evolving, knowledge-b experiential factors can positively influence richness perceptions. The strongest suppor found for the importance of channel expe and communication partner
+#ping
+#ob-notes
+#virtual
+#items
+#scale-items
+
+
+
+
+
+
+
+# For a negotiation to go well, you either need shared group identity or personal disclosure before negotiating
+
+To understand why e-mail negotiations break down, we investigated two distinct elements of negotiators’ relationships with each other: shared membership in a social group and mutual selfdisclosure. In an experiment, some participants negotiated with a member of an outgroup (a student at a competitor university), whereas others negotiated with a member of an ingroup (a student at the same university). In addition, some negotiators exchanged personal information with their counterparts, whereas others did not. When neither common ingroup status nor a personalized relationship existed between negotiators, negotiations were more likely to end in impasse. These results are attributable to the positive influence of mutual self-disclosure and common group membership on negotiation processes and rapport between negotiators.
+
+Moore, D. A., Kurtzberg, T. R., Thompson, L. L., & Morris, M. W. (1999). Long and short routes to success in electronically mediated negotiations: Group affiliations and good vibrations. Organizational behavior and human decision processes, 77(1), 22-43.
+
+#ping
+#virtual
+#ob-notes
+#negotiation
+
+
+
+# sensitive self disclosure makes you appear more authentic, warm, and sincere and easy going
+
+In the experimental condition, we appended the following sentence, in which the manager disclosed a weakness: “Even if I am a manager of a multi-billion company, I am not good at public speaking. When I make a speech, my mouth gets dry and I sometimes start to panic.”
+
+Leaders’ perceived authenticity—the sense that leaders are acting in accordance with their “true self”—is associated with positive outcomes for both employees and organizations alike. How might leaders foster this impression? We show that sensitive self-disclosure, in the form of revealing weaknesses, makes leaders come across as authentic (Studies 1 & 2)—because observers infer that the discloser is not engaging in strategic self-presentation (Study 3). Further, the authenticity gains of sensitive self-disclosure have positive downstream consequences, such as enhancing employees’ desire to work with the leader.
+
+Jiang, L., John, L. K., Boghrati, R., & Kouchaki, M. (2022). Fostering perceptions of authenticity via sensitive self-disclosure. Journal of Experimental Psychology: Applied, 28(4), 898.
+
+Similar to grant’s “going behind the curtains” paper
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+
+
+# people like others who ask them questions
+
+Conversation is a pervasive human experience, one that is necessary to pursue intrapersonal and interpersonal goals across myriad contexts, relationships, and modes of communication (e.g., written, spoken). In the current research, we isolate the role of an understudied conversational behavior: question-asking. Across four studies, we identify a robust and consistent relationship between question-asking and liking: people who ask more questions are better liked, and speed daters who ask more questions get more second dates. The effect of question-asking on liking is causal and holds even when people are instructed to ask a high number of questions. We find that question-asking only influences individuals engaged in the conversation; third-party observers do not show the same increased liking of the question-asker. Our results suggest that question-asking affects liking in dyads because it solicits self-disclosure from the question answerer. Self-disclosure is enjoyable, and question answerers attribute this enjoyment to the question asker. Despite these persistent effects, people do not expect the amount of questions they ask to influence others’ perceptions.
+
+Hypothesis 3: Question-asking increases self-disclosure, which explains the relationship between question-asking and liking. 
+
+Hypothesis 4: Question-asking does not increase liking of question askers by third-party observers (i.e., those who witness the conversation but do not answer the questions themselves).
+
+Huang, K., Yeomans, M., Brooks, A. W., Minson, J., & Gino, F. (2017). It doesn’t hurt to ask: Question-asking increases liking. Journal of personality and social psychology, 113(3), 430.
+
+Based on their arrival time at the ChatPlat chat window (i.e., the first-arriving participant was matched with second arriver, and so on), participants were paired with another participant in the room. Before chatting, participants read these instructions: “You will be randomly paired with another participant to chat for fifteen minutes. During the conversation, your objective is to get to know each other.” They chatted for 15 minutes, at which time the chat window closed and they could move on in the survey. Participants did not have a timer during the conversation but received a notification one minute before their chat was due to end. After each dyad finished their conversation, both participants completed several measures of interpersonal perception (see Appendix A for all measures collected). After the study was over, we asked a research assistant to code the conversation transcripts for the number of questions asked.
+
+many-questions or few questions. In the many-questions condition, participants were told that they needed to ask “at least 9 questions.” In the few-questions condition, participants were told that they needed to ask “at most 4 questions.” 
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+# a person is unlikely to help a stranger who is wearing a rival team’s soccer jersey
+
+Two experiments exploring the effects of social category membership on real-life helping behavior are reported. In Study 1, intergroup rivalries between soccer fans are used to examine the role of identity in emergency helping. An injured stranger wearing an in-group team shirt is more likely to be helped than when wearing a rival team shirt or an unbranded sports shirt
+
+Levine, M., Prosser, A., Evans, D., & Reicher, S. (2005). Identity and emergency intervention: How social group membership and inclusiveness of group boundaries shape helping behavior. Personality and social psychology bulletin, 31(4), 443-453.
+
+#ping
+#helping
+#cooperation
+#virtual
+#ob-notes
+
+
+
+
+
+
+
+
+
+# background visuals during an asynchronous interview relate to evaluations of warmth and competence
+
+Asynchronous video interviews (AVIs) have become popular tools for applicant selec-tion. Although AVIs are standardized, extant research remains silent on whether thisnovel interview format could introduce new forms of bias. Because many applicantscomplete AVIs from their homes, their video background could provide evaluatorswith information about stigmatizing features that (a) are usually “invisible” in tradi-tional selection contexts but become observable in AVIs, (b) are not always legallyprotected, and (c) can impact evaluators' judgments. Across three experimental stud-ies, we examined how cues indicating parental status (Study 1), sexual orientation(Study 2), and political affiliation (Study 3) can impact perceptions of applicantwarmth and competence and ratings of interview performance and potential workperformance. The effect of background information varied by stigmatized feature.Applicants depicted as parents were perceived to be higher on warmth and receivedhigher interview performance ratings but were not evaluated more negatively oncompetence or potential work performance. There was no effect of sexual orienta-tion on any outcome variables. However, applicants who supported the same politicalparty as the evaluator were viewed as warmer and received higher ratings of inter-view performance and potential work performance. Thus, organizations shouldencourage applicants to use neutral backgrounds
+
+
+Parental status was manipulatedthrough three elements visible in the videos: a mug on the tablenext to them that read “#1 Mom” or “#1 Dad” (vs. “coffeeo'clock” for the non-parent condition), a wall-plaque that read“Family - where life begins and love never ends” (vs. neutral art-work with shells on a sand beach), and a framed picture in a book-shelf including the photo of a toddler with an opposite-sex partnerof the same age and racial background (vs. no picture).
+
+bookshelf, and a poster with either the text “Vote Republican2020” or “Vote Democrat 2020” on the wall.6 The rest of thebackground was identical across the conditions.
+
+Roulin, N., Lukacik, E. R., Bourdage, J. S., Clow, L., Bakour, H., & Diaz, P. (2023). Bias in the background? The role of background information in asynchronous video interviews. Journal of Organizational Behavior, 44(3), 458-475.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+# mimicry in negotiations leads to better outcomes
+
+Muir, K., Joinson, A., Collins, E., Cotterill, R., & Dewdney, N. (2020). When asking “what” and “how” helps you win: mimicry of interrogative terms facilitates successful online negotiations. Negotiation and Conflict Management Research.
+
+https://www.sciencedirect.com/science/article/pii/S0022103111000060?casa_token=PjjzWK_k9wwAAAAA:4_fWIfS92LXVh6IXRF8j91duYBnaInwPjxZvuKjgOGstgGGAOpyUeAwiFZyOPDlV7bfcI86W
+
+Swaab, R. I., Maddux, W. W., & Sinaceur, M. (2011). Early words that work: When and how virtual linguistic mimicry facilitates negotiation outcomes. Journal of Experimental Social Psychology, 47(3), 616-621.
+
+Copy emoticons, tone, style, everything when emailing or chatting with someone else. They will like it. 
+
+#ping
+#virtual
+#ob-notes
+#negotiations
+
+
+
+
+
+
+# leaders who share too little are seen as lacking in empathy and in turn low in leadership ability
+
+Leaders may be seen by their followers as miscalibrating the quantity of their communication—sharing too much or too little. We propose that leaders are more likely to be seen as under-communicating than over-communicating, even though under-communication is more heavily penalized. In Study 1a, we examine 2,717 qualitative comments from archived leadership assessments and find that leaders are nearly 10 times as likely to be criticized for under-communicating than for over-communicating. In Study 1b, we obtain further evidence of this bias using a representative sample of U.S. adults. In Study 2, we manipulate communication (mis)calibration, showing that leaders who under-communicate are viewed as less qualified for a leadership role because they are viewed as less empathic. In Study 3, we use separate measures of employee perceptions of their manager’s communication as well as their preferences. When there is a lack of congruence between perceived and preferred communication, employees judge their leaders as lacking empathy and, in turn, leadership ability.
+
+Flynn, F. J., & Lide, C. R. (2023). Communication miscalibration: The price leaders pay for not sharing enough. Academy of Management Journal, 66(4), 1102-1122.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+# CCing the boss on the chain makes employees feel controlled and watched
+
+The issue of trust has increasingly attracted attention in the business ethics literature. Our aim is to contribute further to this literature by examining how the use of the carbon copy (cc) function in email communication influences felt trust. We develop the argument that the use of cc enhances transparency—representing an important characteristic of workplace ethics—and hence promotes trust. We further argue that a downside of the cc option may be that it can also be experienced as a control mechanism, which may therefore negatively affect trust. The results of our first study showed that the use of cc indeed enhances perceived transparency, but at the same time also leads to the experience of increased control. Building upon this insight, the findings of five subsequent studies consistently revealed that the use of cc negatively influences felt trust. More precisely, employees felt trusted the least when the supervisor was always included in cc (Studies 2 and 3). 
+
+
+Haesevoets, T., De Cremer, D., De Schutter, L., McGuire, J., Yang, Y., Jian, X., & Van Hiel, A. (2021). Transparency and control in email communication: The more the supervisor is put in cc the less trust is felt. Journal of Business Ethics, 168, 733-753.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# when composing an email, i know whether i intend sarcasm or humor or lightheartedness, but the receiver does not
+
+Without the benefit of paralinguistic cues such as gesture, emphasis, and intonation, it can be difficult to convey emotion and tone over electronic mail (e-mail). Five experiments suggest that this limitation is often underappreciated, such that people tend to believe that they can communicate over e-mail more effectively than they actually can. Studies 4 and 5 further suggest that this overconfidence is born of egocentrism, the inherent difficulty of detaching oneself from one’s own perspective when evaluating the perspective of someone else. Because e-mail communicators “hear” a statement differently depending on whether they intend to be, say, sarcastic or funny, it can be difficult to appreciate that their electronic audience may not.
+
+According to a predetermined random order, participants were instructed to make half of the sentences serious, such as “I do not like first dates,” and the other half sarcastic, such as “I really enjoy dating because I like feeling as selfconscious and inadequate as possible.” 
+
+Participants then indicated, for each topic, whether they thought the receiver would be able to correctly identify the nature (sarcastic or nonsarcastic) of the two statements by checking a box marked “yes” or “no.” Each participant then read the 20 statements that had been e-mailed by the other participant and indicated on a questionnaire which statements they believed were sarcastic
+
+On average, participants expected 97% of their topics to be correctly decoded, compared with the 84% that actually were,
+
+They presumably did not realize how ambiguous the statement really is without verbal emphasis on the word “that’s,” a facial gesture such as an eye roll, or some background information about the communicator (such as his or her taste in films).
+
+Kruger, J., Epley, N., Parker, J., & Ng, Z. W. (2005). Egocentrism over e-mail: Can we communicate as well as we think?. Journal of personality and social psychology, 89(6), 925.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+# tagging messages with emoticons can help reveal intended sarcasm and humor
+
+We present 2 studies that investigate the use of emoticons in clarifying message intent. We examine sarcasm in particular, which can be especially hard to interpret correctly in written communication. In both studies, participants were required to make the intentions of their messages clear. In the first, they clarified the meaning of existing sentences without altering the wording; in the second, they produced their own sentences. Results provided clear evidence that tongue and wink emoticons are the principal indicators of sarcastic intent, and that ellipsis is associated more with criticism, rather than with sarcasm. These findings highlight the significant role emoticons play in clarifying message intention, compensating for the absence of nonverbal cues in written communication.
+
+Thompson, D., & Filik, R. (2016). Sarcasm in written communication: Emoticons are efficient markers of intention. Journal of Computer-Mediated Communication, 21(2), 105-120.
+
+THE WINK FACE AND THE TONGUE OUT ARE PARTICULARLY USEFUL
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+# perspective taking but not necessarily empathy is particularly important in negotiations for finding hidden agreements
+
+—The current research explored whether two related yet distinct social competencies—perspective taking (the cognitive capacity to consider the world from another individual’s viewpoint) and empathy (the ability to connect emotionally with another individual)—have differential effects in negotiations. Across three studies, using both individual difference measures and experimental manipulations, we found that perspective taking increased individuals’ ability to discover hidden agreements and to both create and claim resources at the bargaining table. However, empathy did not prove nearly as advantageous and at times was detrimental to discovering a possible deal and achieving individual profit. These results held regardless of whether the interaction was a negotiation in which a prima facie solution was not possible or a multipleissue negotiation that required discovering mutually beneficial trade-offs. Although empathy is an essential tool in many aspects of social life, perspective taking appears to be a particularly critical ability in negotiations.
+
+Galinsky, A. D., Maddux, W. W., Gilin, D., & White, J. B. (2008). Why it pays to get inside the head of your opponent: The differential effects of perspective taking and empathy in negotiations. Psychological science, 19(4), 378-384.
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+
+
+
+
+# effects of using a smiley emoticon in an introduction message to your team
+
+participants imagined working on a project with three teammates from different countries to create a presentation for students wishing to study abroad. The international framing was used to preclude anticipation of prior acquaintance with teammates
+
+
+
+
+Assess warmth, competence
+
+Similar to Experiment 1, a global team scenario was employed. Participants read an e-mail, supposedly sent by a future teammate. They then rated the person’s warmth and competence. The e-mails and signature were similar to those in Experiment 1, but this time, we asked participants to indicate “Alex’s” gender and to write an e-mail in reply.
+
+Information sharing was operationalized by counting words in the reply e-mail written by participants, based on the assumption that a greater word count implies more information sharing (Pennebaker, Mehl, & Niederhoffer, 2003).
+
+#ping
+#virtual
+#ob-notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# when someone is firm and unwavering in a virtual negotiation, i infer that they are angry
+
+
+GREAT WRITING ON HOW PEOPLE LOOK AT ANOTHER PERSON’S BEHAVIOR AND INFER HIS OR HER EMOTIONAL STATE. 
+IN A NEGOTIATION CONTEXT, STANDGING ONE’S GROUND IS SEEN AS ANGER, WHEREAS FLEXIBILITY IS SEEN AS ‘THAT OTHE RPERSON MUST BE HAPPY.’
+USE THIS FOR THE “MY BOSS CHANGED MY MEETING FREQUENCY” -> INFER EMOTIONAL STATE. 
+
+Emotion can obviously be communicated directly through narrative or textual means (e.g., “I am really angry!”; “I am so happy!”). But people may also infer the emotions of others from the behaviors these others display.1 Conceptually, we suggest that certain behaviors, or behavioral styles, are evaluated by others as conveying specific emotions, so that a person displaying these behaviors is presumed to be feeling those emotions. We propose two sets of behaviors that are related to negotiation settings: behaviors related to flexibility and resoluteness.
+The idea that behavior and emotion are intertwined dates back to the classic assertion that behavior precedes emotion – for instance, that fear comes from the realization that one is running away (James, 1884, Schachter and Singer, 1962). Frijda’s (1988) “laws of emotion” defined emotion in terms of behaviors or action tendencies, and Frijda, Kuipers, and ter Schure (1989) further argued that emotion can be analyzed as both an experience (the appraisal of a situation) and a state (action readiness). Gross (1998) suggested that emotions evoke response tendencies, thus connecting emotions and specific behaviors. But all of this work was within-person – connecting an individual’s behavior to his or her own emotions. Little attention has been given to the inter-person parallel: Do we identify the emotions of others based on their behavior?
+The idea that people identify others’ emotions based on their behavior is consistent with attribution theory (Weiner, 1985), which explores how people attribute causes to different events and behavior. Attribution theory is based on the idea that people are hard-wired to look for the reasons behind others’ actions; therefore, we are naturally primed to use behavior as an indirect source of information about emotion. Equally, people have an interest in identifying the emotions of others as a means whereby to predict their future behavior (e.g., Schachter, 1959, Schwarz, 1990). When non-verbal cues to someone’s emotional state are lacking, people will naturally seek other sources of information, looking for alternative, indirect cues. In a negotiation situation, behaviors that express flexibility or resoluteness are discernable acts that may offer clues to the negotiator’s emotional state – and by extension, the likely path that person is likely to follow as the negotiation continues. Importantly for our purposes, the resoluteness or flexibility of behavior is a useful sign that can be readily identified even in text-based communication, and even in the absence of direct verbal communication of emotion (of the “I am really angry” type).
+We specifically propose that people construe resoluteness to imply anger, and flexibility to suggest happiness. In other words, we propose that when Person A observes or experiences resoluteness in the behavior of Person B, Person A is likely to presume that Person B is angry. We further propose that this will occur regardless of whether anger is apparent in Person B’s verbal communication. Likewise, we suggest that when Person A observes Person B behaving flexibly, Person A is likely to presume that Person B is happy regardless of whether happiness is apparent in the communication of Person B.
+This connection between emotion and behavior in others represents an extension of the cognitive appraisal theories of emotion (e.g., Ellsworth and Scherer, 2003, Scherer, 1984, Smith and Ellsworth, 1985). These theories suggest that people construe their own emotions by reading the context in which they are experiencing the emotion. A between-person-perspective extension suggests that appraisals of the emotions of another person rely on observations of that person’s behavior. Behaviors suggesting resoluteness and flexibility are particularly appropriate for an initial test of this idea, because such behavior patterns are common in negotiation settings and are likely to be noticed by negotiation partners. Also, being opposites, resoluteness and flexibility can be expected to complement the opposing emotions of anger and happiness (Russell, 1980).
+The literature suggests that resoluteness – standing one’s ground, not giving in, “acting tough” – will produce attributions of anger. Kopelman, Rosette, and Thompson (2006) trained participants to develop a resolute bargaining style by telling them to act in a tough, persistent manner; their manipulation checks confirmed that this was viewed as displaying anger. Sinaceur and Tiedens (2006) similarly used resoluteness as an operationalization of anger. However, both of these studies dealt with dyadic interactions and included face-to-face communication. Toward our interest in emotion dynamics in teams limited to text-based communication, we rely on these findings to offer the following prediction:
+Hypothesis 2
+A member of a virtual team acting in a resolute manner will be perceived as being angry by the other members of the team.
+After arriving at a computer lab, they were introduced to the other members of their team; each team member was then escorted to an individual station separated from the others by tall dividers. Once seated, the team members completed a short survey, then drew from a hat one of four shapes (a square, triangle, X or circle) that they were told would represent them for the duration of the experiment. They then viewed a presentation explaining the experimental task, completed a short test verifying that they understood the task, and were instructed to communicate only through the asynchronous messaging system, which is similar to email. The text-only communication was enforced by the experimenter and a practice round was run to clarify any further questions.
+Participants completed three rounds of the simulation, during which they bought and sold shapes from other participants, to complete orders comprising a random selection of the four shapes. Each participant could produce their own “specialty” shape at a cost which was substantially lower than the cost of producing a shape that was not their specialty. To acquire other shapes, participants could either produce the shape themselves (at a relatively high price) or purchase it from the person for whom this shape was a “specialty” at a price to be negotiated. The production prices for the various shapes differed for each participant and were known only to that person. For example, Square could produce squares for $16, while producing other shapes would cost Square anywhere from $25 to $30. Alternatively, Square could try to purchase a circle from Circle at a negotiated price, where Circle’s production cost was known only to Circle. The number of shapes each participant could sell was limited, creating scarcity. This made the negotiation process demanding but realistic, and also created opportunities for better or worse dyadic negotiation relationships with different fellow team members.
+Success in a round (and subsequent compensation to participants) was based on the number of orders completed by the team, and each person’s profit from buying and selling shapes. The task, therefore, involved negotiating with fellow team members about purchase prices using text-based communication, with an incentive for maximizing both individual and team success, thus motivating interaction with fellow team members and consideration of both team and personal interests. After three rounds of the task, participants responded to a survey providing the dependent variables. They were then paid based on performance ($1–$10), debriefed, and dismissed.2
+
+Cheshin, A., Rafaeli, A., & Bos, N. (2011). Anger and happiness in virtual teams: Emotional influences of text and behavior on others’ affect in the absence of non-verbal cues. Organizational behavior and human decision processes, 116(1), 2-16.
+
+#ob-notes
+#virtual
+#ping
+
+
+
+
+
+
+
+# you will receive less help when you ask for something over text rather than in person. But Ss do not know this. They underestimate actual help received when they use worse channels
+
+Research has found that people are much more likely to agree to help requests made in-person than those made via text-based media, but that help-seekers underestimate the relative advantage of asking for help face-to-face. It remains unknown what helpseekers’ intuitions about the effectiveness of richer media channels incorporating audio and video features might be, or how these intuitions would compare with the actual effectiveness of face-to-face or email versus rich media requests. In two behavioral and two supplemental vignette experiments, participants expected differences in the effectiveness of seeking help through various communication channels to be quite small, or nonexistent. However, when participants actually made requests, the differences were substantial. Ultimately, help-seekers underestimated the relative advantage of asking for help face-to-face compared with asking through any mediated channel. Help-seekers also underestimated the relative advantage of asking through richer media channels compared with email.
+
+Participants came into the lab, were randomly assigned to one of the five communication channels, and were informed that they would be asking five friends for help with a task through the assigned channel (e.g., in-person, phone call, video chat). The specific request they were instructed to make was to ask for help proofreading a halfpage passage (see Supplemental Materials for study materials). Participants were instructed to make their requests using a specified script for consistency across communication channels. 
+
+After reading these instructions, participants were asked to imagine making this help request of five friends, and to predict how many would agree to help them, that is, would agree to complete the proofreading task (predicted compliance). Requesters then answered a series of exploratory questions based on mechanisms examined in previous research (Deri et al., 2019; Roghanizad & Bohns, 2017) about why they thought helpers would be motivated to help (social norms, reciprocity, trust, awkwardness of saying no, empathy, self-image) and demographic questions. The complete list of items and the results of our analyses on these additional items are in the Supplemental Materials.
+
+Help-seekers overestimated the likelihood of receiving help significantly more when asking via any of the mediated channels than when asking FtF (Table 2).
+
+Roghanizad, M. M., & Bohns, V. K. (2022). Should I ask over zoom, phone, email, or in-person? communication channel and predicted versus actual compliance. Social Psychological and Personality Science, 13(7), 1163-1172.
+
+#ping
+#virtual
+#ob-notes
+
+
+
+# bad behavior online is often a function of anonymity and de-identification
+
+While online, some people self-disclose or act out more frequently or intensely than they would in person. This article explores six factors that interact with each other in creating this online disinhibition effect: dissociative anonymity, invisibility, asynchronicity, solipsistic introjection, dissociative imagination, and minimization of authority. Personality variables also will influence the extent of this disinhibition. Rather than thinking of disinhibition as the revealing of an underlying “true self,” we can conceptualize it as a shift to a constellation within self-structure, involving clusters of affect and cognition that differ from the in-person constellation
+
+Suler, J. (2004). The online disinhibition effect. Cyberpsychology & behavior, 7(3), 321-326.
+
+#ob-notes
+#virtual
+#ping
+
+
+
+
+
+# people are often widely out of touch with how others do not understand what they are saying
+
+Though speakers and listeners monitor communication success, they systematically overestimate it. We report an extreme illusion of understanding that exists even without shared language. Native Mandarin Chinese speakers overestimated how well native English-speaking Americans understood what they said in Chinese, even when they were informed that the listeners knew no Chinese. These listeners also believed they understood the intentions of the Chinese speakers much more than they actually did. This extreme illusion impacts theories of speech monitoring and may be consequential in real-life, where miscommunication is costly.
+
+Lau, B. K. Y., Geipel, J., Wu, Y., & Keysar, B. (2022). The extreme illusion of understanding. Journal of Experimental Psychology: General, 151(11), 2957.
+
+#ob-notes
+#virtual
+#ping
+
+
+
+
+
+
+
+
+# a bogus first impression of someone else will persist over email but not over a voice call – you will look for confirmatory evidence to support your idea of the bogus impression of the person, but in the email condition there is no way for your bogus impression to be corrected. Easier to correct over voice
+
+Three experiments demonstrated that bogus first impressions were more likely to persevere over e-mail than over voice.
+Inaccurate expectancies, whether derived from stereotypes, erroneous first impressions, or negative preconceptions, can cause information to be interpreted in a manner consistent with those expectancies, thereby perpetuating the expectancy.
+
+On arrival to the lab, participants assigned to the role of interviewer were escorted to a private cubicle and told that they would engage in a short interaction with another student. Participants next completed a short “background questionnaire” that asked for information such as GPA, major, and “greatest high school achievement,” and were then photographed with an instant camera. These materials were ostensibly collected to give to their interviewee (the target), but in actuality were used only as a justification for the expectancy manipulation to follow. Participants were then given a pre-prepared photograph supposedly of, and a background questionnaire completed by, the target. Participants randomly assigned to the intelligent-expectancy condition received a photograph of a professionally dressed Asian-American male who, among other honors, had a 3.85 GPA, double-majored in Physics and Philosophy, and was valedictorian of his high-school class. Participants in the unintelligent-expectancy condition, in contrast, received a photograph of a European-American male wearing a torn “Metallica” T-shirt who had a 2.30 GPA, majored in Hotel Administration, and whose greatest high-school achievement was being voted “most valuable player” by his high-school football team.
+Participants next received a list of six questions to ask the target, such as “if you had the opportunity to meet one US President, either alive or dead, who would it be and why?” and “if you could ask a genie to grant you any wish, what would you wish for?” Participants in the telephone condition asked each question, waited for a response, and continued to the next question. Participants in the e-mail condition “e-mailed” each question to the target (using the software Chatter 2.03), waited for a typed response, and continued to the next question. Finally, participants evaluated the target along six semantic differential scales. Of these, three were related directly to intelligence (dumb/smart, inarticulate/articulate, and uninformed/knowledgeable), and three were not (unfashionable/fashionable, unhappy/happy, and unfriendly/friendly). Responses were made on a 13-point scales ranging from −6 to +6.
+
+There was a larger expectancy-consistent difference in participants’ final impressions about a target’s intelligence when they communicated over e-mail than when they communicated over the telephone.
+
+Whereas only the words of the target could alter the first impressions of interviewers in the e-mail condition, interviewers in the voice condition could presumably also rely on the target’s non-verbal and paralinguistic behavior. As a consequence, the interviewers’ bogus first impressions persevered in the e-mail but not in the voice condition.
+
+
+#ping
+#ob-notes
+#virtual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# modern tech was supposed to give us more autonomy but it just burdens us with demands, creating less autonomy
+
+
+Although individual use of mobile email devices offered these professionals flexibility, peace of mind, and control over interactions in the short term, it also intensified collective expectations of their availability, escalating their engagement and thus reducing their ability to disconnect from work. Choosing to use their mobile email devices to work anywhere/anytime—actions they framed as evidence of their personal autonomy—the professionals were ending up using it everywhere/all the time, thus diminishing their autonomy in practice
+
+Mazmanian, M., Orlikowski, W. J., & Yates, J. (2013). The autonomy paradox: The implications of mobile email devices for knowledge professionals. Organization science, 24(5), 1337-1357.
+
+#ping
+#ob-notes
+#virutal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # the academic literature and its increasing emphasis on prejudice and social justice
 
 https://davidrozado.substack.com/p/tialpasj
