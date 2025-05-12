@@ -9,7 +9,7 @@ listing: posts
 
 <center>
 
-## <font size="-0.02">Notes to myself on computational modeling, programming, and statistics.</font>
+## <font size="-0.02">Notes to myself on all things research.</font>
 
 
 </center>

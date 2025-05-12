@@ -22,4 +22,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-I'm an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What promotes cooperation among a collective? What are the social consequences of using artificial intelligence at work? The research groups that I'm lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world.
+I'm an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What are the social consequences of using artificial intelligence at work? The research groups that I'm lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world.
