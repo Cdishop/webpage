@@ -1,5 +1,5 @@
 ---
-title: "Research Fellow"
+title: "Assistant Professor"
 image: "images/avatar.jpg"
 color1: "#5A59A3"
 color2: "#C66060"

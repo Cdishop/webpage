@@ -1,0 +1,62 @@
+---
+title: "Axis Zoom"
+date: 2024-06-06
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+
+```
+
+These approaches remove data points if you try to graph within a specific range (3, 6 ... rather than 0, 6)
+
+
+```{r, eval = F}
+
+
+ggplot(predict_df, aes(x = Meeting, y = predictedy, fill = Prevention_Focus)) + 
+  geom_bar(stat = "identity", position = "dodge") + 
+  theme_classic() + 
+  theme_ipsum() + 
+  labs(y = "Safety") + 
+  scale_fill_brewer() +
+  scale_y_continuous(limits = c(0, 6)
+
+
+ggplot(predict_df, aes(x = Meeting, y = predictedy, fill = Prevention_Focus)) + 
+  geom_bar(stat = "identity", position = "dodge") + 
+  theme_classic() + 
+  theme_ipsum() + 
+  labs(y = "Safety") + 
+  scale_fill_brewer() +
+  ylim(0, 6)
+
+
+```
+
+This approach retains all of the data but zooms in on part of the graph. Use this approach.
+
+
+
+
+
+```{r, eval = F}
+
+ggplot(predict_df, aes(x = Meeting, y = predictedy, fill = Prevention_Focus)) + 
+  geom_bar(stat = "identity", position = "dodge") + 
+  theme_classic() + 
+  theme_ipsum() + 
+  labs(y = "Safety") + 
+  scale_fill_brewer()  +
+  coord_cartesian(ylim = c(3, 6))
+
+```
+
+
+
+Bo$^2$m =)
+
