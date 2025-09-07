@@ -40691,6 +40691,53 @@ https://andrewsullivan.substack.com/p/bidens-revolution-takes-shape-8ee
 
 
 
+# Guan, J., Chen, X. P., Yu, S., & Qin, X. (2025). Explaining disparities in robot applications among nations and regions: A cross-level lens of cultural tightness-looseness. PloS one, 20(4), e0321173.
+
+
+This strikes me as a "real" levels argument, or an accounting for nesting argument.
+
+Cultural tightness-looseness refers to the strength of social norms and tolerance of deviance from norms
+in a culture [12–14]; a tight (vs. loose) culture has stronger social norms and stricter sanctions for deviant behaviors. Accumulated research has demonstrated the potential influence of cultural tightness-looseness on creativity and innovation, with the general consensus that individuals from tight cultures have narrower behavioral options, higher concerns about being sanctioned for deviance, and are more resistant to change, and thus they are less likely to engage in creative and innovative activities than do those in loose cultures [12,15]. 
+
+These findings imply that people in tight cultures tend to be more conservative and less willing to adopt newly developed technologies such as industrial or service robots, as doing so inherently entails change and risk [16]. However, since Singapore, the Republic of Korea, Japan, and China are tight cultures, whereas the United States, Italy, Spain, and the United Kingdom are loose cultures according to several large sample studies [12,17], the previously mentioned robot application data [18] seem to contradict what would have been predicted by the theory of cultural tightness-looseness.
+
+
+For example, within China, some provinces are looser than others [19], and some industries (e.g., movie and social media) have stricter regulations than other industries (e.g., e-commerce or new energy). Likewise, in loose cultures where few restrictions are applied in many domains, there exist domains that have clear rules and severe punishment for rule-breaking behaviors. For instance, in the U.S. where the culture is generally loose, inner states are tighter than coastal states [13], and manufacturing companies have much tighter human resource policies than high-tech companies [20,22]. It should be noted that the third level is nested within the second level, which is nested within the first level, and that the levels can be extended to a larger number, depending on the analytical needs.
+
+
+#levels
+#nesting
+#cultural-tightness
+#multi-level-theory
+#ai-adoption
+#robot-adoption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48997,6 +49044,7 @@ keywords
 #human-computer-interaction
 #dream-team-structures
 #evolving-team-structures
+
 
 
 
