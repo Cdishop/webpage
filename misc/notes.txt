@@ -25800,6 +25800,75 @@ Studies have found that graduates of elite K–12 schools who get into elite uni
 
 
 
+# Gao, Y., Guo, L., Chen, X. P., Chiang, J. T. J., & Song, Y. (2025). The beauty in ambiguity: How and when leader indirect communication facilitates team performance. Journal of Occupational and Organizational Psychology, 98(3), e70041. 
+
+ 
+
+[1] lit problems or assumptions 
+
+ 
+
+Managers and researchers assume that leaders should exhibit direct and clear communication for their teams to succeed.  
+
+We think indirect communication may be beneficial.  
+
+ 
+
+[2] idea or prediction 
+
+ 
+
+When a leader is vague, it forces team members to invest effort in seeking additional information to interpret the situation. These teams then engage in active info exchange, share opinions and expertise, and participate in critical discussions, which should increase performance. 
+
+ 
+
+[3] design 
+
+ 
+
+Surveys at t1, t2, and t3 
+
+Leader indirect communication rated by members (“there are different ways to interpret my leader’s remarks”) 
+
+Team reflexivity (“team members discuss how things should get done”) 
+
+Team performance rated by leader (“amount of work this team produces [very poor; superb])” 
+
+
+#ob
+#indirect-communication
+#grad-students-mimic
+#team-performance
+#tms
+#team-communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48928,6 +48997,7 @@ keywords
 #human-computer-interaction
 #dream-team-structures
 #evolving-team-structures
+
 
 
 
