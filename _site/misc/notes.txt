@@ -276,6 +276,11 @@ I've never seen a dodgeball instructor up close before.
 "comfortable clothes. You must make up for your uncomfortable personality by wearing comfortable clothes."
 "you look like you take more than you give in a relationship"
 
+you look like your AOL screenname is bigpants johnson
+
+you look fast. i bet you go 0 to 60 in a weekend. 
+
+
 (d) goofy
 
 you know a long term side effect of X is..."inability to complete coherent thoughts"
@@ -25800,6 +25805,75 @@ Studies have found that graduates of elite K–12 schools who get into elite uni
 
 
 
+# Gao, Y., Guo, L., Chen, X. P., Chiang, J. T. J., & Song, Y. (2025). The beauty in ambiguity: How and when leader indirect communication facilitates team performance. Journal of Occupational and Organizational Psychology, 98(3), e70041. 
+
+ 
+
+[1] lit problems or assumptions 
+
+ 
+
+Managers and researchers assume that leaders should exhibit direct and clear communication for their teams to succeed.  
+
+We think indirect communication may be beneficial.  
+
+ 
+
+[2] idea or prediction 
+
+ 
+
+When a leader is vague, it forces team members to invest effort in seeking additional information to interpret the situation. These teams then engage in active info exchange, share opinions and expertise, and participate in critical discussions, which should increase performance. 
+
+ 
+
+[3] design 
+
+ 
+
+Surveys at t1, t2, and t3 
+
+Leader indirect communication rated by members (“there are different ways to interpret my leader’s remarks”) 
+
+Team reflexivity (“team members discuss how things should get done”) 
+
+Team performance rated by leader (“amount of work this team produces [very poor; superb])” 
+
+
+#ob
+#indirect-communication
+#grad-students-mimic
+#team-performance
+#tms
+#team-communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40622,6 +40696,53 @@ https://andrewsullivan.substack.com/p/bidens-revolution-takes-shape-8ee
 
 
 
+# Guan, J., Chen, X. P., Yu, S., & Qin, X. (2025). Explaining disparities in robot applications among nations and regions: A cross-level lens of cultural tightness-looseness. PloS one, 20(4), e0321173.
+
+
+This strikes me as a "real" levels argument, or an accounting for nesting argument.
+
+Cultural tightness-looseness refers to the strength of social norms and tolerance of deviance from norms
+in a culture [12–14]; a tight (vs. loose) culture has stronger social norms and stricter sanctions for deviant behaviors. Accumulated research has demonstrated the potential influence of cultural tightness-looseness on creativity and innovation, with the general consensus that individuals from tight cultures have narrower behavioral options, higher concerns about being sanctioned for deviance, and are more resistant to change, and thus they are less likely to engage in creative and innovative activities than do those in loose cultures [12,15]. 
+
+These findings imply that people in tight cultures tend to be more conservative and less willing to adopt newly developed technologies such as industrial or service robots, as doing so inherently entails change and risk [16]. However, since Singapore, the Republic of Korea, Japan, and China are tight cultures, whereas the United States, Italy, Spain, and the United Kingdom are loose cultures according to several large sample studies [12,17], the previously mentioned robot application data [18] seem to contradict what would have been predicted by the theory of cultural tightness-looseness.
+
+
+For example, within China, some provinces are looser than others [19], and some industries (e.g., movie and social media) have stricter regulations than other industries (e.g., e-commerce or new energy). Likewise, in loose cultures where few restrictions are applied in many domains, there exist domains that have clear rules and severe punishment for rule-breaking behaviors. For instance, in the U.S. where the culture is generally loose, inner states are tighter than coastal states [13], and manufacturing companies have much tighter human resource policies than high-tech companies [20,22]. It should be noted that the third level is nested within the second level, which is nested within the first level, and that the levels can be extended to a larger number, depending on the analytical needs.
+
+
+#levels
+#nesting
+#cultural-tightness
+#multi-level-theory
+#ai-adoption
+#robot-adoption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48928,6 +49049,9 @@ keywords
 #human-computer-interaction
 #dream-team-structures
 #evolving-team-structures
+
+
+
 
 
 
