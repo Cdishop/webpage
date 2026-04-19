@@ -22,4 +22,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-I'm an organizational scientist, which means that I ask questions about workplace behavior: What makes people productive? How do you ask for help effectively? What are the social consequences of using artificial intelligence at work? The research groups that I'm lucky enough to work with try to discover simple mechanisms that reveal how people work together to create the wonderful complexity that we see in the world.
+I lead the RocMob at Auburn University, a research group focused on cooperation and organizational behavior in modern work environments (RocMob: Research on cooperation and modern organizational behavior). Organizational theory on cooperation was developed by studying face-to-face, manufacturing-style work arrangements. The RobMob examines how contemporary work environments (e.g., remote jobs, asynchronous teamwork, algorithms and AI-supported teams) influence employees’ abilities to cooperate, support one another, and remain productive.
